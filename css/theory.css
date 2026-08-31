@@ -1,0 +1,492 @@
+/* ==========================================================================
+   Theory page styles — additional styling for the read-only teacher view.
+
+   Loaded after styles.css and lesson.css.
+   ========================================================================== */
+
+/* ---------- Theory page ---------- */
+.theory-page,
+.lesson-page {
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+.theory-actions {
+  display: flex;
+  gap: var(--sp-3);
+  flex-wrap: wrap;
+}
+
+/* ---------- Lesson stage blocks ---------- */
+.stage-block {
+  margin-bottom: var(--sp-10);
+  padding: var(--sp-6);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+}
+
+.stage-block__head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-5);
+  padding-bottom: var(--sp-3);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.stage-block__num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  background: var(--color-accent);
+  color: #fff;
+  border-radius: 50%;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 600;
+  flex-shrink: 0;
+  align-self: center;
+}
+
+.stage-block__title {
+  flex: 1;
+  font-family: var(--font-serif);
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0;
+  color: var(--color-text);
+}
+
+.stage-block__time {
+  font-family: var(--font-sans);
+  font-size: var(--fs-smaller);
+  font-weight: 500;
+  color: var(--color-text-tertiary);
+  font-variant-numeric: tabular-nums;
+  background: var(--color-bg-alt);
+  padding: 2px 8px;
+  border-radius: var(--radius);
+  white-space: nowrap;
+}
+
+.stage-block__body > * + * {
+  margin-top: var(--sp-4);
+}
+
+/* Teacher script — quoted text the teacher reads aloud */
+.stage-script {
+  margin-bottom: var(--sp-4);
+}
+
+.stage-script__label {
+  font-family: var(--font-sans);
+  font-size: var(--fs-smaller);
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin-bottom: var(--sp-2);
+}
+
+.stage-script__text {
+  margin: 0;
+  padding: var(--sp-4) var(--sp-5);
+  background: var(--color-accent-soft);
+  border-left: 3px solid var(--color-accent);
+  border-radius: var(--radius);
+  font-family: var(--font-serif);
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--color-text);
+  font-style: italic;
+}
+
+/* Teacher instructions — actionable notes */
+.stage-instructions {
+  margin-bottom: var(--sp-4);
+}
+
+.stage-instructions__label {
+  font-family: var(--font-sans);
+  font-size: var(--fs-smaller);
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  margin-bottom: var(--sp-2);
+}
+
+.stage-instructions p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+}
+
+/* ---------- Key points block (rendered from lesson theory section) ---------- */
+.key-points {
+  margin-top: var(--sp-6);
+  padding: var(--sp-5) var(--sp-6);
+  background: var(--color-surface-soft);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 4px;
+}
+
+.key-points__title {
+  font-family: var(--font-serif);
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 var(--sp-3) 0;
+  color: var(--color-text);
+}
+
+.key-points ul {
+  margin: 0;
+  padding-left: var(--sp-5);
+}
+
+.key-points li {
+  margin-bottom: 6px;
+  line-height: 1.55;
+  color: var(--color-text-secondary);
+}
+
+.key-points li:last-child { margin-bottom: 0; }
+
+/* ---------- Vocabulary grid (static, non-flippable) ---------- */
+.vocab-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--sp-3);
+  margin-top: var(--sp-4);
+}
+
+.vocab-grid .vocab-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: var(--sp-3) var(--sp-4);
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.vocab-grid .vocab-card__en {
+  font-weight: 600;
+  color: var(--color-text);
+  font-size: 15px;
+}
+
+.vocab-grid .vocab-card__ipa {
+  font-weight: 400;
+  color: var(--color-text-tertiary);
+  font-size: 12px;
+  margin-left: 4px;
+}
+
+.vocab-grid .vocab-card__id {
+  color: var(--color-text-secondary);
+  margin-top: 4px;
+  font-style: italic;
+}
+
+.vocab-grid .vocab-card__example {
+  margin-top: var(--sp-2);
+  font-size: 13px;
+  color: var(--color-text);
+}
+
+.vocab-grid .vocab-card__example-tr {
+  margin-top: 2px;
+  font-size: 12px;
+  color: var(--color-text-tertiary);
+  font-style: italic;
+}
+
+/* ---------- Dialogue list (static) ---------- */
+.dialogue-list {
+  margin-top: var(--sp-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+}
+
+.dialogue-list .dialogue-line {
+  padding: var(--sp-3) var(--sp-4);
+  background: var(--color-surface);
+  border-left: 3px solid var(--color-border-strong);
+  border-radius: 4px;
+}
+
+.dialogue-list .dialogue-line__speaker {
+  font-weight: 600;
+  font-size: 13px;
+  margin-bottom: 4px;
+  letter-spacing: 0.02em;
+}
+
+.dialogue-list .dialogue-line__en {
+  font-size: 15px;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+.dialogue-list .dialogue-line__id {
+  font-size: 13px;
+  color: var(--color-text-secondary);
+  margin-top: 4px;
+  font-style: italic;
+}
+
+/* ---------- Markdown content inside theory stages ---------- */
+.stage-block__body .prose-block.prose--article {
+  /* Container for rendered markdown theory content */
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--color-text);
+}
+
+/* Headings inside theory content — give them visual weight */
+.stage-block__body .prose--article h2 {
+  font-family: var(--font-serif);
+  font-size: 19px;
+  font-weight: 600;
+  margin: var(--sp-6) 0 var(--sp-3);
+  padding-bottom: var(--sp-2);
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+  letter-spacing: -0.005em;
+}
+
+.stage-block__body .prose--article h2:first-child {
+  margin-top: 0;
+}
+
+.stage-block__body .prose--article h3 {
+  font-family: var(--font-serif);
+  font-size: 16px;
+  font-weight: 600;
+  margin: var(--sp-5) 0 var(--sp-2);
+  color: var(--color-accent);
+  letter-spacing: 0;
+}
+
+.stage-block__body .prose--article p {
+  margin: 0 0 var(--sp-3);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* Lists — cleaner spacing, accent bullets */
+.stage-block__body .prose--article ul,
+.stage-block__body .prose--article ol {
+  margin: 0 0 var(--sp-4);
+  padding-left: var(--sp-5);
+}
+
+.stage-block__body .prose--article li {
+  margin-bottom: var(--sp-2);
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+.stage-block__body .prose--article li:last-child {
+  margin-bottom: 0;
+}
+
+.stage-block__body .prose--article ul li::marker {
+  color: var(--color-accent);
+}
+
+.stage-block__body .prose--article ol li::marker {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+/* Inline code */
+.stage-block__body .prose--article code {
+  background: var(--color-bg-alt);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 13px;
+  font-family: var(--font-mono);
+  color: var(--color-accent);
+}
+
+/* Blockquote — default style (neutral) */
+.stage-block__body .prose--article blockquote {
+  margin: var(--sp-4) 0;
+  padding: var(--sp-3) var(--sp-4) var(--sp-3) var(--sp-4);
+  border-left: 3px solid var(--color-border-strong);
+  background: var(--color-surface-soft);
+  border-radius: 0 4px 4px 0;
+  color: var(--color-text);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.stage-block__body .prose--article blockquote p {
+  margin: 0;
+}
+
+/* Warning blockquote — for "Hindari" (common mistakes) */
+.stage-block__body .prose--article blockquote.blockquote--warning {
+  border-left-color: var(--color-error);
+  background: var(--color-error-soft);
+}
+
+.stage-block__body .prose--article blockquote.blockquote--warning strong {
+  color: var(--color-error);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 13px;
+}
+
+/* Tip blockquote — for "Tips" (study advice) */
+.stage-block__body .prose--article blockquote.blockquote--tip {
+  border-left-color: var(--color-success);
+  background: var(--color-success-soft);
+}
+
+.stage-block__body .prose--article blockquote.blockquote--tip strong {
+  color: var(--color-success);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 13px;
+}
+
+/* Mini-dialog label — for "**Dialog 1 (formal):**" lines inside theory */
+.stage-block__body .prose--article .mini-dialog-label {
+  margin: var(--sp-4) 0 var(--sp-2);
+  padding: 4px 10px;
+  display: inline-block;
+  background: var(--color-accent-soft);
+  color: var(--color-accent);
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+
+/* ---------- Markdown table ---------- */
+.md-table-wrap {
+  overflow-x: auto;
+  margin: var(--sp-4) 0;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  background: var(--color-surface);
+}
+
+.md-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 14px;
+  background: transparent;
+}
+
+.md-table th,
+.md-table td {
+  padding: 10px 14px;
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+  line-height: 1.5;
+}
+
+.md-table th {
+  background: var(--color-bg-alt);
+  font-weight: 600;
+  color: var(--color-text);
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  border-bottom: 2px solid var(--color-border-strong);
+}
+
+.md-table tr:last-child td {
+  border-bottom: none;
+}
+
+.md-table tr:nth-child(even) td {
+  background: var(--color-surface-soft);
+}
+
+.md-table td strong {
+  color: var(--color-accent);
+}
+
+/* ---------- Lesson objectives block (already in lesson.css but tweaked here) ---------- */
+.lesson-objectives {
+  margin: var(--sp-5) 0;
+  padding: var(--sp-4) var(--sp-5);
+  background: var(--color-surface-soft);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+}
+
+.lesson-objectives summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-family: var(--font-serif);
+  font-size: 15px;
+  color: var(--color-text);
+}
+
+.lesson-objectives ul {
+  margin: var(--sp-3) 0 0;
+  padding-left: var(--sp-5);
+}
+
+.lesson-objectives li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+
+/* ---------- Lesson nav label number (the icon column) ---------- */
+.lesson-nav__label-num {
+  display: inline-block;
+  min-width: 1.5em;
+  padding: 2px 8px;
+  margin-right: var(--sp-2);
+  background: var(--color-accent-soft);
+  color: var(--color-accent);
+  border-radius: 4px;
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+/* ---------- Print styles ---------- */
+@media print {
+  .site-header,
+  .site-footer,
+  .back-link,
+  .theory-actions,
+  .nav__toggle {
+    display: none !important;
+  }
+
+  .stage-block {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border: 1px solid #ccc;
+  }
+
+  .theory-page {
+    max-width: 100%;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  .module-block {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}

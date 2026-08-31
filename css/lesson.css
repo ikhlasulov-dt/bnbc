@@ -1,0 +1,205 @@
+/* ==========================================================================
+   Dashboard & module-list styles — restrained, matches editorial style.
+
+   This file used to also contain the interactive lesson player, exam UI,
+   instructor grading panel, and admin tables. All of that has been removed
+   when the site became a read-only teacher methodology hub.
+   ========================================================================== */
+
+/* ---------- Dashboard layout ---------- */
+.dash-section {
+  padding: var(--sp-12) 0 var(--sp-24);
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.back-link {
+  display: inline-block;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: var(--font-sans);
+  font-size: var(--fs-small);
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  text-decoration: none;
+  margin-bottom: var(--sp-2);
+}
+.back-link:hover { color: var(--color-text); text-decoration: underline; }
+
+.course-meta {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--sp-6);
+  margin: var(--sp-6) 0;
+  padding: var(--sp-4) 0;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  align-items: start;
+}
+.course-meta dt {
+  font-family: var(--font-sans);
+  font-size: var(--fs-smaller);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  margin-bottom: var(--sp-1);
+}
+.course-meta dd {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 16px;
+  color: var(--color-text);
+}
+@media (max-width: 640px) {
+  .course-meta { grid-template-columns: 1fr; gap: var(--sp-3); }
+}
+
+/* ---------- Course cards on overview ---------- */
+.course-card {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  margin-bottom: var(--sp-3);
+  transition: border-color var(--transition-fast);
+}
+.course-card:hover { border-color: var(--color-border-strong); }
+.course-card__head {
+  padding: var(--sp-5) var(--sp-6);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--sp-4);
+  flex-wrap: wrap;
+}
+.course-card__code {
+  font-family: var(--font-sans);
+  font-size: var(--fs-smaller);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  margin-bottom: var(--sp-2);
+}
+.course-card__level {
+  margin-left: var(--sp-3);
+  padding: 2px 8px;
+  border: 1px solid var(--color-border-strong);
+  color: var(--color-text-secondary);
+  font-weight: 400;
+}
+.course-card__title {
+  font-family: var(--font-serif);
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  margin-bottom: var(--sp-1);
+}
+.course-card__subtitle {
+  font-size: var(--fs-small);
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+.course-card__meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--sp-1);
+  font-size: var(--fs-smaller);
+  color: var(--color-text-tertiary);
+}
+.course-card__credits { font-variant-numeric: tabular-nums; }
+.course-card__progress { font-variant-numeric: tabular-nums; }
+.course-card__open {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: var(--sp-3) var(--sp-6);
+  background: var(--color-bg-alt);
+  border: none;
+  border-top: 1px solid var(--color-border);
+  font-family: var(--font-sans);
+  font-size: var(--fs-small);
+  font-weight: 500;
+  color: var(--color-accent);
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+.course-card__open:hover { background: var(--color-bg); }
+
+/* ---------- Module blocks in syllabus ---------- */
+.module-block { margin-bottom: var(--sp-10); }
+.module-block__title {
+  font-family: var(--font-serif);
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: var(--sp-3);
+  padding-bottom: var(--sp-2);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.syllabus-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--fs-small);
+}
+.syllabus-table th {
+  font-family: var(--font-sans);
+  font-size: var(--fs-smaller);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  text-align: left;
+  padding: var(--sp-2) var(--sp-3);
+  border-bottom: 1px solid var(--color-border-strong);
+}
+.syllabus-table td {
+  padding: var(--sp-3);
+  border-bottom: 1px solid var(--color-border);
+  vertical-align: middle;
+}
+.syllabus-row {
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+.syllabus-row:hover td { background: var(--color-bg-alt); }
+.syllabus-row__num {
+  font-family: var(--font-serif);
+  font-variant-numeric: tabular-nums;
+  color: var(--color-text-tertiary);
+  width: 40px;
+}
+.syllabus-row__type { width: 100px; }
+.syllabus-row__title { color: var(--color-text); }
+.syllabus-row__status { width: 110px; }
+.syllabus-row__status .link-arrow { white-space: nowrap; }
+
+/* Module separator row inside the unified syllabus table */
+.syllabus-row--module td {
+  padding: var(--sp-5) var(--sp-3) var(--sp-2);
+  background: var(--color-bg-alt);
+  border-bottom: 1px solid var(--color-border-strong);
+  border-top: 1px solid var(--color-border-strong);
+  font-family: var(--font-serif);
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--color-text);
+  letter-spacing: -0.005em;
+}
+.syllabus-row--module:first-child td {
+  border-top: none;
+  padding-top: var(--sp-3);
+}
+
+/* ---------- Item type badge (only the lesson variant is used now) ---------- */
+.item-type {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: var(--fs-smaller);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  border: 1px solid var(--color-border-strong);
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+}

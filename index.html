@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>B&amp;B Courses — Sekolah Bahasa di Mariana</title>
+  <meta name="description" content="B&B Courses — sekolah bahasa swasta di Mariana, Banyuasin. Kegiatan pembelajaran bagi murid sekolah dasar dengan materi teori dan metode pengajaran untuk pengajar.">
+  <meta name="theme-color" content="#D1DBE8">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <script>
+    // Apply theme before CSS to avoid FOUC.
+    (function() {
+      try {
+        var t = localStorage.getItem("bnbc_theme");
+        if (t === "dark" || t === "light") {
+          document.documentElement.setAttribute("data-theme", t);
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/lesson.css">
+  <link rel="stylesheet" href="css/theory.css">
+</head>
+<body>
+
+<!-- ============ HEADER (persistent across routes) ============ -->
+<header class="site-header" id="siteHeader">
+  <div class="container nav">
+    <a href="#/" class="nav__brand" data-link>
+      <span class="nav__brand-mark">B&amp;B</span>
+      <span class="nav__brand-tag">Courses</span>
+    </a>
+
+    <nav class="nav__links" id="navLinks">
+      <a href="#/" class="nav__link" data-link>Beranda</a>
+      <a href="#/#notice" class="nav__link">Pengumuman</a>
+      <a href="#/#about" class="nav__link">Tentang sekolah</a>
+      <a href="#/#schedule" class="nav__link">Jadwal</a>
+      <a href="#/#contact" class="nav__link">Kontak</a>
+    </nav>
+
+    <div class="nav__actions" id="navActions">
+      <a href="#/dashboard" class="nav__link nav__link--accent" data-link>Materi pengajar</a>
+      <button class="nav__toggle" id="navToggle" aria-label="Menu"><span class="hamburger-icon"></span></button>
+    </div>
+  </div>
+</header>
+
+<!-- ============ MAIN — routes render here ============ -->
+<main id="app">
+  <div class="container" style="padding: 4rem 0;">
+    <div class="alert">Memuat…</div>
+  </div>
+</main>
+
+<!-- ============ FOOTER (persistent) ============ -->
+<footer class="site-footer" id="siteFooter">
+  <div class="container">
+    <div class="footer__top">
+      <div class="footer__brand-col">
+        <div class="footer__brand">B&amp;B Courses</div>
+        <p class="footer__desc">Sekolah bahasa swasta di Mariana, Banyuasin. Kegiatan pembelajaran bagi murid sekolah dasar. Materi pengajaran disusun untuk pengajar.</p>
+      </div>
+
+      <div>
+        <div class="footer__title">Navigasi</div>
+        <ul class="footer__list">
+          <li><a href="#/#notice" data-link>Pengumuman</a></li>
+          <li><a href="#/#about" data-link>Tentang sekolah</a></li>
+          <li><a href="#/#schedule" data-link>Jadwal</a></li>
+          <li><a href="#/#contact" data-link>Kontak</a></li>
+          <li><a href="#/dashboard" data-link>Materi pengajar</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <div class="footer__title">Materi</div>
+        <ul class="footer__list">
+          <li><a href="#/course/english-a1" data-link>Tingkat A1</a></li>
+          <li><a href="#/course/english-a2" data-link>Tingkat A2</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <div class="footer__title">Kontak</div>
+        <ul class="footer__list">
+          <li><a href="https://wa.me/6282179116700" target="_blank" rel="noopener">+62 821 7911 6700</a></li>
+          <li><a href="https://wa.me/6285396239187" target="_blank" rel="noopener">+62 853 9623 9187</a></li>
+          <li><a href="https://bnbc.id">bnbc.id</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <span id="footerCopyright">© 2025 B&amp;B Courses. Hak cipta dilindungi.</span>
+      <span class="footer__bottom-meta">
+        <a href="#" class="theme-link" data-theme-toggle>Mode gelap</a>
+        <span class="footer__sep" aria-hidden="true">·</span>
+        <span>Jl. Sabar Jaya, Lrg. Merbau No. 17, Mariana, Banyuasin 1</span>
+      </span>
+    </div>
+  </div>
+</footer>
+
+<!-- ============ Scripts ============ -->
+<!-- Inline data bundle: embeds all JSON so the site works on file:// without fetch() -->
+<script src="js/data-bundle.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/theme.js"></script>
+<script src="js/common.js"></script>
+<script src="js/feed.js"></script>
+<script src="js/router.js"></script>
+<script src="js/pages/home.js"></script>
+<script src="js/pages/dashboard.js"></script>
+<script src="js/pages/theory.js"></script>
+<script>
+  document.getElementById("footerCopyright").textContent =
+    "© " + new Date().getFullYear() + " B&B Courses. Hak cipta dilindungi.";
+
+  // Initialise router once all page modules are loaded.
+  Router.start();
+</script>
+</body>
+</html>
