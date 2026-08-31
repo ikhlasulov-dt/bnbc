@@ -1,0 +1,263 @@
+{
+  "id": "a2-l87",
+  "course_id": "english-a2",
+  "module_title": "Memasak dan Resep",
+  "level": "A2",
+  "title": "Time Expressions untuk Durasi Memasak",
+  "subtitle": "Menyatakan durasi dengan for, until, dan about",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan for + durasi dalam instruksi memasak",
+    "Menggunakan until + kondisi dan about + durasi",
+    "Menulis instruksi memasak dengan durasi yang jelas"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar imperative untuk saran dan peringatan. Siapa bisa beri satu contoh peringatan memasak? Bagus. Hari ini kita lanjutkan dengan time expressions untuk durasi memasak. Dalam resep, kita sering menyebut berapa lama sesuatu harus dimasak: 'Boil for five minutes', 'Bake for thirty minutes'. Itulah yang akan kita pelajari. Rencana: kita pelajari time expressions untuk durasi, lalu berlatih memakainya dalam instruksi memasak.",
+      "instructions": "Sapa murid dan minta satu contoh peringatan memasak kemarin. Ajak murid memikirkan durasi memasak. Jelaskan tujuan: belajar time expressions untuk durasi."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Time Expressions untuk Durasi Memasak\n\nDalam resep, kita sering menyebut **berapa lama** sesuatu harus dimasak. Untuk ini, kita pakai **time expressions** dengan 'for'.\n\n## Struktur\n\n**kata kerja + for + durasi**\n- Boil **for** five minutes.\n- Bake **for** thirty minutes.\n- Stir **for** two minutes.\n- Fry **for** about ten minutes.\n\n## Daftar Durasi\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| for one minute | selama satu menit | Stir for one minute. |\n| for five minutes | selama lima menit | Boil for five minutes. |\n| for ten minutes | selama sepuluh menit | Fry for ten minutes. |\n| for thirty minutes | selama tiga puluh menit | Bake for thirty minutes. |\n| for one hour | selama satu jam | Simmer for one hour. |\n| for a few minutes | selama beberapa menit | Stir for a few minutes. |\n| until golden | sampai keemasan | Fry until golden. |\n| until soft | sampai lembut | Steam until soft. |\n| until it boils | sampai mendidih | Boil until it boils. |\n\n## Contoh dalam Resep\n\n**Boiled Eggs**\n- First, put the eggs in a pot.\n- Then, add water and boil **for ten minutes**.\n- After that, take the eggs out and let them cool **for five minutes**.\n- Finally, serve.\n\n**Baked Cake**\n- First, mix the ingredients.\n- Then, pour the batter into a pan.\n- Next, bake **for thirty minutes**.\n- Finally, let it cool **for one hour** before serving.\n\n## 'Until' untuk Hasil\n\nSelain 'for + durasi', kita bisa pakai **'until + hasil'**.\n- Fry **until golden**. (goreng sampai keemasan)\n- Steam **until soft**. (kukus sampai lembut)\n- Boil **until it boils**. (rebus sampai mendidih)\n\n## Tips Memakai Time Expressions\n\n- **'For + durasi'** untuk waktu spesifik: 'for five minutes'.\n- **'Until + hasil'** untuk hasil yang diinginkan: 'until golden'.\n- Bisa kombinasikan: 'Bake for thirty minutes until golden.'\n\n> **Hindari:** memakai 'during' untuk durasi memasak. Salah: 'Boil during five minutes.' Benar: 'Boil for five minutes.'\n\n> **Catatan:** 'for' diikuti durasi (five minutes, one hour), 'until' diikuti hasil atau titik (golden, soft, it boils).\n\n## Mini-dialogue\n\nA: How long do you boil the eggs?\nB: I boil them for ten minutes.\nA: How long do you bake the cake?\nB: I bake it for thirty minutes, until golden.",
+      "key_points": [
+        "Time expressions untuk durasi memasak memakai 'for + durasi'.",
+        "Contoh: 'Boil for five minutes', 'Bake for thirty minutes'.",
+        "'Until + hasil' untuk hasil yang diinginkan: 'until golden', 'until soft'.",
+        "'For' diikuti durasi (five minutes, one hour), 'until' diikuti hasil/titik.",
+        "Bisa kombinasikan: 'Bake for thirty minutes until golden.'",
+        "Hindari 'during' untuk durasi ('during five minutes' = salah).",
+        "Sangat berguna untuk menulis instruksi memasak yang jelas."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "recipe",
+          "id": "resep",
+          "phonetic": "/ˈresəpi/",
+          "example_en": "This recipe is very easy to follow.",
+          "example_id": "Resep ini sangat mudah diikuti."
+        },
+        {
+          "en": "ingredient",
+          "id": "bahan",
+          "phonetic": "/ɪnˈɡriːdiənt/",
+          "example_en": "You need fresh ingredients for this dish.",
+          "example_id": "Kamu butuh bahan segar untuk hidangan ini."
+        },
+        {
+          "en": "to boil",
+          "id": "merebus",
+          "phonetic": "/tuː bɔɪl/",
+          "example_en": "First, boil the water for five minutes.",
+          "example_id": "Pertama, rebus air selama lima menit."
+        },
+        {
+          "en": "to fry",
+          "id": "menggoreng",
+          "phonetic": "/tuː fraɪ/",
+          "example_en": "Then, fry the onions in a pan.",
+          "example_id": "Lalu, goreng bawang di wajan."
+        },
+        {
+          "en": "to bake",
+          "id": "memanggang",
+          "phonetic": "/tuː beɪk/",
+          "example_en": "Bake the cake for about thirty minutes.",
+          "example_id": "Panggang kue selama sekitar tiga puluh menit."
+        },
+        {
+          "en": "to steam",
+          "id": "mengukus",
+          "phonetic": "/tuː stiːm/",
+          "example_en": "Steam the vegetables until they are soft.",
+          "example_id": "Kukus sayuran sampai lembut."
+        },
+        {
+          "en": "to chop",
+          "id": "mencincang",
+          "phonetic": "/tuː tʃɒp/",
+          "example_en": "First, chop the onions and garlic.",
+          "example_id": "Pertama, cincang bawang merah dan bawang putih."
+        },
+        {
+          "en": "to slice",
+          "id": "memotong tipis",
+          "phonetic": "/tuː slaɪs/",
+          "example_en": "Slice the tomatoes into thin pieces.",
+          "example_id": "Potong tomat menjadi irisan tipis."
+        },
+        {
+          "en": "to mix",
+          "id": "mencampur",
+          "phonetic": "/tuː mɪks/",
+          "example_en": "Mix the flour and eggs in a bowl.",
+          "example_id": "Campur tepung dan telur di dalam mangkuk."
+        },
+        {
+          "en": "to stir",
+          "id": "mengaduk",
+          "phonetic": "/tuː stɜːr/",
+          "example_en": "Stir the soup until it boils.",
+          "example_id": "Aduk sup sampai mendidih."
+        },
+        {
+          "en": "to pour",
+          "id": "menuang",
+          "phonetic": "/tuː pɔːr/",
+          "example_en": "Pour the eggs into the pan.",
+          "example_id": "Tuang telur ke dalam wajan."
+        },
+        {
+          "en": "pan",
+          "id": "wajan",
+          "phonetic": "/pæn/",
+          "example_en": "Heat the oil in a pan.",
+          "example_id": "Panaskan minyak di wajan."
+        },
+        {
+          "en": "bowl",
+          "id": "mangkuk",
+          "phonetic": "/boʊl/",
+          "example_en": "Put the ingredients in a bowl.",
+          "example_id": "Masukkan bahan ke dalam mangkuk."
+        },
+        {
+          "en": "oil",
+          "id": "minyak",
+          "phonetic": "/ɔɪl/",
+          "example_en": "Add two spoons of oil.",
+          "example_id": "Tambahkan dua sendok minyak."
+        },
+        {
+          "en": "flour",
+          "id": "tepung",
+          "phonetic": "/ˈflaʊər/",
+          "example_en": "Mix the flour with water.",
+          "example_id": "Campur tepung dengan air."
+        },
+        {
+          "en": "to serve",
+          "id": "menyajikan",
+          "phonetic": "/tuː sɜːrv/",
+          "example_en": "Finally, serve the dish warm.",
+          "example_id": "Terakhir, sajikan hidangan dalam keadaan hangat."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut durasi, murid buat instruksi 'for + durasi'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 instruksi memasak dengan time expressions yang tepat.\n3) **Pair work (5 menit):** Tanyakan-jawab 'How long do you...?' memakai time expressions.\n4) **Role play (4 menit):** Dua murid memeragakan koki yang menjelaskan durasi memasak.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'Boil during five minutes' -> 'Boil for five minutes').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long do you boil the eggs?",
+          "id": "Berapa lama kamu merebus telur?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I boil them for ten minutes.",
+          "id": "Saya merebusnya sepuluh menit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long do you bake the cake?",
+          "id": "Berapa lama kamu memanggang kue?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I bake it for thirty minutes, until golden.",
+          "id": "Saya memanggangnya tiga puluh menit, sampai keemasan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'until' with a result.",
+          "id": "Bagus. Pakai 'until' dengan hasil."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Steam the vegetables until soft.",
+          "id": "Kukus sayuran sampai lembut."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Use 'for' with a duration.",
+          "id": "Bagus. Pakai 'for' dengan durasi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Stir the soup for two minutes.",
+          "id": "Aduk sup selama dua menit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'Boil during five minutes.'",
+          "id": "Perbaiki ini: 'Boil during five minutes.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'Boil for five minutes.'",
+          "id": "Seharusnya 'Boil for five minutes.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because we use 'for' for duration, not 'during'.",
+          "id": "Karena kita pakai 'for' untuk durasi, bukan 'during'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Combine 'for' and 'until' in one sentence.",
+          "id": "Bagus. Kombinasikan 'for' dan 'until' dalam satu kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Bake the cake for thirty minutes until golden.",
+          "id": "Panggang kue selama tiga puluh menit sampai keemasan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: describe how to make tea with time expressions.",
+          "id": "Sempurna. Terakhir: deskripsikan cara membuat teh dengan time expressions."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Boil water for five minutes. Then, let the tea steep for three minutes. Serve warm.",
+          "id": "Rebus air selama lima menit. Lalu, biarkan teh meresap tiga menit. Sajikan hangat."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar time expressions untuk durasi memasak. Mari kita ingat: 'for + durasi' (for five minutes), 'until + hasil' (until golden). Coba saya tanya: bagaimana bilang 'rebus selama lima menit'? Benar, 'Boil for five minutes.' Untuk PR, tulis 8 instruksi memasak memakai time expressions. Pertemuan berikutnya kita akan menggabungkan semua struktur memasak dalam satu resep lengkap. Sampai jumpa!",
+      "instructions": "Tegaskan perbedaan 'for' dan 'until'. Berikan 1-2 pertanyaan pemahaman. Beri PR 8 instruksi dan umumkan topik menggabungkan semua struktur."
+    }
+  ]
+}

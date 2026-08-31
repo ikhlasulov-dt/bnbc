@@ -1,0 +1,237 @@
+{
+  "id": "a2-l43",
+  "course_id": "english-a2",
+  "module_title": "Hiburan dan Film",
+  "level": "A2",
+  "title": "Membangun Ulasan Singkat",
+  "subtitle": "Mengulas film dan hiburan dengan past simple serta ungkapan opini",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun ulasan film: judul, ringkasan, penilaian, rekomendasi",
+    "Menggabungkan past simple, kosakata, dan ungkapan opini"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang fakta vs opini? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-43 dengan judul 'Membangun Ulasan Singkat'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Sekarang gabungkan semuanya: genre, kosakata, past simple, opini, fakta — jadi ulasan film yang utuh! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Membangun Ulasan Singkat\n\nUlasan film yang baik punya **struktur**: judul + genre, ringkasan (past simple), opini, rekomendasi.\n\n### 1. Struktur ulasan\n\n| Bagian | Isi | Bahasa |\n|---|---|---|\n| Pembuka | judul, genre, fakta dasar | \"Soul\" is an animation movie released in 2020. |\n| Ringkasan | isi singkat (past simple) | It was about a musician who... |\n| Opini | pendapat + alasan | I think it was touching because... |\n| Penilaian | rating/adjektiva | I'd give it 5 out of 5. |\n| Rekomendasi | apakah perlu ditonton | I recommend it to everyone. |\n\n### 2. Contoh ulasan singkat\n\n> **\"Soul\"** is an **animation** movie released in 2020. It **was** about a jazz musician who **got lost** between life and death. He **met** several characters and **discovered** the meaning of life. **I think** it **was** touching and the **soundtrack** **was** amazing. **In my opinion**, the plot **was** clever and the ending **was** satisfying. **I'd give it** 5 out of 5. **I recommend it** to everyone, especially music lovers.\n\n### 3. Frasa transisi\n\n- **First**, ... **then**, ... **finally**, ...\n- **Also**, ... **In addition**, ...\n- **However**, ... **On the other hand**, ...\n- **Overall**, ... **In conclusion**, ...\n\n### 4. Tips menulis ulasan\n\n- Jangan spoil ending secara detail (atau beri peringatan spoiler!).\n- Beri alasan untuk setiap opini.\n- Sebutkan siapa yang akan menyukai film ini.\n\n### 5. Mini-dialogue\n\n> A: Tell me about a movie you reviewed.\n> B: I reviewed \"Soul\". It's an animation released in 2020.\n> A: What did you think?\n> B: I thought it was touching. I'd give it 5 out of 5. I recommend it to everyone!\n\n> **Hindari:** ulasan tanpa opini (hanya fakta).\n> **Hindari:** opini tanpa alasan.\n\n### 6. Tip\n\nGunakan struktur 5 bagian sebagai **kerangka**. Mulai dari fakta, masuk ke ringkasan, lalu opini dengan alasan, akhiri dengan rating dan rekomendasi.",
+      "key_points": [
+        "Struktur ulasan: pembuka (judul+genre+fakta) → ringkasan (past simple) → opini → penilaian → rekomendasi",
+        "Pembuka: 'X' is a genre movie released in year",
+        "Ringkasan: It was about... (past simple)",
+        "Opini: I think/In my opinion + adjektiva + because",
+        "Penilaian: I'd give it X out of 5",
+        "Rekomendasi: I recommend it to... / It's a must-watch"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "movie",
+          "id": "film",
+          "phonetic": "/ˈmuːvi/",
+          "example_en": "We watched a great movie.",
+          "example_id": "Kami menonton film yang bagus."
+        },
+        {
+          "en": "cinema",
+          "id": "bioskop",
+          "phonetic": "/ˈsɪnəmə/",
+          "example_en": "Let's go to the cinema.",
+          "example_id": "Mari kita pergi ke bioskop."
+        },
+        {
+          "en": "actor",
+          "id": "aktor",
+          "phonetic": "/ˈæktər/",
+          "example_en": "He is a famous actor.",
+          "example_id": "Dia aktor yang terkenal."
+        },
+        {
+          "en": "director",
+          "id": "sutradara",
+          "phonetic": "/dəˈrektər/",
+          "example_en": "The director is very talented.",
+          "example_id": "Sutradaranya sangat berbakat."
+        },
+        {
+          "en": "character",
+          "id": "tokoh",
+          "phonetic": "/ˈkærəktər/",
+          "example_en": "The main character is brave.",
+          "example_id": "Tokoh utamanya pemberani."
+        },
+        {
+          "en": "scene",
+          "id": "adegan",
+          "phonetic": "/siːn/",
+          "example_en": "My favorite scene is at the end.",
+          "example_id": "Adegan favorit saya di bagian akhir."
+        },
+        {
+          "en": "plot",
+          "id": "alur cerita",
+          "phonetic": "/plɒt/",
+          "example_en": "The plot was very exciting.",
+          "example_id": "Alur ceritanya sangat mendebarkan."
+        },
+        {
+          "en": "ending",
+          "id": "akhir cerita",
+          "phonetic": "/ˈendɪŋ/",
+          "example_en": "I didn't like the ending.",
+          "example_id": "Saya tidak suka akhir ceritanya."
+        },
+        {
+          "en": "soundtrack",
+          "id": "musik latar",
+          "phonetic": "/ˈsaʊndtræk/",
+          "example_en": "The soundtrack is beautiful.",
+          "example_id": "Musik latarnya indah."
+        },
+        {
+          "en": "trailer",
+          "id": "cuplikan",
+          "phonetic": "/ˈtreɪlər/",
+          "example_en": "I watched the trailer online.",
+          "example_id": "Saya menonton cuplikan daring."
+        },
+        {
+          "en": "subtitle",
+          "id": "takarir",
+          "phonetic": "/ˈsʌbtaɪtl/",
+          "example_en": "Turn on the subtitle, please.",
+          "example_id": "Nyalakan takarirnya, tolong."
+        },
+        {
+          "en": "review",
+          "id": "ulasan",
+          "phonetic": "/rɪˈvjuː/",
+          "example_en": "I read a review before watching.",
+          "example_id": "Saya membaca ulasan sebelum menonton."
+        },
+        {
+          "en": "audience",
+          "id": "penonton",
+          "phonetic": "/ˈɔːdiəns/",
+          "example_en": "The audience laughed a lot.",
+          "example_id": "Penonton tertawa banyak."
+        },
+        {
+          "en": "comedy",
+          "id": "komedi",
+          "phonetic": "/ˈkɒmədi/",
+          "example_en": "I love comedy films.",
+          "example_id": "Saya suka film komedi."
+        },
+        {
+          "en": "horror",
+          "id": "horor",
+          "phonetic": "/ˈhɒrər/",
+          "example_en": "Horror films are too scary for me.",
+          "example_id": "Film horor terlalu menakutkan bagi saya."
+        },
+        {
+          "en": "exciting",
+          "id": "mendebarkan",
+          "phonetic": "/ɪkˈsaɪtɪŋ/",
+          "example_en": "The action film was exciting.",
+          "example_id": "Film aksinya mendebarkan."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: hafalkan struktur 5 bagian ulasan dengan pengulangan korus.\n2. Pair work: ceritakan ulasan film favorit (struktur 5 bagian) ke teman, teman bertanya 3 hal.\n3. Fill-in-the-blank: lengkapi ulasan film dengan bagian yang hilang.\n4. Error correction: perbaiki 5 kalimat dalam draf ulasan yang salah.\n5. Review showcase: tiap murid presentasi ulasan film 1 menit di depan kelas.\n\nTugas rumah: Tulis ulasan film lengkap 12-15 kalimat dengan struktur 5 bagian (pembuka, ringkasan, opini, penilaian, rekomendasi).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Tell me about a movie you reviewed recently.",
+          "id": "Ceritakan film yang kamu ulas baru-baru ini."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I reviewed 'Soul'. It's an animation released in 2020.",
+          "id": "Saya ulas 'Soul'. Animasi tahun 2020."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What was it about?",
+          "id": "Tentang apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It was about a musician who found the meaning of life.",
+          "id": "Tentang musisi yang menemukan makna hidup."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did you think of it?",
+          "id": "Apa pendapatmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I thought it was touching and meaningful.",
+          "id": "Saya rasa menyentuh dan bermakna."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What was the best part?",
+          "id": "Apa bagian terbaiknya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In my opinion, the soundtrack was amazing.",
+          "id": "Menurut saya, musiklatarnya luar biasa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What rating would you give?",
+          "id": "Peringkat berapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'd give it 5 out of 5.",
+          "id": "Saya beri 5 dari 5."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Would you recommend it?",
+          "id": "Apakah kamu rekomendasikan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I recommend it to everyone, especially music lovers.",
+          "id": "Ya, saya rekomendasikan ke semua, terutama pencinta musik."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Membangun Ulasan Singkat'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis ulasan film lengkap 12-15 kalimat dengan struktur 5 bagian (pembuka, ringkasan, opini, penilaian, rekomendasi). Pelajaran berikutnya kita akan membahas modul baru: Olahraga, dimulai dengan kosakata olahraga, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

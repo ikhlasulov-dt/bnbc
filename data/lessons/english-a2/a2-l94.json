@@ -1,0 +1,263 @@
+{
+  "id": "a2-l94",
+  "course_id": "english-a2",
+  "module_title": "Perpisahan dan Rencana Masa Depan",
+  "level": "A2",
+  "title": "Kosakata Masa Depan dan Perpisahan",
+  "subtitle": "Kata kunci untuk membicarakan rencana dan perpisahan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata tema masa depan dan perpisahan",
+    "Menggabungkan kosakata dengan will dan be going to",
+    "Menyusun kalimat utuh tentang rencana masa depan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita masuk pelajaran kosakata kunci modul Perpisahan dan Rencana Masa Depan. Kita sudah belajar 'will', 'be going to', 'looking forward to', dan ungkapan perpisahan. Sekarang waktunya memperkaya kosa kata supaya kalian bisa menceritakan masa depan dengan lebih detail. Coba sebutkan 3 kata berbahasa Inggris yang berhubungan dengan masa depan yang kalian tahu. 'Future'? 'Plan'? Bagus. Hari ini kita akan pelajari 16 kata kunci: konsep masa depan, pendidikan/karier, dan perpisahan, lengkap dengan cara mengucapkan dan contoh kalimatnya. Rencana: kita pelajari kata per kategori, lalu berlatih memakainya dalam kalimat sendiri.",
+      "instructions": "Sapa murid dan tanyakan 3 kata Inggris berhubungan dengan masa depan. Catat di papan. Jelaskan fokus hari ini: memperkaya kosakata masa depan dan perpisahan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mengapa Kosakata Masa Depan Penting?\n\nUntuk menceritakan rencana masa depan dan perpisahan dengan detail, kita perlu kosakata yang tepat untuk **konsep masa depan**, **pendidikan/karier**, dan **perpisahan**. Tanpa kosakata ini, kita hanya bisa bilang 'future' atau 'go'. Dengan kosakata yang tepat, kita bisa menceritakan rencana dengan hidup.\n\n## Kategori Kosakata\n\n### 1. Konsep Masa Depan\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| future | masa depan | I am thinking about my future. |\n| plan | rencana | I am going to share my plans. |\n| hope | harapan | I hope I will get a scholarship. |\n| dream | cita-cita | My dream is to study abroad. |\n| goal | tujuan | My goal is to become an engineer. |\n| opportunity | kesempatan | This is a great opportunity. |\n\n### 2. Pendidikan dan Karier\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| career | karier | She wants a career in medicine. |\n| scholarship | beasiswa | She got a scholarship to Japan. |\n| university | universitas | I will study at a university. |\n| to succeed | berhasil | I am sure you will succeed. |\n\n### 3. Perpisahan\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| farewell | perpisahan | We had a farewell party. |\n| goodbye | selamat tinggal | Goodbye and all the best. |\n| to keep in touch | tetap berkomunikasi | Please keep in touch. |\n| take care | jaga diri | Take care and have a safe trip. |\n| journey | perjalanan | I'm looking forward to this new journey. |\n| to look forward to | menantikan | I'm looking forward to seeing you. |\n\n## Tips Mengingat Kosakata\n\n- **Buat kalimat 'will'** untuk setiap kata: 'I will pursue my dream.'\n- **Buat kalimat 'be going to'**: 'I am going to apply for a scholarship.'\n- **Pasangkan dengan 'looking forward to'**: 'I'm looking forward to my new journey.'\n\n> **Hindari:** menghafal terjemahan saja. Selalu buat kalimat lengkap supaya tahu cara memakai kata.\n\n> **Catatan:** Beberapa kata seperti 'future', 'plan', 'career' adalah serapan, mudah diingat. Yang perlu dihafal: scholarship, opportunity, farewell, to look forward to.\n\n## Mini-dialogue\n\nA: What are your plans for the future?\nB: I am going to study at a university. My dream is to become an engineer.\nA: That's a great goal. I hope you will succeed.\nB: Thank you. Let's keep in touch after graduation.",
+      "key_points": [
+        "Kosakata masa depan dikelompokkan: konsep, pendidikan/karier, perpisahan.",
+        "Konsep: future, plan, hope, dream, goal, opportunity.",
+        "Pendidikan/karier: career, scholarship, university, to succeed.",
+        "Perpisahan: farewell, goodbye, to keep in touch, take care, journey, to look forward to.",
+        "Selalu buat kalimat lengkap, bukan hanya menghafal terjemahan.",
+        "Pasangkan kosakata dengan 'will', 'be going to', dan 'looking forward to'.",
+        "Kelompokkan kata berdasarkan kategori untuk memudahkan mengingat."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "future",
+          "id": "masa depan",
+          "phonetic": "/ˈfjuːtʃər/",
+          "example_en": "I am thinking about my future.",
+          "example_id": "Saya memikirkan masa depan saya."
+        },
+        {
+          "en": "plan",
+          "id": "rencana",
+          "phonetic": "/plæn/",
+          "example_en": "I am going to share my plans with you.",
+          "example_id": "Saya akan berbagi rencana saya denganmu."
+        },
+        {
+          "en": "hope",
+          "id": "harapan",
+          "phonetic": "/hoʊp/",
+          "example_en": "I hope I will get a scholarship.",
+          "example_id": "Saya berharap mendapat beasiswa."
+        },
+        {
+          "en": "dream",
+          "id": "cita-cita",
+          "phonetic": "/driːm/",
+          "example_en": "My dream is to study abroad.",
+          "example_id": "Cita-cita saya adalah belajar di luar negeri."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "scholarship",
+          "id": "beasiswa",
+          "phonetic": "/ˈskɒlərʃɪp/",
+          "example_en": "She got a scholarship to study in Japan.",
+          "example_id": "Dia mendapat beasiswa untuk belajar di Jepang."
+        },
+        {
+          "en": "university",
+          "id": "universitas",
+          "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+          "example_en": "I am going to study at a university in Jakarta.",
+          "example_id": "Saya akan belajar di universitas di Jakarta."
+        },
+        {
+          "en": "to succeed",
+          "id": "berhasil",
+          "phonetic": "/tuː səkˈsiːd/",
+          "example_en": "I am sure you will succeed.",
+          "example_id": "Saya yakin kamu akan berhasil."
+        },
+        {
+          "en": "goal",
+          "id": "tujuan",
+          "phonetic": "/ɡoʊl/",
+          "example_en": "My goal is to become an engineer.",
+          "example_id": "Tujuan saya menjadi insinyur."
+        },
+        {
+          "en": "opportunity",
+          "id": "kesempatan",
+          "phonetic": "/ˌɒpərˈtuːnəti/",
+          "example_en": "This is a great opportunity for me.",
+          "example_id": "Ini adalah kesempatan besar bagi saya."
+        },
+        {
+          "en": "farewell",
+          "id": "perpisahan",
+          "phonetic": "/ˌferˈwel/",
+          "example_en": "We had a farewell party last night.",
+          "example_id": "Kami mengadakan pesta perpisahan tadi malam."
+        },
+        {
+          "en": "goodbye",
+          "id": "selamat tinggal",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "example_en": "Goodbye and all the best.",
+          "example_id": "Selamat tinggal dan semoga semua yang terbaik."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "Please keep in touch after you move.",
+          "example_id": "Tetaplah berkomunikasi setelah kamu pindah."
+        },
+        {
+          "en": "take care",
+          "id": "jaga diri",
+          "phonetic": "/teɪk ker/",
+          "example_en": "Take care and have a safe trip.",
+          "example_id": "Jagalah dirimu dan selamat jalan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "I'm looking forward to this new journey.",
+          "example_id": "Saya menantikan perjalanan baru ini."
+        },
+        {
+          "en": "to look forward to",
+          "id": "menantikan",
+          "phonetic": "/tuː lʊk ˈfɔːrwərd tuː/",
+          "example_en": "I'm looking forward to seeing you again.",
+          "example_id": "Saya menantikan untuk bertemu denganmu lagi."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Guru menunjuk kata, murid sebutkan arti. Bergantian.\n2) **Match (4 menit):** Cocokkan 12 kata Inggris dengan arti Indonesianya.\n3) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan kosakata yang tepat.\n4) **Pair work (4 menit):** Tanyakan-jawab tentang rencana masa depan memakai minimal 6 kata baru.\n5) **Role play (2 menit):** Dua murid memeragakan teman yang berpisah dan berbagi rencana.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's practice vocabulary. What is 'scholarship' in Indonesian?",
+          "id": "Mari berlatih kosakata. Apa arti 'scholarship'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Scholarship' artinya 'beasiswa'.",
+          "id": "'Scholarship' artinya 'beasiswa'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use it in a sentence.",
+          "id": "Bagus. Pakai dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She got a scholarship to study in Japan.",
+          "id": "Dia mendapat beasiswa untuk belajar di Jepang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is 'opportunity'?",
+          "id": "Apa arti 'opportunity'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Opportunity' artinya 'kesempatan'.",
+          "id": "'Opportunity' artinya 'kesempatan'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'opportunity' in a sentence.",
+          "id": "Pakai 'opportunity' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "This is a great opportunity for me.",
+          "id": "Ini kesempatan besar bagi saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What is 'farewell'?",
+          "id": "Bagus. Apa arti 'farewell'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Farewell' artinya 'perpisahan'.",
+          "id": "'Farewell' artinya 'perpisahan'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'farewell' with 'party'.",
+          "id": "Pakai 'farewell' dengan 'party'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We had a farewell party last night.",
+          "id": "Kami mengadakan pesta perpisahan tadi malam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What is 'to look forward to'?",
+          "id": "Bagus. Apa arti 'to look forward to'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'To look forward to' artinya 'menantikan'.",
+          "id": "'To look forward to' artinya 'menantikan'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Describe your future using three new words.",
+          "id": "Sempurna. Deskripsikan masa depanmu memakai tiga kata baru."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My dream is to get a scholarship. I'm looking forward to this opportunity.",
+          "id": "Cita-cita saya mendapat beasiswa. Saya menantikan kesempatan ini."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah mempelajari 16 kata kunci tentang masa depan dan perpisahan. Mari kita ingat beberapa: 'scholarship' artinya beasiswa, 'opportunity' artinya kesempatan, 'farewell' artinya perpisahan. Coba saya tanya: apa arti 'dream'? Benar, cita-cita. Untuk PR, tulis 10 kalimat memakai minimal 10 kata baru tentang rencana masa depan kalian. Ucapkan kosakata ini berulang-ulang di rumah. Pertemuan berikutnya kita akan menyusun paragraf perpisahan memakai semua yang sudah dipelajari. Sampai jumpa!",
+      "instructions": "Tegaskan kategori kosakata. Berikan PR menulis 10 kalimat. Umumkan topik berikutnya: menyusun paragraf perpisahan."
+    }
+  ]
+}

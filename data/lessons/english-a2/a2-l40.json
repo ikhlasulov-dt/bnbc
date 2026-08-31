@@ -1,0 +1,237 @@
+{
+  "id": "a2-l40",
+  "course_id": "english-a2",
+  "module_title": "Hiburan dan Film",
+  "level": "A2",
+  "title": "Kosakata Penilaian Film",
+  "subtitle": "Mengulas film dan hiburan dengan past simple serta ungkapan opini",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kata sifat untuk menilai film",
+    "Menggunakan kata sifat penilaian dalam kalimat opini"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang ungkapan opini? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-40 dengan judul 'Kosakata Penilaian Film'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Untuk opini yang lebih kaya, kita butuh lebih banyak adjektiva penilaian. Apa saja? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Penilaian Film\n\nBerikut kosakata untuk **menilai film** — dari positif sampai negatif, plus kata untuk elemen spesifik.\n\n### 1. Adjektiva positif\n\n| English | Indonesian |\n|---|---|\n| amazing | menakjubkan |\n| fantastic | hebat |\n| brilliant | cemerlang |\n| entertaining | menghibur |\n| hilarious | sangat lucu |\n| touching | menyentuh |\n| masterpiece | karya agung |\n\n### 2. Adjektiva negatif\n\n| English | Indonesian |\n|---|---|\n| boring | membosankan |\n| terrible | mengerikan |\n| awful | buruk sekali |\n| confusing | membingungkan |\n| predictable | mudah ditebak |\n| disappointing | mengecewakan |\n| silly | konyol |\n\n### 3. Menilai elemen spesifik\n\n| Elemen | Positif | Negatif |\n|---|---|---|\n| acting | convincing, natural | wooden, overacted |\n| plot | clever, well-written | weak, full of holes |\n| visuals | stunning, beautiful | ugly, cheap |\n| pacing | well-paced, smooth | slow, dragging |\n| ending | satisfying, surprising | weak, predictable |\n\n### 4. Skala penilaian\n\n- ** masterpiece** (5/5) — karya agung\n- **great** (4/5) — sangat bagus\n- **good** (3/5) — bagus\n- **OK / average** (2/5) — biasa saja\n- **bad / terrible** (1/5) — buruk\n\n### 5. Mini-dialogue\n\n> A: What **rating** would you give it?\n> B: I'd give it 4 out of 5. The **acting** was **convincing**.\n> A: I agree. But the **pacing** was a bit **slow**.\n> B: True. The **ending**, though, was **satisfying**.\n\n> **Hindari:** \"very masterpiece\" (masterpiece = noun, tidak pakai very)\n> **Hindari:** \"bored movie\" (salah — *boring movie*)\n\n### 6. Tip\n\nGunakan **skala 1-5** saat memberi rating: *I'd give it 4 out of 5.* Ini jelas dan umum dipakai.",
+      "key_points": [
+        "Positif: amazing, fantastic, brilliant, entertaining, hilarious, touching, masterpiece",
+        "Negatif: boring, terrible, awful, confusing, predictable, disappointing, silly",
+        "Elemen: acting (convincing/wooden), plot (clever/weak), visuals (stunning/cheap), pacing, ending",
+        "Skala rating: masterpiece (5), great (4), good (3), OK (2), bad (1)",
+        "I'd give it 4 out of 5 — frasa rating umum",
+        "Masterpiece = noun, tidak pakai 'very'; -ing untuk sifat film"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "movie",
+          "id": "film",
+          "phonetic": "/ˈmuːvi/",
+          "example_en": "We watched a great movie.",
+          "example_id": "Kami menonton film yang bagus."
+        },
+        {
+          "en": "cinema",
+          "id": "bioskop",
+          "phonetic": "/ˈsɪnəmə/",
+          "example_en": "Let's go to the cinema.",
+          "example_id": "Mari kita pergi ke bioskop."
+        },
+        {
+          "en": "actor",
+          "id": "aktor",
+          "phonetic": "/ˈæktər/",
+          "example_en": "He is a famous actor.",
+          "example_id": "Dia aktor yang terkenal."
+        },
+        {
+          "en": "director",
+          "id": "sutradara",
+          "phonetic": "/dəˈrektər/",
+          "example_en": "The director is very talented.",
+          "example_id": "Sutradaranya sangat berbakat."
+        },
+        {
+          "en": "character",
+          "id": "tokoh",
+          "phonetic": "/ˈkærəktər/",
+          "example_en": "The main character is brave.",
+          "example_id": "Tokoh utamanya pemberani."
+        },
+        {
+          "en": "scene",
+          "id": "adegan",
+          "phonetic": "/siːn/",
+          "example_en": "My favorite scene is at the end.",
+          "example_id": "Adegan favorit saya di bagian akhir."
+        },
+        {
+          "en": "plot",
+          "id": "alur cerita",
+          "phonetic": "/plɒt/",
+          "example_en": "The plot was very exciting.",
+          "example_id": "Alur ceritanya sangat mendebarkan."
+        },
+        {
+          "en": "ending",
+          "id": "akhir cerita",
+          "phonetic": "/ˈendɪŋ/",
+          "example_en": "I didn't like the ending.",
+          "example_id": "Saya tidak suka akhir ceritanya."
+        },
+        {
+          "en": "soundtrack",
+          "id": "musik latar",
+          "phonetic": "/ˈsaʊndtræk/",
+          "example_en": "The soundtrack is beautiful.",
+          "example_id": "Musik latarnya indah."
+        },
+        {
+          "en": "trailer",
+          "id": "cuplikan",
+          "phonetic": "/ˈtreɪlər/",
+          "example_en": "I watched the trailer online.",
+          "example_id": "Saya menonton cuplikan daring."
+        },
+        {
+          "en": "subtitle",
+          "id": "takarir",
+          "phonetic": "/ˈsʌbtaɪtl/",
+          "example_en": "Turn on the subtitle, please.",
+          "example_id": "Nyalakan takarirnya, tolong."
+        },
+        {
+          "en": "review",
+          "id": "ulasan",
+          "phonetic": "/rɪˈvjuː/",
+          "example_en": "I read a review before watching.",
+          "example_id": "Saya membaca ulasan sebelum menonton."
+        },
+        {
+          "en": "audience",
+          "id": "penonton",
+          "phonetic": "/ˈɔːdiəns/",
+          "example_en": "The audience laughed a lot.",
+          "example_id": "Penonton tertawa banyak."
+        },
+        {
+          "en": "comedy",
+          "id": "komedi",
+          "phonetic": "/ˈkɒmədi/",
+          "example_en": "I love comedy films.",
+          "example_id": "Saya suka film komedi."
+        },
+        {
+          "en": "horror",
+          "id": "horor",
+          "phonetic": "/ˈhɒrər/",
+          "example_en": "Horror films are too scary for me.",
+          "example_id": "Film horor terlalu menakutkan bagi saya."
+        },
+        {
+          "en": "exciting",
+          "id": "mendebarkan",
+          "phonetic": "/ɪkˈsaɪtɪŋ/",
+          "example_en": "The action film was exciting.",
+          "example_id": "Film aksinya mendebarkan."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut adjektiva Indonesia, murid jawab bahasa Inggris +lawan katanya.\n2. Pair work: nilai 5 film dengan skala 1-5 + alasan pakai adjektiva penilaian.\n3. Fill-in-the-blank: 10 kalimat dengan adjektiva penilaian yang tepat.\n4. Error correction: perbaiki 5 kalimat (mis. 'very masterpiece', 'bored movie').\n5. Rating game: tunjuk gambar poster film, murid nilai cepat 1-5 + 1 adjektiva.\n\nTugas rumah: Beri rating 5 film yang pernah kamu tonton, tulis 1 kalimat alasan untuk masing-masing.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What rating would you give the movie?",
+          "id": "Peringkat berapa yang akan kamu berikan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'd give it 4 out of 5.",
+          "id": "Saya beri 4 dari 5."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why not 5?",
+          "id": "Kenapa tidak 5?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The pacing was a bit slow in the middle.",
+          "id": "Langkahnya agak lambat di tengah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How was the acting?",
+          "id": "Bagaimana aktingnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The acting was convincing and natural.",
+          "id": "Aktingnya meyakinkan dan natural."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Were the visuals good?",
+          "id": "Apakah visualnya bagus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, the visuals were stunning.",
+          "id": "Ya, visualnya memukau."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Was the ending satisfying?",
+          "id": "Apakah akhirnya memuaskan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, the ending was surprising and satisfying.",
+          "id": "Ya, mengejutkan dan memuaskan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Would you call it a masterpiece?",
+          "id": "Apakah kamu sebut karya agung?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Almost! It's a great movie, but not quite a masterpiece.",
+          "id": "Hampir! Hebat, tapi belum karya agung."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kosakata Penilaian Film'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Beri rating 5 film yang pernah kamu tonton, tulis 1 kalimat alasan untuk masing-masing. Pelajaran berikutnya kita akan membahas merekomendasikan film, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

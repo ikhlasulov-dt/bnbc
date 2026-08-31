@@ -1,0 +1,263 @@
+{
+  "id": "a2-l74",
+  "course_id": "english-a2",
+  "module_title": "Berita dan Peristiwa",
+  "level": "A2",
+  "title": "Kosakata Berita dan Media",
+  "subtitle": "Kata kunci untuk menyampaikan berita singkat",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata tema berita dan media",
+    "Menggabungkan kosakata dengan present perfect",
+    "Menyampaikan berita singkat dengan kosakata yang tepat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita masuk pelajaran kosakata kunci modul Berita dan Peristiwa. Kita sudah belajar present perfect, past participle, time markers, 'Have you heard about...?', dan passive voice. Sekarang waktunya memperkaya kosa kata supaya kalian bisa membahas berita dengan lebih detail. Coba sebutkan 3 kata berbahasa Inggris yang berhubungan dengan berita yang kalian tahu. 'News'? 'Report'? Bagus. Hari ini kita akan pelajari 16 kata kunci: jenis media, pelaku berita, dan peristiwa, lengkap dengan cara mengucapkan dan contoh kalimatnya. Rencana: kita pelajari kata per kategori, lalu berlatih memakainya dalam kalimat sendiri.",
+      "instructions": "Sapa murid dan tanyakan 3 kata Inggris berhubungan dengan berita. Catat di papan. Jelaskan fokus hari ini: memperkaya kosakata berita."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mengapa Kosakata Berita Penting?\n\nUntuk membahas berita dengan jelas, kita perlu kosakata yang tepat untuk **media**, **pelaku**, dan **peristiwa**. Tanpa kosakata ini, kita hanya bisa bilang 'news' atau 'thing'. Dengan kosakata yang tepat, kita bisa menceritakan berita dengan detail.\n\n## Kategori Kosakata Berita\n\n### 1. Media dan Format\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| news | berita | I read the news every morning. |\n| report | laporan | A journalist has written a new report. |\n| headline | judul berita | The headline was very shocking. |\n| broadcast | siaran | The broadcast started at seven. |\n| interview | wawancara | The president gave an interview. |\n| article | artikel | She has written an article about the storm. |\n| channel | saluran | Change the channel, please. |\n\n### 2. Pelaku\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| journalist | wartawan | The journalist has spoken to the public. |\n\n### 3. Peristiwa dan Topik\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| election | pemilihan | The election result has been announced. |\n| policy | kebijakan | The government has announced a new policy. |\n| storm | badai | The storm has destroyed many houses. |\n| earthquake | gempa bumi | Three earthquakes have hit the region. |\n| accident | kecelakaan | Three people were injured in the accident. |\n| victim | korban | They haven't found all the victims yet. |\n| rescue | penyelamatan | Rescue teams have arrived in the area. |\n| to announce | mengumumkan | The government has announced the result. |\n\n## Tips Mengingat Kosakata\n\n- **Baca/simak berita Inggris** singkat setiap hari.\n- **Buat kalimat present perfect** untuk setiap kata: 'A journalist has written...'\n- **Pasangkan dengan passive**: 'The result has been announced.'\n\n> **Hindari:** menghafal terjemahan saja. Selalu buat kalimat lengkap supaya tahu cara memakai kata dalam konteks.\n\n> **Catatan:** Banyak kata berita serupa dalam bahasa Indonesia (berita, laporan, artikel adalah serapan), jadi mudah diingat. Yang perlu dihafal adalah kata seperti headline, broadcast, journalist.\n\n## Mini-dialogue\n\nA: What's the headline today?\nB: The headline is about the earthquake. Three earthquakes have hit the region.\nA: Has the government announced anything?\nB: Yes, they have announced a new policy.",
+      "key_points": [
+        "Kosakata berita dikelompokkan: media/format, pelaku, peristiwa/topik.",
+        "Kata media: news, report, headline, broadcast, interview, article, channel.",
+        "Kata pelaku: journalist.",
+        "Kata peristiwa: election, policy, storm, earthquake, accident, victim, rescue, announce.",
+        "Selalu buat kalimat lengkap, bukan hanya menghafal terjemahan.",
+        "Pasangkan kosakata dengan present perfect dan passive voice.",
+        "Baca/simak berita Inggris singkat untuk memperkuat ingatan."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "news",
+          "id": "berita",
+          "phonetic": "/nuːz/",
+          "example_en": "I read the news every morning.",
+          "example_id": "Saya membaca berita setiap pagi."
+        },
+        {
+          "en": "report",
+          "id": "laporan",
+          "phonetic": "/rɪˈpɔːrt/",
+          "example_en": "A journalist has written a new report.",
+          "example_id": "Seorang wartawan telah menulis laporan baru."
+        },
+        {
+          "en": "headline",
+          "id": "judul berita",
+          "phonetic": "/ˈhedlaɪn/",
+          "example_en": "The headline was very shocking.",
+          "example_id": "Judul beritanya sangat mengejutkan."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "The journalist has spoken to the public.",
+          "example_id": "Wartawan itu telah berbicara kepada publik."
+        },
+        {
+          "en": "broadcast",
+          "id": "siaran",
+          "phonetic": "/ˈbrɔːdkæst/",
+          "example_en": "The broadcast started at seven.",
+          "example_id": "Siaran dimulai pada pukul tujuh."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "The president gave an interview.",
+          "example_id": "Presiden memberikan wawancara."
+        },
+        {
+          "en": "article",
+          "id": "artikel",
+          "phonetic": "/ˈɑːrtɪkl/",
+          "example_en": "She has written an article about the storm.",
+          "example_id": "Dia telah menulis artikel tentang badai itu."
+        },
+        {
+          "en": "channel",
+          "id": "saluran",
+          "phonetic": "/ˈtʃænl/",
+          "example_en": "Change the channel, please.",
+          "example_id": "Ganti salurannya, tolong."
+        },
+        {
+          "en": "election",
+          "id": "pemilihan",
+          "phonetic": "/ɪˈlekʃn/",
+          "example_en": "The election result has been announced.",
+          "example_id": "Hasil pemilihan telah diumumkan."
+        },
+        {
+          "en": "policy",
+          "id": "kebijakan",
+          "phonetic": "/ˈpɒlɪsi/",
+          "example_en": "The government has announced a new policy.",
+          "example_id": "Pemerintah telah mengumumkan kebijakan baru."
+        },
+        {
+          "en": "storm",
+          "id": "badai",
+          "phonetic": "/stɔːrm/",
+          "example_en": "The storm has destroyed many houses.",
+          "example_id": "Badai telah menghancurkan banyak rumah."
+        },
+        {
+          "en": "earthquake",
+          "id": "gempa bumi",
+          "phonetic": "/ˈɜːrθkweɪk/",
+          "example_en": "Three earthquakes have hit the region this month.",
+          "example_id": "Tiga gempa bumi telah melanda wilayah itu bulan ini."
+        },
+        {
+          "en": "accident",
+          "id": "kecelakaan",
+          "phonetic": "/ˈæksɪdənt/",
+          "example_en": "Three people were injured in the accident.",
+          "example_id": "Tiga orang terluka dalam kecelakaan itu."
+        },
+        {
+          "en": "victim",
+          "id": "korban",
+          "phonetic": "/ˈvɪktɪm/",
+          "example_en": "They haven't found all the victims yet.",
+          "example_id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "en": "rescue",
+          "id": "penyelamatan",
+          "phonetic": "/ˈreskjuː/",
+          "example_en": "Rescue teams have arrived in the area.",
+          "example_id": "Tim penyelamat telah tiba di daerah itu."
+        },
+        {
+          "en": "to announce",
+          "id": "mengumumkan",
+          "phonetic": "/tuː əˈnaʊns/",
+          "example_en": "The government has announced the result.",
+          "example_id": "Pemerintah telah mengumumkan hasilnya."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Guru menunjuk gambar/kata, murid sebutkan arti. Bergantian.\n2) **Match (4 menit):** Cocokkan 12 kata Inggris dengan arti Indonesianya.\n3) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat berita dengan kosakata yang tepat.\n4) **Pair work (4 menit):** Tanyakan-jawab tentang berita memakai minimal 6 kata baru.\n5) **Role play (2 menit):** Dua murid memeragakan presenter dan penonton berita.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's practice vocabulary. What is 'headline' in Indonesian?",
+          "id": "Mari berlatih kosakata. Apa arti 'headline'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Headline' artinya 'judul berita'.",
+          "id": "'Headline' artinya 'judul berita'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use it in a sentence.",
+          "id": "Bagus. Pakai dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The headline was very shocking today.",
+          "id": "Judul beritanya sangat mengejutkan hari ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is 'journalist'?",
+          "id": "Apa arti 'journalist'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Journalist' artinya 'wartawan'.",
+          "id": "'Journalist' artinya 'wartawan'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'journalist' with present perfect.",
+          "id": "Pakai 'journalist' dengan present perfect."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A journalist has written a new report about the storm.",
+          "id": "Seorang wartawan telah menulis laporan baru tentang badai itu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What is 'broadcast'?",
+          "id": "Bagus. Apa arti 'broadcast'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Broadcast' artinya 'siaran'.",
+          "id": "'Broadcast' artinya 'siaran'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'broadcast' in a sentence.",
+          "id": "Pakai 'broadcast' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The broadcast started at seven this morning.",
+          "id": "Siaran dimulai pukul tujuh pagi ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What is 'victim'?",
+          "id": "Bagus. Apa arti 'victim'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Victim' artinya 'korban'.",
+          "id": "'Victim' artinya 'korban'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Describe one news item using three new words.",
+          "id": "Sempurna. Deskripsikan satu berita memakai tiga kata baru."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The headline says a storm has hit the coast. Many victims were injured.",
+          "id": "Judul berita mengatakan badai telah melanda pantai. Banyak korban terluka."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah mempelajari 16 kata kunci tentang berita dan peristiwa. Mari kita ingat beberapa: 'headline' artinya judul berita, 'journalist' artinya wartawan, 'broadcast' artinya siaran. Coba saya tanya: apa arti 'victim'? Benar, korban. Apa arti 'rescue'? Tepat, penyelamatan. Untuk PR, tulis 10 kalimat memakai minimal 10 kata baru tentang berita. Ucapkan kosakata ini berulang-ulang di rumah. Pertemuan berikutnya kita akan menyusun berita singkat memakai semua yang sudah dipelajari. Sampai jumpa!",
+      "instructions": "Tegaskan kategori kosakata. Berikan PR menulis 10 kalimat. Umumkan topik berikutnya: menyusun berita singkat."
+    }
+  ]
+}

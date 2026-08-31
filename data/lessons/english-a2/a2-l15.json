@@ -1,0 +1,237 @@
+{
+  "id": "a2-l15",
+  "course_id": "english-a2",
+  "module_title": "Pekerjaan dan Profesi",
+  "level": "A2",
+  "title": "Pola 'I Want to Be...'",
+  "subtitle": "Membicarakan cita-cita dan rencana karier dengan present continuous untuk masa depan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyatakan cita-cita dengan pola 'I want to be + profesi'",
+    "Menggunakan a/an dengan benar setelah be"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang daftar profesi? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-15 dengan judul 'Pola 'I Want to Be...''. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Sekarang kita tahu nama profesi. Bagaimana cara menyatakan cita-cita dengan percaya diri? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola 'I Want to Be...'\n\nUntuk menyatakan **cita-cita atau tujuan karier**, kita gunakan pola **I want to be + a/an + profesi**.\n\n### 1. Rumus positif\n\n**Subjek + want to be + a/an + profesi**\n\n- I **want to be** a doctor.\n- She **wants to be** an engineer.\n- They **want to be** teachers.\n\n**Penting:** Untuk he/she/it, *want* jadi *wants*, tapi *to be* tetap.\n\n### 2. Bentuk negatif\n\n- I **don't want to be** a lawyer.\n- He **doesn't want to be** a chef.\n\n### 3. Bentuk pertanyaan\n\n- **Do** you **want to be** a pilot?\n- **Does** she **want to be** a journalist?\n\nJawaban singkat: Yes, I do. / No, I don't.\n\n### 4. Memberi alasan: because\n\nGabungkan dengan *because* untuk menjelaskan alasan:\n\n- I want to be a doctor **because** I want to help people.\n- She wants to be a teacher **because** she loves children.\n- He wants to be a firefighter **because** it's a brave job.\n\n### 5. Wh-question\n\n- **What do** you **want to be**?\n- **Why do** you **want to be** a nurse?\n\n### 6. Mini-dialogue\n\n> A: **What do** you **want to be**?\n> B: I **want to be** a programmer **because** I love computers.\n> A: **Does** your sister **want to be** a programmer too?\n> B: No, she **wants to be** a scientist.\n\n> **Hindari:** \"I want be a doctor.\" (salah — *I want to be a doctor.*)\n> **Hindari:** \"She want to be a nurse.\" (salah — *She wants to be a nurse.*)\n\n### 7. Tip\n\nUngkapan lain untuk cita-cita: *I'd like to be...* (lebih sopan), *My dream is to be...* (lebih kuat).\n\n### 8. Latihan di kepala\n\nPilih satu profesi impianmu, lalu ucapkan tiga versi: *I want to be a pilot*, *I'd like to be a pilot* (sopan), dan *My dream is to be a pilot* (kuat). Tambahkan alasan dengan *because*. Latihan ini membuatmu siap menjawab pertanyaan cita-cita dalam berbagai konteks — dari percakapan santai dengan teman sampai wawancara formal — dengan kalimat yang bervariasi dan percaya diri.",
+      "key_points": [
+        "Pola: I want to be + a/an + profesi",
+        "He/she/it: wants to be (want jadi wants)",
+        "Negatif: don't/doesn't want to be",
+        "Tanya: Do/Does + subjek + want to be...?",
+        "Alasan: because + kalimat (I want to be a doctor because...)",
+        "Alternatif sopan: I'd like to be... / My dream is to be..."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "job",
+          "id": "pekerjaan",
+          "phonetic": "/dʒɒb/",
+          "example_en": "He has a new job.",
+          "example_id": "Dia punya pekerjaan baru."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "engineer",
+          "id": "insinyur",
+          "phonetic": "/ˌendʒɪˈnɪr/",
+          "example_en": "My uncle is an engineer.",
+          "example_id": "Paman saya seorang insinyur."
+        },
+        {
+          "en": "lawyer",
+          "id": "pengacara",
+          "phonetic": "/ˈlɔɪər/",
+          "example_en": "She is a famous lawyer.",
+          "example_id": "Dia pengacara yang terkenal."
+        },
+        {
+          "en": "accountant",
+          "id": "akuntan",
+          "phonetic": "/əˈkaʊntənt/",
+          "example_en": "An accountant works with numbers.",
+          "example_id": "Akuntan bekerja dengan angka."
+        },
+        {
+          "en": "pilot",
+          "id": "penerbang",
+          "phonetic": "/ˈpaɪlət/",
+          "example_en": "The pilot flies the plane.",
+          "example_id": "Penerbang menerbangkan pesawat."
+        },
+        {
+          "en": "chef",
+          "id": "koki",
+          "phonetic": "/ʃef/",
+          "example_en": "The chef cooks delicious food.",
+          "example_id": "Koki memasak makanan lezat."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "A journalist writes news.",
+          "example_id": "Wartawan menulis berita."
+        },
+        {
+          "en": "programmer",
+          "id": "pemrogram",
+          "phonetic": "/ˈproʊɡræmər/",
+          "example_en": "He is a computer programmer.",
+          "example_id": "Dia pemrogram komputer."
+        },
+        {
+          "en": "police officer",
+          "id": "polisi",
+          "phonetic": "/pəˈliːs ˈɒfɪsər/",
+          "example_en": "A police officer protects people.",
+          "example_id": "Polisi melindungi orang."
+        },
+        {
+          "en": "firefighter",
+          "id": "pemadam kebakaran",
+          "phonetic": "/ˈfaɪərfaɪtər/",
+          "example_en": "A firefighter puts out fires.",
+          "example_id": "Pemadam kebakaran memadamkan api."
+        },
+        {
+          "en": "scientist",
+          "id": "ilmuwan",
+          "phonetic": "/ˈsaɪəntɪst/",
+          "example_en": "Scientists do experiments.",
+          "example_id": "Ilmuwan melakukan eksperimen."
+        },
+        {
+          "en": "mechanic",
+          "id": "montir",
+          "phonetic": "/məˈkænɪk/",
+          "example_en": "The mechanic fixed my car.",
+          "example_id": "Montir memperbaiki mobil saya."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara kerja",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "I have a job interview tomorrow.",
+          "example_id": "Saya ada wawancara kerja besok."
+        },
+        {
+          "en": "colleague",
+          "id": "rekan kerja",
+          "phonetic": "/ˈkɒliːɡ/",
+          "example_en": "My colleague is very helpful.",
+          "example_id": "Rekan kerja saya sangat membantu."
+        },
+        {
+          "en": "salary",
+          "id": "gaji",
+          "phonetic": "/ˈsæləri/",
+          "example_en": "He gets a good salary.",
+          "example_id": "Dia mendapat gaji yang baik."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut profesi, murid buat kalimat 'I want to be a...' dengan alasan 'because...'.\n2. Pair work: wawancara cita-cita — tanya 'What/Why/Do you want to be...?' minimal 5 pertanyaan.\n3. Fill-in-the-blank: 10 kalimat dengan want to be / wants to be yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'She want to be', 'I want be a doctor').\n5. Role play: presentasi 30 detik 'My dream job' di depan kelas dengan alasan because.\n\nTugas rumah: Tulis paragraf 6 kalimat tentang cita-citamu: profesi, alasan, dan rencana masa depan.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you want to be in the future?",
+          "id": "Apa cita-citamu di masa depan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I want to be a programmer.",
+          "id": "Saya ingin menjadi pemrogram."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you want to be a programmer?",
+          "id": "Kenapa kamu ingin menjadi pemrogram?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because I love working with computers.",
+          "id": "Karena saya suka bekerja dengan komputer."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your sister want to be a programmer too?",
+          "id": "Apakah kakakmu juga ingin jadi pemrogram?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, she wants to be a scientist.",
+          "id": "Tidak, dia ingin menjadi ilmuwan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about your best friend?",
+          "id": "Bagaimana dengan sahabatmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He wants to be a firefighter.",
+          "id": "Dia ingin menjadi pemadam kebakaran."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do your parents support your dream?",
+          "id": "Apakah orang tuamu mendukung cita-citamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they do. They want me to be happy.",
+          "id": "Ya. Mereka ingin saya bahagia."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you want to work abroad?",
+          "id": "Apakah kamu ingin bekerja di luar negeri?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I want to work in Silicon Valley someday.",
+          "id": "Ya, saya ingin bekerja di Silicon Valley suatu hari nanti."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Pola 'I Want to Be...''. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis paragraf 6 kalimat tentang cita-citamu: profesi, alasan, dan rencana masa depan. Pelajaran berikutnya kita akan membahas present continuous untuk rencana masa depan, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

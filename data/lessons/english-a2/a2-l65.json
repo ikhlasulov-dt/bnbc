@@ -1,0 +1,275 @@
+{
+  "id": "a2-l65",
+  "course_id": "english-a2",
+  "module_title": "Hewan Peliharaan",
+  "level": "A2",
+  "title": "Should dan Shouldn't untuk Saran Perawatan",
+  "subtitle": "Memberi saran perawatan hewan peliharaan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan should untuk saran positif",
+    "Menggunakan shouldn't untuk larangan atau peringatan",
+    "Menggabungkan should/shouldn't dengan kosakata perawatan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar 'can' dan 'can't'. Siapa bisa buat satu kalimat tentang kemampuan hewan memakai 'can'? Bagus. Hari ini kita lanjutkan dengan 'should' dan 'shouldn't'. Pola ini dipakai untuk memberi **saran** atau **nasihat**. Dalam konteks hewan peliharaan, kita sering memberi saran perawatan: 'You should feed your cat twice a day' (Kamu sebaiknya memberi makan kucingmu dua kali sehari). Coba pikirkan: kalau kalian punya anjing, apa yang sebaiknya kalian lakukan? Itulah yang akan kita pelajari. Rencana: kita pelajari bentuk 'should/shouldn't', lalu berlatih memberi saran perawatan hewan.",
+      "instructions": "Sapa murid dan minta satu contoh 'can' kemarin. Ajak murid memikirkan saran perawatan hewan. Jelaskan tujuan: belajar 'should/shouldn't'."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu 'Should' dan 'Shouldn't'?\n\n**Should** adalah kata bantu (modal) untuk memberi **saran** atau **nasihat**. **Shouldn't** (should not) adalah bentuk negatifnya, menyatakan saran untuk **tidak melakukan** sesuatu. Dalam konteks hewan peliharaan, pola ini sangat berguna untuk memberi tips perawatan.\n\n## Bentuk 'Should' dan 'Shouldn't'\n\n- **Positif (saran):** subjek + should + bentuk dasar\n  - You **should feed** your cat twice a day.\n  - You **should walk** your dog every morning.\n  - You **should take** your pet to the vet.\n- **Negatif (saran tidak melakukan):** subjek + shouldn't + bentuk dasar\n  - You **shouldn't give** chocolate to dogs.\n  - You **shouldn't leave** your pet alone for too long.\n  - You **shouldn't forget** to brush your dog.\n\n## Tabel Saran Perawatan\n\n| Hewan | should | shouldn't |\n|---|---|---|\n| dog | walk daily, brush weekly | give chocolate, leave alone |\n| cat | feed twice, provide water | give milk (many cats lactose intolerant) |\n| fish | clean the tank weekly | overfeed |\n| hamster | give fresh water daily | put the cage in direct sun |\n| parrot | talk to it daily | keep in a tiny cage |\n\n## Contoh Paragraf\n\nIf you want a happy pet, you **should take care** of it every day. You **should feed** it the right food and give it fresh water. You **shouldn't give** human food to your pet because it can be dangerous. You **should take** your pet to the vet for check-ups. You **shouldn't leave** your pet alone for too long because it needs love and attention.\n\n## Tips Memberi Saran\n\n- Pakai **'should'** untuk saran positif: 'You should...'\n- Pakai **'shouldn't'** untuk saran menghindari: 'You shouldn't...'\n- Bisa juga memakai **'should'** untuk diri sendiri: 'I should walk my dog more often.'\n\n> **Hindari:** menambahkan -s pada kata kerja setelah 'should'. Salah: 'You should feeds your cat.' Benar: 'You should feed your cat.' 'Should' selalu diikuti bentuk dasar.\n\n> **Catatan:** 'Should' tidak berubah untuk semua subjek. 'He should', 'she should', 'it should' — bukan 'shoulds'.\n\n## Mini-dialogue\n\nA: I just got a new puppy. What should I do?\nB: You should feed it three times a day and walk it every morning.\nA: Should I give it milk?\nB: No, you shouldn't. Water is better for dogs.",
+      "key_points": [
+        "'Should' untuk memberi saran atau nasihat.",
+        "'Shouldn't' (should not) untuk menyarankan agar tidak melakukan sesuatu.",
+        "Struktur: subjek + should/shouldn't + bentuk dasar kata kerja.",
+        "'Should' tidak berubah untuk semua subjek (he/she/it tetap 'should').",
+        "Setelah 'should', kata kerja selalu bentuk dasar tanpa -s.",
+        "Sangat berguna untuk memberi saran perawatan hewan peliharaan.",
+        "Hindari menambah -s pada kata kerja setelah 'should' (should feeds = salah)."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "pet",
+          "id": "hewan peliharaan",
+          "phonetic": "/pet/",
+          "example_en": "Have you got a pet?",
+          "example_id": "Apakah kamu punya hewan peliharaan?"
+        },
+        {
+          "en": "dog",
+          "id": "anjing",
+          "phonetic": "/dɒɡ/",
+          "example_en": "My dog can run very fast.",
+          "example_id": "Anjing saya bisa berlari sangat cepat."
+        },
+        {
+          "en": "cat",
+          "id": "kucing",
+          "phonetic": "/kæt/",
+          "example_en": "The cat can climb trees.",
+          "example_id": "Kucing itu bisa memanjat pohon."
+        },
+        {
+          "en": "rabbit",
+          "id": "kelinci",
+          "phonetic": "/ˈræbɪt/",
+          "example_en": "She has got a white rabbit.",
+          "example_id": "Dia punya kelinci putih."
+        },
+        {
+          "en": "parrot",
+          "id": "beo",
+          "phonetic": "/ˈpærət/",
+          "example_en": "A parrot can mimic words.",
+          "example_id": "Beo bisa menirukan kata-kata."
+        },
+        {
+          "en": "hamster",
+          "id": "hamster",
+          "phonetic": "/ˈhæmstər/",
+          "example_en": "The hamster is in the cage.",
+          "example_id": "Hamsternya ada di dalam sangkar."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "Fish can swim but they can't walk.",
+          "example_id": "Ikan bisa berenang tetapi tidak bisa berjalan."
+        },
+        {
+          "en": "turtle",
+          "id": "kura-kura",
+          "phonetic": "/ˈtɜːrtl/",
+          "example_en": "A turtle can live for many years.",
+          "example_id": "Kura-kura bisa hidup bertahun-tahun."
+        },
+        {
+          "en": "cage",
+          "id": "sangkar",
+          "phonetic": "/keɪdʒ/",
+          "example_en": "The bird is in the cage.",
+          "example_id": "Burungnya ada di dalam sangkar."
+        },
+        {
+          "en": "to feed",
+          "id": "memberi makan",
+          "phonetic": "/tuː fiːd/",
+          "example_en": "You should feed your cat twice a day.",
+          "example_id": "Kamu sebaiknya memberi makan kucingmu dua kali sehari."
+        },
+        {
+          "en": "to walk",
+          "id": "mengajak jalan",
+          "phonetic": "/tuː wɔːk/",
+          "example_en": "I walk my dog every morning.",
+          "example_id": "Saya mengajak anjing saya jalan setiap pagi."
+        },
+        {
+          "en": "to brush",
+          "id": "menyikat",
+          "phonetic": "/tuː brʌʃ/",
+          "example_en": "You should brush your dog every week.",
+          "example_id": "Kamu sebaiknya menyikat anjingmu setiap minggu."
+        },
+        {
+          "en": "vet",
+          "id": "dokter hewan",
+          "phonetic": "/vet/",
+          "example_en": "You should take your pet to the vet.",
+          "example_id": "Kamu sebaiknya membawa peliharaanmu ke dokter hewan."
+        },
+        {
+          "en": "leash",
+          "id": "tali kekang",
+          "phonetic": "/liːʃ/",
+          "example_en": "Use a leash when you walk your dog.",
+          "example_id": "Gunakan tali kekang saat mengajak anjingmu jalan."
+        },
+        {
+          "en": "to train",
+          "id": "melatih",
+          "phonetic": "/tuː treɪn/",
+          "example_en": "You can train a dog to sit.",
+          "example_id": "Kamu bisa melatih anjing untuk duduk."
+        },
+        {
+          "en": "to take care of",
+          "id": "merawat",
+          "phonetic": "/tuː teɪk ker əv/",
+          "example_en": "You should take care of your pet every day.",
+          "example_id": "Kamu sebaiknya merawat peliharaanmu setiap hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut situasi, murid beri saran memakai 'should/shouldn't'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat saran perawatan dengan 'should' atau 'shouldn't'.\n3) **Pair work (5 menit):** Tanyakan-jawab 'Should I...?' tentang perawatan hewan peliharaan.\n4) **Role play (4 menit):** Dua murid memeragakan dokter hewan dan pemilik hewan yang berkonsultasi.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'You should feeds your cat' -> 'You should feed your cat').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I just got a new puppy. What should I do?",
+          "id": "Saya baru saja mendapat anjing kecil. Apa yang sebaiknya saya lakukan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You should feed it three times a day and walk it every morning.",
+          "id": "Sebaiknya Anda memberi makan tiga kali sehari dan mengajak jalan setiap pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Should I give it milk?",
+          "id": "Apakah saya sebaiknya memberinya susu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, you shouldn't. Water is better for dogs.",
+          "id": "Tidak. Air lebih baik untuk anjing."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What should I do for my cat?",
+          "id": "Bagus. Apa yang sebaiknya saya lakukan untuk kucing saya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You should feed your cat twice a day and give it fresh water.",
+          "id": "Sebaiknya Anda memberi makan kucing dua kali sehari dan memberinya air segar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What shouldn't I do with my fish?",
+          "id": "Apa yang tidak sebaiknya saya lakukan dengan ikan saya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You shouldn't overfeed your fish. It can make them sick.",
+          "id": "Sebaiknya jangan beri makan ikan berlebihan. Itu bisa membuat mereka sakit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Correct this: 'You should walks your dog daily.'",
+          "id": "Bagus. Perbaiki ini: 'You should walks your dog daily.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'You should walk your dog daily.'",
+          "id": "Seharusnya 'You should walk your dog daily.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because after 'should', the verb has no -s.",
+          "id": "Karena setelah 'should', kata kerja tidak pakai -s."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Give me advice about brushing a dog.",
+          "id": "Bagus. Beri saya saran tentang menyikat anjing."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You should brush your dog every week to keep its coat clean.",
+          "id": "Sebaiknya Anda menyikat anjing setiap minggu untuk menjaga bulunya tetap bersih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now give one 'shouldn't' advice about pets.",
+          "id": "Sempurna. Sekarang beri satu saran 'shouldn't' tentang hewan peliharaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You shouldn't leave your pet alone for too long.",
+          "id": "Sebaiknya jangan tinggalkan hewan peliharaan terlalu lama sendirian."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great job! Last: what should you do for your own pet?",
+          "id": "Bagus! Terakhir: apa yang sebaiknya kamu lakukan untuk hewan peliharaanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I should take care of my pet every day and take it to the vet.",
+          "id": "Saya sebaiknya merawat hewan peliharaan saya setiap hari dan membawanya ke dokter hewan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah belajar 'should' dan 'shouldn't' untuk memberi saran perawatan hewan peliharaan. Mari kita ingat: 'should' untuk saran positif, 'shouldn't' untuk saran menghindari, dan kata kerja setelah 'should' selalu bentuk dasar. Coba saya tanya: kalau mau menyarankan 'jangan beri coklat ke anjing', bagaimana? Benar, 'You shouldn't give chocolate to dogs.' Untuk PR, tulis 10 kalimat saran perawatan hewan memakai 'should/shouldn't'. Pertemuan berikutnya kita akan belajar membandingkan hewan memakai 'can' dan 'can't'. Sampai jumpa!",
+      "instructions": "Tegaskan aturan 'should' + bentuk dasar. Berikan 1-2 pertanyaan pemahaman. Beri PR 10 kalimat dan umumkan topik perbandingan hewan."
+    }
+  ]
+}

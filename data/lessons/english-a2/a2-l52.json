@@ -1,0 +1,251 @@
+{
+  "id": "a2-l52",
+  "course_id": "english-a2",
+  "module_title": "Festival dan Tradisi",
+  "level": "A2",
+  "title": "Pola Used to untuk Tradisi",
+  "subtitle": "Menceritakan tradisi masa lampau yang sudah berubah",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat afirmatif, negatif, dan pertanyaan dengan used to",
+    "Memahami perubahan bentuk use to pada negatif dan pertanyaan",
+    "Menceritakan tradisi masa lampau yang sudah tidak dilakukan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar past simple untuk menceritakan festival. Coba sebutkan satu contoh kalimat past simple yang kalian buat untuk PR. Bagus sekali. Hari ini kita lanjutkan topik festival dan tradisi dengan pola baru, yaitu 'used to'. Pola ini dipakai untuk menceritakan tradisi atau kebiasaan di masa lampau yang sudah tidak dilakukan sekarang. Misalnya, dulu orang membuat ketupat sendiri di rumah, tapi sekarang banyak yang membeli. Coba pikirkan, tradisi apa di daerahmu yang dulu sering dilakukan tapi sekarang sudah jarang? Itulah yang akan kita pelajari hari ini. Rencana kita: bentuk afirmatif, negatif, dan pertanyaan 'used to', lalu berlatih menceritakan tradisi yang berubah.",
+      "instructions": "Sapa murid dan tanyakan satu contoh PR kemarin sebagai pengulangan. Tanyakan satu contoh tradisi lama yang sudah berubah di daerah murid. Tulis jawaban di papan sebagai contoh."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu 'Used to'?\n\n**Used to** dipakai untuk menyatakan kebiasaan atau keadaan di masa lampau yang **sudah tidak berlaku lagi** sekarang. Pola ini sering muncul saat menceritakan tradisi lama yang sudah berubah.\n\nContoh:\n- My family **used to cook** rendang together for Lebaran. (Dulu keluarga saya biasa memasak rendang bersama untuk Lebaran — sekarang tidak lagi.)\n- People **used to make** their own ketupat. (Dulu orang biasa membuat ketupat sendiri.)\n\n## Bentuk Afirmatif, Negatif, dan Pertanyaan\n\n- **Afirmatif:** subjek + used to + bentuk dasar\n  - We **used to light** lanterns every full moon.\n  - My grandmother **used to make** offerings every morning.\n- **Negatif:** subjek + didn't use to + bentuk dasar\n  - We **didn't use to buy** fireworks.\n  - Children **didn't use to watch** the parade on phones.\n- **Pertanyaan:** Did + subjek + use to + bentuk dasar\n  - **Did you use to visit** your grandparents on Galungan?\n  - **Did people use to wear** traditional costumes?\n\n> **Penting:** Pada bentuk negatif dan pertanyaan, 'used to' berubah menjadi **'use to'** karena sudah ada 'did/didn't'. Jangan tulis 'didn't used to' atau 'did you used to' — itu salah.\n\n## Perbandingan Bentuk\n\n| Bentuk | Struktur | Contoh |\n|---|---|---|\n| Afirmatif | subjek + used to + V1 | We used to celebrate together. |\n| Negatif | subjek + didn't use to + V1 | We didn't use to buy fireworks. |\n| Pertanyaan | Did + subjek + use to + V1 | Did you use to make ketupat? |\n\n> **Hindari:** memakai 'used to' untuk kebiasaan yang masih dilakukan sekarang. Jika tradisi masih berlangsung, gunakan present simple: 'We celebrate Galungan every year' (bukan 'We used to celebrate Galungan every year').\n\n## Mini-dialogue\n\nA: Did your family use to make their own ketupat?\nB: Yes, we used to make ketupat together every Lebaran.\nA: Do you still do it now?\nB: No, now we usually buy them from the market.\n\n> **Catatan:** 'used to' selalu diikuti bentuk dasar kata kerja, tidak pernah berakhiran -ed atau -ing.",
+      "key_points": [
+        "'Used to' menyatakan kebiasaan atau keadaan masa lampau yang sudah tidak berlaku.",
+        "Bentuk afirmatif: subjek + used to + bentuk dasar kata kerja.",
+        "Bentuk negatif: didn't use to (bukan didn't used to).",
+        "Bentuk pertanyaan: Did + subjek + use to + bentuk dasar.",
+        "'Used to' selalu diikuti bentuk dasar, tidak pernah -ed atau -ing.",
+        "Hindari memakai 'used to' untuk kebiasaan yang masih berlangsung — gunakan present simple.",
+        "Pada negatif dan pertanyaan, 'used to' berubah jadi 'use to' karena ada did/didn't."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "festival",
+          "id": "festival",
+          "phonetic": "/ˈfestɪvl/",
+          "example_en": "We went to a big festival last week.",
+          "example_id": "Kami pergi ke festival besar minggu lalu."
+        },
+        {
+          "en": "celebration",
+          "id": "perayaan",
+          "phonetic": "/ˌselɪˈbreɪʃn/",
+          "example_en": "The celebration was very lively.",
+          "example_id": "Perayaannya sangat meriah."
+        },
+        {
+          "en": "tradition",
+          "id": "tradisi",
+          "phonetic": "/trəˈdɪʃn/",
+          "example_en": "This tradition is very old.",
+          "example_id": "Tradisi ini sudah sangat lama."
+        },
+        {
+          "en": "parade",
+          "id": "pawai",
+          "phonetic": "/pəˈreɪd/",
+          "example_en": "The parade started at dawn.",
+          "example_id": "Pawai dimulai saat fajar."
+        },
+        {
+          "en": "fireworks",
+          "id": "kembang api",
+          "phonetic": "/ˈfaɪərwɜːrks/",
+          "example_en": "We watched the fireworks at night.",
+          "example_id": "Kami menonton kembang api pada malam hari."
+        },
+        {
+          "en": "costume",
+          "id": "kostum",
+          "phonetic": "/ˈkɒstuːm/",
+          "example_en": "She wore a traditional costume.",
+          "example_id": "Dia memakai kostum tradisional."
+        },
+        {
+          "en": "ceremony",
+          "id": "upacara",
+          "phonetic": "/ˈserəməni/",
+          "example_en": "The ceremony was held at the temple.",
+          "example_id": "Upacara digelar di pura."
+        },
+        {
+          "en": "offering",
+          "id": "sesajen",
+          "phonetic": "/ˈɒfərɪŋ/",
+          "example_en": "My grandmother made offerings for the gods.",
+          "example_id": "Nenek saya membuat sesajen untuk para dewa."
+        },
+        {
+          "en": "decoration",
+          "id": "hiasan",
+          "phonetic": "/ˌdekəˈreɪʃn/",
+          "example_en": "The decorations were very colorful.",
+          "example_id": "Hiasannya sangat berwarna-warni."
+        },
+        {
+          "en": "performance",
+          "id": "pertunjukan",
+          "phonetic": "/pərˈfɔːrməns/",
+          "example_en": "We watched a dance performance.",
+          "example_id": "Kami menonton pertunjukan tari."
+        },
+        {
+          "en": "drum",
+          "id": "gendang",
+          "phonetic": "/drʌm/",
+          "example_en": "The musicians played traditional drums.",
+          "example_id": "Para musisi memainkan gendang tradisional."
+        },
+        {
+          "en": "lantern",
+          "id": "lentera",
+          "phonetic": "/ˈlæntərn/",
+          "example_en": "We lit lanterns in the garden.",
+          "example_id": "Kami menyalakan lentera di taman."
+        },
+        {
+          "en": "feast",
+          "id": "pesta makan",
+          "phonetic": "/fiːst/",
+          "example_en": "The family had a big feast together.",
+          "example_id": "Keluarga itu mengadakan pesta makan besar bersama."
+        },
+        {
+          "en": "guest",
+          "id": "tamu",
+          "phonetic": "/ɡest/",
+          "example_en": "Many guests came to the celebration.",
+          "example_id": "Banyak tamu datang ke perayaan itu."
+        },
+        {
+          "en": "dance",
+          "id": "tarian",
+          "phonetic": "/dæns/",
+          "example_en": "The traditional dance was beautiful.",
+          "example_id": "Tarian tradisionalnya indah."
+        },
+        {
+          "en": "to celebrate",
+          "id": "merayakan",
+          "phonetic": "/tuː ˈselɪbreɪt/",
+          "example_en": "We celebrate Galungan every year.",
+          "example_id": "Kami merayakan Galungan setiap tahun."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru mengucapkan kalimat present simple, murid mengubahnya jadi 'used to'. Contoh: 'People make ketupat.' -> 'People used to make ketupat.'\n2) **Fill-in-the-blank (5 menit):** Lengkapi 6 kalimat dengan 'used to' atau 'didn't use to' yang benar.\n3) **Pair work (5 menit):** Tanyakan dan jawab dengan 'Did you use to...?' tentang tradisi keluarga masing-masing.\n4) **Role play (4 menit):** Dua murid memeragakan kakek-nenek dan cucu yang menceritakan tradisi lama.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'Did you used to...?' -> 'Did you use to...?').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When I was a child, my village used to hold a big parade.",
+          "id": "Waktu saya kecil, desaku biasanya mengadakan pawai besar."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That sounds fun! We didn't use to have fireworks, but now we do.",
+          "id": "Kedengarannya menyenangkan! Dulu kami tidak biasa ada kembang api, tetapi sekarang ada."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did your family use to make their own ketupat?",
+          "id": "Apakah dulu keluargamu biasa membuat ketupat sendiri?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we used to make ketupat together every Lebaran.",
+          "id": "Ya, kami biasa membuat ketupat bersama setiap Lebaran."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you still make them now?",
+          "id": "Apakah kamu masih membuatnya sekarang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, now we usually buy them from the market.",
+          "id": "Tidak, sekarang kami biasanya membelinya di pasar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Make a sentence with 'used to' about a tradition.",
+          "id": "Buat satu kalimat dengan 'used to' tentang sebuah tradisi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My grandmother used to light lanterns every full moon.",
+          "id": "Nenek saya dulu biasa menyalakan lentera setiap bulan purnama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now change it to negative.",
+          "id": "Sekarang ubah jadi negatif."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My grandmother didn't use to buy lanterns; she made them.",
+          "id": "Nenek saya dulu tidak biasa membeli lentera; dia membuatnya sendiri."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Make a question with 'Did you use to...?'",
+          "id": "Buat pertanyaan dengan 'Did you use to...?'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Did you use to watch the dance performance as a child?",
+          "id": "Apakah dulu kamu biasa menonton pertunjukan tari saat kecil?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Correct this: 'Did she used to wear a costume?'",
+          "id": "Bagus. Perbaiki ini: 'Did she used to wear a costume?'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'Did she use to wear a costume?'",
+          "id": "Seharusnya 'Did she use to wear a costume?'"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap sekali! Hari ini kalian sudah menguasai pola 'used to' untuk menceritakan tradisi lama yang sudah berubah. Mari kita ingat: afirmatif 'used to + bentuk dasar', negatif 'didn't use to' (bukan didn't used to), dan pertanyaan 'Did + subjek + use to'. Coba saya tanya: apa bentuk negatif dari 'We used to celebrate together'? Tepat, 'We didn't use to celebrate together.' Apa bentuk pertanyaannya? Benar, 'Did you use to celebrate together?' Untuk PR, tulis 5 kalimat: 3 afirmatif, 1 negatif, dan 1 pertanyaan dengan 'used to' tentang tradisi keluarga kalian. Pertemuan berikutnya kita akan membandingkan 'used to' dengan 'past simple' supaya kalian tahu kapan memakai yang mana. Sampai jumpa!",
+      "instructions": "Tegaskan kembali bentuk negatif yang benar ('didn't use to'). Berikan PR tertulis dan ingatkan topik pelajaran berikutnya tentang perbandingan used to dan past simple."
+    }
+  ]
+}

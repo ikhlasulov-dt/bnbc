@@ -1,0 +1,275 @@
+{
+  "id": "a2-l69",
+  "course_id": "english-a2",
+  "module_title": "Berita dan Peristiwa",
+  "level": "A2",
+  "title": "Struktur Present Perfect",
+  "subtitle": "Membahas berita terkini dengan have/has + past participle",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat present perfect dengan have/has + past participle",
+    "Membuat kalimat positif, negatif, dan pertanyaan",
+    "Memahami kapan menggunakan present perfect untuk berita"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita memulai modul baru, yaitu Berita dan Peristiwa. Modul ini akan mengajak kalian menceritakan berita dan peristiwa yang terjadi di sekitar kalian. Sebelum mulai, mari kita ingat modul kemarin tentang hewan peliharaan. Siapa bisa beri satu contoh kalimat 'can/can't'? Bagus. Sekarang kita beralih ke pola baru: present perfect. Pola ini dipakai untuk menyatakan kejadian yang baru saja terjadi atau ada hubungannya dengan sekarang. Coba, berita apa yang kalian dengar akhir-akhir ini? Gempa? Banjir? Pemilu? Itulah yang akan kita pelajari. Rencana hari ini: kita pelajari struktur present perfect, lalu berlatih menceritakan berita.",
+      "instructions": "Sapa murid dan umumkan modul baru. Tanyakan satu contoh 'can/can't' sebagai pengulangan. Tanyakan berita terbaru yang mereka dengar. Catat di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu Present Perfect?\n\n**Present perfect** adalah pola untuk menyatakan kejadian yang **terjadi di masa lampau tapi masih ada hubungannya dengan sekarang**. Dalam berita, present perfect sering dipakai untuk peristiwa yang baru saja terjadi atau masih relevan.\n\n## Struktur Present Perfect\n\nsubjek + **have/has** + **past participle (V3)**\n\n- **have** untuk I, you, we, they\n- **has** untuk he, she, it\n\n## Contoh\n\n- The government **has announced** a new policy.\n- Three earthquakes **have hit** the region this month.\n- A journalist **has written** a new report.\n- Rescue teams **have arrived** in the area.\n- The president **has given** an interview.\n\n## Bentuk Negatif dan Pertanyaan\n\n| Bentuk | Struktur | Contoh |\n|---|---|---|\n| Positif | subjek + have/has + V3 | The storm has destroyed many houses. |\n| Negatif | subjek + haven't/hasn't + V3 | They haven't found all the victims. |\n| Pertanyaan | Have/Has + subjek + V3? | Has the government announced the result? |\n\n## Perbedaan dengan Past Simple\n\n- **Present perfect:** fokus pada hasil/sekarang, tanpa waktu spesifik.\n  - The storm **has destroyed** many houses. (sekarang rumahnya hancur)\n- **Past simple:** fokus pada kejadian lampau dengan waktu spesifik.\n  - The storm **destroyed** many houses yesterday.\n\n> **Hindari:** memakai present perfect dengan waktu spesifik. Salah: 'The storm has destroyed houses yesterday.' Benar: 'The storm destroyed houses yesterday.' (past simple)\n\n> **Catatan:** Present perfect sering dipakai dengan 'just', 'already', 'yet', 'recently'. Contoh: 'The government has just announced the result.'\n\n## Mini-dialogue\n\nA: Have you heard the news?\nB: Yes, a big storm has hit the coast.\nA: Has the government announced anything?\nB: Yes, they have already sent rescue teams.",
+      "key_points": [
+        "Present perfect: kejadian lampau yang masih ada hubungannya dengan sekarang.",
+        "Struktur: subjek + have/has + past participle (V3).",
+        "'have' untuk I/you/we/they, 'has' untuk he/she/it.",
+        "Negatif: haven't/hasn't + V3. Pertanyaan: Have/Has + subjek + V3?",
+        "Present perfect tidak dipakai dengan waktu spesifik (yesterday, last week).",
+        "Sering dipakai dengan just, already, yet, recently.",
+        "Sangat berguna untuk menceritakan berita dan peristiwa terbaru."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "news",
+          "id": "berita",
+          "phonetic": "/nuːz/",
+          "example_en": "I read the news every morning.",
+          "example_id": "Saya membaca berita setiap pagi."
+        },
+        {
+          "en": "report",
+          "id": "laporan",
+          "phonetic": "/rɪˈpɔːrt/",
+          "example_en": "A journalist has written a new report.",
+          "example_id": "Seorang wartawan telah menulis laporan baru."
+        },
+        {
+          "en": "headline",
+          "id": "judul berita",
+          "phonetic": "/ˈhedlaɪn/",
+          "example_en": "The headline was very shocking.",
+          "example_id": "Judul beritanya sangat mengejutkan."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "The journalist has spoken to the public.",
+          "example_id": "Wartawan itu telah berbicara kepada publik."
+        },
+        {
+          "en": "broadcast",
+          "id": "siaran",
+          "phonetic": "/ˈbrɔːdkæst/",
+          "example_en": "The broadcast started at seven.",
+          "example_id": "Siaran dimulai pada pukul tujuh."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "The president gave an interview.",
+          "example_id": "Presiden memberikan wawancara."
+        },
+        {
+          "en": "article",
+          "id": "artikel",
+          "phonetic": "/ˈɑːrtɪkl/",
+          "example_en": "She has written an article about the storm.",
+          "example_id": "Dia telah menulis artikel tentang badai itu."
+        },
+        {
+          "en": "channel",
+          "id": "saluran",
+          "phonetic": "/ˈtʃænl/",
+          "example_en": "Change the channel, please.",
+          "example_id": "Ganti salurannya, tolong."
+        },
+        {
+          "en": "election",
+          "id": "pemilihan",
+          "phonetic": "/ɪˈlekʃn/",
+          "example_en": "The election result has been announced.",
+          "example_id": "Hasil pemilihan telah diumumkan."
+        },
+        {
+          "en": "policy",
+          "id": "kebijakan",
+          "phonetic": "/ˈpɒlɪsi/",
+          "example_en": "The government has announced a new policy.",
+          "example_id": "Pemerintah telah mengumumkan kebijakan baru."
+        },
+        {
+          "en": "storm",
+          "id": "badai",
+          "phonetic": "/stɔːrm/",
+          "example_en": "The storm has destroyed many houses.",
+          "example_id": "Badai telah menghancurkan banyak rumah."
+        },
+        {
+          "en": "earthquake",
+          "id": "gempa bumi",
+          "phonetic": "/ˈɜːrθkweɪk/",
+          "example_en": "Three earthquakes have hit the region this month.",
+          "example_id": "Tiga gempa bumi telah melanda wilayah itu bulan ini."
+        },
+        {
+          "en": "accident",
+          "id": "kecelakaan",
+          "phonetic": "/ˈæksɪdənt/",
+          "example_en": "Three people were injured in the accident.",
+          "example_id": "Tiga orang terluka dalam kecelakaan itu."
+        },
+        {
+          "en": "victim",
+          "id": "korban",
+          "phonetic": "/ˈvɪktɪm/",
+          "example_en": "They haven't found all the victims yet.",
+          "example_id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "en": "rescue",
+          "id": "penyelamatan",
+          "phonetic": "/ˈreskjuː/",
+          "example_en": "Rescue teams have arrived in the area.",
+          "example_id": "Tim penyelamat telah tiba di daerah itu."
+        },
+        {
+          "en": "to announce",
+          "id": "mengumumkan",
+          "phonetic": "/tuː əˈnaʊns/",
+          "example_en": "The government has announced the result.",
+          "example_id": "Pemerintah telah mengumumkan hasilnya."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut subjek dan kata kerja, murid buat kalimat present perfect.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat berita dengan 'have/has' + V3 yang tepat.\n3) **Pair work (5 menit):** Tanyakan-jawab 'Have you heard about...?' tentang berita terbaru.\n4) **Role play (4 menit):** Dua murid memeragakan pembawa berita dan penonton.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'The storm has destroyed houses yesterday' -> 'The storm destroyed houses yesterday').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you heard the news?",
+          "id": "Apakah kamu sudah mendengar beritanya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, a big storm has hit the coast.",
+          "id": "Ya, badai besar telah melanda pantai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has the government announced anything?",
+          "id": "Apakah pemerintah sudah mengumumkan sesuatu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they have already sent rescue teams.",
+          "id": "Ya, mereka sudah mengirim tim penyelamat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Make a present perfect sentence about an earthquake.",
+          "id": "Bagus. Buat kalimat present perfect tentang gempa."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Three earthquakes have hit the region this month.",
+          "id": "Tiga gempa bumi telah melanda wilayah itu bulan ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Now make a negative sentence.",
+          "id": "Bagus. Sekarang buat kalimat negatif."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They haven't found all the victims yet.",
+          "id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'The storm has destroyed houses yesterday.'",
+          "id": "Perbaiki ini: 'The storm has destroyed houses yesterday.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'The storm destroyed houses yesterday.'",
+          "id": "Seharusnya 'The storm destroyed houses yesterday.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'yesterday' is specific, so we use past simple.",
+          "id": "Karena 'yesterday' itu spesifik, jadi kita pakai past simple."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'has' with 'the president'.",
+          "id": "Bagus. Pakai 'has' dengan 'the president'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The president has given an interview about the policy.",
+          "id": "Presiden telah memberikan wawancara tentang kebijakan itu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now ask me: 'Have you...?' about the news.",
+          "id": "Sempurna. Sekarang tanyakan saya: 'Have you...?' tentang berita."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Have you read the article about the election?",
+          "id": "Apakah Anda sudah membaca artikel tentang pemilihan itu?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, I have. Last: report one news item in present perfect.",
+          "id": "Ya. Terakhir: laporkan satu berita dalam present perfect."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A journalist has written a report about the accident.",
+          "id": "Seorang wartawan telah menulis laporan tentang kecelakaan itu."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah belajar present perfect untuk menceritakan berita dan peristiwa. Mari kita ingat: struktur subjek + have/has + V3. Coba saya tanya: kalau subjeknya 'the government', pakai 'have' atau 'has'? Benar, 'has'. Untuk PR, tulis 8 kalimat berita memakai present perfect (campuran positif, negatif, pertanyaan). Pertemuan berikutnya kita akan pelajari past participle, bentuk kata kerja yang dipakai di present perfect, baik regular maupun irregular. Sampai jumpa!",
+      "instructions": "Tegaskan struktur present perfect. Berikan 1-2 pertanyaan pemahaman. Beri PR 8 kalimat dan umumkan topik past participle berikutnya."
+    }
+  ]
+}

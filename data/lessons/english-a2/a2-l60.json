@@ -1,0 +1,263 @@
+{
+  "id": "a2-l60",
+  "course_id": "english-a2",
+  "module_title": "Rumah dan Perabot",
+  "level": "A2",
+  "title": "Urutan Deskripsi yang Rapi",
+  "subtitle": "Menyusun deskripsi ruangan secara logis",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun deskripsi ruangan dengan urutan logis",
+    "Mulai dari ciri umum, lalu detail perabot, lalu aksesori",
+    "Menulis paragraf deskripsi yang mudah dibayangkan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar kosakata rumah dan perabot. Siapa bisa sebutkan 3 kata baru yang kalian pelajari? Bagus. Hari ini kita belajar menyusun deskripsi yang rapi dan logis. Kalau kita langsung menyebut banyak benda tanpa urutan, pendengar jadi bingung membayangkan ruangannya. Misalnya, 'There is a sofa, there is a lamp, there is a rug, there is a wardrobe...' — tidak jelas mana yang utama, mana yang aksesori. Coba pikirkan: kalau mau mendeskripsikan kamar, dari mana kalian mulai? Itulah yang akan kita pelajari. Rencana: kita pelajari urutan deskripsi yang baik, lalu berlatih menulis paragraf deskripsi.",
+      "instructions": "Sapa murid dan tanyakan 3 kata kosakata kemarin. Ajak murid berpikir tentang urutan deskripsi yang baik. Catat jawaban di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mengapa Urutan Deskripsi Penting?\n\nDeskripsi ruangan yang baik mengikuti **urutan logis** supaya pendengar atau pembaca bisa membayangkan ruangan secara **bertahap**, tidak melompat-lompat. Tanpa urutan yang jelas, deskripsi terasa kacau dan sulut dibayangkan.\n\n## Urutan Deskripsi yang Rapi\n\nUrutan yang disarankan:\n\n### 1. Ciri Umum Ruangan\nMulai dari hal umum: **ukuran, suasana, warna**.\n- My bedroom is small but comfortable.\n- The walls are light blue.\n- The room is very bright in the morning.\n\n### 2. Perabot Utama\nSebutkan perabot utama beserta posisinya.\n- There is a bed near the window.\n- There is a desk next to the bed.\n- There is a wardrobe between the door and the window.\n\n### 3. Aksesori dan Dekorasi\nAkhiri dengan aksesori atau detail kecil.\n- There is a lamp on the desk.\n- There are two shelves above the desk.\n- There is a rug under the bed.\n- The curtains are blue.\n\n## Contoh Paragraf Deskripsi Lengkap\n\nMy bedroom is small but comfortable. The walls are light blue and the room is very bright in the morning. There is a bed near the window. There is a desk next to the bed with a lamp on it. There is a wardrobe between the door and the window. There are two shelves above the desk. There is a rug under the bed. The curtains are blue. I really love my room.\n\nStruktur ini membantu pendengar membayangkan ruangan secara bertahap: pertama gambaran umum, lalu perabot utama, lalu detail kecil.\n\n## Tips Menulis Deskripsi\n\n- Mulai dari **gambaran besar** sebelum **detail kecil**.\n- Pakai **preposisi tempat** untuk menjelaskan posisi (next to, between, above).\n- Gabungkan beberapa benda dalam satu kalimat bila berdekatan: 'There is a desk next to the bed with a lamp on it.'\n- Akhiri dengan **kesan pribadi**: 'I really love my room.'\n\n> **Hindari:** melompat-lompat antar benda yang tidak berdekatan. Salah: 'There is a bed. There is a rug. There is a desk. There is a wardrobe.' — tidak ada keterhubungan posisi. Benar: urutkan dari yang paling menonjol, lalu detail di sekitarnya.\n\n> **Catatan:** Bila perlu, bagi deskripsi per dinding atau per sudut: 'Near the window, there is... Next to the door, there is...'\n\n## Mini-dialogue\n\nA: Describe your bedroom.\nB: My bedroom is small but cozy. There is a bed near the window and a desk next to it. There is a lamp on the desk and a rug under the bed.\nA: Sounds nice!\nB: Yes, I really love my room.",
+      "key_points": [
+        "Deskripsi yang rapi mengikuti urutan logis: umum -> perabot utama -> aksesori.",
+        "Mulai dari ciri umum: ukuran, suasana, warna ruangan.",
+        "Lalu perabot utama beserta posisinya (memakai preposisi).",
+        "Akhiri dengan aksesori: lampu, rak, karpet, tirai.",
+        "Struktur bertahap membantu pendengar membayangkan ruangan.",
+        "Hindari melompat-lompat antar benda yang tidak berdekatan.",
+        "Akhiri dengan kesan pribadi untuk membuat deskripsi lebih hidup."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "living room",
+          "id": "ruang tamu",
+          "phonetic": "/ˈlɪvɪŋ ruːm/",
+          "example_en": "There is a sofa in the living room.",
+          "example_id": "Ada sofa di ruang tamu."
+        },
+        {
+          "en": "bedroom",
+          "id": "kamar tidur",
+          "phonetic": "/ˈbedruːm/",
+          "example_en": "My bedroom is small but cozy.",
+          "example_id": "Kamar tidur saya kecil tetapi nyaman."
+        },
+        {
+          "en": "kitchen",
+          "id": "dapur",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "example_en": "The kitchen is next to the living room.",
+          "example_id": "Dapurnya di sebelah ruang tamu."
+        },
+        {
+          "en": "bathroom",
+          "id": "kamar mandi",
+          "phonetic": "/ˈbæθruːm/",
+          "example_en": "There is a sink in the bathroom.",
+          "example_id": "Ada bak cuci tangan di kamar mandi."
+        },
+        {
+          "en": "dining room",
+          "id": "ruang makan",
+          "phonetic": "/ˈdaɪnɪŋ ruːm/",
+          "example_en": "We eat together in the dining room.",
+          "example_id": "Kami makan bersama di ruang makan."
+        },
+        {
+          "en": "garden",
+          "id": "taman",
+          "phonetic": "/ˈɡɑːrdn/",
+          "example_en": "The garden is behind the kitchen.",
+          "example_id": "Tamannya di belakang dapur."
+        },
+        {
+          "en": "sofa",
+          "id": "sofa",
+          "phonetic": "/ˈsoʊfə/",
+          "example_en": "There is a big sofa in the living room.",
+          "example_id": "Ada sofa besar di ruang tamu."
+        },
+        {
+          "en": "armchair",
+          "id": "kursi berlengan",
+          "phonetic": "/ˈɑːrmtʃer/",
+          "example_en": "There are two armchairs next to the window.",
+          "example_id": "Ada dua kursi berlengan di sebelah jendela."
+        },
+        {
+          "en": "wardrobe",
+          "id": "lemari pakaian",
+          "phonetic": "/ˈwɔːrdroʊb/",
+          "example_en": "There is a wardrobe between the door and the window.",
+          "example_id": "Ada lemari pakaian di antara pintu dan jendela."
+        },
+        {
+          "en": "shelf",
+          "id": "rak",
+          "phonetic": "/ʃelf/",
+          "example_en": "There are some books on the shelf.",
+          "example_id": "Ada beberapa buku di rak."
+        },
+        {
+          "en": "cupboard",
+          "id": "lemari",
+          "phonetic": "/ˈkʌpbərd/",
+          "example_en": "The TV is above the cupboard.",
+          "example_id": "Televisinya di atas lemari."
+        },
+        {
+          "en": "lamp",
+          "id": "lampu",
+          "phonetic": "/læmp/",
+          "example_en": "There is a lamp on the desk.",
+          "example_id": "Ada lampu di atas meja."
+        },
+        {
+          "en": "rug",
+          "id": "karpet",
+          "phonetic": "/rʌɡ/",
+          "example_en": "There is a rug under the table.",
+          "example_id": "Ada karpet di bawah meja."
+        },
+        {
+          "en": "curtain",
+          "id": "tirai",
+          "phonetic": "/ˈkɜːrtn/",
+          "example_en": "The curtains are blue.",
+          "example_id": "Tirainya berwarna biru."
+        },
+        {
+          "en": "sink",
+          "id": "bak cuci tangan",
+          "phonetic": "/sɪŋk/",
+          "example_en": "There is a sink in the kitchen.",
+          "example_id": "Ada bak cuci tangan di dapur."
+        },
+        {
+          "en": "refrigerator",
+          "id": "kulkas",
+          "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+          "example_en": "There is a refrigerator next to the stove.",
+          "example_id": "Ada kulkas di sebelah kompor."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Analisis (4 menit):** Baca paragraf deskripsi contoh, identifikasi ciri umum, perabot, aksesori.\n2) **Ordering (4 menit):** Susun ulang 6 kalimat acak menjadi paragraf deskripsi yang logis.\n3) **Pair work (5 menit):** Deskripsikan kamarmu ke pasangan dalam 5 kalimat memakai urutan yang benar.\n4) **Writing (5 menit):** Tulis paragraf deskripsi (5-7 kalimat) tentang satu ruangan di rumah.\n5) **Sharing (2 menit):** 2 murid membacakan deskripsi mereka.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the correct order for describing a room?",
+          "id": "Apa urutan yang benar untuk mendeskripsikan ruangan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "General features, main furniture, then accessories.",
+          "id": "Ciri umum, perabot utama, lalu aksesori."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Give an example of a general feature.",
+          "id": "Bagus. Beri contoh ciri umum."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My bedroom is small but comfortable.",
+          "id": "Kamar tidur saya kecil tetapi nyaman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now give an example of main furniture with position.",
+          "id": "Sekarang beri contoh perabot utama dengan posisi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a bed near the window.",
+          "id": "Ada tempat tidur di dekat jendela."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And an accessory?",
+          "id": "Dan aksesori?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a lamp on the desk.",
+          "id": "Ada lampu di atas meja."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Describe your bedroom in three sentences.",
+          "id": "Bagus. Deskripsikan kamarmu dalam tiga kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My bedroom is small but cozy. There is a bed near the window. There is a lamp on the desk next to the bed.",
+          "id": "Kamar tidur saya kecil tetapi nyaman. Ada tempat tidur di dekat jendela. Ada lampu di atas meja di sebelah tempat tidur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great. What should you avoid in a description?",
+          "id": "Bagus. Apa yang harus dihindari dalam deskripsi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Jumping between things that are not close to each other.",
+          "id": "Melompat-lompat antar benda yang tidak berdekatan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How can you end a description?",
+          "id": "Bagaimana cara mengakhiri deskripsi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "With a personal feeling, like 'I really love my room.'",
+          "id": "Dengan perasaan pribadi, seperti 'I really love my room.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now write your own description in 5-7 sentences.",
+          "id": "Sempurna. Sekarang tulis deskripsi kalian sendiri dalam 5-7 kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Okay, I'll describe my living room.",
+          "id": "Baik, saya akan mendeskripsikan ruang tamu saya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar menyusun deskripsi ruangan secara rapi dan logis. Mari kita ingat urutannya: ciri umum (ukuran, suasana, warna), perabot utama beserta posisi, lalu aksesori. Coba saya tanya: kenapa urutan itu penting? Benar, supaya pendengar bisa membayangkan ruangan secara bertahap. Apa yang harus dihindari? Tepat, melompat-lompat antar benda. Untuk PR, tulis paragraf deskripsi (6-8 kalimat) tentang ruang tamu atau ruang makan di rumah kalian, lengkap dengan urutan yang benar dan kesan pribadi di akhir. Pertemuan berikutnya kita akan belajar 'some' dan 'any' untuk menyebut jumlah benda dalam deskripsi rumah. Sampai jumpa!",
+      "instructions": "Tegaskan urutan deskripsi dan pentingnya logika. Beri PR paragraf deskripsi. Umumkan topik 'some' dan 'any' di pelajaran berikutnya."
+    }
+  ]
+}

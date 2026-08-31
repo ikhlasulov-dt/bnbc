@@ -1,0 +1,263 @@
+{
+  "id": "a2-l57",
+  "course_id": "english-a2",
+  "module_title": "Rumah dan Perabot",
+  "level": "A2",
+  "title": "Pola There Is dan There Are",
+  "subtitle": "Mendeskripsikan keberadaan benda di rumah",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan there is untuk benda tunggal dan there are untuk benda jamak",
+    "Membentuk kalimat positif, negatif, dan pertanyaan dengan there is/there are",
+    "Menggunakan some dan any dengan benar"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita memulai modul baru, yaitu Rumah dan Perabot. Modul ini akan mengajak kalian mendeskripsikan rumah dan ruangan beserta isinya. Sebelum mulai, mari kita ingat modul kemarin tentang festival. Siapa bisa sebutkan satu contoh kalimat past simple? Bagus. Sekarang kita beralih ke pola baru: 'there is' dan 'there are'. Pola ini dipakai untuk menyatakan keberadaan sesuatu di suatu tempat. Coba lihat sekeliling kelas ini. Ada apa saja di ruangan kita? Ada meja? Ada kursi? Ada papan tulis? Itulah yang akan kita pelajari. Rencana hari ini: kita pelajari perbedaan 'there is' dan 'there are', lalu berlatih mendeskripsikan ruangan.",
+      "instructions": "Sapa murid dan umumkan modul baru. Tanyakan satu contoh past simple sebagai pengulangan. Ajak murid mengamati ruangan kelas dan menyebut benda yang ada."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu 'There Is' dan 'There Are'?\n\n**There is** dan **there are** dipakai untuk menyatakan **keberadaan** sesuatu di suatu tempat. Pola ini sangat penting untuk mendeskripsikan rumah dan ruangan.\n\n## Perbedaan 'There Is' dan 'There Are'\n\n- **There is** dipakai untuk **tunggal** (satu benda) atau **uncountable noun**.\n  - There **is** a sofa in the living room.\n  - There **is** a lamp on the desk.\n  - There **is** water in the kitchen.\n- **There are** dipakai untuk **jamak** (lebih dari satu benda).\n  - There **are** two armchairs next to the window.\n  - There **are** some books on the shelf.\n\n## Bentuk Negatif dan Pertanyaan\n\n| Bentuk | Struktur | Contoh |\n|---|---|---|\n| Positif (tunggal) | There is + a/an + benda | There is a sofa. |\n| Positif (jamak) | There are + benda(s) | There are two chairs. |\n| Negatif (tunggal) | There isn't + a/an + benda | There isn't a TV. |\n| Negatif (jamak) | There aren't + benda(s) | There aren't any lamps. |\n| Pertanyaan (tunggal) | Is there + a/an + benda? | Is there a wardrobe? |\n| Pertanyaan (jamak) | Are there + benda(s)? | Are there any shelves? |\n\n## Contoh Deskripsi Ruangan\n\n- There is a big sofa in the living room.\n- There are two armchairs next to the window.\n- There is a wardrobe between the door and the window.\n- There aren't any curtains in the kitchen.\n- Is there a refrigerator next to the stove? Yes, there is.\n\n> **Hindari:** memakai 'there is' untuk benda jamak. Salah: 'There is two chairs.' Benar: 'There are two chairs.' Juga hindari memakai 'there are' untuk benda tunggal. Salah: 'There are a sofa.' Benar: 'There is a sofa.'\n\n> **Catatan:** Dalam pertanyaan dan negatif jamak, kita sering memakai 'any'. Contoh: 'Are there any books?' 'There aren't any books.'\n\n## Mini-dialogue\n\nA: What is in your living room?\nB: There is a big sofa and there are two armchairs.\nA: Is there a TV?\nB: Yes, there is. There is a TV above the cupboard.",
+      "key_points": [
+        "'There is' untuk benda tunggal atau uncountable noun.",
+        "'There are' untuk benda jamak (lebih dari satu).",
+        "Negatif: there isn't (tunggal), there aren't (jamak).",
+        "Pertanyaan: Is there...? (tunggal), Are there...? (jamak).",
+        "Dalam pertanyaan dan negatif jamak, sering dipakai 'any'.",
+        "Hindari 'there is' untuk jamak dan 'there are' untuk tunggal.",
+        "Pola ini sangat penting untuk mendeskripsikan ruangan dan rumah."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "living room",
+          "id": "ruang tamu",
+          "phonetic": "/ˈlɪvɪŋ ruːm/",
+          "example_en": "There is a sofa in the living room.",
+          "example_id": "Ada sofa di ruang tamu."
+        },
+        {
+          "en": "bedroom",
+          "id": "kamar tidur",
+          "phonetic": "/ˈbedruːm/",
+          "example_en": "My bedroom is small but cozy.",
+          "example_id": "Kamar tidur saya kecil tetapi nyaman."
+        },
+        {
+          "en": "kitchen",
+          "id": "dapur",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "example_en": "The kitchen is next to the living room.",
+          "example_id": "Dapurnya di sebelah ruang tamu."
+        },
+        {
+          "en": "bathroom",
+          "id": "kamar mandi",
+          "phonetic": "/ˈbæθruːm/",
+          "example_en": "There is a sink in the bathroom.",
+          "example_id": "Ada bak cuci tangan di kamar mandi."
+        },
+        {
+          "en": "dining room",
+          "id": "ruang makan",
+          "phonetic": "/ˈdaɪnɪŋ ruːm/",
+          "example_en": "We eat together in the dining room.",
+          "example_id": "Kami makan bersama di ruang makan."
+        },
+        {
+          "en": "garden",
+          "id": "taman",
+          "phonetic": "/ˈɡɑːrdn/",
+          "example_en": "The garden is behind the kitchen.",
+          "example_id": "Tamannya di belakang dapur."
+        },
+        {
+          "en": "sofa",
+          "id": "sofa",
+          "phonetic": "/ˈsoʊfə/",
+          "example_en": "There is a big sofa in the living room.",
+          "example_id": "Ada sofa besar di ruang tamu."
+        },
+        {
+          "en": "armchair",
+          "id": "kursi berlengan",
+          "phonetic": "/ˈɑːrmtʃer/",
+          "example_en": "There are two armchairs next to the window.",
+          "example_id": "Ada dua kursi berlengan di sebelah jendela."
+        },
+        {
+          "en": "wardrobe",
+          "id": "lemari pakaian",
+          "phonetic": "/ˈwɔːrdroʊb/",
+          "example_en": "There is a wardrobe between the door and the window.",
+          "example_id": "Ada lemari pakaian di antara pintu dan jendela."
+        },
+        {
+          "en": "shelf",
+          "id": "rak",
+          "phonetic": "/ʃelf/",
+          "example_en": "There are some books on the shelf.",
+          "example_id": "Ada beberapa buku di rak."
+        },
+        {
+          "en": "cupboard",
+          "id": "lemari",
+          "phonetic": "/ˈkʌpbərd/",
+          "example_en": "The TV is above the cupboard.",
+          "example_id": "Televisinya di atas lemari."
+        },
+        {
+          "en": "lamp",
+          "id": "lampu",
+          "phonetic": "/læmp/",
+          "example_en": "There is a lamp on the desk.",
+          "example_id": "Ada lampu di atas meja."
+        },
+        {
+          "en": "rug",
+          "id": "karpet",
+          "phonetic": "/rʌɡ/",
+          "example_en": "There is a rug under the table.",
+          "example_id": "Ada karpet di bawah meja."
+        },
+        {
+          "en": "curtain",
+          "id": "tirai",
+          "phonetic": "/ˈkɜːrtn/",
+          "example_en": "The curtains are blue.",
+          "example_id": "Tirainya berwarna biru."
+        },
+        {
+          "en": "sink",
+          "id": "bak cuci tangan",
+          "phonetic": "/sɪŋk/",
+          "example_en": "There is a sink in the kitchen.",
+          "example_id": "Ada bak cuci tangan di dapur."
+        },
+        {
+          "en": "refrigerator",
+          "id": "kulkas",
+          "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+          "example_en": "There is a refrigerator next to the stove.",
+          "example_id": "Ada kulkas di sebelah kompor."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut benda dan jumlahnya, murid buat kalimat 'there is/there are'. Contoh: 'sofa, satu' -> 'There is a sofa.'\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan 'there is', 'there are', 'there isn't', atau 'there aren't'.\n3) **Pair work (5 menit):** Tanyakan-jawab tentang isi kamar masing-masing memakai 'Is there...?' / 'Are there...?'.\n4) **Role play (4 menit):** Dua murid memeragakan agen properti dan pembeli yang mendeskripsikan rumah.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'There is two chairs' -> 'There are two chairs').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is in your living room?",
+          "id": "Apa yang ada di ruang tamumu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a big sofa and there are two armchairs.",
+          "id": "Ada sofa besar dan dua kursi berlengan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is there a TV in the living room?",
+          "id": "Apakah ada TV di ruang tamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, there is. There is a TV above the cupboard.",
+          "id": "Ya, ada. Ada TV di atas lemari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Are there any curtains?",
+          "id": "Apakah ada tirai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, there are blue curtains on the windows.",
+          "id": "Ya, ada tirai biru di jendela."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Make a negative sentence about your kitchen.",
+          "id": "Buat kalimat negatif tentang dapurmu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There isn't a dishwasher in my kitchen.",
+          "id": "Tidak ada mesin pencuci piring di dapur saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Now ask me a question with 'Are there...?'",
+          "id": "Bagus. Sekarang tanyakan saya satu pertanyaan dengan 'Are there...?'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Are there any plants in your garden?",
+          "id": "Apakah ada tanaman di tamanmu?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, there are. Correct this: 'There is two chairs.'",
+          "id": "Ya, ada. Perbaiki ini: 'There is two chairs.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'There are two chairs.'",
+          "id": "Seharusnya 'There are two chairs.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'chairs' is plural, so we use 'there are'.",
+          "id": "Karena 'chairs' itu jamak, jadi kita pakai 'there are'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: describe your bedroom in two sentences.",
+          "id": "Sempurna. Terakhir: deskripsikan kamarmu dalam dua kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a bed near the window. There are some books on the shelf.",
+          "id": "Ada tempat tidur di dekat jendela. Ada beberapa buku di rak."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah belajar 'there is' dan 'there are' untuk mendeskripsikan keberadaan benda di rumah. Mari kita ingat: 'there is' untuk tunggal, 'there are' untuk jamak. Coba saya tanya: kalau ada dua kursi, pakai yang mana? Benar, 'there are'. Kalau ada satu sofa? Tepat, 'there is'. Untuk PR, tulis 10 kalimat mendeskripsikan ruang tamu atau kamar tidur kalian memakai 'there is/there are' (campuran positif, negatif, dan pertanyaan). Pertemuan berikutnya kita akan belajar preposisi tempat seperti 'in', 'on', 'under', 'next to' supaya deskripsi kalian lebih tepat. Sampai jumpa!",
+      "instructions": "Tegaskan perbedaan 'there is' dan 'there are'. Berikan 1-2 pertanyaan pemahaman. Beri PR mendeskripsikan ruangan dan umumkan topik preposisi tempat."
+    }
+  ]
+}

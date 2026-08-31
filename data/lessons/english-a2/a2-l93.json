@@ -1,0 +1,263 @@
+{
+  "id": "a2-l93",
+  "course_id": "english-a2",
+  "module_title": "Perpisahan dan Rencana Masa Depan",
+  "level": "A2",
+  "title": "Ungkapan Perpisahan",
+  "subtitle": "Mengucapkan perpisahan dengan sopan dan hangat",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai ungkapan perpisahan: goodbye, see you soon, take care",
+    "Memahami konteks penggunaan tiap ungkapan",
+    "Mengakhiri percakapan dengan sopan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar 'I'm looking forward to'. Siapa bisa beri satu contoh? Bagus. Hari ini kita belajar ungkapan perpisahan. Modul ini tentang perpisahan dan masa depan, jadi wajar kita pelajari cara mengucap selamat tinggal dengan baik. Coba pikirkan: kalau berpisah dengan teman, apa yang kalian katakan? 'Goodbye'? 'Take care'? Itulah yang akan kita pelajari. Rencana: kita pelajari berbagai ungkapan perpisahan, lalu berlatih memakainya dalam situasi berbeda.",
+      "instructions": "Sapa murid dan minta satu contoh 'looking forward to' kemarin. Ajak murid memikirkan ungkapan perpisahan. Jelaskan tujuan: belajar ungkapan perpisahan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Ungkapan Perpisahan\n\nSaat berpisah, kita memakai berbagai ungkapan tergantung situasi: formal, informal, singkat, atau penuh harapan.\n\n## Daftar Ungkapan Perpisahan\n\n| English | Indonesian | Situasi |\n|---|---|---|\n| Goodbye. | Selamat tinggal. | Umum |\n| Bye! | Dadah! | Informal |\n| See you later. | Sampai jumpa lagi. | Informal |\n| See you soon. | Sampai jumpa segera. | Informal |\n| Take care. | Jagalah dirimu. | Penuh perhatian |\n| Take care of yourself. | Jaga dirimu baik-baik. | Penuh perhatian |\n| Keep in touch. | Tetaplah berkomunikasi. | Saat akan jauh |\n| All the best. | Semoga semua yang terbaik. | Formal/umum |\n| Have a safe trip. | Selamat jalan. | Saat perjalanan |\n| Farewell. | Selamat tinggal. | Formal/khidmat |\n\n## Respon Umum\n\n- A: Goodbye! B: Bye! Take care.\n- A: See you later! B: See you! Keep in touch.\n- A: All the best. B: Thank you, you too.\n- A: Have a safe trip. B: Thank you!\n\n## Contoh Percakapan Perpisahan\n\n**Situasi: Teman akan pindah ke kota lain.**\nA: I'm moving to Jakarta next week.\nB: Oh, I'll miss you! Goodbye and all the best.\nA: Thank you. Let's keep in touch.\nB: Of course. Take care of yourself.\nA: See you soon during the holidays.\n\n## Tips Memilih Ungkapan\n\n- **Informal** dengan teman dekat: Bye, See you later, Take care.\n- **Formal** dengan guru/atasan: Goodbye, All the best, Farewell.\n- **Saat perjalanan**: Have a safe trip.\n- **Saat akan jauh**: Keep in touch.\n- **Penuh perhatian**: Take care, Take care of yourself.\n\n## Menggabungkan dengan Pola Lain\n\nUngkapan perpisahan bisa digabung dengan 'will' dan 'looking forward to':\n- Goodbye! I **will keep in touch**.\n- Take care. I'm **looking forward to seeing** you again.\n- All the best. I'm sure you **will succeed**.\n\n> **Hindari:** memakai 'Goodbye' untuk situasi santai singkat. Untuk situasi santai, pakai 'Bye' atau 'See you'. 'Goodbye' agak formal.\n\n> **Catatan:** 'Farewell' sangat formal dan khidmat, dipakai untuk perpisahan jangka panjang atau permanen.\n\n## Mini-dialogue\n\nA: I'm moving to Singapore next month.\nB: I'll miss you! Goodbye and all the best.\nA: Thank you. Let's keep in touch.\nB: Of course. Take care, and have a safe trip!",
+      "key_points": [
+        "Ungkapan perpisahan: Goodbye, Bye, See you later, Take care, Keep in touch, All the best.",
+        "Informal dengan teman: Bye, See you later, Take care.",
+        "Formal: Goodbye, All the best, Farewell.",
+        "Saat perjalanan: Have a safe trip. Saat akan jauh: Keep in touch.",
+        "Bisa digabung dengan 'will' dan 'looking forward to'.",
+        "'Goodbye' agak formal; 'Bye/See you' untuk santai.",
+        "'Farewell' sangat formal dan khidmat, untuk perpisahan jangka panjang."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "future",
+          "id": "masa depan",
+          "phonetic": "/ˈfjuːtʃər/",
+          "example_en": "I am thinking about my future.",
+          "example_id": "Saya memikirkan masa depan saya."
+        },
+        {
+          "en": "plan",
+          "id": "rencana",
+          "phonetic": "/plæn/",
+          "example_en": "I am going to share my plans with you.",
+          "example_id": "Saya akan berbagi rencana saya denganmu."
+        },
+        {
+          "en": "hope",
+          "id": "harapan",
+          "phonetic": "/hoʊp/",
+          "example_en": "I hope I will get a scholarship.",
+          "example_id": "Saya berharap mendapat beasiswa."
+        },
+        {
+          "en": "dream",
+          "id": "cita-cita",
+          "phonetic": "/driːm/",
+          "example_en": "My dream is to study abroad.",
+          "example_id": "Cita-cita saya adalah belajar di luar negeri."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "scholarship",
+          "id": "beasiswa",
+          "phonetic": "/ˈskɒlərʃɪp/",
+          "example_en": "She got a scholarship to study in Japan.",
+          "example_id": "Dia mendapat beasiswa untuk belajar di Jepang."
+        },
+        {
+          "en": "university",
+          "id": "universitas",
+          "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+          "example_en": "I am going to study at a university in Jakarta.",
+          "example_id": "Saya akan belajar di universitas di Jakarta."
+        },
+        {
+          "en": "to succeed",
+          "id": "berhasil",
+          "phonetic": "/tuː səkˈsiːd/",
+          "example_en": "I am sure you will succeed.",
+          "example_id": "Saya yakin kamu akan berhasil."
+        },
+        {
+          "en": "goal",
+          "id": "tujuan",
+          "phonetic": "/ɡoʊl/",
+          "example_en": "My goal is to become an engineer.",
+          "example_id": "Tujuan saya menjadi insinyur."
+        },
+        {
+          "en": "opportunity",
+          "id": "kesempatan",
+          "phonetic": "/ˌɒpərˈtuːnəti/",
+          "example_en": "This is a great opportunity for me.",
+          "example_id": "Ini adalah kesempatan besar bagi saya."
+        },
+        {
+          "en": "farewell",
+          "id": "perpisahan",
+          "phonetic": "/ˌferˈwel/",
+          "example_en": "We had a farewell party last night.",
+          "example_id": "Kami mengadakan pesta perpisahan tadi malam."
+        },
+        {
+          "en": "goodbye",
+          "id": "selamat tinggal",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "example_en": "Goodbye and all the best.",
+          "example_id": "Selamat tinggal dan semoga semua yang terbaik."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "Please keep in touch after you move.",
+          "example_id": "Tetaplah berkomunikasi setelah kamu pindah."
+        },
+        {
+          "en": "take care",
+          "id": "jaga diri",
+          "phonetic": "/teɪk ker/",
+          "example_en": "Take care and have a safe trip.",
+          "example_id": "Jagalah dirimu dan selamat jalan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "I'm looking forward to this new journey.",
+          "example_id": "Saya menantikan perjalanan baru ini."
+        },
+        {
+          "en": "to look forward to",
+          "id": "menantikan",
+          "phonetic": "/tuː lʊk ˈfɔːrwərd tuː/",
+          "example_en": "I'm looking forward to seeing you again.",
+          "example_id": "Saya menantikan untuk bertemu denganmu lagi."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut situasi, murid pilih ungkapan perpisahan yang tepat.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 percakapan perpisahan dengan ungkapan yang tepat.\n3) **Pair work (5 menit):** Praktik perpisahan dengan pasangan dalam situasi berbeda.\n4) **Role play (4 menit):** Dua murid memeragakan perpisahan teman yang akan pindah jauh.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. situasi santai pakai 'Farewell' -> pakai 'Bye').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I'm moving to Singapore next month.",
+          "id": "Saya akan pindah ke Singapura bulan depan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'll miss you! Goodbye and all the best.",
+          "id": "Saya akan merindukanmu! Selamat tinggal dan semoga semua yang terbaik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you. Let's keep in touch.",
+          "id": "Terima kasih. Mari tetap berkomunikasi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Of course. Take care, and have a safe trip!",
+          "id": "Tentu. Jagalah diri, dan selamat jalan!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What do you say to a close friend informally?",
+          "id": "Bagus. Apa yang kamu katakan ke teman dekat secara informal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Bye! See you later. Take care.",
+          "id": "Dadah! Sampai jumpa lagi. Jagalah diri."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What do you say for a formal farewell?",
+          "id": "Bagus. Apa yang kamu katakan untuk perpisahan formal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Goodbye and all the best. Farewell.",
+          "id": "Selamat tinggal dan semoga semua yang terbaik. Selamat tinggal."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: saying 'Farewell' to a friend in a casual situation.",
+          "id": "Perbaiki ini: mengatakan 'Farewell' ke teman dalam situasi santai."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'Bye' or 'See you' for casual situations.",
+          "id": "Seharusnya 'Bye' atau 'See you' untuk situasi santai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'Farewell' is too formal for casual situations.",
+          "id": "Karena 'Farewell' terlalu formal untuk situasi santai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Combine 'goodbye' with 'will keep in touch'.",
+          "id": "Bagus. Kombinasikan 'goodbye' dengan 'will keep in touch'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Goodbye! I will keep in touch.",
+          "id": "Selamat tinggal! Saya akan tetap berkomunikasi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: say goodbye and wish me a safe trip.",
+          "id": "Sempurna. Terakhir: ucapkan selamat tinggal dan doakan saya selamat jalan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Goodbye! Have a safe trip. Take care of yourself.",
+          "id": "Selamat tinggal! Selamat jalan. Jagalah dirimu baik-baik."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar berbagai ungkapan perpisahan. Mari kita ingat: 'Bye/See you' untuk santai, 'Goodbye/All the best' untuk formal, 'Take care' untuk penuh perhatian, 'Keep in touch' saat akan jauh. Coba saya tanya: apa yang kamu katakan saat teman akan bepergian jauh? Benar, 'Have a safe trip.' Untuk PR, tulis 4 percakapan perpisahan singkat (masing-masing 4-6 baris) untuk situasi berbeda. Pertemuan berikutnya kita akan fokus mengulang kosakata masa depan dan perpisahan. Sampai jumpa!",
+      "instructions": "Tegaskan daftar ungkapan dan situasinya. Berikan 1-2 pertanyaan pemahaman. Beri PR 4 percakapan dan umumkan topik kosakata masa depan."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "a2-l10",
+  "course_id": "english-a2",
+  "module_title": "Kesehatan dan Dokter",
+  "level": "A2",
+  "title": "Modal 'should' untuk Memberi Saran",
+  "subtitle": "Mengungkapkan keluhan kesehatan dan memberi saran medis dalam bahasa Inggris",
+  "duration_minutes": 60,
+  "objectives": [
+    "Memberi saran kesehatan dengan should dan shouldn't",
+    "Menggunakan bentuk dasar kata kerja setelah should"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang pola 'I feel...'? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-10 dengan judul 'Modal 'should' untuk Memberi Saran'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Saat teman sakit, kita biasanya memberi saran: 'Kamu harus istirahat.' Bagaimana dalam bahasa Inggris? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Modal 'should' untuk Memberi Saran\n\n**Should** adalah modal yang dipakai untuk **memberi saran** (advice). Sangat berguna di konteks kesehatan: dokter menasihati pasien, atau teman menasihati teman.\n\n### 1. Rumus\n\n| Bentuk | Rumus | Contoh |\n|---|---|---|\n| Positif | Subjek + should + V1 | You should rest. |\n| Negatif | Subjek + should not (shouldn't) + V1 | You shouldn't smoke. |\n| Pertanyaan | Should + subjek + V1...? | Should I see a doctor? |\n\n**Penting:** Setelah *should* selalu **V1 (bentuk dasar)**, tanpa -s, -ed, atau *to*.\n\n### 2. Saran kesehatan umum\n\n- You **should** drink more water.\n- You **should** rest at home today.\n- You **shouldn't** eat spicy food.\n- You **should** see a doctor if you feel worse.\n- You **shouldn't** go to work today.\n\n### 3. Should vs must\n\n- **should** = saran (baik dilakukan, tapi pilihan)\n- **must** = kewajiban kuat (harus)\n\n> You **should** sleep early. (saran)\n> You **must** take this medicine. (kewajiban dari dokter)\n\n### 4. Ungkapan saran lain\n\n- **You'd better** rest. (= you had better)\n- **I think you should** see a doctor.\n- **Why don't you** drink some tea?\n\n### 5. Mini-dialogue\n\n> A: I have a terrible headache.\n> B: You **should** rest in a dark room.\n> A: **Should** I take medicine?\n> B: Yes, you **should**. You **shouldn't** look at your phone.\n\n> **Hindari:** \"You should to rest.\" (salah — *You should rest.*)\n> **Hindari:** \"You should resting.\" (salah — *You should rest.*)\n\n### 6. Tip\n\nUntuk membuat saran terdengar lebih sopan, tambahkan *I think*: *I think you should see a doctor.*",
+      "key_points": [
+        "Should + V1 (bentuk dasar) untuk memberi saran",
+        "Negatif: should not (shouldn't) + V1",
+        "Pertanyaan: Should + subjek + V1?",
+        "Should = saran; must = kewajiban kuat",
+        "Ungkapan sopan: I think you should...",
+        "Alternatif: You'd better..., Why don't you...?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "doctor",
+          "id": "dokter",
+          "phonetic": "/ˈdɒktər/",
+          "example_en": "I want to see a doctor.",
+          "example_id": "Saya ingin periksa ke dokter."
+        },
+        {
+          "en": "nurse",
+          "id": "perawat",
+          "phonetic": "/nɜːrs/",
+          "example_en": "The nurse is kind.",
+          "example_id": "Perawatnya ramah."
+        },
+        {
+          "en": "headache",
+          "id": "sakit kepala",
+          "phonetic": "/ˈhedeɪk/",
+          "example_en": "I have a headache.",
+          "example_id": "Saya sakit kepala."
+        },
+        {
+          "en": "fever",
+          "id": "demam",
+          "phonetic": "/ˈfiːvər/",
+          "example_en": "She has a fever.",
+          "example_id": "Dia demam."
+        },
+        {
+          "en": "cough",
+          "id": "batuk",
+          "phonetic": "/kɒf/",
+          "example_en": "I have a bad cough.",
+          "example_id": "Saya batuk parah."
+        },
+        {
+          "en": "sore throat",
+          "id": "sakit tenggorokan",
+          "phonetic": "/sɔːr θroʊt/",
+          "example_en": "He has a sore throat.",
+          "example_id": "Dia sakit tenggorokan."
+        },
+        {
+          "en": "stomachache",
+          "id": "sakit perut",
+          "phonetic": "/ˈstʌməkeɪk/",
+          "example_en": "I have a stomachache.",
+          "example_id": "Saya sakit perut."
+        },
+        {
+          "en": "medicine",
+          "id": "obat",
+          "phonetic": "/ˈmedsn/",
+          "example_en": "Take this medicine twice a day.",
+          "example_id": "Minum obat ini dua kali sehari."
+        },
+        {
+          "en": "prescription",
+          "id": "resep",
+          "phonetic": "/prɪˈskrɪpʃn/",
+          "example_en": "Here is your prescription.",
+          "example_id": "Ini resep Anda."
+        },
+        {
+          "en": "symptom",
+          "id": "gejala",
+          "phonetic": "/ˈsɪmptəm/",
+          "example_en": "What are your symptoms?",
+          "example_id": "Apa gejala Anda?"
+        },
+        {
+          "en": "healthy",
+          "id": "sehat",
+          "phonetic": "/ˈhelθi/",
+          "example_en": "She is very healthy.",
+          "example_id": "Dia sangat sehat."
+        },
+        {
+          "en": "sick",
+          "id": "sakit",
+          "phonetic": "/sɪk/",
+          "example_en": "He is sick today.",
+          "example_id": "Dia sakit hari ini."
+        },
+        {
+          "en": "rest",
+          "id": "istirahat",
+          "phonetic": "/rest/",
+          "example_en": "You should rest at home.",
+          "example_id": "Anda sebaiknya istirahat di rumah."
+        },
+        {
+          "en": "recover",
+          "id": "sembuh",
+          "phonetic": "/rɪˈkʌvər/",
+          "example_en": "I hope you recover soon.",
+          "example_id": "Saya harap Anda segera sembuh."
+        },
+        {
+          "en": "hospital",
+          "id": "rumah sakit",
+          "phonetic": "/ˈhɒspɪtl/",
+          "example_en": "We are going to the hospital.",
+          "example_id": "Kami pergi ke rumah sakit."
+        },
+        {
+          "en": "body",
+          "id": "tubuh",
+          "phonetic": "/ˈbɒdi/",
+          "example_en": "My whole body hurts.",
+          "example_id": "Seluruh tubuh saya sakit."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut keluhan, murid beri saran cepat dengan 'You should...'.\n2. Pair work: satu murid keluhan sakit, teman beri 4 saran dengan should/shouldn't.\n3. Fill-in-the-blank: 10 kalimat dengan should/shouldn't + V1 yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'You should to rest', 'You should resting').\n5. Role play: dokter memberi minimal 5 saran should/shouldn't kepada pasien.\n\nTugas rumah: Tulis 6 saran kesehatan (3 should, 3 shouldn't) untuk teman yang sedang sakit flu.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I heard you're not feeling well. What's wrong?",
+          "id": "Saya dengar kamu kurang sehat. Apa yang salah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have a bad cough and a sore throat.",
+          "id": "Saya batuk parah dan sakit tenggorokan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You should drink warm water with honey.",
+          "id": "Kamu sebaiknya minum air hangat dengan madu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Should I take cough medicine too?",
+          "id": "Apakah saya perlu minum obat batuk juga?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, you should. Take it three times a day.",
+          "id": "Ya. Minum tiga kali sehari."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Should I go to school tomorrow?",
+          "id": "Apakah saya boleh ke sekolah besok?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "No, you shouldn't. You should rest at home.",
+          "id": "Tidak. Kamu sebaiknya istirahat di rumah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Should I avoid cold drinks?",
+          "id": "Apakah saya harus menghindari minuman dingin?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, you shouldn't drink anything cold.",
+          "id": "Ya, jangan minum apapun yang dingin."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "When should I come back?",
+          "id": "Kapan saya harus kembali?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You should come back in three days.",
+          "id": "Kamu sebaiknya kembali dalam tiga hari."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you for the advice, Doctor.",
+          "id": "Terima kasih atas sarannya, Dok."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Modal 'should' untuk Memberi Saran'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 saran kesehatan (3 should, 3 shouldn't) untuk teman yang sedang sakit flu. Pelajaran berikutnya kita akan membahas membuat pertanyaan dengan should, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "id": "a2-l63",
+  "course_id": "english-a2",
+  "module_title": "Hewan Peliharaan",
+  "level": "A2",
+  "title": "Pola Have Got dan Has Got",
+  "subtitle": "Menyatakan kepemilikan hewan peliharaan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan have got dan has got sesuai subjek",
+    "Membentuk kalimat positif, negatif, dan pertanyaan",
+    "Menggunakan kontraksi yang natural dalam percakapan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita memulai modul baru, yaitu Hewan Peliharaan. Modul ini akan mengajak kalian menceritakan hewan peliharaan kalian dan cara merawatnya. Sebelum mulai, mari kita ingat modul kemarin tentang rumah. Siapa bisa beri satu contoh kalimat 'there is/there are'? Bagus. Sekarang kita beralih ke pola baru: 'have got' dan 'has got'. Pola ini dipakai untuk menyatakan kepemilikan. Coba, siapa di sini yang punya hewan peliharaan? Apa hewannya? Kucing? Anjing? Ikan? Itulah yang akan kita ceritakan. Rencana hari ini: kita pelajari perbedaan 'have got' dan 'has got', lalu berlatih menceritakan hewan peliharaan.",
+      "instructions": "Sapa murid dan umumkan modul baru. Tanyakan satu contoh 'there is/there are' sebagai pengulangan. Tanyakan siapa yang punya hewan peliharaan dan jenisnya."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu 'Have Got' dan 'Has Got'?\n\n**Have got** dan **has got** dipakai untuk menyatakan **kepemilikan**, terutama dalam bahasa Inggris British. Dalam konteks hewan peliharaan, pola ini sangat sering dipakai: 'I have got a dog' (Saya punya anjing).\n\n## Perbedaan 'Have Got' dan 'Has Got'\n\n- **Have got** dipakai untuk subjek **I, you, we, they** dan subjek jamak.\n  - I **have got** a cat.\n  - You **have got** a beautiful garden.\n  - We **have got** two rabbits.\n  - They **have got** a parrot.\n- **Has got** dipakai untuk subjek **he, she, it** dan subjek tunggal.\n  - He **has got** a hamster.\n  - She **has got** a turtle.\n  - It **has got** a long tail.\n\n## Bentuk Negatif dan Pertanyaan\n\n| Bentuk | Struktur | Contoh |\n|---|---|---|\n| Positif | I/You/We/They + have got | I have got a dog. |\n| Positif | He/She/It + has got | She has got a cat. |\n| Negatif | haven't got / hasn't got | I haven't got a pet. |\n| Pertanyaan | Have/Has + subjek + got? | Have you got a pet? |\n\n## Contoh Kalimat\n\n- I **have got** a dog. It is very playful.\n- She **has got** a white rabbit.\n- We **have got** two fish in a small tank.\n- He **hasn't got** a pet because he is allergic.\n- **Have you got** a pet? Yes, I have.\n- **Has she got** a cat? No, she hasn't.\n\n## 'Have Got' vs 'Have'\n\nDalam bahasa Inggris American, orang sering memakai **'have'** saja tanpa 'got'. Keduanya benar:\n- I **have got** a dog. (British)\n- I **have** a dog. (American)\n\n> **Hindari:** memakai 'has got' untuk subjek I/you/we/they. Salah: 'I has got a cat.' Benar: 'I have got a cat.' Juga hindari 'have got' untuk he/she/it. Salah: 'She have got a dog.' Benar: 'She has got a dog.'\n\n> **Catatan:** Dalam pertanyaan, 'have/has' pindah ke depan: 'Have you got...?' 'Has she got...?'\n\n## Mini-dialogue\n\nA: Have you got a pet?\nB: Yes, I have got a cat. Her name is Luna.\nA: Has your brother got a pet too?\nB: No, he hasn't got a pet. He wants a dog.",
+      "key_points": [
+        "'Have got/has got' untuk menyatakan kepemilikan (terutama British English).",
+        "'Have got' untuk I, you, we, they dan subjek jamak.",
+        "'Has got' untuk he, she, it dan subjek tunggal.",
+        "Negatif: haven't got (I/you/we/they), hasn't got (he/she/it).",
+        "Pertanyaan: Have/Has + subjek + got + benda?",
+        "Bahasa Inggris American sering memakai 'have/has' saja tanpa 'got'.",
+        "Hindari 'has got' untuk I/you/we/they dan 'have got' untuk he/she/it."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "pet",
+          "id": "hewan peliharaan",
+          "phonetic": "/pet/",
+          "example_en": "Have you got a pet?",
+          "example_id": "Apakah kamu punya hewan peliharaan?"
+        },
+        {
+          "en": "dog",
+          "id": "anjing",
+          "phonetic": "/dɒɡ/",
+          "example_en": "My dog can run very fast.",
+          "example_id": "Anjing saya bisa berlari sangat cepat."
+        },
+        {
+          "en": "cat",
+          "id": "kucing",
+          "phonetic": "/kæt/",
+          "example_en": "The cat can climb trees.",
+          "example_id": "Kucing itu bisa memanjat pohon."
+        },
+        {
+          "en": "rabbit",
+          "id": "kelinci",
+          "phonetic": "/ˈræbɪt/",
+          "example_en": "She has got a white rabbit.",
+          "example_id": "Dia punya kelinci putih."
+        },
+        {
+          "en": "parrot",
+          "id": "beo",
+          "phonetic": "/ˈpærət/",
+          "example_en": "A parrot can mimic words.",
+          "example_id": "Beo bisa menirukan kata-kata."
+        },
+        {
+          "en": "hamster",
+          "id": "hamster",
+          "phonetic": "/ˈhæmstər/",
+          "example_en": "The hamster is in the cage.",
+          "example_id": "Hamsternya ada di dalam sangkar."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "Fish can swim but they can't walk.",
+          "example_id": "Ikan bisa berenang tetapi tidak bisa berjalan."
+        },
+        {
+          "en": "turtle",
+          "id": "kura-kura",
+          "phonetic": "/ˈtɜːrtl/",
+          "example_en": "A turtle can live for many years.",
+          "example_id": "Kura-kura bisa hidup bertahun-tahun."
+        },
+        {
+          "en": "cage",
+          "id": "sangkar",
+          "phonetic": "/keɪdʒ/",
+          "example_en": "The bird is in the cage.",
+          "example_id": "Burungnya ada di dalam sangkar."
+        },
+        {
+          "en": "to feed",
+          "id": "memberi makan",
+          "phonetic": "/tuː fiːd/",
+          "example_en": "You should feed your cat twice a day.",
+          "example_id": "Kamu sebaiknya memberi makan kucingmu dua kali sehari."
+        },
+        {
+          "en": "to walk",
+          "id": "mengajak jalan",
+          "phonetic": "/tuː wɔːk/",
+          "example_en": "I walk my dog every morning.",
+          "example_id": "Saya mengajak anjing saya jalan setiap pagi."
+        },
+        {
+          "en": "to brush",
+          "id": "menyikat",
+          "phonetic": "/tuː brʌʃ/",
+          "example_en": "You should brush your dog every week.",
+          "example_id": "Kamu sebaiknya menyikat anjingmu setiap minggu."
+        },
+        {
+          "en": "vet",
+          "id": "dokter hewan",
+          "phonetic": "/vet/",
+          "example_en": "You should take your pet to the vet.",
+          "example_id": "Kamu sebaiknya membawa peliharaanmu ke dokter hewan."
+        },
+        {
+          "en": "leash",
+          "id": "tali kekang",
+          "phonetic": "/liːʃ/",
+          "example_en": "Use a leash when you walk your dog.",
+          "example_id": "Gunakan tali kekang saat mengajak anjingmu jalan."
+        },
+        {
+          "en": "to train",
+          "id": "melatih",
+          "phonetic": "/tuː treɪn/",
+          "example_en": "You can train a dog to sit.",
+          "example_id": "Kamu bisa melatih anjing untuk duduk."
+        },
+        {
+          "en": "to take care of",
+          "id": "merawat",
+          "phonetic": "/tuː teɪk ker əv/",
+          "example_en": "You should take care of your pet every day.",
+          "example_id": "Kamu sebaiknya merawat peliharaanmu setiap hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut subjek (I, she, they), murid buat kalimat 'have got/has got' tentang hewan.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan 'have got', 'has got', 'haven't got', atau 'hasn't got'.\n3) **Pair work (5 menit):** Tanyakan-jawab 'Have you got...?' / 'Has she got...?' tentang hewan peliharaan.\n4) **Role play (4 menit):** Dua murid memeragakan teman yang saling menceritakan hewan peliharaan.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'She have got a cat' -> 'She has got a cat').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you got a pet?",
+          "id": "Apakah kamu punya hewan peliharaan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have got a cat. Her name is Luna.",
+          "id": "Ya, saya punya kucing. Namanya Luna."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has your brother got a pet too?",
+          "id": "Apakah saudaramu juga punya hewan peliharaan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, he hasn't got a pet. He wants a dog.",
+          "id": "Tidak, dia tidak punya. Dia ingin anjing."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'have got' with 'they'.",
+          "id": "Pakai 'have got' dengan 'they'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They have got two rabbits.",
+          "id": "Mereka punya dua kelinci."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Now use 'has got' with 'she'.",
+          "id": "Bagus. Sekarang pakai 'has got' dengan 'she'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She has got a beautiful parrot.",
+          "id": "Dia punya beo yang indah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Make a negative sentence about yourself.",
+          "id": "Buat kalimat negatif tentang dirimu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I haven't got a dog, but I want one.",
+          "id": "Saya tidak punya anjing, tapi saya inginkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Correct this: 'He have got a hamster.'",
+          "id": "Bagus. Perbaiki ini: 'He have got a hamster.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'He has got a hamster.'",
+          "id": "Seharusnya 'He has got a hamster.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'he' takes 'has got', not 'have got'.",
+          "id": "Karena 'he' memakai 'has got', bukan 'have got'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now ask me: 'Have you got...?' about a pet.",
+          "id": "Sempurna. Sekarang tanyakan saya: 'Have you got...?' tentang hewan peliharaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Have you got a turtle at home?",
+          "id": "Apakah Anda punya kura-kura di rumah?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "No, I haven't. Last question: describe your pet in two sentences.",
+          "id": "Tidak. Pertanyaan terakhir: deskripsikan hewan peliharaanmu dalam dua kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have got a small fish. It has got colorful scales.",
+          "id": "Saya punya ikan kecil. Sisiknya berwarna-warni."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah belajar 'have got' dan 'has got' untuk menyatakan kepemilikan hewan peliharaan. Mari kita ingat: 'have got' untuk I, you, we, they; 'has got' untuk he, she, it. Coba saya tanya: kalau subjeknya 'she', pakai yang mana? Benar, 'has got'. Kalau subjeknya 'they'? Tepat, 'have got'. Untuk PR, tulis 10 kalimat tentang hewan peliharaan (milikmu, keluarga, atau teman) memakai 'have got/has got' (campuran positif, negatif, pertanyaan). Pertemuan berikutnya kita akan belajar 'can' dan 'can't' untuk menceritakan kemampuan hewan. Sampai jumpa!",
+      "instructions": "Tegaskan perbedaan 'have got' dan 'has got'. Berikan 1-2 pertanyaan pemahaman. Beri PR 10 kalimat dan umumkan topik 'can/can't' berikutnya."
+    }
+  ]
+}

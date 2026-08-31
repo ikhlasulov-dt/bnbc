@@ -1,0 +1,237 @@
+{
+  "id": "a2-l09",
+  "course_id": "english-a2",
+  "module_title": "Kesehatan dan Dokter",
+  "level": "A2",
+  "title": "Pola 'I feel...' untuk Gejala Umum",
+  "subtitle": "Mengungkapkan keluhan kesehatan dan memberi saran medis dalam bahasa Inggris",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan pola 'I feel + kata sifat' untuk gejala umum",
+    "Membedakan 'I feel sick' dan 'I am sick'"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang pola 'I have a...'? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-9 dengan judul 'Pola 'I feel...' untuk Gejala Umum'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Kadang kita tidak menyebut penyakit, tapi perasaan: 'Saya merasa lemah.' Bagaimana mengatakannya? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola 'I feel...' untuk Gejala Umum\n\nPola **I feel + adjective** digunakan untuk menggambarkan **perasaan atau kondisi tubuh** secara umum, bukan penyakit spesifik.\n\n### 1. Adjektiva perasaan umum\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| tired | lelah | I feel tired. |\n| weak | lemah | I feel weak. |\n| dizzy | pusing | I feel dizzy. |\n| sick | tidak enak/sakit | I feel sick. |\n| hot | panas (demam) | I feel hot. |\n| cold | kedinginan | I feel cold. |\n| better | lebih baik | I feel better today. |\n| worse | lebih buruk | I feel worse than yesterday. |\n| nauseous | mual | I feel nauseous. |\n\n### 2. Perbandingan: I have a... vs I feel...\n\n- **I have a fever.** → menyebut penyakit/ diagnosis.\n- **I feel hot.** → menggambarkan sensasi tubuh.\n\nKeduanya benar dan sering dipakai bersama: *I have a fever and I feel hot.*\n\n### 3. Bentuk tanya\n\n- **How do you feel?** — I feel tired.\n- **Do you feel better today?** — Yes, I feel much better.\n\n### 4. Negatif\n\nPakai *don't/doesn't*:\n- I **don't feel** well. (Saya tidak merasa sehat — ungkapan umum untuk sakit)\n- She **doesn't feel** better.\n\n### 5. Mini-dialogue\n\n> A: **How do you feel** today?\n> B: I **feel** dizzy and a little **weak**.\n> A: **Do you feel** nauseous?\n> B: Yes, a bit. I **don't feel** well at all.\n\n> **Hindari:** \"I feel fever.\" (salah — *I have a fever.* atau *I feel hot.*)\n> **Hindari:** \"I am feel tired.\" (salah — *I feel tired.*)\n\n### 6. Tip\n\nUngkapan **\"I don't feel well\"** adalah cara sopan dan umum untuk mengatakan \"saya kurang sehat\" tanpa menyebut detail.",
+      "key_points": [
+        "Pola: I feel + adjektiva (tired, weak, dizzy, sick, hot, cold)",
+        "I feel better / worse untuk membandingkan kondisi",
+        "I feel nauseous = saya mual",
+        "Negatif: I don't feel well (ungkapan umum 'saya kurang sehat')",
+        "Tanya: How do you feel? / Do you feel better?",
+        "I have a... menyebut penyakit; I feel... menggambarkan sensasi"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "doctor",
+          "id": "dokter",
+          "phonetic": "/ˈdɒktər/",
+          "example_en": "I want to see a doctor.",
+          "example_id": "Saya ingin periksa ke dokter."
+        },
+        {
+          "en": "nurse",
+          "id": "perawat",
+          "phonetic": "/nɜːrs/",
+          "example_en": "The nurse is kind.",
+          "example_id": "Perawatnya ramah."
+        },
+        {
+          "en": "headache",
+          "id": "sakit kepala",
+          "phonetic": "/ˈhedeɪk/",
+          "example_en": "I have a headache.",
+          "example_id": "Saya sakit kepala."
+        },
+        {
+          "en": "fever",
+          "id": "demam",
+          "phonetic": "/ˈfiːvər/",
+          "example_en": "She has a fever.",
+          "example_id": "Dia demam."
+        },
+        {
+          "en": "cough",
+          "id": "batuk",
+          "phonetic": "/kɒf/",
+          "example_en": "I have a bad cough.",
+          "example_id": "Saya batuk parah."
+        },
+        {
+          "en": "sore throat",
+          "id": "sakit tenggorokan",
+          "phonetic": "/sɔːr θroʊt/",
+          "example_en": "He has a sore throat.",
+          "example_id": "Dia sakit tenggorokan."
+        },
+        {
+          "en": "stomachache",
+          "id": "sakit perut",
+          "phonetic": "/ˈstʌməkeɪk/",
+          "example_en": "I have a stomachache.",
+          "example_id": "Saya sakit perut."
+        },
+        {
+          "en": "medicine",
+          "id": "obat",
+          "phonetic": "/ˈmedsn/",
+          "example_en": "Take this medicine twice a day.",
+          "example_id": "Minum obat ini dua kali sehari."
+        },
+        {
+          "en": "prescription",
+          "id": "resep",
+          "phonetic": "/prɪˈskrɪpʃn/",
+          "example_en": "Here is your prescription.",
+          "example_id": "Ini resep Anda."
+        },
+        {
+          "en": "symptom",
+          "id": "gejala",
+          "phonetic": "/ˈsɪmptəm/",
+          "example_en": "What are your symptoms?",
+          "example_id": "Apa gejala Anda?"
+        },
+        {
+          "en": "healthy",
+          "id": "sehat",
+          "phonetic": "/ˈhelθi/",
+          "example_en": "She is very healthy.",
+          "example_id": "Dia sangat sehat."
+        },
+        {
+          "en": "sick",
+          "id": "sakit",
+          "phonetic": "/sɪk/",
+          "example_en": "He is sick today.",
+          "example_id": "Dia sakit hari ini."
+        },
+        {
+          "en": "rest",
+          "id": "istirahat",
+          "phonetic": "/rest/",
+          "example_en": "You should rest at home.",
+          "example_id": "Anda sebaiknya istirahat di rumah."
+        },
+        {
+          "en": "recover",
+          "id": "sembuh",
+          "phonetic": "/rɪˈkʌvər/",
+          "example_en": "I hope you recover soon.",
+          "example_id": "Saya harap Anda segera sembuh."
+        },
+        {
+          "en": "hospital",
+          "id": "rumah sakit",
+          "phonetic": "/ˈhɒspɪtl/",
+          "example_en": "We are going to the hospital.",
+          "example_id": "Kami pergi ke rumah sakit."
+        },
+        {
+          "en": "body",
+          "id": "tubuh",
+          "phonetic": "/ˈbɒdi/",
+          "example_en": "My whole body hurts.",
+          "example_id": "Seluruh tubuh saya sakit."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kondisi (lelah, pusing, mual), murid buat kalimat 'I feel...'.\n2. Pair work: saling tanya 'How do you feel?' dan jawab dengan 3 adjektiva perasaan.\n3. Fill-in-the-blank: 8 kalimat dengan adjektiva perasaan yang tepat.\n4. Error correction: perbaiki 5 kalimat (mis. 'I am feel tired', 'I feel fever').\n5. Role play: pasien datang ke klinik, gunakan 'I feel...' minimal 4 kali dalam percakapan.\n\nTugas rumah: Tulis 5 kalimat 'I feel...' tentang kondisi tubuhmu minggu ini (boleh positif: better, energetic).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you feel today?",
+          "id": "Bagaimana perasaanmu hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I feel dizzy and a little weak.",
+          "id": "Saya merasa pusing dan sedikit lemah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I'm sorry. Do you feel nauseous?",
+          "id": "Turut prihatin. Apakah kamu merasa mual?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, a bit. I don't feel well at all.",
+          "id": "Ya, sedikit. Sama sekali tidak merasa sehat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you feel hot or cold?",
+          "id": "Apakah kamu merasa panas atau dingin?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I feel hot, I think I have a fever.",
+          "id": "Saya merasa panas, saya rasa saya demam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you feel better than yesterday?",
+          "id": "Apakah kamu merasa lebih baik dari kemarin?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I feel worse today.",
+          "id": "Tidak, saya merasa lebih buruk hari ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you rest enough?",
+          "id": "Apakah kamu cukup beristirahat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I tried, but I couldn't sleep.",
+          "id": "Saya mencoba, tapi tidak bisa tidur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "OK, you need to rest more.",
+          "id": "Baik, kamu perlu lebih banyak istirahat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'll try, Doctor. Thank you.",
+          "id": "Saya akan coba, Dok. Terima kasih."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Pola 'I feel...' untuk Gejala Umum'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 5 kalimat 'I feel...' tentang kondisi tubuhmu minggu ini (boleh positif: better, energetic). Pelajaran berikutnya kita akan membahas modal 'should' untuk memberi saran medis, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

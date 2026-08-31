@@ -1,0 +1,275 @@
+{
+  "id": "a2-l70",
+  "course_id": "english-a2",
+  "module_title": "Berita dan Peristiwa",
+  "level": "A2",
+  "title": "Past Participle: Regular dan Irregular",
+  "subtitle": "Menguasai V3 untuk present perfect",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan past participle regular dan irregular",
+    "Menghafal past participle irregular yang sering muncul di berita",
+    "Menggunakan past participle dalam kalimat present perfect"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar struktur present perfect. Siapa bisa beri satu contoh kalimat present perfect? Bagus. Hari ini kita lanjutkan dengan past participle, yaitu bentuk kata kerja ketiga (V3) yang dipakai di present perfect. Ada kata kerja regular yang tinggal tambah -ed, dan ada irregular yang harus dihafal. Coba sebutkan satu kata kerja yang kalian tahu. 'Go'? Bagaimana past participle-nya? Itulah yang akan kita pelajari. Rencana: kita pelajari daftar past participle regular dan irregular, lalu berlatih memakainya di present perfect.",
+      "instructions": "Sapa murid dan minta satu contoh present perfect kemarin. Tanyakan satu kata kerja dan past participle-nya. Jelaskan tujuan: belajar past participle."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu Past Participle (V3)?\n\n**Past participle** adalah bentuk ketiga dari kata kerja, dipakai di **present perfect** dan **passive voice**. Ada dua jenis: regular dan irregular.\n\n## Kata Kerja Regular\n\nKata kerja regular membentuk V3 dengan menambahkan **-ed** pada bentuk dasar (sama seperti past simple).\n\n| Bentuk dasar (V1) | Past simple (V2) | Past participle (V3) | Arti |\n|---|---|---|---|\n| announce | announced | announced | mengumumkan |\n| destroy | destroyed | destroyed | menghancurkan |\n| injure | injured | injured | melukai |\n| rescue | rescued | rescued | menyelamatkan |\n| report | reported | reported | melaporkan |\n| broadcast | broadcasted | broadcasted | menyiarkan |\n\n## Kata Kerja Irregular\n\nKata kerja irregular memiliki bentuk V3 khusus yang wajib dihafal.\n\n| V1 | V2 | V3 | Arti |\n|---|---|---|---|\n| write | wrote | written | menulis |\n| speak | spoke | spoken | berbicara |\n| give | gave | given | memberi |\n| find | found | found | menemukan |\n| hit | hit | hit | melanda |\n| send | sent | sent | mengirim |\n| build | built | built | membangun |\n| take | took | taken | mengambil |\n| see | saw | seen | melihat |\n| do | did | done | melakukan |\n\n## Contoh dalam Present Perfect\n\n- A journalist **has written** a new report. (write -> written)\n- The president **has given** an interview. (give -> given)\n- Rescue teams **have arrived**. (arrive -> arrived, regular)\n- They **haven't found** all the victims. (find -> found)\n- **Has** the government **announced** the result? (announce -> announced)\n\n## Tips Mengingat Irregular Verbs\n\n- Hafalkan per kelompok yang mirip: write-wrote-written, give-gave-given, take-took-taken.\n- Buat kalimat present perfect untuk setiap kata: 'She has written...'\n- Ulangi dengan pasangan: satu sebut V1, satu sebut V3.\n\n> **Hindari:** memakai V2 (past simple) di present perfect. Salah: 'She has wrote a report.' Benar: 'She has written a report.'\n\n> **Catatan:** Beberapa kata V2 dan V3 sama (find-found-found, send-sent-sent). Hati-hati membedakan.\n\n## Mini-dialogue\n\nA: What has the journalist done?\nB: She has written a report about the storm.\nA: Have they found the victims?\nB: No, they haven't found them yet.",
+      "key_points": [
+        "Past participle (V3) adalah bentuk ketiga kata kerja, dipakai di present perfect.",
+        "Kata kerja regular: V3 dengan menambah -ed (announce -> announced).",
+        "Kata kerja irregular: V3 khusus yang dihafal (write -> written, give -> given).",
+        "Beberapa kata V2 dan V3 sama (find-found-found, send-sent-sent).",
+        "Hindari memakai V2 di present perfect (has wrote -> has written).",
+        "Hafalkan irregular verbs per kelompok yang mirip.",
+        "Buat kalimat present perfect untuk setiap kata irregular."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "news",
+          "id": "berita",
+          "phonetic": "/nuːz/",
+          "example_en": "I read the news every morning.",
+          "example_id": "Saya membaca berita setiap pagi."
+        },
+        {
+          "en": "report",
+          "id": "laporan",
+          "phonetic": "/rɪˈpɔːrt/",
+          "example_en": "A journalist has written a new report.",
+          "example_id": "Seorang wartawan telah menulis laporan baru."
+        },
+        {
+          "en": "headline",
+          "id": "judul berita",
+          "phonetic": "/ˈhedlaɪn/",
+          "example_en": "The headline was very shocking.",
+          "example_id": "Judul beritanya sangat mengejutkan."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "The journalist has spoken to the public.",
+          "example_id": "Wartawan itu telah berbicara kepada publik."
+        },
+        {
+          "en": "broadcast",
+          "id": "siaran",
+          "phonetic": "/ˈbrɔːdkæst/",
+          "example_en": "The broadcast started at seven.",
+          "example_id": "Siaran dimulai pada pukul tujuh."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "The president gave an interview.",
+          "example_id": "Presiden memberikan wawancara."
+        },
+        {
+          "en": "article",
+          "id": "artikel",
+          "phonetic": "/ˈɑːrtɪkl/",
+          "example_en": "She has written an article about the storm.",
+          "example_id": "Dia telah menulis artikel tentang badai itu."
+        },
+        {
+          "en": "channel",
+          "id": "saluran",
+          "phonetic": "/ˈtʃænl/",
+          "example_en": "Change the channel, please.",
+          "example_id": "Ganti salurannya, tolong."
+        },
+        {
+          "en": "election",
+          "id": "pemilihan",
+          "phonetic": "/ɪˈlekʃn/",
+          "example_en": "The election result has been announced.",
+          "example_id": "Hasil pemilihan telah diumumkan."
+        },
+        {
+          "en": "policy",
+          "id": "kebijakan",
+          "phonetic": "/ˈpɒlɪsi/",
+          "example_en": "The government has announced a new policy.",
+          "example_id": "Pemerintah telah mengumumkan kebijakan baru."
+        },
+        {
+          "en": "storm",
+          "id": "badai",
+          "phonetic": "/stɔːrm/",
+          "example_en": "The storm has destroyed many houses.",
+          "example_id": "Badai telah menghancurkan banyak rumah."
+        },
+        {
+          "en": "earthquake",
+          "id": "gempa bumi",
+          "phonetic": "/ˈɜːrθkweɪk/",
+          "example_en": "Three earthquakes have hit the region this month.",
+          "example_id": "Tiga gempa bumi telah melanda wilayah itu bulan ini."
+        },
+        {
+          "en": "accident",
+          "id": "kecelakaan",
+          "phonetic": "/ˈæksɪdənt/",
+          "example_en": "Three people were injured in the accident.",
+          "example_id": "Tiga orang terluka dalam kecelakaan itu."
+        },
+        {
+          "en": "victim",
+          "id": "korban",
+          "phonetic": "/ˈvɪktɪm/",
+          "example_en": "They haven't found all the victims yet.",
+          "example_id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "en": "rescue",
+          "id": "penyelamatan",
+          "phonetic": "/ˈreskjuː/",
+          "example_en": "Rescue teams have arrived in the area.",
+          "example_id": "Tim penyelamat telah tiba di daerah itu."
+        },
+        {
+          "en": "to announce",
+          "id": "mengumumkan",
+          "phonetic": "/tuː əˈnaʊns/",
+          "example_en": "The government has announced the result.",
+          "example_id": "Pemerintah telah mengumumkan hasilnya."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Guru menyebut V1, murid sebutkan V3 (write -> written).\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat present perfect dengan V3 yang benar.\n3) **Pair work (4 menit):** Tanyakan-jawab 'What has she/he done?' memakai V3.\n4) **Role play (4 menit):** Dua murid memeragakan wartawan dan editor membahas berita.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'She has wrote' -> 'She has written').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the past participle of 'write'?",
+          "id": "Apa past participle dari 'write'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is 'written'.",
+          "id": "Yaitu 'written'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Make a present perfect sentence with 'written'.",
+          "id": "Bagus. Buat kalimat present perfect dengan 'written'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A journalist has written a report about the storm.",
+          "id": "Seorang wartawan telah menulis laporan tentang badai itu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the V3 of 'give'?",
+          "id": "Apa V3 dari 'give'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is 'given'.",
+          "id": "Yaitu 'given'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Use 'given' in present perfect.",
+          "id": "Pakai 'given' dalam present perfect."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The president has given an interview about the policy.",
+          "id": "Presiden telah memberikan wawancara tentang kebijakan itu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What is the V3 of 'find'?",
+          "id": "Bagus. Apa V3 dari 'find'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is 'found'.",
+          "id": "Yaitu 'found'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'found' in a negative sentence.",
+          "id": "Pakai 'found' dalam kalimat negatif."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They haven't found all the victims yet.",
+          "id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'She has wrote a report.'",
+          "id": "Perbaiki ini: 'She has wrote a report.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'She has written a report.'",
+          "id": "Seharusnya 'She has written a report.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'wrote' is V2; we need V3 'written' in present perfect.",
+          "id": "Karena 'wrote' itu V2; kita perlu V3 'written' di present perfect."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: give the V3 of 'take'.",
+          "id": "Sempurna. Terakhir: berikan V3 dari 'take'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The V3 of 'take' is 'taken'.",
+          "id": "V3 dari 'take' yaitu 'taken'."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar past participle (V3) untuk present perfect. Mari kita ingat: regular tambah -ed, irregular dihafal. Coba saya tanya: V3 dari 'write'? Benar, 'written'. V3 dari 'find'? Tepat, 'found'. Untuk PR, hafalkan 15 kata kerja irregular beserta V3-nya, dan tulis 8 kalimat present perfect memakai kata-kata itu. Pertemuan berikutnya kita akan belajar time markers khas present perfect seperti 'just', 'already', 'yet'. Sampai jumpa!",
+      "instructions": "Tegaskan perbedaan regular dan irregular V3. Berikan 1-2 pertanyaan pemahaman. Beri PR menghafal 15 irregular verbs dan menulis 8 kalimat."
+    }
+  ]
+}

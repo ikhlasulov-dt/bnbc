@@ -1,0 +1,237 @@
+{
+  "id": "a2-l39",
+  "course_id": "english-a2",
+  "module_title": "Hiburan dan Film",
+  "level": "A2",
+  "title": "Ungkapan Opini: I Think dan In My Opinion",
+  "subtitle": "Mengulas film dan hiburan dengan past simple serta ungkapan opini",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyampaikan opini dengan 'I think (that) + kalimat'",
+    "Menyampaikan opini dengan 'In my opinion, + kalimat'"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang past simple untuk film? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-39 dengan judul 'Ungkapan Opini: I Think dan In My Opinion'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Setelah cerita, kita kasih pendapat: 'Saya rasa filmnya bagus.' Bagaimana dalam bahasa Inggris? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Ungkapan Opini: I Think dan In My Opinion\n\nUntuk memberi **opini tentang film**, kita gunakan frasa **I think...** dan **In my opinion...**.\n\n### 1. Frasa opini utama\n\n| Frasa | Arti |\n|---|---|\n| I think... | Saya rasa/kira... |\n| In my opinion... | Menurut saya... |\n| I believe... | Saya percaya... |\n| I'd say... | Saya bilang... |\n| To me... | Bagi saya... |\n| For me... | Untuk saya... |\n\n### 2. Struktur kalimat\n\n**Frasa opini + (that) + kalimat**\n\n- **I think** (that) the movie was great.\n- **In my opinion**, the ending was surprising.\n- **I believe** the actor did a great job.\n\n*Kata 'that' boleh dibuang di percakapan.*\n\n### 3. Opini positif vs negatif\n\n| Positif | Negatif |\n|---|---|\n| I think it was amazing. | I think it was boring. |\n| In my opinion, it was exciting. | In my opinion, it was too long. |\n| I loved the soundtrack. | I didn't like the plot. |\n\n### 4. Adjektiva penilaian film\n\n| Positif | Negatif |\n|---|---|\n| amazing, great, fantastic | boring, terrible, awful |\n| exciting, thrilling | confusing, predictable |\n| funny, hilarious | silly, ridiculous |\n| moving, emotional | disappointing |\n\n### 5. Mini-dialogue\n\n> A: **What did you think** of the movie?\n> B: **I think** it was amazing! The plot was exciting.\n> A: Really? **In my opinion**, it was too long.\n> B: I see. **But I loved** the soundtrack.\n\n> **Hindari:** \"I think the movie was bored.\" (salah — *boring* untuk sifat; *bored* untuk perasaan orang)\n> **Hindari:** \"In my opinion is good.\" (salah struktur — *In my opinion, it is good.*)\n\n### 6. Tip\n\nBedakan **-ing** (sifat benda: *the movie was boring*) dan **-ed** (perasaan orang: *I was bored*).",
+      "key_points": [
+        "Frasa opini: I think, In my opinion, I believe, I'd say, To me, For me",
+        "Struktur: Frasa opini + (that) + kalimat; 'that' boleh dibuang",
+        "Positif: amazing, great, exciting, funny, moving",
+        "Negatif: boring, terrible, confusing, silly, disappointing",
+        "-ing = sifat benda (the movie was boring); -ed = perasaan orang (I was bored)",
+        "Salah: 'In my opinion is good'; Benar: 'In my opinion, it is good'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "movie",
+          "id": "film",
+          "phonetic": "/ˈmuːvi/",
+          "example_en": "We watched a great movie.",
+          "example_id": "Kami menonton film yang bagus."
+        },
+        {
+          "en": "cinema",
+          "id": "bioskop",
+          "phonetic": "/ˈsɪnəmə/",
+          "example_en": "Let's go to the cinema.",
+          "example_id": "Mari kita pergi ke bioskop."
+        },
+        {
+          "en": "actor",
+          "id": "aktor",
+          "phonetic": "/ˈæktər/",
+          "example_en": "He is a famous actor.",
+          "example_id": "Dia aktor yang terkenal."
+        },
+        {
+          "en": "director",
+          "id": "sutradara",
+          "phonetic": "/dəˈrektər/",
+          "example_en": "The director is very talented.",
+          "example_id": "Sutradaranya sangat berbakat."
+        },
+        {
+          "en": "character",
+          "id": "tokoh",
+          "phonetic": "/ˈkærəktər/",
+          "example_en": "The main character is brave.",
+          "example_id": "Tokoh utamanya pemberani."
+        },
+        {
+          "en": "scene",
+          "id": "adegan",
+          "phonetic": "/siːn/",
+          "example_en": "My favorite scene is at the end.",
+          "example_id": "Adegan favorit saya di bagian akhir."
+        },
+        {
+          "en": "plot",
+          "id": "alur cerita",
+          "phonetic": "/plɒt/",
+          "example_en": "The plot was very exciting.",
+          "example_id": "Alur ceritanya sangat mendebarkan."
+        },
+        {
+          "en": "ending",
+          "id": "akhir cerita",
+          "phonetic": "/ˈendɪŋ/",
+          "example_en": "I didn't like the ending.",
+          "example_id": "Saya tidak suka akhir ceritanya."
+        },
+        {
+          "en": "soundtrack",
+          "id": "musik latar",
+          "phonetic": "/ˈsaʊndtræk/",
+          "example_en": "The soundtrack is beautiful.",
+          "example_id": "Musik latarnya indah."
+        },
+        {
+          "en": "trailer",
+          "id": "cuplikan",
+          "phonetic": "/ˈtreɪlər/",
+          "example_en": "I watched the trailer online.",
+          "example_id": "Saya menonton cuplikan daring."
+        },
+        {
+          "en": "subtitle",
+          "id": "takarir",
+          "phonetic": "/ˈsʌbtaɪtl/",
+          "example_en": "Turn on the subtitle, please.",
+          "example_id": "Nyalakan takarirnya, tolong."
+        },
+        {
+          "en": "review",
+          "id": "ulasan",
+          "phonetic": "/rɪˈvjuː/",
+          "example_en": "I read a review before watching.",
+          "example_id": "Saya membaca ulasan sebelum menonton."
+        },
+        {
+          "en": "audience",
+          "id": "penonton",
+          "phonetic": "/ˈɔːdiəns/",
+          "example_en": "The audience laughed a lot.",
+          "example_id": "Penonton tertawa banyak."
+        },
+        {
+          "en": "comedy",
+          "id": "komedi",
+          "phonetic": "/ˈkɒmədi/",
+          "example_en": "I love comedy films.",
+          "example_id": "Saya suka film komedi."
+        },
+        {
+          "en": "horror",
+          "id": "horor",
+          "phonetic": "/ˈhɒrər/",
+          "example_en": "Horror films are too scary for me.",
+          "example_id": "Film horor terlalu menakutkan bagi saya."
+        },
+        {
+          "en": "exciting",
+          "id": "mendebarkan",
+          "phonetic": "/ɪkˈsaɪtɪŋ/",
+          "example_en": "The action film was exciting.",
+          "example_id": "Film aksinya mendebarkan."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut situasi, murid buat kalimat opini dengan I think/In my opinion.\n2. Pair work: saling bertanya opini tentang 5 film, gunakan minimal 4 frasa opini berbeda.\n3. Fill-in-the-blank: 10 kalimat dengan frasa opini + adjektiva (-ing/-ed) yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'I think it was bored', 'In my opinion is good').\n5. Review battle: dua murid berdebat opini berlawanan tentang satu film, masing-masing 3 argumen.\n\nTugas rumah: Tulis ulasan opini 8 kalimat tentang film favoritmu dengan minimal 4 frasa opini berbeda.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did you think of the movie?",
+          "id": "Apa pendapatmu tentang filmnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think it was amazing! The plot was exciting.",
+          "id": "Saya rasa luar biasa! Alurnya mendebarkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Really? I found it a bit long.",
+          "id": "Benarkah? Saya merasa agak panjang."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In my opinion, the length was fine.",
+          "id": "Menurut saya, panjangnya pas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about the acting?",
+          "id": "Bagaimana dengan aktingnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I believe the actors did a great job.",
+          "id": "Saya percaya aktornya bermain bagus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you like the ending?",
+          "id": "Apakah kamu suka akhirnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I thought it was surprising.",
+          "id": "Ya, saya rasa mengejutkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Was the soundtrack good?",
+          "id": "Apakah musiklatarnya bagus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "To me, the soundtrack was the best part.",
+          "id": "Bagi saya, musiklatarnya bagian terbaik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Would you recommend it?",
+          "id": "Apakah kamu akan merekomendasikannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "For me, yes — I'd say it's a must-watch.",
+          "id": "Untuk saya, ya — saya bilang wajib tonton."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Ungkapan Opini: I Think dan In My Opinion'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis ulasan opini 8 kalimat tentang film favoritmu dengan minimal 4 frasa opini berbeda. Pelajaran berikutnya kita akan membahas kosakata penilaian film, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

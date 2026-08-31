@@ -1,0 +1,237 @@
+{
+  "id": "a2-l42",
+  "course_id": "english-a2",
+  "module_title": "Hiburan dan Film",
+  "level": "A2",
+  "title": "Membedakan Fakta dan Opini",
+  "subtitle": "Mengulas film dan hiburan dengan past simple serta ungkapan opini",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan fakta film dan opini pribadi",
+    "Menggunakan ungkapan opini agar tidak memaksakan pendapat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang rekomendasi film? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-42 dengan judul 'Membedakan Fakta dan Opini'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Saat ulasan film, kita perlu bedakan: mana fakta ('film ini 2 jam'), mana opini ('film ini membosankan')? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Membedakan Fakta dan Opini\n\nDalam ulasan film, penting membedakan **fakta** (objective, bisa diverifikasi) dan **opini** (subjektif, perasaan pribadi).\n\n### 1. Definisi\n\n| Jenis | Ciri | Contoh |\n|---|---|---|\n| Fakta | bisa diverifikasi, objektif | The movie was released in 2022. |\n| Opini | perasaan/pendapat, subjektif | The movie was boring. |\n\n### 2. Contoh fakta tentang film\n\n- The movie **was directed by** Peter Jackson.\n- It **lasts** 2 hours 30 minutes.\n- It **won** three Oscars.\n- The main actor **is** Tom Hanks.\n- It **was released** in 2019.\n\n### 3. Contoh opini tentang film\n\n- I **think** the movie was amazing.\n- **In my opinion**, the ending was disappointing.\n- The soundtrack **was** beautiful.\n- The plot **felt** confusing to me.\n- It **was** the best film of the year.\n\n### 4. Penanda bahasa\n\n| Fakta | Opini |\n|---|---|\n| angka, tanggal, nama | I think, in my opinion |\n| direlease, directed by, lasts | beautiful, boring, amazing |\n| won, stars, based on | felt, seemed, the best/worst |\n\n### 5. Mini-dialogue\n\n> A: The movie **lasts** 2 hours. (fakta)\n> B: Yes, and it **was released** in 2021. (fakta)\n> A: **I think** it was too long. (opini)\n> B: **In my opinion**, the pacing was perfect. (opini)\n\n> **Hindari:** mengklaim opini sebagai fakta: \"The movie is boring.\" (sebagai fakta) — lebih baik: \"I think the movie is boring.\"\n\n### 6. Tip\n\nSaat menulis ulasan, awali dengan **fakta** (siapa, kapan, berapa lama), lalu ikuti dengan **opini** (pendapatmu).\n\n### 7. Latihan di kepala\n\nAmbil satu film favorit. Tulis dua kalimat fakta (*It was released in 2019. It lasts 120 minutes.*) dan dua kalimat opini (*I think the acting was great. In my opinion, the ending was satisfying.*). Tandai mana fakta dan mana opini. Latihan ini melatih kamu memisahkan informasi objektif dari penilaian pribadi, keterampilan penting agar ulasanmu kredibel dan tidak menyesatkan pembaca.",
+      "key_points": [
+        "Fakta = objektif, bisa diverifikasi (angka, tanggal, nama, direksi)",
+        "Opini = subjektif, perasaan pribadi (I think, in my opinion, beautiful, boring)",
+        "Fakta film: directed by, lasts X minutes, released in, won X awards, stars X",
+        "Opini film: I think, in my opinion, felt, seemed, the best/worst",
+        "Penanda fakta: angka, tanggal, nama; penanda opini: I think, in my opinion",
+        "Jangan klaim opini sebagai fakta; pakai 'I think' untuk opini"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "movie",
+          "id": "film",
+          "phonetic": "/ˈmuːvi/",
+          "example_en": "We watched a great movie.",
+          "example_id": "Kami menonton film yang bagus."
+        },
+        {
+          "en": "cinema",
+          "id": "bioskop",
+          "phonetic": "/ˈsɪnəmə/",
+          "example_en": "Let's go to the cinema.",
+          "example_id": "Mari kita pergi ke bioskop."
+        },
+        {
+          "en": "actor",
+          "id": "aktor",
+          "phonetic": "/ˈæktər/",
+          "example_en": "He is a famous actor.",
+          "example_id": "Dia aktor yang terkenal."
+        },
+        {
+          "en": "director",
+          "id": "sutradara",
+          "phonetic": "/dəˈrektər/",
+          "example_en": "The director is very talented.",
+          "example_id": "Sutradaranya sangat berbakat."
+        },
+        {
+          "en": "character",
+          "id": "tokoh",
+          "phonetic": "/ˈkærəktər/",
+          "example_en": "The main character is brave.",
+          "example_id": "Tokoh utamanya pemberani."
+        },
+        {
+          "en": "scene",
+          "id": "adegan",
+          "phonetic": "/siːn/",
+          "example_en": "My favorite scene is at the end.",
+          "example_id": "Adegan favorit saya di bagian akhir."
+        },
+        {
+          "en": "plot",
+          "id": "alur cerita",
+          "phonetic": "/plɒt/",
+          "example_en": "The plot was very exciting.",
+          "example_id": "Alur ceritanya sangat mendebarkan."
+        },
+        {
+          "en": "ending",
+          "id": "akhir cerita",
+          "phonetic": "/ˈendɪŋ/",
+          "example_en": "I didn't like the ending.",
+          "example_id": "Saya tidak suka akhir ceritanya."
+        },
+        {
+          "en": "soundtrack",
+          "id": "musik latar",
+          "phonetic": "/ˈsaʊndtræk/",
+          "example_en": "The soundtrack is beautiful.",
+          "example_id": "Musik latarnya indah."
+        },
+        {
+          "en": "trailer",
+          "id": "cuplikan",
+          "phonetic": "/ˈtreɪlər/",
+          "example_en": "I watched the trailer online.",
+          "example_id": "Saya menonton cuplikan daring."
+        },
+        {
+          "en": "subtitle",
+          "id": "takarir",
+          "phonetic": "/ˈsʌbtaɪtl/",
+          "example_en": "Turn on the subtitle, please.",
+          "example_id": "Nyalakan takarirnya, tolong."
+        },
+        {
+          "en": "review",
+          "id": "ulasan",
+          "phonetic": "/rɪˈvjuː/",
+          "example_en": "I read a review before watching.",
+          "example_id": "Saya membaca ulasan sebelum menonton."
+        },
+        {
+          "en": "audience",
+          "id": "penonton",
+          "phonetic": "/ˈɔːdiəns/",
+          "example_en": "The audience laughed a lot.",
+          "example_id": "Penonton tertawa banyak."
+        },
+        {
+          "en": "comedy",
+          "id": "komedi",
+          "phonetic": "/ˈkɒmədi/",
+          "example_en": "I love comedy films.",
+          "example_id": "Saya suka film komedi."
+        },
+        {
+          "en": "horror",
+          "id": "horor",
+          "phonetic": "/ˈhɒrər/",
+          "example_en": "Horror films are too scary for me.",
+          "example_id": "Film horor terlalu menakutkan bagi saya."
+        },
+        {
+          "en": "exciting",
+          "id": "mendebarkan",
+          "phonetic": "/ɪkˈsaɪtɪŋ/",
+          "example_en": "The action film was exciting.",
+          "example_id": "Film aksinya mendebarkan."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kalimat, murid tentukan cepat 'fakta' atau 'opini'.\n2. Pair work: buat 5 kalimat fakta + 5 kalimat opini tentang film favorit, bedakan.\n3. Fill-in-the-blank: 10 kalimat, tentukan apakah penanda fakta/opini yang tepat.\n4. Error correction: ubah 5 kalimat opini-jadi-fakta menjadi opini yang benar (tambah I think).\n5. Review writing: tulis ulasan 8 kalimat (4 fakta + 4 opini) tentang satu film.\n\nTugas rumah: Tulis ulasan film 10 kalimat: 5 fakta (siapa, kapan, berapa lama, dll) + 5 opini dengan I think/in my opinion.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long does the movie last?",
+          "id": "Berapa lama filmnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It lasts about two hours.",
+          "id": "Sekitar dua jam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is that a fact or an opinion?",
+          "id": "Itu fakta atau opini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's a fact — it can be verified.",
+          "id": "Itu fakta — bisa diverifikasi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Was it directed by a famous director?",
+          "id": "Apakah disutradarai sutradara terkenal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it was directed by a well-known director.",
+          "id": "Ya, sutradara terkenal."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your opinion of the pacing?",
+          "id": "Apa pendapatmu tentang langkahnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In my opinion, the pacing was too slow.",
+          "id": "Menurut saya, lambat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Fact or opinion?",
+          "id": "Fakta atau opini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's an opinion — it's subjective.",
+          "id": "Itu opini — subjektif."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did it win any awards?",
+          "id": "Apakah memenangkan penghargaan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it won three Oscars. That's a fact.",
+          "id": "Ya, tiga Oscar. Itu fakta."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Membedakan Fakta dan Opini'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis ulasan film 10 kalimat: 5 fakta (siapa, kapan, berapa lama, dll) + 5 opini dengan I think/in my opinion. Pelajaran berikutnya kita akan membahas membangun ulasan singkat, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

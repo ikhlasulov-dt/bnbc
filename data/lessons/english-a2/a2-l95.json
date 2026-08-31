@@ -1,0 +1,275 @@
+{
+  "id": "a2-l95",
+  "course_id": "english-a2",
+  "module_title": "Perpisahan dan Rencana Masa Depan",
+  "level": "A2",
+  "title": "Menyusun Paragraf Perpisahan",
+  "subtitle": "Menggabungkan will, be going to, looking forward to, dan ungkapan perpisahan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun paragraf perpisahan dengan urutan yang baik",
+    "Menggabungkan will/won't, be going to, looking forward to, dan ungkapan perpisahan",
+    "Menulis paragraf perpisahan yang hangat dan penuh harapan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita sampai di pelajaran terakhir modul Perpisahan dan Rencana Masa Depan, sekaligus pelajaran terakhir seluruh kursus A2. Kita sudah belajar 'will', 'be going to', 'looking forward to', ungkapan perpisahan, dan kosakata masa depan. Sekarang waktunya menggabungkan semuanya menjadi paragraf perpisahan. Coba bayangkan hari terakhir kalian di sini. Kalau diminta menceritakan rencana masa depan dan mengucap perpisahan, apa yang kalian katakan? Itulah yang akan kita susun hari ini. Rencana: kita pelajari struktur paragraf perpisahan, lalu berlatih menulisnya memakai semua pola.",
+      "instructions": "Sapa murid dan tegaskan ini pelajaran terakhir modul dan kursus. Minta murid membayangkan hari terakhir. Jelaskan tujuan: menyusun paragraf perpisahan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menyusun Paragraf Perpisahan\n\nParagraf perpisahan yang baik memakai **semua pola** yang sudah kita pelajari:\n1. **'Will'** untuk janji dan prediksi.\n2. **'Be going to'** untuk rencana yang sudah pasti.\n3. **'Looking forward to'** untuk menantikan masa depan.\n4. **Ungkapan perpisahan** (goodbye, take care, keep in touch).\n5. **Kosakata masa depan** (dream, scholarship, journey, dll).\n\n## Struktur Paragraf Perpisahan\n\n### 1. Perkenalan\nKonteks perpisahan dan perasaan.\n- Today is our last day. I feel sad but also excited about the future.\n\n### 2. Rencana Masa Depan\nRencana yang sudah pasti memakai 'be going to'.\n- I **am going to study** at a university in Jakarta. My family **is going to move** there together.\n\n### 3. Harapan dan Janji\nHarapan memakai 'hope' dan janji memakai 'will'.\n- I **hope** I **will get** a scholarship. I **will keep in touch** with my friends.\n\n### 4. Antusiasme\nMenantikan masa depan memakai 'looking forward to'.\n- I'm **looking forward to** my new journey. I'm **looking forward to seeing** you all again.\n\n### 5. Ucapan Perpisahan\nUngkapan perpisahan.\n- Goodbye and all the best. Take care, and let's keep in touch.\n\n## Contoh Paragraf Lengkap\n\nToday is our last day together. I feel sad, but I am also excited about the future. I **am going to study** at a university in Jakarta next month. My family **is going to move** there with me. I **hope** I **will get** a scholarship to study abroad one day. My dream is to become an engineer. I **will keep in touch** with all my friends here. I'm **looking forward to** my new journey, and I'm **looking forward to seeing** you all again during the holidays. Goodbye and all the best. Take care, and let's keep in touch. I am sure we **will succeed** in our dreams.\n\n## Tips Menulis Paragraf Perpisahan\n\n- Mulai dengan **konteks perpisahan** dan perasaan.\n- Tulis **rencana pasti** memakai 'be going to'.\n- Tambahkan **harapan** memakai 'hope' dan **janji** memakai 'will'.\n- Sertakan **antusiasme** memakai 'looking forward to'.\n- Akhiri dengan **ungkapan perpisahan** (goodbye, take care, keep in touch).\n- Pakai **penghubung** (but, and, so) supaya mengalir.\n\n> **Hindari:** mencampur semua ide tanpa urutan. Ikuti struktur: perkenalan -> rencana -> harapan/janji -> antusiasme -> perpisahan.\n\n> **Catatan:** Ini paragraf terakhir kursus A2. Manfaatkan semua pola yang sudah dipelajari untuk menutup dengan baik.\n\n## Mini-dialogue\n\nA: Today is our last day. How do you feel?\nB: I feel sad but excited. I am going to study in Jakarta.\nA: Will you keep in touch?\nB: Yes, I will. I'm looking forward to seeing you again. Goodbye and take care!",
+      "key_points": [
+        "Paragraf perpisahan menggabungkan: will, be going to, looking forward to, ungkapan perpisahan, kosakata.",
+        "Struktur: perkenalan -> rencana -> harapan/janji -> antusiasme -> perpisahan.",
+        "Mulai dengan konteks perpisahan dan perasaan.",
+        "Rencana pasti memakai 'be going to', harapan 'hope + will', janji 'will'.",
+        "Antusiasme memakai 'looking forward to'.",
+        "Akhiri dengan ungkapan perpisahan: goodbye, take care, keep in touch.",
+        "Pakai penghubung (but, and, so) supaya paragraf mengalir."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "future",
+          "id": "masa depan",
+          "phonetic": "/ˈfjuːtʃər/",
+          "example_en": "I am thinking about my future.",
+          "example_id": "Saya memikirkan masa depan saya."
+        },
+        {
+          "en": "plan",
+          "id": "rencana",
+          "phonetic": "/plæn/",
+          "example_en": "I am going to share my plans with you.",
+          "example_id": "Saya akan berbagi rencana saya denganmu."
+        },
+        {
+          "en": "hope",
+          "id": "harapan",
+          "phonetic": "/hoʊp/",
+          "example_en": "I hope I will get a scholarship.",
+          "example_id": "Saya berharap mendapat beasiswa."
+        },
+        {
+          "en": "dream",
+          "id": "cita-cita",
+          "phonetic": "/driːm/",
+          "example_en": "My dream is to study abroad.",
+          "example_id": "Cita-cita saya adalah belajar di luar negeri."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "scholarship",
+          "id": "beasiswa",
+          "phonetic": "/ˈskɒlərʃɪp/",
+          "example_en": "She got a scholarship to study in Japan.",
+          "example_id": "Dia mendapat beasiswa untuk belajar di Jepang."
+        },
+        {
+          "en": "university",
+          "id": "universitas",
+          "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+          "example_en": "I am going to study at a university in Jakarta.",
+          "example_id": "Saya akan belajar di universitas di Jakarta."
+        },
+        {
+          "en": "to succeed",
+          "id": "berhasil",
+          "phonetic": "/tuː səkˈsiːd/",
+          "example_en": "I am sure you will succeed.",
+          "example_id": "Saya yakin kamu akan berhasil."
+        },
+        {
+          "en": "goal",
+          "id": "tujuan",
+          "phonetic": "/ɡoʊl/",
+          "example_en": "My goal is to become an engineer.",
+          "example_id": "Tujuan saya menjadi insinyur."
+        },
+        {
+          "en": "opportunity",
+          "id": "kesempatan",
+          "phonetic": "/ˌɒpərˈtuːnəti/",
+          "example_en": "This is a great opportunity for me.",
+          "example_id": "Ini adalah kesempatan besar bagi saya."
+        },
+        {
+          "en": "farewell",
+          "id": "perpisahan",
+          "phonetic": "/ˌferˈwel/",
+          "example_en": "We had a farewell party last night.",
+          "example_id": "Kami mengadakan pesta perpisahan tadi malam."
+        },
+        {
+          "en": "goodbye",
+          "id": "selamat tinggal",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "example_en": "Goodbye and all the best.",
+          "example_id": "Selamat tinggal dan semoga semua yang terbaik."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "Please keep in touch after you move.",
+          "example_id": "Tetaplah berkomunikasi setelah kamu pindah."
+        },
+        {
+          "en": "take care",
+          "id": "jaga diri",
+          "phonetic": "/teɪk ker/",
+          "example_en": "Take care and have a safe trip.",
+          "example_id": "Jagalah dirimu dan selamat jalan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "I'm looking forward to this new journey.",
+          "example_id": "Saya menantikan perjalanan baru ini."
+        },
+        {
+          "en": "to look forward to",
+          "id": "menantikan",
+          "phonetic": "/tuː lʊk ˈfɔːrwərd tuː/",
+          "example_en": "I'm looking forward to seeing you again.",
+          "example_id": "Saya menantikan untuk bertemu denganmu lagi."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Analisis (4 menit):** Baca paragraf contoh, identifikasi semua pola yang dipakai.\n2) **Fill-in-the-blank (5 menit):** Lengkapi paragraf perpisahan dengan struktur yang tepat.\n3) **Pair work (5 menit):** Ucapkan perpisahan ke pasangan dalam 6-8 kalimat memakai semua pola.\n4) **Writing (4 menit):** Tulis paragraf perpisahan lengkap (8-10 kalimat) memakai semua pola.\n5) **Sharing (2 menit):** 2 murid membacakan paragraf perpisahan mereka.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Today is our last day. How do you feel?",
+          "id": "Hari ini hari terakhir kita. Bagaimana perasaanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I feel sad but excited. I am going to study in Jakarta.",
+          "id": "Saya sedih tapi bersemangat. Saya akan belajar di Jakarta."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Will you keep in touch?",
+          "id": "Apakah kamu akan tetap berkomunikasi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I will. I'm looking forward to seeing you again.",
+          "id": "Ya. Saya menantikan untuk bertemu kalian lagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What are the parts of a farewell paragraph?",
+          "id": "Bagus. Apa saja bagian paragraf perpisahan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Introduction, plans, hopes/promises, excitement, farewell.",
+          "id": "Perkenalan, rencana, harapan/janji, antusiasme, perpisahan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Make a 'be going to' sentence for a plan.",
+          "id": "Bagus. Buat kalimat 'be going to' untuk rencana."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am going to study engineering at a university.",
+          "id": "Saya akan belajar teknik di universitas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now make a 'will' sentence for a promise.",
+          "id": "Sekarang buat kalimat 'will' untuk janji."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will keep in touch with my friends.",
+          "id": "Saya akan tetap berkomunikasi dengan teman-teman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'looking forward to' with a verb in -ing.",
+          "id": "Bagus. Pakai 'looking forward to' dengan kata kerja -ing."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm looking forward to starting my new journey.",
+          "id": "Saya menantikan untuk memulai perjalanan baru saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you end the paragraph?",
+          "id": "Bagaimana mengakhiri paragraf?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "With farewell expressions: Goodbye and take care. Let's keep in touch.",
+          "id": "Dengan ungkapan perpisahan: Selamat tinggal dan jagalah diri. Mari tetap berkomunikasi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now write your own farewell paragraph.",
+          "id": "Sempurna. Sekarang tulis paragraf perpisahan kalian sendiri."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Okay, I'll write about my plans and say goodbye to my friends.",
+          "id": "Baik, saya akan menulis tentang rencana saya dan berpamitan kepada teman-teman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great. Two students will share their paragraphs at the end.",
+          "id": "Bagus. Dua murid akan membacakan paragrafnya di akhir."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm ready to share mine. Thank you for everything, teacher!",
+          "id": "Saya siap membacakan punya saya. Terima kasih atas semuanya, Bu/Pak!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kalian sudah menyelesaikan modul Perpisahan dan Rencana Masa Depan, sekaligus menutup seluruh kursus A2. Mari kita ingat semua yang dipelajari: 'will', 'be going to', 'looking forward to', ungkapan perpisahan, dan kosakata masa depan. Coba saya tanya: struktur paragraf perpisahan apa saja? Benar: perkenalan, rencana, harapan/janji, antusiasme, perpisahan. Untuk PR, tulis paragraf perpisahan lengkap (10-12 kalimat) memakai semua pola. Saya bangga dengan kemajuan kalian selama kursus A2. Kalian sudah belajar banyak topik: festival, rumah, hewan peliharaan, berita, persahabatan, memasak, dan masa depan. Teruslah berlatih, dan sampai jumpa di kursus B1! Goodbye and all the best!",
+      "instructions": "Tegaskan semua struktur dan apresiasi penyelesaian kursus A2. Beri PR paragraf perpisahan lengkap. Sampaikan selamat dan umumkan kursus B1 berikutnya."
+    }
+  ]
+}

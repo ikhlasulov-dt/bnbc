@@ -1,0 +1,237 @@
+{
+  "id": "a2-l18",
+  "course_id": "english-a2",
+  "module_title": "Pekerjaan dan Profesi",
+  "level": "A2",
+  "title": "Menjelaskan Tugas Suatu Profesi",
+  "subtitle": "Membicarakan cita-cita dan rencana karier dengan present continuous untuk masa depan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menjelaskan tugas profesi dengan pola 'A [profesi] + kata kerja + objek'",
+    "Menggunakan 'is a/an' untuk menyatakan profesi seseorang"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang going to? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-18 dengan judul 'Menjelaskan Tugas Suatu Profesi'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Tiap profesi punya tugas khas. Bagaimana menjelaskan 'Apa yang dilakukan seorang dokter?' dalam bahasa Inggris? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menjelaskan Tugas Suatu Profesi\n\nUntuk menjelaskan apa yang dilakukan suatu profesi, kita gunakan **present simple** (rutin) dan kata kerja yang sesuai bidangnya.\n\n### 1. Pola umum\n\n**A/An + profesi + V(s) + objek.**\n\n- A doctor **treats** sick people.\n- A teacher **teaches** students.\n- A firefighter **puts out** fires.\n- A chef **cooks** food in a restaurant.\n\nUntuk he/she/it (profesi tunggal), kata kerja dapat akhiran **-s/-es**.\n\n### 2. Tugas berbagai profesi\n\n| Profesi | Tugas |\n|---|---|\n| doctor | treats patients, gives medicine |\n| nurse | cares for patients, helps doctors |\n| teacher | teaches students, explains lessons |\n| engineer | designs machines, builds structures |\n| lawyer | defends clients, gives legal advice |\n| police officer | keeps people safe, catches criminals |\n| firefighter | puts out fires, rescues people |\n| chef | cooks meals, plans menus |\n| programmer | writes code, builds software |\n| journalist | writes news, interviews people |\n\n### 3. Menjelaskan dengan 'has to' / 'must'\n\n- A doctor **has to** study for many years.\n- A firefighter **must** be brave.\n- A pilot **has to** fly safely.\n\n### 4. Tanya tugas profesi\n\n- What **does** a doctor **do**?\n- What **does** a chef **do** in a restaurant?\n- What **do** engineers **build**?\n\n### 5. Mini-dialogue\n\n> A: What **does** a nurse **do**?\n> B: A nurse **cares for** patients and **helps** doctors.\n> A: What **does** a mechanic **do**?\n> B: A mechanic **repairs** cars and motorbikes.\n\n> **Hindari:** \"What do a doctor do?\" (salah — *What does a doctor do?*)\n> **Hindari:** \"A doctor treat patients.\" (salah — *A doctor treats patients.*)\n\n### 6. Tip\n\nUntuk profesi tunggal (a doctor, she), kata kerja dapat **-s**. Untuk jamak (doctors, they), tanpa -s: *Doctors treat patients.*",
+      "key_points": [
+        "Pola: A/An + profesi + V(s) + objek",
+        "Profesi tunggal (a doctor) → kata kerja -s: treats, teaches",
+        "Tanya: What does a ... do? / What do ...s do?",
+        "Tugas: doctor=treats, teacher=teaches, chef=cooks, firefighter=puts out fires",
+        "has to/must untuk kewajiban: A pilot has to fly safely",
+        "Jamak tanpa -s: Doctors treat patients"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "job",
+          "id": "pekerjaan",
+          "phonetic": "/dʒɒb/",
+          "example_en": "He has a new job.",
+          "example_id": "Dia punya pekerjaan baru."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "engineer",
+          "id": "insinyur",
+          "phonetic": "/ˌendʒɪˈnɪr/",
+          "example_en": "My uncle is an engineer.",
+          "example_id": "Paman saya seorang insinyur."
+        },
+        {
+          "en": "lawyer",
+          "id": "pengacara",
+          "phonetic": "/ˈlɔɪər/",
+          "example_en": "She is a famous lawyer.",
+          "example_id": "Dia pengacara yang terkenal."
+        },
+        {
+          "en": "accountant",
+          "id": "akuntan",
+          "phonetic": "/əˈkaʊntənt/",
+          "example_en": "An accountant works with numbers.",
+          "example_id": "Akuntan bekerja dengan angka."
+        },
+        {
+          "en": "pilot",
+          "id": "penerbang",
+          "phonetic": "/ˈpaɪlət/",
+          "example_en": "The pilot flies the plane.",
+          "example_id": "Penerbang menerbangkan pesawat."
+        },
+        {
+          "en": "chef",
+          "id": "koki",
+          "phonetic": "/ʃef/",
+          "example_en": "The chef cooks delicious food.",
+          "example_id": "Koki memasak makanan lezat."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "A journalist writes news.",
+          "example_id": "Wartawan menulis berita."
+        },
+        {
+          "en": "programmer",
+          "id": "pemrogram",
+          "phonetic": "/ˈproʊɡræmər/",
+          "example_en": "He is a computer programmer.",
+          "example_id": "Dia pemrogram komputer."
+        },
+        {
+          "en": "police officer",
+          "id": "polisi",
+          "phonetic": "/pəˈliːs ˈɒfɪsər/",
+          "example_en": "A police officer protects people.",
+          "example_id": "Polisi melindungi orang."
+        },
+        {
+          "en": "firefighter",
+          "id": "pemadam kebakaran",
+          "phonetic": "/ˈfaɪərfaɪtər/",
+          "example_en": "A firefighter puts out fires.",
+          "example_id": "Pemadam kebakaran memadamkan api."
+        },
+        {
+          "en": "scientist",
+          "id": "ilmuwan",
+          "phonetic": "/ˈsaɪəntɪst/",
+          "example_en": "Scientists do experiments.",
+          "example_id": "Ilmuwan melakukan eksperimen."
+        },
+        {
+          "en": "mechanic",
+          "id": "montir",
+          "phonetic": "/məˈkænɪk/",
+          "example_en": "The mechanic fixed my car.",
+          "example_id": "Montir memperbaiki mobil saya."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara kerja",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "I have a job interview tomorrow.",
+          "example_id": "Saya ada wawancara kerja besok."
+        },
+        {
+          "en": "colleague",
+          "id": "rekan kerja",
+          "phonetic": "/ˈkɒliːɡ/",
+          "example_en": "My colleague is very helpful.",
+          "example_id": "Rekan kerja saya sangat membantu."
+        },
+        {
+          "en": "salary",
+          "id": "gaji",
+          "phonetic": "/ˈsæləri/",
+          "example_en": "He gets a good salary.",
+          "example_id": "Dia mendapat gaji yang baik."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut profesi, murid jelaskan tugasnya dalam 1 kalimat present simple.\n2. Pair work: tanya 'What does a ... do?' untuk 6 profesi, jawab lengkap.\n3. Fill-in-the-blank: 10 kalimat dengan kata kerja -s yang benar (treats, teaches, cooks, dll).\n4. Error correction: perbaiki 5 kalimat (mis. 'A doctor treat patients', 'What do a chef do').\n5. Describe & guess: satu murid jelaskan tugas profesi, teman menebak profesi tsb.\n\nTugas rumah: Pilih 5 profesi, tulis 1 kalimat tugas masing-masing dengan present simple yang benar.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does a doctor do?",
+          "id": "Apa yang dilakukan seorang dokter?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A doctor treats sick people and gives medicine.",
+          "id": "Dokter merawat orang sakit dan memberi obat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does a teacher do?",
+          "id": "Apa yang dilakukan seorang guru?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A teacher teaches students and explains lessons.",
+          "id": "Guru mengajar siswa dan menjelaskan pelajaran."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does a firefighter do?",
+          "id": "Apa yang dilakukan pemadam kebakaran?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A firefighter puts out fires and rescues people.",
+          "id": "Pemadam kebakaran memadamkan api dan menyelamatkan orang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does an engineer build?",
+          "id": "Apa yang dibangun insinyur?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "An engineer designs machines and builds structures.",
+          "id": "Insinyur merancang mesin dan membangun struktur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does a chef do in a restaurant?",
+          "id": "Apa yang dilakukan koki di restoran?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A chef cooks meals and plans the menu.",
+          "id": "Koki memasak makanan dan menyusun menu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does a journalist write?",
+          "id": "Apa yang ditulis wartawan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A journalist writes news and interviews people.",
+          "id": "Wartawan menulis berita dan mewawancarai orang."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Menjelaskan Tugas Suatu Profesi'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Pilih 5 profesi, tulis 1 kalimat tugas masing-masing dengan present simple yang benar. Pelajaran berikutnya kita akan membahas membuat pertanyaan tentang pekerjaan, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

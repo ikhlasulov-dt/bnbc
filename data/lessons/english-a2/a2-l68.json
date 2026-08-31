@@ -1,0 +1,275 @@
+{
+  "id": "a2-l68",
+  "course_id": "english-a2",
+  "module_title": "Hewan Peliharaan",
+  "level": "A2",
+  "title": "Menyusun Paragraf tentang Hewan Peliharaan",
+  "subtitle": "Menggabungkan have got, can/can't, dan should/shouldn't",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun paragraf tentang hewan peliharaan dengan urutan yang baik",
+    "Menggabungkan have got, can/can't, dan should/shouldn't",
+    "Menulis deskripsi peliharaan yang lengkap"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita sampai di pelajaran terakhir modul Hewan Peliharaan. Kita sudah belajar 'have got/has got', 'can/can't', 'should/shouldn't', kosakata, dan membandingkan hewan. Sekarang waktunya menggabungkan semuanya menjadi paragraf lengkap tentang hewan peliharaan. Coba bayangkan hewan peliharaan kalian. Kalau ada teman bertanya 'Tell me about your pet', apa yang kalian jawab? Itulah yang akan kita susun hari ini. Rencana: kita pelajari cara menyusun paragraf lengkap, lalu berlatih menulis paragraf tentang hewan peliharaan sendiri.",
+      "instructions": "Sapa murid dan tegaskan ini pelajaran terakhir modul. Minta murid membayangkan hewan peliharaan mereka. Jelaskan tujuan: menyusun paragraf lengkap."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menyusun Paragraf tentang Hewan Peliharaan\n\nParagraf yang baik tentang hewan peliharaan memakai **semua pola** yang sudah kita pelajari:\n1. **Have got / Has got** untuk kepemilikan.\n2. **Can / Can't** untuk kemampuan.\n3. **Should / Shouldn't** untuk saran perawatan.\n4. **Kosakata hewan** untuk jenis hewan dan perawatan.\n5. **Perbandingan** untuk menunjukkan keunikan.\n\n## Struktur Paragraf yang Baik\n\n### 1. Pengenalan\nSiapa pemiliknya, apa hewannya, namanya.\n- I **have got** a dog. His name is Buddy.\n\n### 2. Deskripsi Fisik dan Kemampuan\nWarna, ukuran, dan kemampuan memakai 'can/can't'.\n- He is brown and white. He **can run** very fast and **can swim** in the river. He **can't climb** trees.\n\n### 3. Perawatan\nApa yang dilakukan pemilik memakai 'should' dan kata kerja perawatan.\n- I **feed** him twice a day and **walk** him every morning. I **should brush** him every week. I **shouldn't give** him chocolate.\n\n### 4. Kesan atau Perbandingan\nKesan pribadi atau perbandingan dengan hewan lain.\n- Buddy is more active than my friend's cat. I really love him.\n\n## Contoh Paragraf Lengkap\n\nI **have got** a dog named Buddy. He is brown and white, and he is very playful. He **can run** very fast and **can swim** in the river, but he **can't climb** trees. Every day, I **feed** him twice and **walk** him in the morning. I **should brush** him every week, and I **shouldn't give** him chocolate because it is dangerous for dogs. Buddy is more active than my friend's cat, but he is also very loving. I really love my pet.\n\n## Tips Menulis Paragraf\n\n- Mulai dengan **perkenalan**: siapa, apa, nama.\n- Lalu **deskripsi fisik** dan **kemampuan** memakai 'can/can't'.\n- Lalu **perawatan** memakai 'should/shouldn't' dan kata kerja (feed, walk, brush).\n- Akhiri dengan **kesan pribadi** atau perbandingan.\n- Pakai **penghubung** (but, and, because) supaya mengalir.\n\n> **Hindari:** mencampur semua ide tanpa urutan. Ikuti struktur: perkenalan -> deskripsi -> perawatan -> kesan.\n\n> **Catatan:** Bila tidak punya hewan peliharaan, kalian bisa menceritakan hewan impian: 'I want to have a cat. I would feed it...'\n\n## Mini-dialogue\n\nA: Tell me about your pet.\nB: I have got a cat named Luna. She is white and very soft. She can climb trees but she can't swim. I feed her twice a day. I really love her.\nA: She sounds lovely!",
+      "key_points": [
+        "Paragraf hewan peliharaan menggabungkan: have got/has got, can/can't, should/shouldn't, kosakata, perbandingan.",
+        "Struktur: perkenalan -> deskripsi fisik & kemampuan -> perawatan -> kesan.",
+        "Mulai dengan perkenalan: siapa, apa hewannya, nama.",
+        "Deskripsi memakai 'can/can't', perawatan memakai 'should/shouldn't'.",
+        "Akhiri dengan kesan pribadi atau perbandingan.",
+        "Pakai penghubung (but, and, because) supaya paragraf mengalir.",
+        "Bila tidak punya hewan, ceritakan hewan impian."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "pet",
+          "id": "hewan peliharaan",
+          "phonetic": "/pet/",
+          "example_en": "Have you got a pet?",
+          "example_id": "Apakah kamu punya hewan peliharaan?"
+        },
+        {
+          "en": "dog",
+          "id": "anjing",
+          "phonetic": "/dɒɡ/",
+          "example_en": "My dog can run very fast.",
+          "example_id": "Anjing saya bisa berlari sangat cepat."
+        },
+        {
+          "en": "cat",
+          "id": "kucing",
+          "phonetic": "/kæt/",
+          "example_en": "The cat can climb trees.",
+          "example_id": "Kucing itu bisa memanjat pohon."
+        },
+        {
+          "en": "rabbit",
+          "id": "kelinci",
+          "phonetic": "/ˈræbɪt/",
+          "example_en": "She has got a white rabbit.",
+          "example_id": "Dia punya kelinci putih."
+        },
+        {
+          "en": "parrot",
+          "id": "beo",
+          "phonetic": "/ˈpærət/",
+          "example_en": "A parrot can mimic words.",
+          "example_id": "Beo bisa menirukan kata-kata."
+        },
+        {
+          "en": "hamster",
+          "id": "hamster",
+          "phonetic": "/ˈhæmstər/",
+          "example_en": "The hamster is in the cage.",
+          "example_id": "Hamsternya ada di dalam sangkar."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "Fish can swim but they can't walk.",
+          "example_id": "Ikan bisa berenang tetapi tidak bisa berjalan."
+        },
+        {
+          "en": "turtle",
+          "id": "kura-kura",
+          "phonetic": "/ˈtɜːrtl/",
+          "example_en": "A turtle can live for many years.",
+          "example_id": "Kura-kura bisa hidup bertahun-tahun."
+        },
+        {
+          "en": "cage",
+          "id": "sangkar",
+          "phonetic": "/keɪdʒ/",
+          "example_en": "The bird is in the cage.",
+          "example_id": "Burungnya ada di dalam sangkar."
+        },
+        {
+          "en": "to feed",
+          "id": "memberi makan",
+          "phonetic": "/tuː fiːd/",
+          "example_en": "You should feed your cat twice a day.",
+          "example_id": "Kamu sebaiknya memberi makan kucingmu dua kali sehari."
+        },
+        {
+          "en": "to walk",
+          "id": "mengajak jalan",
+          "phonetic": "/tuː wɔːk/",
+          "example_en": "I walk my dog every morning.",
+          "example_id": "Saya mengajak anjing saya jalan setiap pagi."
+        },
+        {
+          "en": "to brush",
+          "id": "menyikat",
+          "phonetic": "/tuː brʌʃ/",
+          "example_en": "You should brush your dog every week.",
+          "example_id": "Kamu sebaiknya menyikat anjingmu setiap minggu."
+        },
+        {
+          "en": "vet",
+          "id": "dokter hewan",
+          "phonetic": "/vet/",
+          "example_en": "You should take your pet to the vet.",
+          "example_id": "Kamu sebaiknya membawa peliharaanmu ke dokter hewan."
+        },
+        {
+          "en": "leash",
+          "id": "tali kekang",
+          "phonetic": "/liːʃ/",
+          "example_en": "Use a leash when you walk your dog.",
+          "example_id": "Gunakan tali kekang saat mengajak anjingmu jalan."
+        },
+        {
+          "en": "to train",
+          "id": "melatih",
+          "phonetic": "/tuː treɪn/",
+          "example_en": "You can train a dog to sit.",
+          "example_id": "Kamu bisa melatih anjing untuk duduk."
+        },
+        {
+          "en": "to take care of",
+          "id": "merawat",
+          "phonetic": "/tuː teɪk ker əv/",
+          "example_en": "You should take care of your pet every day.",
+          "example_id": "Kamu sebaiknya merawat peliharaanmu setiap hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Analisis (4 menit):** Baca paragraf contoh, identifikasi semua pola yang dipakai (have got, can, should, dll.).\n2) **Fill-in-the-blank (5 menit):** Lengkapi paragraf dengan struktur yang tepat.\n3) **Pair work (5 menit):** Ceritakan hewan peliharaan ke pasangan dalam 6-8 kalimat memakai semua pola.\n4) **Writing (4 menit):** Tulis paragraf lengkap (8-10 kalimat) tentang hewan peliharaan (nyata atau impian).\n5) **Sharing (2 menit):** 2 murid membacakan paragraf mereka.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Today we combine everything. What should a pet paragraph include?",
+          "id": "Hari ini kita gabungkan semuanya. Apa yang harus ada dalam paragraf hewan peliharaan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Introduction, description, care, and personal feeling.",
+          "id": "Perkenalan, deskripsi, perawatan, dan perasaan pribadi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. How do you start?",
+          "id": "Bagus. Bagaimana memulainya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have got a pet. Its name is...",
+          "id": "Saya punya hewan peliharaan. Namanya..."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Now describe its abilities with 'can'.",
+          "id": "Bagus. Sekarang deskripsikan kemampuannya dengan 'can'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My dog can run fast and can swim, but it can't climb trees.",
+          "id": "Anjing saya bisa berlari cepat dan bisa berenang, tapi tidak bisa memanjat pohon."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now add care advice with 'should'.",
+          "id": "Sekarang tambahkan saran perawatan dengan 'should'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I should feed it twice a day and walk it every morning.",
+          "id": "Saya sebaiknya memberi makan dua kali sehari dan mengajak jalan setiap pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Add a 'shouldn't' advice.",
+          "id": "Bagus. Tambahkan saran 'shouldn't'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I shouldn't give it chocolate because it's dangerous.",
+          "id": "Saya sebaiknya tidak memberinya coklat karena berbahaya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you end the paragraph?",
+          "id": "Bagaimana mengakhiri paragraf?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "With a personal feeling, like 'I really love my pet.'",
+          "id": "Dengan perasaan pribadi, seperti 'I really love my pet.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now write your own paragraph in 8-10 sentences.",
+          "id": "Sempurna. Sekarang tulis paragraf kalian sendiri dalam 8-10 kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Okay, I'll write about my cat.",
+          "id": "Baik, saya akan menulis tentang kucing saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Don't forget to use 'but' and 'and' to connect ideas.",
+          "id": "Jangan lupa pakai 'but' dan 'and' untuk menghubungkan ide."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will. I'll use 'but' for differences and 'and' for similarities.",
+          "id": "Saya akan. Saya pakai 'but' untuk perbedaan dan 'and' untuk kesamaan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great. Two students will share their paragraphs at the end.",
+          "id": "Bagus. Dua murid akan membacakan paragrafnya di akhir."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm ready to share mine!",
+          "id": "Saya siap membacakan punya saya!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kalian sudah menyelesaikan modul Hewan Peliharaan dengan menulis paragraf lengkap. Mari kita ingat semua yang sudah dipelajari: 'have got/has got', 'can/can't', 'should/shouldn't', kosakata hewan, perbandingan, dan struktur paragraf. Coba saya tanya: struktur paragraf hewan peliharaan apa saja? Benar: perkenalan, deskripsi, perawatan, kesan. Untuk PR, tulis paragraf lengkap (10-12 kalimat) tentang hewan peliharaan kalian (nyata atau impian) memakai semua pola. Modul berikutnya kita akan masuk topik baru: Berita dan Peristiwa, di mana kita belajar menceritakan berita memakai 'present perfect'. Sampai jumpa di modul baru!",
+      "instructions": "Tegaskan semua struktur dan apresiasi penyelesaian modul. Beri PR paragraf lengkap. Umumkan topik modul berikutnya: Berita dan Peristiwa."
+    }
+  ]
+}

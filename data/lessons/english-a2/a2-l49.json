@@ -1,0 +1,237 @@
+{
+  "id": "a2-l49",
+  "course_id": "english-a2",
+  "module_title": "Olahraga",
+  "level": "A2",
+  "title": "Membangun Diskusi Olahraga",
+  "subtitle": "Membandingkan olahraga dengan comparatives dan superlatives",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun diskusi olahraga dengan comparative dan superlative",
+    "Menggabungkan kosakata olahraga dan bentuk perbandingan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang modifiers? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-49 dengan judul 'Membangun Diskusi Olahraga'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Sekarang gabungkan semuanya: kosakata, comparative, superlative, modifier — jadi diskusi olahraga yang utuh! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Membangun Diskusi Olahraga\n\nDiskusi olahraga yang baik memadukan **kosakata**, **perbandingan** (comparative/superlative), dan **ungkapan pendapat**.\n\n### 1. Struktur diskusi\n\n| Tahap | Isi | Bahasa |\n|---|---|---|\n| Topik | sebutkan olahraga | Let's talk about football vs basketball. |\n| Fakta | data/observasi | Football is the most popular sport here. |\n| Perbandingan | comparative/superlative | Basketball is faster than football. |\n| Pendapat | opini + alasan | I think basketball is more exciting because... |\n| Kesimpulan | rangkum | Overall, both are great sports. |\n\n### 2. Frasa pendapat & menanggapi\n\n- **In my opinion**, ... / **I think** ...\n- **I agree** / **I disagree**.\n- **That's true** / **That's a good point**.\n- **I see what you mean, but...**\n\n### 3. Frasa transisi\n\n- **First**, ... **then**, ... **finally**, ...\n- **On the one hand**, ... **on the other hand**, ...\n- **However**, ... / **In addition**, ...\n- **Overall**, ... / **In conclusion**, ...\n\n### 4. Mini-diskusi\n\n> A: **Let's talk about** football vs basketball.\n> B: OK. Football is **the most popular** sport here.\n> A: True. But basketball is **much faster**.\n> B: **I think** basketball is **more exciting** because the score changes quickly.\n> A: **I agree. But** football is **more tactical**.\n> B: **Overall**, both are great sports.\n\n### 5. Memadukan comparative + modifier + opini\n\n- He is **by far** the best player.\n- This match was **a lot more exciting** than I expected.\n- **In my opinion**, swimming is **much healthier than** weightlifting.\n\n> **Hindari:** diskusi tanpa perbandingan konkret.\n> **Hindari:** opini tanpa alasan (because).\n\n### 6. Tip\n\nDukung setiap opini dengan **perbandingan** (comparative/superlative) dan **alasan** (because).",
+      "key_points": [
+        "Struktur: topik → fakta → perbandingan → pendapat → kesimpulan",
+        "Frasa pendapat: In my opinion, I think",
+        "Frasa menanggapi: I agree/disagree, That's true, I see what you mean but",
+        "Frasa transisi: First/then, On the one hand/other hand, However, Overall",
+        "Padukan comparative + modifier + opini + alasan (because)",
+        "Dukung opini dengan perbandingan konkret dan alasan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "sport",
+          "id": "olahraga",
+          "phonetic": "/spɔːrt/",
+          "example_en": "What is your favorite sport?",
+          "example_id": "Apa olahraga kesukaanmu?"
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "Football is very popular.",
+          "example_id": "Sepak bola sangat populer."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He plays basketball every week.",
+          "example_id": "Dia bermain bola basket setiap minggu."
+        },
+        {
+          "en": "volleyball",
+          "id": "bola voli",
+          "phonetic": "/ˈvɒlibɔːl/",
+          "example_en": "Volleyball is fun to play.",
+          "example_id": "Bola voli menyenangkan untuk dimainkan."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular in Indonesia.",
+          "example_id": "Bulu tangkis populer di Indonesia."
+        },
+        {
+          "en": "tennis",
+          "id": "tenis",
+          "phonetic": "/ˈtenɪs/",
+          "example_en": "She plays tennis on Sunday.",
+          "example_id": "Dia bermain tenis pada hari Minggu."
+        },
+        {
+          "en": "swimming",
+          "id": "renang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is good for health.",
+          "example_id": "Berenang baik untuk kesehatan."
+        },
+        {
+          "en": "athlete",
+          "id": "atlet",
+          "phonetic": "/ˈæθliːt/",
+          "example_en": "She is a great athlete.",
+          "example_id": "Dia atlet yang hebat."
+        },
+        {
+          "en": "team",
+          "id": "tim",
+          "phonetic": "/tiːm/",
+          "example_en": "Our team won the match.",
+          "example_id": "Tim kami memenangkan pertandingan."
+        },
+        {
+          "en": "coach",
+          "id": "pelatih",
+          "phonetic": "/koʊtʃ/",
+          "example_en": "The coach is very strict.",
+          "example_id": "Pelatihnya sangat tegas."
+        },
+        {
+          "en": "referee",
+          "id": "wasit",
+          "phonetic": "/ˌrefəˈriː/",
+          "example_en": "The referee blew the whistle.",
+          "example_id": "Wasit meniup peluit."
+        },
+        {
+          "en": "stadium",
+          "id": "stadion",
+          "phonetic": "/ˈsteɪdiəm/",
+          "example_en": "The stadium was full of fans.",
+          "example_id": "Stadion penuh dengan penggemar."
+        },
+        {
+          "en": "match",
+          "id": "pertandingan",
+          "phonetic": "/mætʃ/",
+          "example_en": "We watched an exciting match.",
+          "example_id": "Kami menonton pertandingan yang mendebarkan."
+        },
+        {
+          "en": "champion",
+          "id": "juara",
+          "phonetic": "/ˈtʃæmpiən/",
+          "example_en": "She is the world champion.",
+          "example_id": "Dia juara dunia."
+        },
+        {
+          "en": "to win",
+          "id": "menang",
+          "phonetic": "/tuː wɪn/",
+          "example_en": "Our team won the game.",
+          "example_id": "Tim kami memenangkan permainan."
+        },
+        {
+          "en": "score",
+          "id": "skor",
+          "phonetic": "/skɔːr/",
+          "example_en": "The final score was 2-1.",
+          "example_id": "Skor akhirnya 2-1."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: hafalkan frasa pendapat/menanggapi/transisi dengan pengulangan korus.\n2. Pair work: diskusi 3 menit 'olahraga A vs B' dengan struktur 5 tahap + perbandingan.\n3. Fill-in-the-blank: lengkapi 8 kalimat diskusi dengan frasa pendapat/menanggapi/transisi.\n4. Error correction: perbaiki 5 kalimat dalam transkrip diskusi yang salah.\n5. Mini-debate: dua kelompok 'olahraga A vs B', masing-masing 3 argumen dengan comparative/superlative.\n\nTugas rumah: Tulis dialog diskusi olahraga 12 baris dengan struktur lengkap (topik, fakta, perbandingan, pendapat, kesimpulan).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's talk about football vs basketball. Which do you prefer?",
+          "id": "Mari bicara sepak bola vs basket. Mana yang kamu suka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think basketball is more exciting than football.",
+          "id": "Saya rasa basket lebih mendebarkan dari sepak bola."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you think so?",
+          "id": "Kenapa begitu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because the score changes much faster.",
+          "id": "Karena skor berubah jauh lebih cepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is football more popular here?",
+          "id": "Apakah sepak bola lebih populer di sini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, football is the most popular sport in Indonesia.",
+          "id": "Ya, sepak bola paling populer di Indonesia."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is basketball as tactical as football?",
+          "id": "Apakah basket setaktis sepak bola?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think football is more tactical than basketball.",
+          "id": "Saya rasa sepak bola lebih taktis dari basket."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is the best player in your opinion?",
+          "id": "Siapa pemain terbaik menurutmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In my opinion, Messi is by far the best.",
+          "id": "Menurut saya, Messi jauh yang terbaik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Overall, which is the better sport?",
+          "id": "Secara keseluruhan, olahraga mana yang lebih baik?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Overall, both are great sports for different reasons.",
+          "id": "Secara keseluruhan, keduanya hebat untuk alasan berbeda."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Membangun Diskusi Olahraga'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis dialog diskusi olahraga 12 baris dengan struktur lengkap (topik, fakta, perbandingan, pendapat, kesimpulan). Pelajaran berikutnya kita akan membahas tips mengingat: adjektiva pendek vs panjang, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

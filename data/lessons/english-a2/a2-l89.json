@@ -1,0 +1,263 @@
+{
+  "id": "a2-l89",
+  "course_id": "english-a2",
+  "module_title": "Perpisahan dan Rencana Masa Depan",
+  "level": "A2",
+  "title": "Pola Will dan Won't",
+  "subtitle": "Prediksi, janji, dan keputusan spontan untuk masa depan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat afirmatif, negatif, dan pertanyaan dengan will/won't",
+    "Menggunakan kontraksi I'll, you'll, she'll, we'll, they'll",
+    "Memahami kapan memakai will: prediksi, janji, keputusan spontan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita memulai modul baru, yaitu Perpisahan dan Rencana Masa Depan. Modul ini akan mengajak kalian menceritakan rencana masa depan dan perpisahan. Sebelum mulai, mari kita ingat modul kemarin tentang memasak. Siapa bisa beri satu contoh instruksi memasak memakai imperative? Bagus. Sekarang kita beralih ke pola baru: 'will' dan 'won't'. Pola ini dipakai untuk menceritakan masa depan. Coba pikirkan: apa rencana kalian setelah lulus? Akan kerja? Akan kuliah? Itulah yang akan kita pelajari. Rencana hari ini: kita pelajari 'will' dan 'won't', lalu berlatih menceritakan rencana masa depan.",
+      "instructions": "Sapa murid dan umumkan modul baru. Tanyakan satu contoh imperative sebagai pengulangan. Tanyakan rencana masa depan mereka. Catat di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu 'Will' dan 'Won't'?\n\n**Will** adalah kata bantu (modal) untuk menceritakan **masa depan**. **Won't** (will not) adalah bentuk negatifnya. Pola ini dipakai untuk prediksi, keputusan spontan, atau janji.\n\n## Struktur\n\nsubjek + **will** + bentuk dasar\nsubjek + **won't** + bentuk dasar\n\n## Contoh\n\n- I **will study** at a university in Jakarta.\n- She **will get** a scholarship.\n- They **will travel** abroad next year.\n- I **won't forget** you.\n- He **won't give** up.\n\n## Bentuk Pertanyaan\n\n**Will + subjek + bentuk dasar?**\n- **Will** you **keep in touch** after graduation?\n- **Will** she **succeed** in her career?\n\nJawaban singkat:\n- Yes, I will. / No, I won't.\n\n## Kapan Memakai 'Will'?\n\n1. **Prediksi** berdasarkan pendapat:\n   - I think she **will succeed**.\n2. **Keputusan spontan** (baru saja diputuskan):\n   - I **will help** you with that.\n3. **Janji**:\n   - I **will call** you tomorrow.\n4. **Fakta masa depan**:\n   - The sun **will rise** at 6 a.m.\n\n## Tabel 'Will' untuk Masa Depan\n\n| Subjek | Positif | Negatif |\n|---|---|---|\n| I | I will go. | I won't go. |\n| You | You will succeed. | You won't fail. |\n| He/She | She will travel. | She won't stay. |\n| We | We will keep in touch. | We won't lose contact. |\n| They | They will graduate. | They won't drop out. |\n\n## Contoh Paragraf\n\nAfter graduation, I **will study** at a university in Jakarta. I **will work** hard to get a scholarship. My best friend **will move** to another city, but we **will keep in touch**. I **won't forget** the memories we made. I am sure we **will succeed** in our dreams.\n\n> **Hindari:** menambahkan -s pada kata kerja setelah 'will'. Salah: 'She will goes.' Benar: 'She will go.' 'Will' selalu diikuti bentuk dasar.\n\n> **Catatan:** 'Will' tidak berubah untuk semua subjek. 'He will', 'she will' (bukan 'wills').\n\n## Mini-dialogue\n\nA: What will you do after graduation?\nB: I will study at a university in Jakarta.\nA: Will you keep in touch with your friends?\nB: Yes, I will. I won't forget them.",
+      "key_points": [
+        "'Will' untuk menceritakan masa depan: prediksi, keputusan spontan, janji.",
+        "'Won't' (will not) adalah bentuk negatif.",
+        "Struktur: subjek + will/won't + bentuk dasar kata kerja.",
+        "'Will' tidak berubah untuk semua subjek (he/she/it tetap 'will').",
+        "Setelah 'will', kata kerja selalu bentuk dasar tanpa -s.",
+        "Pertanyaan: Will + subjek + bentuk dasar? Jawaban: Yes, I will. / No, I won't.",
+        "Hindari menambah -s pada kata kerja setelah 'will' (will goes = salah)."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "future",
+          "id": "masa depan",
+          "phonetic": "/ˈfjuːtʃər/",
+          "example_en": "I am thinking about my future.",
+          "example_id": "Saya memikirkan masa depan saya."
+        },
+        {
+          "en": "plan",
+          "id": "rencana",
+          "phonetic": "/plæn/",
+          "example_en": "I am going to share my plans with you.",
+          "example_id": "Saya akan berbagi rencana saya denganmu."
+        },
+        {
+          "en": "hope",
+          "id": "harapan",
+          "phonetic": "/hoʊp/",
+          "example_en": "I hope I will get a scholarship.",
+          "example_id": "Saya berharap mendapat beasiswa."
+        },
+        {
+          "en": "dream",
+          "id": "cita-cita",
+          "phonetic": "/driːm/",
+          "example_en": "My dream is to study abroad.",
+          "example_id": "Cita-cita saya adalah belajar di luar negeri."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "scholarship",
+          "id": "beasiswa",
+          "phonetic": "/ˈskɒlərʃɪp/",
+          "example_en": "She got a scholarship to study in Japan.",
+          "example_id": "Dia mendapat beasiswa untuk belajar di Jepang."
+        },
+        {
+          "en": "university",
+          "id": "universitas",
+          "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+          "example_en": "I am going to study at a university in Jakarta.",
+          "example_id": "Saya akan belajar di universitas di Jakarta."
+        },
+        {
+          "en": "to succeed",
+          "id": "berhasil",
+          "phonetic": "/tuː səkˈsiːd/",
+          "example_en": "I am sure you will succeed.",
+          "example_id": "Saya yakin kamu akan berhasil."
+        },
+        {
+          "en": "goal",
+          "id": "tujuan",
+          "phonetic": "/ɡoʊl/",
+          "example_en": "My goal is to become an engineer.",
+          "example_id": "Tujuan saya menjadi insinyur."
+        },
+        {
+          "en": "opportunity",
+          "id": "kesempatan",
+          "phonetic": "/ˌɒpərˈtuːnəti/",
+          "example_en": "This is a great opportunity for me.",
+          "example_id": "Ini adalah kesempatan besar bagi saya."
+        },
+        {
+          "en": "farewell",
+          "id": "perpisahan",
+          "phonetic": "/ˌferˈwel/",
+          "example_en": "We had a farewell party last night.",
+          "example_id": "Kami mengadakan pesta perpisahan tadi malam."
+        },
+        {
+          "en": "goodbye",
+          "id": "selamat tinggal",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "example_en": "Goodbye and all the best.",
+          "example_id": "Selamat tinggal dan semoga semua yang terbaik."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "Please keep in touch after you move.",
+          "example_id": "Tetaplah berkomunikasi setelah kamu pindah."
+        },
+        {
+          "en": "take care",
+          "id": "jaga diri",
+          "phonetic": "/teɪk ker/",
+          "example_en": "Take care and have a safe trip.",
+          "example_id": "Jagalah dirimu dan selamat jalan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "I'm looking forward to this new journey.",
+          "example_id": "Saya menantikan perjalanan baru ini."
+        },
+        {
+          "en": "to look forward to",
+          "id": "menantikan",
+          "phonetic": "/tuː lʊk ˈfɔːrwərd tuː/",
+          "example_en": "I'm looking forward to seeing you again.",
+          "example_id": "Saya menantikan untuk bertemu denganmu lagi."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut subjek dan kata kerja, murid buat kalimat 'will'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat masa depan dengan 'will' atau 'won't'.\n3) **Pair work (5 menit):** Tanyakan-jawab 'Will you...?' tentang rencana masa depan.\n4) **Role play (4 menit):** Dua murid memeragakan teman yang berpisah dan berjanji keep in touch.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'She will goes' -> 'She will go').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What will you do after graduation?",
+          "id": "Apa yang akan kamu lakukan setelah lulus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will study at a university in Jakarta.",
+          "id": "Saya akan belajar di universitas di Jakarta."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Will you keep in touch with your friends?",
+          "id": "Apakah kamu akan tetap berkomunikasi dengan teman-temanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I will. I won't forget them.",
+          "id": "Ya. Saya tidak akan melupakan mereka."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'will' with 'she'.",
+          "id": "Bagus. Pakai 'will' dengan 'she'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She will get a scholarship to study abroad.",
+          "id": "Dia akan mendapat beasiswa untuk belajar di luar negeri."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Make a negative sentence with 'won't'.",
+          "id": "Bagus. Buat kalimat negatif dengan 'won't'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I won't give up on my dreams.",
+          "id": "Saya tidak akan menyerah pada cita-cita saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'She will goes to Jakarta.'",
+          "id": "Perbaiki ini: 'She will goes to Jakarta.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'She will go to Jakarta.'",
+          "id": "Seharusnya 'She will go to Jakarta.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because after 'will', the verb has no -s.",
+          "id": "Karena setelah 'will', kata kerja tidak pakai -s."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Ask me: 'Will you...?' about the future.",
+          "id": "Bagus. Tanyakan saya: 'Will you...?' tentang masa depan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Will you keep in touch after you move?",
+          "id": "Apakah Anda akan tetap berkomunikasi setelah pindah?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, I will. Last: describe your future plans in two sentences.",
+          "id": "Ya. Terakhir: deskripsikan rencana masa depanmu dalam dua kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will study engineering. I won't forget my friends here.",
+          "id": "Saya akan belajar teknik. Saya tidak akan melupakan teman-teman di sini."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah belajar 'will' dan 'won't' untuk menceritakan masa depan. Mari kita ingat: 'will' untuk masa depan, kata kerja setelahnya bentuk dasar. Coba saya tanya: kalau mau bilang 'Dia akan pergi', bagaimana? Benar, 'She will go.' Untuk PR, tulis 10 kalimat rencana masa depan memakai 'will' dan 'won't'. Pertemuan berikutnya kita akan belajar pola 'be going to'. Sampai jumpa!",
+      "instructions": "Tegaskan aturan 'will' + bentuk dasar. Berikan 1-2 pertanyaan pemahaman. Beri PR 10 kalimat dan umumkan topik 'be going to'."
+    }
+  ]
+}

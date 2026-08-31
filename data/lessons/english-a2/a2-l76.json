@@ -1,0 +1,263 @@
+{
+  "id": "a2-l76",
+  "course_id": "english-a2",
+  "module_title": "Persahabatan",
+  "level": "A2",
+  "title": "Adjektiva Kepribadian",
+  "subtitle": "Mendeskripsikan sifat teman dengan adjektiva",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai adjektiva kepribadian: friendly, kind, loyal, honest, funny",
+    "Membentuk kalimat dengan pola subjek + to be + adjektiva",
+    "Mendeskripsikan teman dengan sifat yang tepat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita memulai modul baru, yaitu Persahabatan. Modul ini akan mengajak kalian mendeskripsikan teman dan persahabatan kalian. Sebelum mulai, mari kita ingat modul kemarin tentang berita. Siapa bisa beri satu contoh kalimat present perfect? Bagus. Sekarang kita beralih ke adjektiva kepribadian, yaitu kata sifat untuk mendeskripsikan sifat seseorang. Coba pikirkan sahabat kalian. Bagaimana sifatnya? Baik? Lucu? Setia? Itulah yang akan kita pelajari. Rencana hari ini: kita pelajari adjektiva kepribadian, lalu berlatih mendeskripsikan teman.",
+      "instructions": "Sapa murid dan umumkan modul baru. Tanyakan satu contoh present perfect sebagai pengulangan. Ajak murid memikirkan sifat sahabat. Jelaskan tujuan: belajar adjektiva kepribadian."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu Adjektiva Kepribadian?\n\n**Adjektiva kepribadian** adalah kata sifat yang mendeskripsikan **sifat atau watak** seseorang. Dalam mendeskripsikan teman, kita memakai adjektiva ini: 'She is kind', 'He is funny'.\n\n## Daftar Adjektiva Kepribadian\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| loyal | setia | He is a loyal friend. |\n| honest | jujur | I like her because she is honest. |\n| kind | baik hati | She is kind to everyone. |\n| supportive | mendukung | She is supportive when I have problems. |\n| generous | dermawan | He is generous with his time. |\n| funny | lucu | He is funny and always makes me laugh. |\n| patient | sabar | A good friend should be patient. |\n| shy | pemalu | He used to be very shy. |\n| outgoing | supel | She is outgoing and loves parties. |\n\n## Memakai Adjektiva dalam Kalimat\n\n- **Be + adjektiva:** She **is kind**.\n- **Be + adjektiva + noun:** She **is a kind friend**.\n- **Adjektiva + noun:** She is **a kind person**.\n\nContoh:\n- My best friend **is loyal and supportive**.\n- He **is an honest person**.\n- She **is a funny girl** who always makes me laugh.\n\n## Lawan Kata (Antonim)\n\n| Positif | Negatif |\n|---|---|\n| honest (jujur) | dishonest (tidak jujur) |\n| kind (baik hati) | unkind (tidak baik) |\n| generous (dermawan) | stingy (pelit) |\n| patient (sabar) | impatient (tidak sabar) |\n| outgoing (supel) | shy (pemalu) |\n\n## Contoh Paragraf\n\nMy best friend is named Sarah. She **is loyal, honest, and kind**. She **is always supportive** when I have problems. She **is also funny** and makes me laugh every day. Sometimes she **is a bit shy** with new people, but with friends she **is very outgoing**. I really love her.\n\n> **Hindari:** meletakkan adjektiva di tempat salah. Salah: 'She is friend loyal.' Benar: 'She is a loyal friend.' atau 'She is loyal.'\n\n> **Catatan:** Adjektiva tidak berubah untuk tunggal/jamak. 'She is kind.' 'They are kind.' (bukan 'kinds')\n\n## Mini-dialogue\n\nA: What is your best friend like?\nB: She is loyal, honest, and very funny.\nA: Is she outgoing?\nB: Yes, she is very outgoing and loves parties.",
+      "key_points": [
+        "Adjektiva kepribadian mendeskripsikan sifat atau watak seseorang.",
+        "Contoh: loyal, honest, kind, supportive, generous, funny, patient, shy, outgoing.",
+        "Memakai 'be + adjektiva': 'She is kind.' atau 'be + adjektiva + noun': 'She is a kind friend.'",
+        "Adjektiva tidak berubah untuk tunggal/jamak (kind, bukan kinds).",
+        "Setiap adjektiva positif biasanya punya antonim: honest/dishonest, kind/unkind.",
+        "Sangat berguna untuk mendeskripsikan teman dan sahabat.",
+        "Hindari meletakkan adjektiva di tempat salah ('She is friend loyal' = salah)."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "friend",
+          "id": "teman",
+          "phonetic": "/frend/",
+          "example_en": "She is my best friend.",
+          "example_id": "Dia sahabat saya."
+        },
+        {
+          "en": "friendship",
+          "id": "persahabatan",
+          "phonetic": "/ˈfrendʃɪp/",
+          "example_en": "Our friendship has lasted for ten years.",
+          "example_id": "Persahabatan kami sudah berlangsung sepuluh tahun."
+        },
+        {
+          "en": "best friend",
+          "id": "sahabat",
+          "phonetic": "/best frend/",
+          "example_en": "My best friend is loyal and supportive.",
+          "example_id": "Sahabat saya setia dan mendukung."
+        },
+        {
+          "en": "loyal",
+          "id": "setia",
+          "phonetic": "/ˈlɔɪəl/",
+          "example_en": "He is a loyal friend.",
+          "example_id": "Dia teman yang setia."
+        },
+        {
+          "en": "honest",
+          "id": "jujur",
+          "phonetic": "/ˈɒnɪst/",
+          "example_en": "I like her because she is honest.",
+          "example_id": "Saya suka dia karena dia jujur."
+        },
+        {
+          "en": "kind",
+          "id": "baik hati",
+          "phonetic": "/kaɪnd/",
+          "example_en": "She is kind to everyone.",
+          "example_id": "Dia baik hati kepada semua orang."
+        },
+        {
+          "en": "supportive",
+          "id": "mendukung",
+          "phonetic": "/səˈpɔːrtɪv/",
+          "example_en": "She is supportive when I have problems.",
+          "example_id": "Dia mendukung saat saya punya masalah."
+        },
+        {
+          "en": "generous",
+          "id": "dermawan",
+          "phonetic": "/ˈdʒenərəs/",
+          "example_en": "He is generous with his time.",
+          "example_id": "Dia dermawan dengan waktunya."
+        },
+        {
+          "en": "funny",
+          "id": "lucu",
+          "phonetic": "/ˈfʌni/",
+          "example_en": "He is funny and always makes me laugh.",
+          "example_id": "Dia lucu dan selalu membuat saya tertawa."
+        },
+        {
+          "en": "patient",
+          "id": "sabar",
+          "phonetic": "/ˈpeɪʃnt/",
+          "example_en": "A good friend should be patient.",
+          "example_id": "Teman yang baik sebaiknya sabar."
+        },
+        {
+          "en": "shy",
+          "id": "pemalu",
+          "phonetic": "/ʃaɪ/",
+          "example_en": "He used to be very shy.",
+          "example_id": "Dia dulu sangat pemalu."
+        },
+        {
+          "en": "outgoing",
+          "id": "supel",
+          "phonetic": "/ˈaʊtɡoʊɪŋ/",
+          "example_en": "She is outgoing and loves parties.",
+          "example_id": "Dia supel dan suka pesta."
+        },
+        {
+          "en": "to trust",
+          "id": "mempercayai",
+          "phonetic": "/tuː trʌst/",
+          "example_en": "I trust my best friend completely.",
+          "example_id": "Saya mempercayai sahabat saya sepenuhnya."
+        },
+        {
+          "en": "to share",
+          "id": "berbagi",
+          "phonetic": "/tuː ʃer/",
+          "example_en": "We share our secrets with each other.",
+          "example_id": "Kami berbagi rahasia satu sama lain."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "We still keep in touch after all these years.",
+          "example_id": "Kami masih tetap berkomunikasi setelah sekian tahun."
+        },
+        {
+          "en": "secret",
+          "id": "rahasia",
+          "phonetic": "/ˈsiːkrɪt/",
+          "example_en": "She keeps my secrets safe.",
+          "example_id": "Dia menjaga rahasia saya dengan aman."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut sifat, murid sebutkan adjektiva Inggrisnya.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan adjektiva yang tepat.\n3) **Pair work (5 menit):** Tanyakan-jawab 'What is your friend like?' memakai adjektiva.\n4) **Role play (4 menit):** Dua murid memeragakan teman yang saling mendeskripsikan sahabat.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'She is friend kind' -> 'She is a kind friend').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is your best friend like?",
+          "id": "Bagaimana sifat sahabatmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is loyal, honest, and very funny.",
+          "id": "Dia setia, jujur, dan sangat lucu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is she outgoing?",
+          "id": "Apakah dia supel?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, she is very outgoing and loves parties.",
+          "id": "Ya, dia sangat supel dan suka pesta."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'supportive' in a sentence.",
+          "id": "Bagus. Pakai 'supportive' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is supportive when I have problems.",
+          "id": "Dia mendukung saat saya punya masalah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the opposite of 'honest'?",
+          "id": "Apa lawan kata 'honest'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The opposite is 'dishonest'.",
+          "id": "Lawannya 'dishonest'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Describe a friend using two adjectives.",
+          "id": "Bagus. Deskripsikan teman memakai dua adjektiva."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My friend is patient and kind to everyone.",
+          "id": "Teman saya sabar dan baik hati kepada semua orang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'She is friend loyal.'",
+          "id": "Perbaiki ini: 'She is friend loyal.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'She is a loyal friend.' or 'She is loyal.'",
+          "id": "Seharusnya 'She is a loyal friend.' atau 'She is loyal.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What is 'generous' in Indonesian?",
+          "id": "Bagus. Apa arti 'generous'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Generous' artinya 'dermawan'.",
+          "id": "'Generous' artinya 'dermawan'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Describe your best friend in two sentences.",
+          "id": "Sempurna. Deskripsikan sahabatmu dalam dua kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My best friend is honest and funny. He always makes me laugh.",
+          "id": "Sahabat saya jujur dan lucu. Dia selalu membuat saya tertawa."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah belajar adjektiva kepribadian untuk mendeskripsikan teman. Mari kita ingat beberapa: 'loyal' artinya setia, 'honest' artinya jujur, 'supportive' artinya mendukung. Coba saya tanya: apa arti 'generous'? Benar, dermawan. Untuk PR, tulis 10 kalimat mendeskripsikan teman atau sahabat memakai adjektiva kepribadian. Pertemuan berikutnya kita akan belajar 'used to' untuk menceritakan perubahan dalam persahabatan. Sampai jumpa!",
+      "instructions": "Tegaskan daftar adjektiva dan posisinya. Berikan 1-2 pertanyaan pemahaman. Beri PR 10 kalimat dan umumkan topik 'used to' untuk persahabatan."
+    }
+  ]
+}

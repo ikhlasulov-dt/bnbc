@@ -1,0 +1,263 @@
+{
+  "id": "a2-l91",
+  "course_id": "english-a2",
+  "module_title": "Perpisahan dan Rencana Masa Depan",
+  "level": "A2",
+  "title": "Perbedaan Will dan Be Going To",
+  "subtitle": "Memilih struktur yang tepat untuk konteks masa depan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan will untuk spontan dan be going to untuk rencana",
+    "Memilih struktur yang tepat dalam konteks",
+    "Menghindari kesalahan umum dalam penggunaan will vs be going to"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar 'be going to'. Siapa bisa beri satu contoh kalimat 'be going to'? Bagus. Hari ini kita akan membandingkan 'will' dan 'be going to'. Keduanya untuk masa depan, tapi fungsinya berbeda. Coba pikirkan: kalau saya bilang 'I will help you' dan 'I am going to help you', apa bedanya? Itulah yang akan kita pelajari. Rencana: kita pelajari perbedaan fungsinya, lalu berlatih memilih pola yang tepat.",
+      "instructions": "Sapa murid dan minta satu contoh 'be going to'. Ajak murid memikirkan perbedaan dengan 'will'. Jelaskan tujuan: membandingkan will dan be going to."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Perbedaan 'Will' dan 'Be Going To'\n\nKedua pola ini untuk masa depan, tetapi **fokusnya berbeda**.\n\n| Aspek | Will | Be Going To |\n|---|---|---|\n| Arti | keputusan spontan, janji, prediksi umum | rencana yang sudah pasti, prediksi dengan bukti |\n| Waktu keputusan | baru saja diputuskan | sudah diputuskan sebelumnya |\n| Contoh | I will help you. (baru saja diputuskan) | I am going to help you. (sudah ada rencana) |\n\n## Kapan Memakai 'Will'?\n\nPakai **will** ketika:\n- **Keputusan spontan** (baru saja diputuskan):\n  - A: I lost my keys. B: I **will help** you find them.\n- **Janji**:\n  - I **will call** you tomorrow.\n- **Prediksi umum** (berdasarkan pendapat):\n  - I think she **will succeed**.\n\n## Kapan Memakai 'Be Going To'?\n\nPakai **be going to** ketika:\n- **Rencana yang sudah pasti** (sudah diputuskan sebelumnya):\n  - I **am going to visit** Bali next month. (sudah ada tiket)\n- **Prediksi berdasarkan bukti**:\n  - Look at the clouds. It **is going to rain**.\n\n## Perbandingan Langsung\n\n- A: We need someone to give a speech. B: I **will do** it! (spontan, baru saja diputuskan)\n- I **am going to give** a speech at the farewell party. (sudah ada rencana)\n\n- I think I **will travel** next year. (gagasan umum)\n- I **am going to travel** to Bali next month. (sudah ada rencana pasti)\n\n## Contoh Paragraf\n\nI **am going to start** university next month — I already got the acceptance letter. But I'm not sure about my major yet. I think I **will choose** engineering. My friend **is going to move** to Singapore. We promised we **will keep in touch**. I believe we **will succeed** in our journeys.\n\n> **Hindari:** memakai 'will' untuk rencana yang sudah pasti. Bila rencana sudah diputuskan, pakai 'be going to'. Salah: 'I will visit Bali next month' (bila rencananya sudah pasti). Benar: 'I am going to visit Bali next month.'\n\n> **Catatan:** Untuk prediksi tanpa bukti, 'will' dan 'be going to' bisa dipakai sama. Tapi untuk rencana pasti, hanya 'be going to'.\n\n## Mini-dialogue\n\nA: I'm hungry. I think I will order pizza.\nB: I am going to cook dinner tonight — I already bought the ingredients.\nA: Great! Then I will wait.",
+      "key_points": [
+        "'Will' untuk keputusan spontan, janji, prediksi umum.",
+        "'Be going to' untuk rencana yang sudah pasti, prediksi dengan bukti.",
+        "'Will' = keputusan baru saja; 'be going to' = keputusan sudah lama.",
+        "Untuk rencana pasti, pakai 'be going to' (bukan 'will').",
+        "Untuk keputusan spontan, pakai 'will' (bukan 'be going to').",
+        "Untuk prediksi dengan bukti (awan gelap), pakai 'be going to'.",
+        "Untuk prediksi umum (pendapat), 'will' dan 'be going to' bisa dipakai."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "future",
+          "id": "masa depan",
+          "phonetic": "/ˈfjuːtʃər/",
+          "example_en": "I am thinking about my future.",
+          "example_id": "Saya memikirkan masa depan saya."
+        },
+        {
+          "en": "plan",
+          "id": "rencana",
+          "phonetic": "/plæn/",
+          "example_en": "I am going to share my plans with you.",
+          "example_id": "Saya akan berbagi rencana saya denganmu."
+        },
+        {
+          "en": "hope",
+          "id": "harapan",
+          "phonetic": "/hoʊp/",
+          "example_en": "I hope I will get a scholarship.",
+          "example_id": "Saya berharap mendapat beasiswa."
+        },
+        {
+          "en": "dream",
+          "id": "cita-cita",
+          "phonetic": "/driːm/",
+          "example_en": "My dream is to study abroad.",
+          "example_id": "Cita-cita saya adalah belajar di luar negeri."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "scholarship",
+          "id": "beasiswa",
+          "phonetic": "/ˈskɒlərʃɪp/",
+          "example_en": "She got a scholarship to study in Japan.",
+          "example_id": "Dia mendapat beasiswa untuk belajar di Jepang."
+        },
+        {
+          "en": "university",
+          "id": "universitas",
+          "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+          "example_en": "I am going to study at a university in Jakarta.",
+          "example_id": "Saya akan belajar di universitas di Jakarta."
+        },
+        {
+          "en": "to succeed",
+          "id": "berhasil",
+          "phonetic": "/tuː səkˈsiːd/",
+          "example_en": "I am sure you will succeed.",
+          "example_id": "Saya yakin kamu akan berhasil."
+        },
+        {
+          "en": "goal",
+          "id": "tujuan",
+          "phonetic": "/ɡoʊl/",
+          "example_en": "My goal is to become an engineer.",
+          "example_id": "Tujuan saya menjadi insinyur."
+        },
+        {
+          "en": "opportunity",
+          "id": "kesempatan",
+          "phonetic": "/ˌɒpərˈtuːnəti/",
+          "example_en": "This is a great opportunity for me.",
+          "example_id": "Ini adalah kesempatan besar bagi saya."
+        },
+        {
+          "en": "farewell",
+          "id": "perpisahan",
+          "phonetic": "/ˌferˈwel/",
+          "example_en": "We had a farewell party last night.",
+          "example_id": "Kami mengadakan pesta perpisahan tadi malam."
+        },
+        {
+          "en": "goodbye",
+          "id": "selamat tinggal",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "example_en": "Goodbye and all the best.",
+          "example_id": "Selamat tinggal dan semoga semua yang terbaik."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "Please keep in touch after you move.",
+          "example_id": "Tetaplah berkomunikasi setelah kamu pindah."
+        },
+        {
+          "en": "take care",
+          "id": "jaga diri",
+          "phonetic": "/teɪk ker/",
+          "example_en": "Take care and have a safe trip.",
+          "example_id": "Jagalah dirimu dan selamat jalan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "I'm looking forward to this new journey.",
+          "example_id": "Saya menantikan perjalanan baru ini."
+        },
+        {
+          "en": "to look forward to",
+          "id": "menantikan",
+          "phonetic": "/tuː lʊk ˈfɔːrwərd tuː/",
+          "example_en": "I'm looking forward to seeing you again.",
+          "example_id": "Saya menantikan untuk bertemu denganmu lagi."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru memberikan situasi, murid pilih 'will' atau 'be going to'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan 'will' atau 'be going to' yang tepat.\n3) **Pair work (5 menit):** Tanyakan-jawab tentang rencana vs keputusan spontan.\n4) **Role play (4 menit):** Dua murid memeragakan teman yang berbagi rencana dan janji.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'I will visit Bali next month' [rencana pasti] -> 'I am going to visit Bali').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Which is correct for a plan: 'I will visit Bali' or 'I am going to visit Bali'?",
+          "id": "Mana yang benar untuk rencana: 'I will visit Bali' atau 'I am going to visit Bali'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'I am going to visit Bali' for a sure plan.",
+          "id": "'I am going to visit Bali' untuk rencana pasti."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Which for a spontaneous decision: 'I will help' or 'I am going to help'?",
+          "id": "Bagus. Mana untuk keputusan spontan: 'I will help' atau 'I am going to help'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'I will help' for a spontaneous decision.",
+          "id": "'I will help' untuk keputusan spontan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Make a 'will' sentence for a promise.",
+          "id": "Bagus. Buat kalimat 'will' untuk janji."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will call you tomorrow.",
+          "id": "Saya akan meneleponmu besok."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now make a 'be going to' sentence for a plan.",
+          "id": "Sekarang buat kalimat 'be going to' untuk rencana."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am going to study engineering next year.",
+          "id": "Saya akan belajar teknik tahun depan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'I will visit Bali next month' (if it's a sure plan).",
+          "id": "Perbaiki ini: 'I will visit Bali next month' (jika rencana pasti)."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'I am going to visit Bali next month.'",
+          "id": "Seharusnya 'I am going to visit Bali next month.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because it's a sure plan, so we use 'be going to'.",
+          "id": "Karena itu rencana pasti, jadi pakai 'be going to'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'will' for a prediction based on opinion.",
+          "id": "Bagus. Pakai 'will' untuk prediksi berdasarkan pendapat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think she will succeed in her career.",
+          "id": "Saya rasa dia akan berhasil dalam kariernya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: use 'be going to' for a prediction with evidence.",
+          "id": "Sempurna. Terakhir: pakai 'be going to' untuk prediksi dengan bukti."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Look at the dark clouds. It is going to rain.",
+          "id": "Lihat awan gelap. Akan hujan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah membandingkan 'will' dan 'be going to'. Mari kita ringkas: 'will' untuk spontan/janji/prediksi umum, 'be going to' untuk rencana pasti/prediksi dengan bukti. Coba saya tanya: kalau rencana sudah pasti, pakai yang mana? Benar, 'be going to'. Untuk PR, tulis 8 kalimat: 4 dengan 'will' (spontan/janji) dan 4 dengan 'be going to' (rencana pasti). Pertemuan berikutnya kita akan belajar ungkapan 'I'm looking forward to'. Sampai jumpa!",
+      "instructions": "Tegaskan perbedaan fokus kedua pola. Berikan 1-2 pertanyaan pemahaman. Beri PR 8 kalimat dan umumkan topik 'looking forward to'."
+    }
+  ]
+}

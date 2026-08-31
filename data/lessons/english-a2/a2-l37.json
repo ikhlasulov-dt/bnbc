@@ -1,0 +1,237 @@
+{
+  "id": "a2-l37",
+  "course_id": "english-a2",
+  "module_title": "Hiburan dan Film",
+  "level": "A2",
+  "title": "Kosakata Hiburan Inti",
+  "subtitle": "Mengulas film dan hiburan dengan past simple serta ungkapan opini",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata hiburan inti (actor, director, plot, dll)",
+    "Menggunakan kosakata hiburan dalam kalimat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang genre film? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-37 dengan judul 'Kosakata Hiburan Inti'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Selain genre, ada banyak istilah film: aktor, sutradara, adegan. Mari kuasai kosakata hiburannya! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Hiburan Inti\n\nBerikut kosakata inti untuk membicarakan **film dan hiburan** di level A2.\n\n### 1. Orang dalam film\n\n| English | Indonesian |\n|---|---|\n| actor | aktor |\n| actress | aktris |\n| director | sutradara |\n| character | tokoh |\n| audience | penonton |\n| cast | pemain (kumpulan) |\n\n### 2. Elemen film\n\n| English | Indonesian |\n|---|---|\n| movie / film | film |\n| cinema | bioskop |\n| scene | adegan |\n| plot | alur cerita |\n| ending | akhir cerita |\n| soundtrack | musik latar |\n| trailer | cuplikan |\n| subtitle | takarir |\n\n### 3. Penilaian\n\n| English | Indonesian |\n|---|---|\n| review | ulasan |\n| rating | peringkat |\n| exciting | mendebarkan |\n| boring | membosankan |\n| entertaining | menghibur |\n\n### 4. Frasa umum\n\n- **watch a movie** = menonton film\n- **go to the cinema** = pergi ke bioskop\n- **play a character** = memerankan tokoh\n- **release a movie** = merilis film\n- **turn on subtitles** = menyalakan takarir\n\n### 5. Mini-dialogue\n\n> A: Who is your favorite **actor**?\n> B: I love the **actor** who **played** the main **character** in that **comedy**.\n> A: The **plot** was great, and the **ending** was surprising.\n> B: Yes! The **soundtrack** was also amazing.\n\n> **Hindari:** \"see a movie in cinema\" (lebih natural — *watch a movie at the cinema*)\n> **Hindari:** \"the actor played a character\" boleh; tapi \"the actor did a character\" tidak natural.\n\n### 6. Tip\n\nBedakan **actor** (laki-laki) dan **actress** (perempuan), meski saat ini *actor* sering dipakai untuk semua gender.",
+      "key_points": [
+        "Orang: actor, actress, director, character, audience, cast",
+        "Elemen: movie, cinema, scene, plot, ending, soundtrack, trailer, subtitle",
+        "Penilaian: review, rating, exciting, boring, entertaining",
+        "Frasa: watch a movie, go to the cinema, play a character, release a movie",
+        "Actor (lk) vs actress (pr), meski actor serang dipakai umum",
+        "Subtitle = takarir; soundtrack = musik latar"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "movie",
+          "id": "film",
+          "phonetic": "/ˈmuːvi/",
+          "example_en": "We watched a great movie.",
+          "example_id": "Kami menonton film yang bagus."
+        },
+        {
+          "en": "cinema",
+          "id": "bioskop",
+          "phonetic": "/ˈsɪnəmə/",
+          "example_en": "Let's go to the cinema.",
+          "example_id": "Mari kita pergi ke bioskop."
+        },
+        {
+          "en": "actor",
+          "id": "aktor",
+          "phonetic": "/ˈæktər/",
+          "example_en": "He is a famous actor.",
+          "example_id": "Dia aktor yang terkenal."
+        },
+        {
+          "en": "director",
+          "id": "sutradara",
+          "phonetic": "/dəˈrektər/",
+          "example_en": "The director is very talented.",
+          "example_id": "Sutradaranya sangat berbakat."
+        },
+        {
+          "en": "character",
+          "id": "tokoh",
+          "phonetic": "/ˈkærəktər/",
+          "example_en": "The main character is brave.",
+          "example_id": "Tokoh utamanya pemberani."
+        },
+        {
+          "en": "scene",
+          "id": "adegan",
+          "phonetic": "/siːn/",
+          "example_en": "My favorite scene is at the end.",
+          "example_id": "Adegan favorit saya di bagian akhir."
+        },
+        {
+          "en": "plot",
+          "id": "alur cerita",
+          "phonetic": "/plɒt/",
+          "example_en": "The plot was very exciting.",
+          "example_id": "Alur ceritanya sangat mendebarkan."
+        },
+        {
+          "en": "ending",
+          "id": "akhir cerita",
+          "phonetic": "/ˈendɪŋ/",
+          "example_en": "I didn't like the ending.",
+          "example_id": "Saya tidak suka akhir ceritanya."
+        },
+        {
+          "en": "soundtrack",
+          "id": "musik latar",
+          "phonetic": "/ˈsaʊndtræk/",
+          "example_en": "The soundtrack is beautiful.",
+          "example_id": "Musik latarnya indah."
+        },
+        {
+          "en": "trailer",
+          "id": "cuplikan",
+          "phonetic": "/ˈtreɪlər/",
+          "example_en": "I watched the trailer online.",
+          "example_id": "Saya menonton cuplikan daring."
+        },
+        {
+          "en": "subtitle",
+          "id": "takarir",
+          "phonetic": "/ˈsʌbtaɪtl/",
+          "example_en": "Turn on the subtitle, please.",
+          "example_id": "Nyalakan takarirnya, tolong."
+        },
+        {
+          "en": "review",
+          "id": "ulasan",
+          "phonetic": "/rɪˈvjuː/",
+          "example_en": "I read a review before watching.",
+          "example_id": "Saya membaca ulasan sebelum menonton."
+        },
+        {
+          "en": "audience",
+          "id": "penonton",
+          "phonetic": "/ˈɔːdiəns/",
+          "example_en": "The audience laughed a lot.",
+          "example_id": "Penonton tertawa banyak."
+        },
+        {
+          "en": "comedy",
+          "id": "komedi",
+          "phonetic": "/ˈkɒmədi/",
+          "example_en": "I love comedy films.",
+          "example_id": "Saya suka film komedi."
+        },
+        {
+          "en": "horror",
+          "id": "horor",
+          "phonetic": "/ˈhɒrər/",
+          "example_en": "Horror films are too scary for me.",
+          "example_id": "Film horor terlalu menakutkan bagi saya."
+        },
+        {
+          "en": "exciting",
+          "id": "mendebarkan",
+          "phonetic": "/ɪkˈsaɪtɪŋ/",
+          "example_en": "The action film was exciting.",
+          "example_id": "Film aksinya mendebarkan."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kosakata Indonesia, murid jawab bahasa Inggris cepat.\n2. Pair work: deskripsikan film terakhir yang ditonton pakai 8 kosakata hiburan.\n3. Fill-in-the-blank: 10 kalimat dengan kosakata hiburan yang tepat.\n4. Error correction: perbaiki 5 frasa (mis. 'see movie in cinema', 'do a character').\n5. Mini-review: tulis ulasan singkat film favorit (5 kalimat) dengan kosakata inti.\n\nTugas rumah: Tulis ulasan film 8 kalimat menggunakan minimal 6 kosakata hiburan (actor, plot, ending, dll).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is your favorite actor?",
+          "id": "Siapa aktor favoritmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I like the actor in the last comedy I watched.",
+          "id": "Saya suka aktor di komedi terakhir yang saya tonton."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did you think of the plot?",
+          "id": "Apa pendapatmu tentang alurnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The plot was great and the ending was surprising.",
+          "id": "Alurnya bagus dan akhirnya mengejutkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How was the soundtrack?",
+          "id": "Bagaimana musik latarnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The soundtrack was amazing, very emotional.",
+          "id": "Luar biasa, sangat emosional."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you read reviews before watching?",
+          "id": "Apakah kamu baca ulasan sebelum menonton?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I always check the rating online.",
+          "id": "Ya, saya selalu cek peringkat daring."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you prefer cinema or home?",
+          "id": "Kamu lebih suka bioskop atau rumah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I like going to the cinema for big movies.",
+          "id": "Saya suka ke bioskop untuk film besar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you use subtitles?",
+          "id": "Apakah kamu memakai takarir?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I always turn on English subtitles.",
+          "id": "Ya, saya selalu menyalakan takarir Inggris."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kosakata Hiburan Inti'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis ulasan film 8 kalimat menggunakan minimal 6 kosakata hiburan (actor, plot, ending, dll). Pelajaran berikutnya kita akan membahas past simple untuk menceritakan film, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

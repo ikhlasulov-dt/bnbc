@@ -1,0 +1,263 @@
+{
+  "id": "a2-l55",
+  "course_id": "english-a2",
+  "module_title": "Festival dan Tradisi",
+  "level": "A2",
+  "title": "Kosakata Kunci Festival",
+  "subtitle": "Menguasai kata-kata tema perayaan dan tradisi",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai 8 kata kunci tema festival",
+    "Menggabungkan kosakata dengan past simple dan used to",
+    "Membuat kalimat utuh tentang festival"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita masuk pelajaran kosakata kunci modul Festival dan Tradisi. Kita sudah belajar past simple, 'used to', dan time markers. Sekarang waktunya memperkaya kosa kata supaya kalian bisa menceritakan festival dengan lebih hidup dan detail. Coba sebutkan 3 kata berbahasa Inggris yang berhubungan dengan festival yang sudah kalian tahu. 'Festival'? 'Celebration'? Bagus. Hari ini kita akan pelajari 16 kata kunci, lengkap dengan cara mengucapkan dan contoh pemakaiannya. Rencana: kita pelajari kata benda, kata kerja, dan contoh kalimatnya, lalu berlatih memakainya dalam kalimat sendiri.",
+      "instructions": "Sapa murid dan tanyakan 3 kata Inggris berhubungan dengan festival yang mereka tahu. Catat di papan. Jelaskan bahwa hari ini fokus memperkaya kosakata."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mengapa Kosakata Penting?\n\nDalam menceritakan festival, kosakata yang kaya membuat cerita kita **lebih hidup dan detail**. Tanpa kosakata yang tepat, kita hanya bisa bilang 'It was nice' atau 'It was fun'. Dengan kosakata yang tepat, kita bisa mendeskripsikan dekorasi, musik, makanan, dan suasana dengan jelas.\n\n## Kategori Kosakata Festival\n\n### 1. Acara dan Perayaan\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| festival | festival | We went to a big festival. |\n| celebration | perayaan | The celebration was very lively. |\n| ceremony | upacara | The ceremony was held at the temple. |\n| tradition | tradisi | This tradition is very old. |\n\n### 2. Bagian Festival\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| parade | pawai | The parade started at dawn. |\n| fireworks | kembang api | We watched the fireworks at night. |\n| performance | pertunjukan | We watched a dance performance. |\n| feast | pesta makan | The family had a big feast. |\n| dance | tarian | The traditional dance was beautiful. |\n\n### 3. Benda dan Simbol\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| costume | kostum | She wore a traditional costume. |\n| offering | sesajen | My grandmother made offerings. |\n| decoration | hiasan | The decorations were colorful. |\n| drum | gendang | They played traditional drums. |\n| lantern | lentera | We lit lanterns in the garden. |\n\n### 4. Orang dan Kata Kerja\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| guest | tamu | Many guests came to the celebration. |\n| to celebrate | merayakan | We celebrate Galungan every year. |\n\n## Tips Mengingat Kosakata\n\n- **Buat kalimat sendiri** untuk setiap kata, bukan hanya menghafal terjemahan.\n- **Kelompokkan** kata berdasarkan tema (acara, benda, orang).\n- **Ulangi** dengan pasangan: satu sebut Inggris, satu sebut arti.\n\n> **Hindari:** menghafal daftar kata tanpa konteks. Selalu pelajari kata bersama contoh kalimatnya supaya tahu cara memakainya.\n\n## Mini-dialogue\n\nA: What did you see at the festival?\nB: I saw a beautiful parade and a dance performance.\nA: Did they have fireworks?\nB: Yes, we watched the fireworks at night. It was amazing.",
+      "key_points": [
+        "Kosakata festival dikelompokkan: acara, bagian festival, benda, orang, kata kerja.",
+        "Kata acara: festival, celebration, ceremony, tradition.",
+        "Kata bagian festival: parade, fireworks, performance, feast, dance.",
+        "Kata benda: costume, offering, decoration, drum, lantern.",
+        "Selalu pelajari kata bersama contoh kalimat, bukan hanya terjemahan.",
+        "Kelompokkan kata berdasarkan tema untuk memudahkan mengingat.",
+        "Ulangi kosakata dengan pasangan untuk memperkuat ingatan."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "festival",
+          "id": "festival",
+          "phonetic": "/ˈfestɪvl/",
+          "example_en": "We went to a big festival last week.",
+          "example_id": "Kami pergi ke festival besar minggu lalu."
+        },
+        {
+          "en": "celebration",
+          "id": "perayaan",
+          "phonetic": "/ˌselɪˈbreɪʃn/",
+          "example_en": "The celebration was very lively.",
+          "example_id": "Perayaannya sangat meriah."
+        },
+        {
+          "en": "tradition",
+          "id": "tradisi",
+          "phonetic": "/trəˈdɪʃn/",
+          "example_en": "This tradition is very old.",
+          "example_id": "Tradisi ini sudah sangat lama."
+        },
+        {
+          "en": "parade",
+          "id": "pawai",
+          "phonetic": "/pəˈreɪd/",
+          "example_en": "The parade started at dawn.",
+          "example_id": "Pawai dimulai saat fajar."
+        },
+        {
+          "en": "fireworks",
+          "id": "kembang api",
+          "phonetic": "/ˈfaɪərwɜːrks/",
+          "example_en": "We watched the fireworks at night.",
+          "example_id": "Kami menonton kembang api pada malam hari."
+        },
+        {
+          "en": "costume",
+          "id": "kostum",
+          "phonetic": "/ˈkɒstuːm/",
+          "example_en": "She wore a traditional costume.",
+          "example_id": "Dia memakai kostum tradisional."
+        },
+        {
+          "en": "ceremony",
+          "id": "upacara",
+          "phonetic": "/ˈserəməni/",
+          "example_en": "The ceremony was held at the temple.",
+          "example_id": "Upacara digelar di pura."
+        },
+        {
+          "en": "offering",
+          "id": "sesajen",
+          "phonetic": "/ˈɒfərɪŋ/",
+          "example_en": "My grandmother made offerings for the gods.",
+          "example_id": "Nenek saya membuat sesajen untuk para dewa."
+        },
+        {
+          "en": "decoration",
+          "id": "hiasan",
+          "phonetic": "/ˌdekəˈreɪʃn/",
+          "example_en": "The decorations were very colorful.",
+          "example_id": "Hiasannya sangat berwarna-warni."
+        },
+        {
+          "en": "performance",
+          "id": "pertunjukan",
+          "phonetic": "/pərˈfɔːrməns/",
+          "example_en": "We watched a dance performance.",
+          "example_id": "Kami menonton pertunjukan tari."
+        },
+        {
+          "en": "drum",
+          "id": "gendang",
+          "phonetic": "/drʌm/",
+          "example_en": "The musicians played traditional drums.",
+          "example_id": "Para musisi memainkan gendang tradisional."
+        },
+        {
+          "en": "lantern",
+          "id": "lentera",
+          "phonetic": "/ˈlæntərn/",
+          "example_en": "We lit lanterns in the garden.",
+          "example_id": "Kami menyalakan lentera di taman."
+        },
+        {
+          "en": "feast",
+          "id": "pesta makan",
+          "phonetic": "/fiːst/",
+          "example_en": "The family had a big feast together.",
+          "example_id": "Keluarga itu mengadakan pesta makan besar bersama."
+        },
+        {
+          "en": "guest",
+          "id": "tamu",
+          "phonetic": "/ɡest/",
+          "example_en": "Many guests came to the celebration.",
+          "example_id": "Banyak tamu datang ke perayaan itu."
+        },
+        {
+          "en": "dance",
+          "id": "tarian",
+          "phonetic": "/dæns/",
+          "example_en": "The traditional dance was beautiful.",
+          "example_id": "Tarian tradisionalnya indah."
+        },
+        {
+          "en": "to celebrate",
+          "id": "merayakan",
+          "phonetic": "/tuː ˈselɪbreɪt/",
+          "example_en": "We celebrate Galungan every year.",
+          "example_id": "Kami merayakan Galungan setiap tahun."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Guru menunjukkan gambar/kata Inggris, murid sebutkan arti Indonesia. Bergantian.\n2) **Match (4 menit):** Cocokkan 12 kata Inggris dengan arti Indonesianya di lembar kerja.\n3) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan kosakata festival yang tepat.\n4) **Pair work (4 menit):** Tanyakan-jawab tentang festival memakai minimal 5 kata baru.\n5) **Role play (2 menit):** Dua murid memeragakan dialog penonton festival memakai minimal 4 kosakata baru.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's practice vocabulary. What is 'parade' in Indonesian?",
+          "id": "Mari berlatih kosakata. Apa arti 'parade' dalam bahasa Indonesia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Parade' artinya 'pawai'.",
+          "id": "'Parade' artinya 'pawai'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'parade' in a sentence.",
+          "id": "Bagus. Pakai 'parade' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The parade started at dawn.",
+          "id": "Pawai dimulai saat fajar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now, what is 'fireworks'?",
+          "id": "Sekarang, apa arti 'fireworks'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Fireworks' artinya 'kembang api'.",
+          "id": "'Fireworks' artinya 'kembang api'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Make a sentence with 'fireworks'.",
+          "id": "Buat kalimat dengan 'fireworks'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We watched the fireworks at night.",
+          "id": "Kami menonton kembang api pada malam hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What is the difference between 'ceremony' and 'celebration'?",
+          "id": "Bagus. Apa bedanya 'ceremony' dan 'celebration'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Ceremony' is formal, like at a temple. 'Celebration' is more general.",
+          "id": "'Ceremony' itu formal, seperti di pura. 'Celebration' lebih umum."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'offering' in a sentence.",
+          "id": "Bagus. Pakai 'offering' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My grandmother made offerings for the gods.",
+          "id": "Nenek saya membuat sesajen untuk para dewa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now use 'lantern' in a sentence.",
+          "id": "Sekarang pakai 'lantern' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We lit lanterns in the garden during the festival.",
+          "id": "Kami menyalakan lentera di taman saat festival."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last one: describe a festival using three new words.",
+          "id": "Sempurna. Terakhir: deskripsikan festival memakai tiga kata baru."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The celebration had a parade, traditional drums, and beautiful costumes.",
+          "id": "Perayaannya ada pawai, gendang tradisional, dan kostum yang indah."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah mempelajari 16 kata kunci tentang festival dan tradisi. Mari kita ingat beberapa: 'parade' artinya pawai, 'offering' artinya sesajen, 'lantern' artinya lentera. Coba saya tanya: apa arti 'fireworks'? Benar, kembang api. Apa arti 'feast'? Tepat, pesta makan. Untuk PR, tulis 10 kalimat memakai minimal 10 kata baru dari pelajaran hari ini. Jangan lupa ucapkan kosakata ini berulang-ulang di rumah supaya benar-benar diingat. Pertemuan berikutnya kita akan menyusun recount festival lengkap memakai semua yang sudah kita pelajari: past simple, used to, time markers, dan kosakata. Sampai jumpa!",
+      "instructions": "Tegaskan kategori kosakata dan ingatkan murid untuk mengulang di rumah. Berikan PR menulis 10 kalimat dengan kata baru. Ingatkan topik berikutnya: menyusun recount festival."
+    }
+  ]
+}

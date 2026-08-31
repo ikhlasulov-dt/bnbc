@@ -1,0 +1,237 @@
+{
+  "id": "a2-l26",
+  "course_id": "english-a2",
+  "module_title": "Lingkungan dan Alam",
+  "level": "A2",
+  "title": "Kosakata Lingkungan Inti",
+  "subtitle": "Membahas isu lingkungan dengan present perfect dan kalimat saran",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata lingkungan inti",
+    "Menggunakan kosakata lingkungan dalam kalimat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang time markers present perfect? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-26 dengan judul 'Kosakata Lingkungan Inti'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Untuk diskusi lingkungan yang kaya, kita perlu kosakata. Apa saja kata wajib tentang lingkungan? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Lingkungan Inti\n\nBerikut kosakata inti untuk membicarakan **lingkungan dan alam** di level A2.\n\n### 1. Konsep dan masalah\n\n| English | Indonesian |\n|---|---|\n| environment | lingkungan |\n| pollution | polusi |\n| climate | iklim |\n| waste | limbah |\n| trash / garbage | sampah |\n| plastic | plastik |\n| energy | energi |\n\n### 2. Aksi lingkungan (3R)\n\n| English | Indonesian |\n|---|---|\n| recycle | mendaur ulang |\n| reduce | mengurangi |\n| reuse | menggunakan kembali |\n| to protect | melindungi |\n| to plant | menanam |\n\n### 3. Alam\n\n| English | Indonesian |\n|---|---|\n| forest | hutan |\n| river | sungai |\n| ocean | laut |\n| tree | pohon |\n| beach | pantai |\n| animal | hewan |\n\n### 4. Frasa umum\n\n- **protect the environment** = melindungi lingkungan\n- **reduce waste** = mengurangi limbah\n- **recycle plastic** = mendaur ulang plastik\n- **plant trees** = menanam pohon\n- **save energy** = menghemat energi\n\n### 5. Mini-dialogue\n\n> A: We must **protect the environment**.\n> B: Yes. We should **reduce waste** and **recycle plastic**.\n> A: I have **planted** five **trees** this year.\n> B: Great! We also need to **save energy**.\n\n> **Hindari:** \"protect environment\" (tanpa the — *protect the environment*)\n> **Hindari:** \"do recycle\" (lebih natural — *recycle*)\n\n### 6. Tip\n\nHafalkan 3R: **Reduce, Reuse, Recycle**. Tiga kata ini adalah inti aksi lingkungan sehari-hari.\n\n### 7. Latihan di kepala\n\nSebutkan lima benda di sekitarmu dan pikirkan aksi 3R untuk masing-masing. Contoh: *plastic bottle* → *recycle*, *old clothes* → *reuse*, *paper waste* → *reduce*. Lalu buat satu kalimat untuk setiap aksi: *We should recycle plastic bottles. We can reuse old clothes. We must reduce paper waste.* Latihan ini menghubungkan kosakata lingkungan dengan pola *should* sehingga kamu siap berdiskusi isu lingkungan secara konkret.",
+      "key_points": [
+        "Konsep: environment, pollution, climate, waste, trash, plastic, energy",
+        "3R: Reduce (mengurangi), Reuse (gunakan kembali), Recycle (daur ulang)",
+        "Aksi: to protect, to plant",
+        "Alam: forest, river, ocean, tree, beach, animal",
+        "Frasa: protect the environment, reduce waste, recycle plastic, plant trees, save energy",
+        "Selalu pakai 'the' di 'the environment'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "environment",
+          "id": "lingkungan",
+          "phonetic": "/ɪnˈvaɪrənmənt/",
+          "example_en": "We must protect the environment.",
+          "example_id": "Kita harus melindungi lingkungan."
+        },
+        {
+          "en": "pollution",
+          "id": "polusi",
+          "phonetic": "/pəˈluːʃn/",
+          "example_en": "Air pollution is a big problem.",
+          "example_id": "Polusi udara adalah masalah besar."
+        },
+        {
+          "en": "recycle",
+          "id": "mendaur ulang",
+          "phonetic": "/ˌriːˈsaɪkl/",
+          "example_en": "We should recycle plastic.",
+          "example_id": "Kita sebaiknya mendaur ulang plastik."
+        },
+        {
+          "en": "reduce",
+          "id": "mengurangi",
+          "phonetic": "/rɪˈduːs/",
+          "example_en": "Reduce the use of plastic bags.",
+          "example_id": "Kurangi penggunaan kantong plastik."
+        },
+        {
+          "en": "reuse",
+          "id": "menggunakan kembali",
+          "phonetic": "/ˌriːˈjuːz/",
+          "example_en": "Reuse your old bottles.",
+          "example_id": "Gunakan kembali botol lama Anda."
+        },
+        {
+          "en": "waste",
+          "id": "limbah",
+          "phonetic": "/weɪst/",
+          "example_en": "Factory waste pollutes the river.",
+          "example_id": "Limbah pabrik mencemari sungai."
+        },
+        {
+          "en": "plastic",
+          "id": "plastik",
+          "phonetic": "/ˈplæstɪk/",
+          "example_en": "Plastic takes years to break down.",
+          "example_id": "Plastik butuh bertahun-tahun untuk terurai."
+        },
+        {
+          "en": "trash",
+          "id": "sampah",
+          "phonetic": "/træʃ/",
+          "example_en": "Don't throw trash in the river.",
+          "example_id": "Jangan buang sampah di sungai."
+        },
+        {
+          "en": "forest",
+          "id": "hutan",
+          "phonetic": "/ˈfɒrɪst/",
+          "example_en": "Many forests are disappearing.",
+          "example_id": "Banyak hutan yang hilang."
+        },
+        {
+          "en": "river",
+          "id": "sungai",
+          "phonetic": "/ˈrɪvər/",
+          "example_en": "The river is very dirty now.",
+          "example_id": "Sungainya sangat kotor sekarang."
+        },
+        {
+          "en": "ocean",
+          "id": "laut",
+          "phonetic": "/ˈoʊʃn/",
+          "example_en": "The ocean is full of plastic.",
+          "example_id": "Laut penuh dengan plastik."
+        },
+        {
+          "en": "climate",
+          "id": "iklim",
+          "phonetic": "/ˈklaɪmət/",
+          "example_en": "The climate is changing.",
+          "example_id": "Iklim sedang berubah."
+        },
+        {
+          "en": "to plant",
+          "id": "menanam",
+          "phonetic": "/tuː plænt/",
+          "example_en": "We should plant more trees.",
+          "example_id": "Kita sebaiknya menanam lebih banyak pohon."
+        },
+        {
+          "en": "tree",
+          "id": "pohon",
+          "phonetic": "/triː/",
+          "example_en": "Trees give us clean air.",
+          "example_id": "Pohon memberi kita udara bersih."
+        },
+        {
+          "en": "to protect",
+          "id": "melindungi",
+          "phonetic": "/tuː prəˈtekt/",
+          "example_en": "We must protect nature.",
+          "example_id": "Kita harus melindungi alam."
+        },
+        {
+          "en": "energy",
+          "id": "energi",
+          "phonetic": "/ˈenərdʒi/",
+          "example_en": "Save energy at home.",
+          "example_id": "Hemat energi di rumah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kosakata Indonesia, murid jawab bahasa Inggris cepat.\n2. Pair work: diskusikan 5 cara melindungi lingkungan pakai kosakata inti.\n3. Fill-in-the-blank: 10 kalimat dengan kosakata lingkungan yang tepat.\n4. Error correction: perbaiki 5 frasa (mis. 'protect environment', 'do recycle').\n5. 3R poster: buat poster 'Reduce, Reuse, Recycle' dengan contoh masing-masing.\n\nTugas rumah: Buat poster sederhana 'Aksi Lingkungan' dengan 10 kosakata dan contoh kalimat masing-masing.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What can we do to protect the environment?",
+          "id": "Apa yang bisa kita lakukan untuk melindungi lingkungan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We can reduce waste and recycle plastic.",
+          "id": "Kita bisa mengurangi limbah dan mendaur ulang plastik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you planted any trees this year?",
+          "id": "Apakah kamu sudah menanam pohon tahun ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have planted five trees in my village.",
+          "id": "Ya, lima pohon di desa saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about saving energy?",
+          "id": "Bagaimana dengan menghemat energi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We turn off lights when we leave a room.",
+          "id": "Kami mematikan lampu saat meninggalkan ruangan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is pollution a big problem in your city?",
+          "id": "Apakah polusi masalah besar di kotamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, air pollution is very bad in the dry season.",
+          "id": "Ya, polusi udara sangat buruk di musim kemarau."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever cleaned a beach?",
+          "id": "Pernahkah kamu membersihkan pantai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have. We collected a lot of trash.",
+          "id": "Ya. Kami mengumpulkan banyak sampah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What animals live in the forest near your home?",
+          "id": "Hewan apa yang hidup di hutan dekat rumahmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Monkeys, birds, and sometimes wild pigs.",
+          "id": "Monyet, burung, dan kadang babi hutan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kosakata Lingkungan Inti'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Buat poster sederhana 'Aksi Lingkungan' dengan 10 kosakata dan contoh kalimat masing-masing. Pelajaran berikutnya kita akan membahas should untuk saran lingkungan, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

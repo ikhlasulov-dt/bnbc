@@ -1,0 +1,237 @@
+{
+  "id": "a2-l38",
+  "course_id": "english-a2",
+  "module_title": "Hiburan dan Film",
+  "level": "A2",
+  "title": "Past Simple untuk Menceritakan Film",
+  "subtitle": "Mengulas film dan hiburan dengan past simple serta ungkapan opini",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan past simple untuk menceritakan film yang sudah ditonton",
+    "Membentuk negatif dan pertanyaan dengan did"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang kosakata hiburan? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-38 dengan judul 'Past Simple untuk Menceritakan Film'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Setelah nonton, kita cerita: 'Filmnya menceritakan tentang...'. Bagaimana menceritakan film dengan past simple? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Past Simple untuk Menceritakan Film\n\nSaat menceritakan **isi film**, kita pakai **past simple** karena film adalah cerita yang sudah ada (lampau).\n\n### 1. Rumus (ingat kembali)\n\n- Positif: subjek + V2 (regular -ed / irregular)\n- Negatif: didn't + V1\n- Tanya: Did + subjek + V1?\n\n### 2. Frasa khas menceritakan film\n\n- The movie **was about**... (filmnya menceritakan tentang...)\n- It **told the story of**... (menceritakan kisah...)\n- The main character **was**... (tokoh utamanya...)\n- He/She **wanted** to... (dia ingin...)\n- In the end, they **...** (pada akhirnya, mereka...)\n\n### 3. Contoh narasi film\n\n> The movie **was** about a young pilot. He **wanted** to fly around the world. He **met** a smart engineer and they **built** a plane together. They **flew** over mountains and oceans. In the end, they **reached** their dream.\n\n### 4. Kata kerja umum untuk film (V2)\n\n| V1 | V2 | Arti |\n|---|---|---|\n| tell | told | menceritakan |\n| meet | met | bertemu |\n| find | found | menemukan |\n| fight | fought | bertarung |\n| save | saved | menyelamatkan |\n| fall (in love) | fell (in love) | jatuh cinta |\n| discover | discovered | menemukan |\n| escape | escaped | melarikan diri |\n| win | won | menang |\n| lose | lost | kehilangan/kalah |\n\n### 5. Mini-dialogue\n\n> A: What **was** the movie about?\n> B: It **was** about a detective. He **tried** to solve a mystery.\n> A: **Did** he **find** the answer?\n> B: Yes, he **did**. He **discovered** the truth in the end.\n\n> **Hindari:** \"The movie is about...\" saat menceritakan film lampau — lebih natural *The movie was about...*\n> **Hindari:** \"He didn't found it.\" (salah — *He didn't find it.*)\n\n### 6. Tip\n\nGunakan **urutan**: awal (was about), tengah (met, tried, found), akhir (in the end). Ini membuat cerita film mudah diikuti.",
+      "key_points": [
+        "Pakai past simple (V2) untuk menceritakan film",
+        "Frasa: The movie was about...; It told the story of...; In the end...",
+        "Kata kerja V2 film: told, met, found, fought, saved, fell, discovered, escaped, won, lost",
+        "Negatif: didn't + V1 (didn't find, bukan didn't found)",
+        "Tanya: Did + subjek + V1? (Did he find?)",
+        "Urutan: awal (was about) → tengah (met, tried) → akhir (in the end)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "movie",
+          "id": "film",
+          "phonetic": "/ˈmuːvi/",
+          "example_en": "We watched a great movie.",
+          "example_id": "Kami menonton film yang bagus."
+        },
+        {
+          "en": "cinema",
+          "id": "bioskop",
+          "phonetic": "/ˈsɪnəmə/",
+          "example_en": "Let's go to the cinema.",
+          "example_id": "Mari kita pergi ke bioskop."
+        },
+        {
+          "en": "actor",
+          "id": "aktor",
+          "phonetic": "/ˈæktər/",
+          "example_en": "He is a famous actor.",
+          "example_id": "Dia aktor yang terkenal."
+        },
+        {
+          "en": "director",
+          "id": "sutradara",
+          "phonetic": "/dəˈrektər/",
+          "example_en": "The director is very talented.",
+          "example_id": "Sutradaranya sangat berbakat."
+        },
+        {
+          "en": "character",
+          "id": "tokoh",
+          "phonetic": "/ˈkærəktər/",
+          "example_en": "The main character is brave.",
+          "example_id": "Tokoh utamanya pemberani."
+        },
+        {
+          "en": "scene",
+          "id": "adegan",
+          "phonetic": "/siːn/",
+          "example_en": "My favorite scene is at the end.",
+          "example_id": "Adegan favorit saya di bagian akhir."
+        },
+        {
+          "en": "plot",
+          "id": "alur cerita",
+          "phonetic": "/plɒt/",
+          "example_en": "The plot was very exciting.",
+          "example_id": "Alur ceritanya sangat mendebarkan."
+        },
+        {
+          "en": "ending",
+          "id": "akhir cerita",
+          "phonetic": "/ˈendɪŋ/",
+          "example_en": "I didn't like the ending.",
+          "example_id": "Saya tidak suka akhir ceritanya."
+        },
+        {
+          "en": "soundtrack",
+          "id": "musik latar",
+          "phonetic": "/ˈsaʊndtræk/",
+          "example_en": "The soundtrack is beautiful.",
+          "example_id": "Musik latarnya indah."
+        },
+        {
+          "en": "trailer",
+          "id": "cuplikan",
+          "phonetic": "/ˈtreɪlər/",
+          "example_en": "I watched the trailer online.",
+          "example_id": "Saya menonton cuplikan daring."
+        },
+        {
+          "en": "subtitle",
+          "id": "takarir",
+          "phonetic": "/ˈsʌbtaɪtl/",
+          "example_en": "Turn on the subtitle, please.",
+          "example_id": "Nyalakan takarirnya, tolong."
+        },
+        {
+          "en": "review",
+          "id": "ulasan",
+          "phonetic": "/rɪˈvjuː/",
+          "example_en": "I read a review before watching.",
+          "example_id": "Saya membaca ulasan sebelum menonton."
+        },
+        {
+          "en": "audience",
+          "id": "penonton",
+          "phonetic": "/ˈɔːdiəns/",
+          "example_en": "The audience laughed a lot.",
+          "example_id": "Penonton tertawa banyak."
+        },
+        {
+          "en": "comedy",
+          "id": "komedi",
+          "phonetic": "/ˈkɒmədi/",
+          "example_en": "I love comedy films.",
+          "example_id": "Saya suka film komedi."
+        },
+        {
+          "en": "horror",
+          "id": "horor",
+          "phonetic": "/ˈhɒrər/",
+          "example_en": "Horror films are too scary for me.",
+          "example_id": "Film horor terlalu menakutkan bagi saya."
+        },
+        {
+          "en": "exciting",
+          "id": "mendebarkan",
+          "phonetic": "/ɪkˈsaɪtɪŋ/",
+          "example_en": "The action film was exciting.",
+          "example_id": "Film aksinya mendebarkan."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut V1 film (tell, meet, find, fight), murid jawab V2.\n2. Pair work: menceritakan film terakhir dalam 6 kalimat past simple, teman bertanya 3 hal.\n3. Fill-in-the-blank: 10 kalimat narasi film dengan V2 yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'He didn't found', 'Did he found?').\n5. Story retell: tiap murid menceritakan film favorit 1 menit di depan kelas.\n\nTugas rumah: Tulis narasi 8 kalimat tentang film terakhir yang kamu tonton, pakai minimal 6 kata kerja V2.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What was the last movie you watched?",
+          "id": "Apa film terakhir yang kamu tonton?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I watched an action movie last weekend.",
+          "id": "Saya menonton film aksi akhir pekan lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What was it about?",
+          "id": "Tentang apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It was about a detective who tried to solve a mystery.",
+          "id": "Tentang detektif yang mencoba memecahkan misteri."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did he find the answer?",
+          "id": "Apakah dia menemukan jawabannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, he did. He discovered the truth in the end.",
+          "id": "Ya. Dia menemukan kebenaran pada akhirnya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who was the main character?",
+          "id": "Siapa tokoh utamanya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The main character was a brave young man.",
+          "id": "Tokoh utamanya pemuda pemberani."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did he meet anyone special?",
+          "id": "Apakah dia bertemu orang spesial?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, he met a smart woman who helped him.",
+          "id": "Ya, wanita pintar yang membantunya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did they win in the end?",
+          "id": "Apakah mereka menang pada akhirnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they won and saved the city.",
+          "id": "Ya, mereka menang dan menyelamatkan kota."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Past Simple untuk Menceritakan Film'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis narasi 8 kalimat tentang film terakhir yang kamu tonton, pakai minimal 6 kata kerja V2. Pelajaran berikutnya kita akan membahas ungkapan opini: I think dan in my opinion, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

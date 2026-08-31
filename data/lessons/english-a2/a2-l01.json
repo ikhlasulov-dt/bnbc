@@ -1,0 +1,237 @@
+{
+  "id": "a2-l01",
+  "course_id": "english-a2",
+  "module_title": "Perjalanan",
+  "level": "A2",
+  "title": "Past Simple dari To Be: was dan were",
+  "subtitle": "Menceritakan pengalaman perjalanan menggunakan past simple",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan was dan were sesuai subjek",
+    "Membentuk kalimat negatif dan pertanyaan dengan to be lampau"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran A1 terakhir tentang routine dan daily activities? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-1 dengan judul 'Past Simple dari To Be: was dan were'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Pernahkah kalian liburan ke tempat menarik? Bagaimana cara menceritakannya dalam bahasa Inggris? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Past Simple dari To Be: was dan were\n\nSaat kita menceritakan perjalanan masa lampau, kita membutuhkan **past simple**. Untuk kalimat yang menggunakan *to be*, ada dua bentuk: **was** dan **were**. Pemilihan bergantung pada subjek kalimat.\n\n### 1. Bentuk positif\n\n| Subjek | To be lampau | Contoh |\n|---|---|---|\n| I | was | I was in Bali last week. |\n| He / She / It | was | She was at the airport yesterday. |\n| You / We / They | were | We were very tired after the journey. |\n\n### 2. Bentuk negatif\n\nTambahkan **not** setelah to be, atau gunakan bentuk singkat (contraction).\n\n- I was **not** (wasn't) at the station.\n- They were **not** (weren't) ready to depart.\n\n### 3. Bentuk pertanyaan\n\nPindahkan to be ke depan subjek.\n\n- **Was** the trip fun? — Yes, it was.\n- **Were** you tired? — No, I wasn't.\n\n### 4. Mini-dialogue\n\n> A: Where **were** you last weekend?\n> B: I **was** in Yogya. The trip **was** amazing!\n> A: **Was** the weather good?\n> B: Yes, it **was** sunny every day.\n\n> **Hindari:** \"I were in Bali.\" (salah, seharusnya *I was in Bali.*)\n> **Hindari:** \"She were tired.\" (salah, seharusnya *She was tired.*)\n\n### 5. Tip mengingat\n\nIbu jari: subjek tunggal (I, he, she, it) pakai **was**; subjek jamak (you, we, they) pakai **were**. *You* selalu *were* walau tunggal karena maknanya \"kamu\" atau \"kalian\".\n\n### 6. Latihan di kepala\n\nCoba buat kalimat sendiri: pikirkan satu tempat yang kamu kunjungi akhir pekan lalu. Buat kalimat positif dengan was/were, lalu ubah jadi negatif dan pertanyaan. Contoh: *My friends were at the mall.* → *My friends weren't at the mall.* → *Were your friends at the mall?* Latih dengan dua subjek berbeda agar pola makin tertanam dan kamu langsung refleks memilih was atau were tanpa berpikir panjang.",
+      "key_points": [
+        "I, he, she, it = was",
+        "you, we, they = were",
+        "Negatif: was not (wasn't) / were not (weren't)",
+        "Pertanyaan: Was/Were + subjek + ...?",
+        "Jawaban singkat: Yes, I was. / No, they weren't.",
+        "You selalu diikuti were, walau tunggal"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "travel",
+          "id": "bepergian",
+          "phonetic": "/ˈtrævl/",
+          "example_en": "I love to travel.",
+          "example_id": "Saya suka bepergian."
+        },
+        {
+          "en": "trip",
+          "id": "perjalanan",
+          "phonetic": "/trɪp/",
+          "example_en": "We had a great trip.",
+          "example_id": "Kami punya perjalanan yang menyenangkan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan (jauh)",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "The journey was long.",
+          "example_id": "Perjalanannya jauh."
+        },
+        {
+          "en": "ticket",
+          "id": "tiket",
+          "phonetic": "/ˈtɪkɪt/",
+          "example_en": "I bought a train ticket.",
+          "example_id": "Saya membeli tiket kereta."
+        },
+        {
+          "en": "passport",
+          "id": "paspor",
+          "phonetic": "/ˈpæspɔːrt/",
+          "example_en": "Don't forget your passport.",
+          "example_id": "Jangan lupa paspor Anda."
+        },
+        {
+          "en": "luggage",
+          "id": "bagasi",
+          "phonetic": "/ˈlʌɡɪdʒ/",
+          "example_en": "My luggage is heavy.",
+          "example_id": "Bagasi saya berat."
+        },
+        {
+          "en": "airport",
+          "id": "bandara",
+          "phonetic": "/ˈerpɔːrt/",
+          "example_en": "We arrived at the airport.",
+          "example_id": "Kami tiba di bandara."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is crowded.",
+          "example_id": "Stasiunnya ramai."
+        },
+        {
+          "en": "depart",
+          "id": "berangkat",
+          "phonetic": "/dɪˈpɑːrt/",
+          "example_en": "The train departs at noon.",
+          "example_id": "Kereta berangkat siang."
+        },
+        {
+          "en": "arrive",
+          "id": "tiba",
+          "phonetic": "/əˈraɪv/",
+          "example_en": "We arrived late.",
+          "example_id": "Kami tiba terlambat."
+        },
+        {
+          "en": "abroad",
+          "id": "luar negeri",
+          "phonetic": "/əˈbrɔːd/",
+          "example_en": "I want to study abroad.",
+          "example_id": "Saya ingin belajar di luar negeri."
+        },
+        {
+          "en": "destination",
+          "id": "tujuan",
+          "phonetic": "/ˌdestɪˈneɪʃn/",
+          "example_en": "Bali is a popular destination.",
+          "example_id": "Bali adalah tujuan yang populer."
+        },
+        {
+          "en": "souvenir",
+          "id": "oleh-oleh",
+          "phonetic": "/ˌsuːvəˈnɪr/",
+          "example_en": "I bought souvenirs.",
+          "example_id": "Saya membeli oleh-oleh."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "guide",
+          "id": "pemandu",
+          "phonetic": "/ɡaɪd/",
+          "example_en": "Our guide was helpful.",
+          "example_id": "Pemandu kami sangat membantu."
+        },
+        {
+          "en": "explore",
+          "id": "menjelajahi",
+          "phonetic": "/ɪkˈsplɔːr/",
+          "example_en": "We explored the city.",
+          "example_id": "Kami menjelajahi kota."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill cepat: guru menyebut subjek (I, he, we, they), murid langsung menjawab was/were dalam 3 detik.\n2. Pair work: tanyakan 5 pertanyaan 'Were you...?' ke teman tentang liburan terakhir, catat jawabannya.\n3. Fill-in-the-blank: lengkapi 8 kalimat dengan was/were/wasn't/weren't.\n4. Error correction: perbaiki 5 kalimat salah yang ditulis di papan (mis. 'I were at the airport').\n5. Role play: satu murid jadi turis, satu jadi resepsionis hotel, tanya-jawab menggunakan was/were.\n\nTugas rumah: Tulis 5 kalimat tentang liburan terakhir menggunakan was/were, dan 2 kalimat tanya dengan Was/Were.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning! Where were you last weekend?",
+          "id": "Selamat pagi! Di mana kamu akhir pekan lalu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I was in Bandung with my family.",
+          "id": "Saya di Bandung bersama keluarga."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Was the trip fun?",
+          "id": "Apakah perjalanannya menyenangkan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it was. The weather was cool.",
+          "id": "Ya. Cuacanya sejuk."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Were your parents happy?",
+          "id": "Apakah orang tuamu senang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they were very happy.",
+          "id": "Ya, mereka sangat senang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long were you there?",
+          "id": "Berapa lama kamu di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We were there for three days.",
+          "id": "Kami di sana selama tiga hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Was the traffic bad?",
+          "id": "Apakah jalanan macet?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, it wasn't. We arrived quickly.",
+          "id": "Tidak. Kami tiba dengan cepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! Now tell me, were you tired?",
+          "id": "Bagus! Sekarang ceritakan, apakah kamu lelah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A little, but it was worth it.",
+          "id": "Sedikit, tapi sepadan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Past Simple dari To Be: was dan were'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 5 kalimat tentang liburan terakhir menggunakan was/were, dan 2 kalimat tanya dengan Was/Were. Pelajaran berikutnya kita akan membahas kata kerja regular dengan akhiran -ed untuk menceritakan aksi perjalanan, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

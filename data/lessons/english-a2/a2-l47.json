@@ -1,0 +1,237 @@
+{
+  "id": "a2-l47",
+  "course_id": "english-a2",
+  "module_title": "Olahraga",
+  "level": "A2",
+  "title": "Pola Kalimat Perbandingan",
+  "subtitle": "Membandingkan olahraga dengan comparatives dan superlatives",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat comparative dengan than",
+    "Membentuk kalimat superlative dengan in/of"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang superlative? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-47 dengan judul 'Pola Kalimat Perbandingan'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Sekarang kita tahu comparative dan superlative. Bagaimana menyusun kalimat perbandingan yang lengkap? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola Kalimat Perbandingan\n\nMembandingkan olahraga butuh pola kalimat yang bervariasi: comparative, superlative, dan frasa khusus.\n\n### 1. Pola comparative\n\n**A + be + comparative + than + B**\n\n- Football is **more popular than** tennis.\n- My brother is **taller than** me.\n\n### 2. Pola superlative\n\n**A + be + the + superlative + (noun) + in/of group**\n\n- She is **the best** player **in** the team.\n- This is **the most exciting** match **of** the year.\n\n### 3. Membandingkan kesetaraan: as...as\n\n**as + adjektiva + as** (sama ... dengan)\n\n- Badminton is **as popular as** tennis here.\n- He is **as fast as** his brother.\n\nNegatif: **not as ... as** (tidak se...):\n- Volleyball is **not as popular as** football.\n\n### 4. Membandingkan dengan angka\n\n- He runs **twice as fast as** me. (dua kali lebih cepat)\n- She is **three years older than** him.\n\n### 5. Frasa perbandingan lain\n\n- **prefer A to B** — I prefer football to tennis.\n- **like A better than B** — I like swimming better than running.\n- **the same as** — This match is the same as yesterday's.\n\n### 6. Mini-dialogue\n\n> A: **Do** you **prefer** football **to** badminton?\n> B: No, I like badminton better. It's **as exciting as** football.\n> A: Is your team **the best** in the league?\n> B: Yes, we're **the fastest** and **the strongest**.\n\n> **Hindari:** \"prefer A than B\" (salah — *prefer A to B*)\n> **Hindari:** \"as popular like\" (salah — *as popular as*)\n\n### 7. Tip\n\nUntuk kesetaraan, pakai **as...as**. Untuk preferensi, pakai **prefer...to...** atau **like...better than...**.",
+      "key_points": [
+        "Comparative: A + be + comparative + than + B",
+        "Superlative: A + be + the + superlative + (noun) + in/of group",
+        "Kesetaraan: as + adj + as (sama ... dengan)",
+        "Negatif kesetaraan: not as ... as (tidak se...)",
+        "Preferensi: prefer A to B / like A better than B",
+        "Salah: 'prefer A than B'; Benar: 'prefer A to B'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "sport",
+          "id": "olahraga",
+          "phonetic": "/spɔːrt/",
+          "example_en": "What is your favorite sport?",
+          "example_id": "Apa olahraga kesukaanmu?"
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "Football is very popular.",
+          "example_id": "Sepak bola sangat populer."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He plays basketball every week.",
+          "example_id": "Dia bermain bola basket setiap minggu."
+        },
+        {
+          "en": "volleyball",
+          "id": "bola voli",
+          "phonetic": "/ˈvɒlibɔːl/",
+          "example_en": "Volleyball is fun to play.",
+          "example_id": "Bola voli menyenangkan untuk dimainkan."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular in Indonesia.",
+          "example_id": "Bulu tangkis populer di Indonesia."
+        },
+        {
+          "en": "tennis",
+          "id": "tenis",
+          "phonetic": "/ˈtenɪs/",
+          "example_en": "She plays tennis on Sunday.",
+          "example_id": "Dia bermain tenis pada hari Minggu."
+        },
+        {
+          "en": "swimming",
+          "id": "renang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is good for health.",
+          "example_id": "Berenang baik untuk kesehatan."
+        },
+        {
+          "en": "athlete",
+          "id": "atlet",
+          "phonetic": "/ˈæθliːt/",
+          "example_en": "She is a great athlete.",
+          "example_id": "Dia atlet yang hebat."
+        },
+        {
+          "en": "team",
+          "id": "tim",
+          "phonetic": "/tiːm/",
+          "example_en": "Our team won the match.",
+          "example_id": "Tim kami memenangkan pertandingan."
+        },
+        {
+          "en": "coach",
+          "id": "pelatih",
+          "phonetic": "/koʊtʃ/",
+          "example_en": "The coach is very strict.",
+          "example_id": "Pelatihnya sangat tegas."
+        },
+        {
+          "en": "referee",
+          "id": "wasit",
+          "phonetic": "/ˌrefəˈriː/",
+          "example_en": "The referee blew the whistle.",
+          "example_id": "Wasit meniup peluit."
+        },
+        {
+          "en": "stadium",
+          "id": "stadion",
+          "phonetic": "/ˈsteɪdiəm/",
+          "example_en": "The stadium was full of fans.",
+          "example_id": "Stadion penuh dengan penggemar."
+        },
+        {
+          "en": "match",
+          "id": "pertandingan",
+          "phonetic": "/mætʃ/",
+          "example_en": "We watched an exciting match.",
+          "example_id": "Kami menonton pertandingan yang mendebarkan."
+        },
+        {
+          "en": "champion",
+          "id": "juara",
+          "phonetic": "/ˈtʃæmpiən/",
+          "example_en": "She is the world champion.",
+          "example_id": "Dia juara dunia."
+        },
+        {
+          "en": "to win",
+          "id": "menang",
+          "phonetic": "/tuː wɪn/",
+          "example_en": "Our team won the game.",
+          "example_id": "Tim kami memenangkan permainan."
+        },
+        {
+          "en": "score",
+          "id": "skor",
+          "phonetic": "/skɔːr/",
+          "example_en": "The final score was 2-1.",
+          "example_id": "Skor akhirnya 2-1."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut situasi, murid buat kalimat as...as / prefer...to / like better than.\n2. Pair work: bandingkan 6 pasang olahraga dengan berbagai pola perbandingan.\n3. Fill-in-the-blank: 10 kalimat dengan than/as...as/prefer...to yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'prefer A than B', 'as popular like').\n5. Survey: tanya 5 teman 'prefer A or B?' tentang olahraga, laporkan hasil dengan comparative.\n\nTugas rumah: Tulis 6 kalimat perbandingan olahraga dengan pola berbeda (than, as...as, prefer...to, the best).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you prefer football to badminton?",
+          "id": "Apakah kamu lebih suka sepak bola dari bulu tangkis?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I like badminton better.",
+          "id": "Tidak, saya lebih suka bulu tangkis."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why is that?",
+          "id": "Kenapa begitu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because it's as exciting as football.",
+          "id": "Karena sama mendebarkannya dengan sepak bola."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is your team the best in the league?",
+          "id": "Apakah timmu terbaik di liga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we're the fastest and the strongest.",
+          "id": "Ya, kami tercepat dan terkuat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is volleyball as popular as basketball?",
+          "id": "Apakah voli sepupuler basket?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, volleyball is not as popular as basketball.",
+          "id": "Tidak, voli tidak sepopuler basket."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who runs faster, you or your brother?",
+          "id": "Siapa lebih cepat lari, kamu atau kakakmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My brother runs twice as fast as me.",
+          "id": "Kakak saya dua kali lebih cepat dari saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Which is the most difficult sport for you?",
+          "id": "Olahraga apa paling sulit bagimu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Tennis is the most difficult for me.",
+          "id": "Tenis paling sulit bagi saya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Pola Kalimat Perbandingan'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat perbandingan olahraga dengan pola berbeda (than, as...as, prefer...to, the best). Pelajaran berikutnya kita akan membahas modifiers untuk penguatan, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

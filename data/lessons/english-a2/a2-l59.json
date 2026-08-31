@@ -1,0 +1,263 @@
+{
+  "id": "a2-l59",
+  "course_id": "english-a2",
+  "module_title": "Rumah dan Perabot",
+  "level": "A2",
+  "title": "Kosakata Ruangan dan Perabot",
+  "subtitle": "Nama ruangan dan perabot utama di rumah",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai nama ruangan utama di rumah",
+    "Mengenal perabot yang sering disebut",
+    "Membuat kalimat deskripsi dengan kosakata baru"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita masuk pelajaran kosakata kunci modul Rumah dan Perabot. Kita sudah belajar 'there is/there are' dan preposisi tempat. Sekarang waktunya memperkaya kosa kata supaya kalian bisa mendeskripsikan rumah dengan lebih detail. Coba sebutkan 3 ruangan dalam rumah berbahasa Inggris yang kalian tahu. 'Bedroom'? 'Kitchen'? Bagus. Hari ini kita akan pelajari 16 kata kunci: nama ruangan, perabot, dan perlengkapan rumah, lengkap dengan cara mengucapkan dan contoh kalimatnya. Rencana: kita pelajari kata per kategori, lalu berlatih memakainya dalam kalimat sendiri.",
+      "instructions": "Sapa murid dan tanyakan 3 ruangan rumah dalam bahasa Inggris. Catat di papan. Jelaskan fokus hari ini: memperkaya kosakata rumah dan perabot."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mengapa Kosakata Rumah Penting?\n\nUntuk mendeskripsikan rumah dengan jelas, kita perlu kosakata yang tepat untuk **ruangan** dan **perabot**. Tanpa kosakata ini, kita hanya bisa bilang 'room' atau 'thing'. Dengan kosakata yang tepat, kita bisa mendeskripsikan setiap ruangan dengan detail.\n\n## Kategori Kosakata Rumah\n\n### 1. Ruangan\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| living room | ruang tamu | There is a sofa in the living room. |\n| bedroom | kamar tidur | My bedroom is small but cozy. |\n| kitchen | dapur | The kitchen is next to the living room. |\n| bathroom | kamar mandi | There is a sink in the bathroom. |\n| dining room | ruang makan | We eat together in the dining room. |\n| garden | taman | The garden is behind the kitchen. |\n\n### 2. Perabot\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| sofa | sofa | There is a big sofa in the living room. |\n| armchair | kursi berlengan | There are two armchairs next to the window. |\n| wardrobe | lemari pakaian | There is a wardrobe between the door and the window. |\n| shelf | rak | There are some books on the shelf. |\n| cupboard | lemari | The TV is above the cupboard. |\n\n### 3. Perlengkapan dan Aksesori\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| lamp | lampu | There is a lamp on the desk. |\n| rug | karpet | There is a rug under the table. |\n| curtain | tirai | The curtains are blue. |\n| sink | bak cuci tangan | There is a sink in the kitchen. |\n| refrigerator | kulkas | There is a refrigerator next to the stove. |\n\n## Tips Mengingat Kosakata Rumah\n\n- **Kelilingi rumah** dan sebutkan nama Inggris setiap ruangan dan perabot.\n- **Buat kalimat 'there is/there are'** untuk setiap kata.\n- **Pasangkan dengan preposisi**: 'There is a lamp ON the desk.'\n\n> **Hindari:** menghafal terjemahan saja. Selalu buat kalimat lengkap supaya tahu cara memakai kata dalam konteks.\n\n> **Catatan:** Beberapa kata mirip dalam bahasa Indonesia (sofa, kulkas adalah serapan), jadi mudah diingat. Yang perlu dihafal adalah kata seperti wardrobe, armchair, cupboard.\n\n## Mini-dialogue\n\nA: What rooms do you have in your house?\nB: We have a living room, two bedrooms, a kitchen, and a bathroom.\nA: What is in your living room?\nB: There is a sofa, two armchairs, and a cupboard with a TV on it.",
+      "key_points": [
+        "Kosakata rumah dikelompokkan: ruangan, perabot, perlengkapan.",
+        "Kata ruangan: living room, bedroom, kitchen, bathroom, dining room, garden.",
+        "Kata perabot: sofa, armchair, wardrobe, shelf, cupboard.",
+        "Kata perlengkapan: lamp, rug, curtain, sink, refrigerator.",
+        "Selalu buat kalimat lengkap, bukan hanya menghafal terjemahan.",
+        "Pasangkan kosakata dengan 'there is/there are' dan preposisi.",
+        "Kelompokkan kata berdasarkan kategori untuk memudahkan mengingat."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "living room",
+          "id": "ruang tamu",
+          "phonetic": "/ˈlɪvɪŋ ruːm/",
+          "example_en": "There is a sofa in the living room.",
+          "example_id": "Ada sofa di ruang tamu."
+        },
+        {
+          "en": "bedroom",
+          "id": "kamar tidur",
+          "phonetic": "/ˈbedruːm/",
+          "example_en": "My bedroom is small but cozy.",
+          "example_id": "Kamar tidur saya kecil tetapi nyaman."
+        },
+        {
+          "en": "kitchen",
+          "id": "dapur",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "example_en": "The kitchen is next to the living room.",
+          "example_id": "Dapurnya di sebelah ruang tamu."
+        },
+        {
+          "en": "bathroom",
+          "id": "kamar mandi",
+          "phonetic": "/ˈbæθruːm/",
+          "example_en": "There is a sink in the bathroom.",
+          "example_id": "Ada bak cuci tangan di kamar mandi."
+        },
+        {
+          "en": "dining room",
+          "id": "ruang makan",
+          "phonetic": "/ˈdaɪnɪŋ ruːm/",
+          "example_en": "We eat together in the dining room.",
+          "example_id": "Kami makan bersama di ruang makan."
+        },
+        {
+          "en": "garden",
+          "id": "taman",
+          "phonetic": "/ˈɡɑːrdn/",
+          "example_en": "The garden is behind the kitchen.",
+          "example_id": "Tamannya di belakang dapur."
+        },
+        {
+          "en": "sofa",
+          "id": "sofa",
+          "phonetic": "/ˈsoʊfə/",
+          "example_en": "There is a big sofa in the living room.",
+          "example_id": "Ada sofa besar di ruang tamu."
+        },
+        {
+          "en": "armchair",
+          "id": "kursi berlengan",
+          "phonetic": "/ˈɑːrmtʃer/",
+          "example_en": "There are two armchairs next to the window.",
+          "example_id": "Ada dua kursi berlengan di sebelah jendela."
+        },
+        {
+          "en": "wardrobe",
+          "id": "lemari pakaian",
+          "phonetic": "/ˈwɔːrdroʊb/",
+          "example_en": "There is a wardrobe between the door and the window.",
+          "example_id": "Ada lemari pakaian di antara pintu dan jendela."
+        },
+        {
+          "en": "shelf",
+          "id": "rak",
+          "phonetic": "/ʃelf/",
+          "example_en": "There are some books on the shelf.",
+          "example_id": "Ada beberapa buku di rak."
+        },
+        {
+          "en": "cupboard",
+          "id": "lemari",
+          "phonetic": "/ˈkʌpbərd/",
+          "example_en": "The TV is above the cupboard.",
+          "example_id": "Televisinya di atas lemari."
+        },
+        {
+          "en": "lamp",
+          "id": "lampu",
+          "phonetic": "/læmp/",
+          "example_en": "There is a lamp on the desk.",
+          "example_id": "Ada lampu di atas meja."
+        },
+        {
+          "en": "rug",
+          "id": "karpet",
+          "phonetic": "/rʌɡ/",
+          "example_en": "There is a rug under the table.",
+          "example_id": "Ada karpet di bawah meja."
+        },
+        {
+          "en": "curtain",
+          "id": "tirai",
+          "phonetic": "/ˈkɜːrtn/",
+          "example_en": "The curtains are blue.",
+          "example_id": "Tirainya berwarna biru."
+        },
+        {
+          "en": "sink",
+          "id": "bak cuci tangan",
+          "phonetic": "/sɪŋk/",
+          "example_en": "There is a sink in the kitchen.",
+          "example_id": "Ada bak cuci tangan di dapur."
+        },
+        {
+          "en": "refrigerator",
+          "id": "kulkas",
+          "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+          "example_en": "There is a refrigerator next to the stove.",
+          "example_id": "Ada kulkas di sebelah kompor."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Guru menunjuk gambar/kata, murid sebutkan arti. Bergantian.\n2) **Match (4 menit):** Cocokkan 12 kata Inggris dengan arti Indonesianya.\n3) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat deskripsi rumah dengan kosakata yang tepat.\n4) **Pair work (4 menit):** Tanyakan-jawab tentang rumah masing-masing memakai minimal 6 kata baru.\n5) **Role play (2 menit):** Dua murid memeragakan agen properti dan pembeli mendeskripsikan rumah.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's practice vocabulary. What is 'living room' in Indonesian?",
+          "id": "Mari berlatih kosakata. Apa arti 'living room'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Living room' artinya 'ruang tamu'.",
+          "id": "'Living room' artinya 'ruang tamu'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use it in a sentence.",
+          "id": "Bagus. Pakai dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a big sofa in the living room.",
+          "id": "Ada sofa besar di ruang tamu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is 'wardrobe'?",
+          "id": "Apa arti 'wardrobe'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Wardrobe' artinya 'lemari pakaian'.",
+          "id": "'Wardrobe' artinya 'lemari pakaian'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'wardrobe' with a preposition.",
+          "id": "Pakai 'wardrobe' dengan preposisi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a wardrobe between the door and the window.",
+          "id": "Ada lemari pakaian di antara pintu dan jendela."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What is the difference between 'cupboard' and 'shelf'?",
+          "id": "Bagus. Apa bedanya 'cupboard' dan 'shelf'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Cupboard' has doors, 'shelf' is open.",
+          "id": "'Cupboard' ada pintunya, 'shelf' terbuka."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'refrigerator' in a sentence.",
+          "id": "Bagus. Pakai 'refrigerator' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a refrigerator next to the stove in the kitchen.",
+          "id": "Ada kulkas di sebelah kompor di dapur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now use 'curtain' in a sentence.",
+          "id": "Sekarang pakai 'curtain' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The curtains in my bedroom are blue.",
+          "id": "Tirai di kamar tidur saya berwarna biru."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Describe your kitchen using three new words.",
+          "id": "Sempurna. Deskripsikan dapurmu memakai tiga kata baru."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a sink, a stove, and a refrigerator in my kitchen.",
+          "id": "Ada bak cuci tangan, kompor, dan kulkas di dapur saya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah mempelajari 16 kata kunci tentang rumah dan perabot. Mari kita ingat beberapa: 'living room' artinya ruang tamu, 'wardrobe' artinya lemari pakaian, 'refrigerator' artinya kulkas. Coba saya tanya: apa arti 'cupboard'? Benar, lemari. Apa arti 'armchair'? Tepat, kursi berlengan. Untuk PR, tulis 10 kalimat memakai minimal 10 kata baru untuk mendeskripsikan rumah kalian. Ucapkan kosakata ini berulang-ulang di rumah. Pertemuan berikutnya kita akan belajar menyusun deskripsi ruangan secara teratur dengan urutan yang logis. Sampai jumpa!",
+      "instructions": "Tegaskan kategori kosakata. Berikan PR menulis 10 kalimat. Umumkan topik berikutnya: urutan deskripsi yang rapi."
+    }
+  ]
+}

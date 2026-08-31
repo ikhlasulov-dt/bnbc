@@ -1,0 +1,238 @@
+{
+  "id": "a2-l02",
+  "course_id": "english-a2",
+  "module_title": "Perjalanan",
+  "level": "A2",
+  "title": "Kata Kerja Regular: Akhiran -ed",
+  "subtitle": "Menceritakan pengalaman perjalanan menggunakan past simple",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk past simple kata kerja regular dengan -ed",
+    "Menerapkan aturan ejaan -ed dengan benar"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang was dan were? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-2 dengan judul 'Kata Kerja Regular: Akhiran -ed'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Saat travelling, kita tidak hanya 'ada' di tempat, tapi juga 'melakukan' hal. Bagaimana cara menyebut aksi masa lampau? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kata Kerja Regular: Akhiran -ed\n\nKata kerja **regular** membentuk past simple dengan menambahkan **-ed** pada bentuk dasar. Ini sangat berguna untuk menceritakan aksi selama perjalanan: *arrived, explored, booked, traveled*.\n\n### 1. Aturan ejaan dasar\n\n| Bentuk dasar berakhir dengan... | Cara | Contoh |\n|---|---|---|\n| konsonan biasa | + ed | travel → traveled, explore → explored |\n| huruf -e | + d | arrive → arrived, depart → departed |\n| konsonan + y | y → ied | carry → carried, study → studied |\n| 1 suku, vokal+konsonan | gandakan konsonan + ed | stop → stopped, plan → planned |\n\n### 2. Pengucapan -ed\n\n- /t/ setelah konsonan tak bersuara: stopped /stɒpt/, booked /bʊkt/\n- /d/ setelah konsonan bersuara & vokal: arrived /əˈraɪvd/, played /pleɪd/\n- /ɪd/ setelah t/d: wanted /ˈwɒntɪd/, needed /ˈniːdɪd/\n\n### 3. Bentuk negatif & pertanyaan\n\nUntuk semua subjek gunakan **did** + bentuk dasar.\n\n- Positif: We **explored** the city.\n- Negatif: We **didn't explore** the city.\n- Tanya: **Did** you **explore** the city?\n\n> **Hindari:** \"We didn't explored.\" (salah — setelah didn't pakai bentuk dasar: *didn't explore*)\n> **Hindari:** \"Did you arrived?\" (salah — seharusnya *Did you arrive?*)\n\n### 4. Mini-dialogue\n\n> A: What **did** you **do** on holiday?\n> B: We **visited** a temple and **climbed** a hill.\n> A: **Did** you **book** a guide?\n> B: No, we **didn't**. We **explored** alone.\n\n### 5. Tip\n\nIngat: setelah *did* atau *didn't*, kata kerja kembali ke bentuk dasar. *Did* sudah menandai lampau, jadi kata kerja utama tidak perlu -ed lagi.",
+      "key_points": [
+        "Regular verb: bentuk dasar + -ed (explore → explored)",
+        "Berakhir -e: cukup + d (arrive → arrived)",
+        "Konsonan + y: y → ied (carry → carried)",
+        "1 suku vokal+konsonan: gandakan konsonan (stop → stopped)",
+        "Negatif: did not (didn't) + bentuk dasar",
+        "Pertanyaan: Did + subjek + bentuk dasar?",
+        "Setelah did/didn't, kata kerja kembali ke bentuk dasar"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "travel",
+          "id": "bepergian",
+          "phonetic": "/ˈtrævl/",
+          "example_en": "I love to travel.",
+          "example_id": "Saya suka bepergian."
+        },
+        {
+          "en": "trip",
+          "id": "perjalanan",
+          "phonetic": "/trɪp/",
+          "example_en": "We had a great trip.",
+          "example_id": "Kami punya perjalanan yang menyenangkan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan (jauh)",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "The journey was long.",
+          "example_id": "Perjalanannya jauh."
+        },
+        {
+          "en": "ticket",
+          "id": "tiket",
+          "phonetic": "/ˈtɪkɪt/",
+          "example_en": "I bought a train ticket.",
+          "example_id": "Saya membeli tiket kereta."
+        },
+        {
+          "en": "passport",
+          "id": "paspor",
+          "phonetic": "/ˈpæspɔːrt/",
+          "example_en": "Don't forget your passport.",
+          "example_id": "Jangan lupa paspor Anda."
+        },
+        {
+          "en": "luggage",
+          "id": "bagasi",
+          "phonetic": "/ˈlʌɡɪdʒ/",
+          "example_en": "My luggage is heavy.",
+          "example_id": "Bagasi saya berat."
+        },
+        {
+          "en": "airport",
+          "id": "bandara",
+          "phonetic": "/ˈerpɔːrt/",
+          "example_en": "We arrived at the airport.",
+          "example_id": "Kami tiba di bandara."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is crowded.",
+          "example_id": "Stasiunnya ramai."
+        },
+        {
+          "en": "depart",
+          "id": "berangkat",
+          "phonetic": "/dɪˈpɑːrt/",
+          "example_en": "The train departs at noon.",
+          "example_id": "Kereta berangkat siang."
+        },
+        {
+          "en": "arrive",
+          "id": "tiba",
+          "phonetic": "/əˈraɪv/",
+          "example_en": "We arrived late.",
+          "example_id": "Kami tiba terlambat."
+        },
+        {
+          "en": "abroad",
+          "id": "luar negeri",
+          "phonetic": "/əˈbrɔːd/",
+          "example_en": "I want to study abroad.",
+          "example_id": "Saya ingin belajar di luar negeri."
+        },
+        {
+          "en": "destination",
+          "id": "tujuan",
+          "phonetic": "/ˌdestɪˈneɪʃn/",
+          "example_en": "Bali is a popular destination.",
+          "example_id": "Bali adalah tujuan yang populer."
+        },
+        {
+          "en": "souvenir",
+          "id": "oleh-oleh",
+          "phonetic": "/ˌsuːvəˈnɪr/",
+          "example_en": "I bought souvenirs.",
+          "example_id": "Saya membeli oleh-oleh."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "guide",
+          "id": "pemandu",
+          "phonetic": "/ɡaɪd/",
+          "example_en": "Our guide was helpful.",
+          "example_id": "Pemandu kami sangat membantu."
+        },
+        {
+          "en": "explore",
+          "id": "menjelajahi",
+          "phonetic": "/ɪkˈsplɔːr/",
+          "example_en": "We explored the city.",
+          "example_id": "Kami menjelajahi kota."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kata kerja dasar, murid membentuk past simple (explore, arrive, travel, stop, carry, book).\n2. Pair work: giliran menceritakan 5 hal yang 'I did' di liburan terakhir menggunakan kata kerja regular.\n3. Fill-in-the-blank: 8 kalimat dengan kata kerja regular (book, arrive, travel, stop, carry, plan, explore, visit).\n4. Error correction: 5 kalimat dengan kesalahan umum (mis. 'He didn't visited').\n5. Role play: resepsionis hotel & tamu — tanya tentang pemesanan, kedatangan, dan bagasi menggunakan past simple.\n\nTugas rumah: Tulis paragraf 6 kalimat tentang liburan lalu menggunakan minimal 5 kata kerja regular berakhir -ed.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did you do on your trip?",
+          "id": "Apa yang kamu lakukan dalam perjalananmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We visited a museum and explored the old town.",
+          "id": "Kami mengunjungi museum dan menjelajahi kota tua."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you book a hotel in advance?",
+          "id": "Apakah kamu memesan hotel sebelumnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I booked it online two weeks before.",
+          "id": "Ya, saya memesannya daring dua minggu sebelumnya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How did you travel around the city?",
+          "id": "Bagaimana kamu bepergian di sekitar kota?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We rented a car and stopped at many places.",
+          "id": "Kami menyewa mobil dan berhenti di banyak tempat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you carry a lot of luggage?",
+          "id": "Apakah kamu membawa banyak bagasi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I only carried a small backpack.",
+          "id": "Tidak, saya hanya membawa ransel kecil."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did you buy as souvenirs?",
+          "id": "Apa yang kamu beli sebagai oleh-oleh?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I bought some t-shirts and keychains.",
+          "id": "Saya membeli beberapa kaos dan gantungan kunci."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you enjoy the journey?",
+          "id": "Apakah kamu menikmati perjalanannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I enjoyed it very much!",
+          "id": "Ya, saya sangat menikmatinya!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kata Kerja Regular: Akhiran -ed'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis paragraf 6 kalimat tentang liburan lalu menggunakan minimal 5 kata kerja regular berakhir -ed. Pelajaran berikutnya kita akan membahas kata kerja irregular yang harus dihafal, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

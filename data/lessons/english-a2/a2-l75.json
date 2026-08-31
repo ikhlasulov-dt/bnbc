@@ -1,0 +1,263 @@
+{
+  "id": "a2-l75",
+  "course_id": "english-a2",
+  "module_title": "Berita dan Peristiwa",
+  "level": "A2",
+  "title": "Menyusun Berita Singkat",
+  "subtitle": "Menyampaikan berita dengan struktur pembuka, isi, dan detail",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun berita singkat dengan struktur yang jelas",
+    "Menggabungkan present perfect, Have you heard about...?, dan kosakata",
+    "Menyampaikan berita secara lisan dengan runtut"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita sampai di pelajaran terakhir modul Berita dan Peristiwa. Kita sudah belajar present perfect, past participle, time markers, 'Have you heard about...?', passive voice, dan kosakata berita. Sekarang waktunya menggabungkan semuanya menjadi berita singkat. Coba bayangkan kalian jadi wartawan. Kalau diminta melaporkan satu peristiwa, bagaimana kalian menyusunnya? Itulah yang akan kita susun hari ini. Rencana: kita pelajari struktur berita singkat, lalu berlatih menulis berita sendiri memakai semua pola yang sudah dipelajari.",
+      "instructions": "Sapa murid dan tegaskan ini pelajaran terakhir modul. Minta murid membayangkan jadi wartawan. Jelaskan tujuan: menyusun berita singkat."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menyusun Berita Singkat\n\nBerita singkat yang baik memakai **semua pola** yang sudah kita pelajari:\n1. **Present perfect** untuk peristiwa terbaru.\n2. **Past participle (V3)** di present perfect dan passive.\n3. **Time markers** (just, already, yet, recently).\n4. **'Have you heard about...?'** untuk memulai pembahasan.\n5. **Passive voice** untuk headline dan fokus pada peristiwa.\n6. **Kosakata berita** untuk media, pelaku, peristiwa.\n\n## Struktur Berita Singkat\n\n### 1. Headline (Judul)\nJudul singkat, sering memakai passive voice.\n- **Storm Hits Coast; Many Houses Destroyed**\n\n### 2. Lead (Paragraf Pembuka)\nJawab: apa, kapan, di mana, siapa.\n- A big storm **has hit** the coast of Java this morning. Many houses **have been destroyed** and three people **have been injured**.\n\n### 3. Detail (Rincian)\nRincian peristiwa dengan present perfect dan time markers.\n- Rescue teams **have already arrived** in the area. The government **has just announced** an emergency policy. They **haven't found** all the victims **yet**.\n\n### 4. Penutup\nKesimpulan atau kutipan.\n- A journalist **has written** that this is the biggest storm in ten years.\n\n## Contoh Berita Singkat Lengkap\n\n**Headline: Earthquake Hits Coast; Three People Injured**\n\nA big earthquake **has hit** the coast of Sumatra this morning. Three people **have been injured** and many houses **have been destroyed**.\n\nRescue teams **have already arrived** in the area. The government **has just announced** an emergency policy to help the victims. They **haven't found** all the victims **yet**, but the search is ongoing.\n\nA journalist **has written** a report about the earthquake. The headline was very shocking. This is the third earthquake that **has hit** the region this month.\n\n## Tips Menulis Berita\n\n- Mulai dengan **headline** singkat (boleh memakai passive).\n- Tulis **lead** yang menjawab apa, kapan, di mana, siapa.\n- Tambahkan **detail** dengan present perfect dan time markers.\n- Pakai **passive voice** bila fokus pada peristiwa: 'Three people were injured.'\n- Akhiri dengan **kesimpulan** atau kutipan.\n\n> **Hindari:** menulis berita tanpa struktur. Selalu ikuti: headline -> lead -> detail -> penutup.\n\n> **Catatan:** Bila memulai percakapan tentang berita, pakai 'Have you heard about...?'\n\n## Mini-dialogue\n\nA: Have you heard about the earthquake?\nB: Yes, I read the article. Three people have been injured.\nA: Have rescue teams arrived yet?\nB: Yes, they have already arrived.",
+      "key_points": [
+        "Berita singkat menggabungkan: present perfect, V3, time markers, passive voice, kosakata.",
+        "Struktur: headline -> lead (apa, kapan, di mana, siapa) -> detail -> penutup.",
+        "Headline sering memakai passive voice: 'Storm Hits Coast; Houses Destroyed'.",
+        "Lead menjawab pertanyaan dasar: apa, kapan, di mana, siapa.",
+        "Detail memakai present perfect + time markers (just, already, yet).",
+        "Passive voice untuk fokus pada peristiwa: 'Three people were injured.'",
+        "Pakai 'Have you heard about...?' untuk memulai pembahasan berita."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "news",
+          "id": "berita",
+          "phonetic": "/nuːz/",
+          "example_en": "I read the news every morning.",
+          "example_id": "Saya membaca berita setiap pagi."
+        },
+        {
+          "en": "report",
+          "id": "laporan",
+          "phonetic": "/rɪˈpɔːrt/",
+          "example_en": "A journalist has written a new report.",
+          "example_id": "Seorang wartawan telah menulis laporan baru."
+        },
+        {
+          "en": "headline",
+          "id": "judul berita",
+          "phonetic": "/ˈhedlaɪn/",
+          "example_en": "The headline was very shocking.",
+          "example_id": "Judul beritanya sangat mengejutkan."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "The journalist has spoken to the public.",
+          "example_id": "Wartawan itu telah berbicara kepada publik."
+        },
+        {
+          "en": "broadcast",
+          "id": "siaran",
+          "phonetic": "/ˈbrɔːdkæst/",
+          "example_en": "The broadcast started at seven.",
+          "example_id": "Siaran dimulai pada pukul tujuh."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "The president gave an interview.",
+          "example_id": "Presiden memberikan wawancara."
+        },
+        {
+          "en": "article",
+          "id": "artikel",
+          "phonetic": "/ˈɑːrtɪkl/",
+          "example_en": "She has written an article about the storm.",
+          "example_id": "Dia telah menulis artikel tentang badai itu."
+        },
+        {
+          "en": "channel",
+          "id": "saluran",
+          "phonetic": "/ˈtʃænl/",
+          "example_en": "Change the channel, please.",
+          "example_id": "Ganti salurannya, tolong."
+        },
+        {
+          "en": "election",
+          "id": "pemilihan",
+          "phonetic": "/ɪˈlekʃn/",
+          "example_en": "The election result has been announced.",
+          "example_id": "Hasil pemilihan telah diumumkan."
+        },
+        {
+          "en": "policy",
+          "id": "kebijakan",
+          "phonetic": "/ˈpɒlɪsi/",
+          "example_en": "The government has announced a new policy.",
+          "example_id": "Pemerintah telah mengumumkan kebijakan baru."
+        },
+        {
+          "en": "storm",
+          "id": "badai",
+          "phonetic": "/stɔːrm/",
+          "example_en": "The storm has destroyed many houses.",
+          "example_id": "Badai telah menghancurkan banyak rumah."
+        },
+        {
+          "en": "earthquake",
+          "id": "gempa bumi",
+          "phonetic": "/ˈɜːrθkweɪk/",
+          "example_en": "Three earthquakes have hit the region this month.",
+          "example_id": "Tiga gempa bumi telah melanda wilayah itu bulan ini."
+        },
+        {
+          "en": "accident",
+          "id": "kecelakaan",
+          "phonetic": "/ˈæksɪdənt/",
+          "example_en": "Three people were injured in the accident.",
+          "example_id": "Tiga orang terluka dalam kecelakaan itu."
+        },
+        {
+          "en": "victim",
+          "id": "korban",
+          "phonetic": "/ˈvɪktɪm/",
+          "example_en": "They haven't found all the victims yet.",
+          "example_id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "en": "rescue",
+          "id": "penyelamatan",
+          "phonetic": "/ˈreskjuː/",
+          "example_en": "Rescue teams have arrived in the area.",
+          "example_id": "Tim penyelamat telah tiba di daerah itu."
+        },
+        {
+          "en": "to announce",
+          "id": "mengumumkan",
+          "phonetic": "/tuː əˈnaʊns/",
+          "example_en": "The government has announced the result.",
+          "example_id": "Pemerintah telah mengumumkan hasilnya."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Analisis (4 menit):** Baca berita contoh, identifikasi headline, lead, detail, penutup.\n2) **Fill-in-the-blank (5 menit):** Lengkapi berita dengan struktur yang tepat.\n3) **Pair work (5 menit):** Mulai percakapan dengan 'Have you heard about...?' dan ceritakan satu berita.\n4) **Writing (4 menit):** Tulis berita singkat (8-10 kalimat) tentang satu peristiwa, lengkap dengan headline.\n5) **Sharing (2 menit):** 2 murid membacakan berita mereka.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Today we combine everything. What are the parts of a news report?",
+          "id": "Hari ini kita gabungkan semuanya. Apa saja bagian berita?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Headline, lead, detail, and closing.",
+          "id": "Headline, lead, detail, dan penutup."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What goes in the lead?",
+          "id": "Bagus. Apa yang ada di lead?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "What, when, where, and who.",
+          "id": "Apa, kapan, di mana, dan siapa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Make a headline with passive voice.",
+          "id": "Bagus. Buat headline dengan passive voice."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Storm Hits Coast; Many Houses Destroyed.",
+          "id": "Badai Melanda Pantai; Banyak Rumah Hancur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now write the lead.",
+          "id": "Sekarang tulis lead."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A big storm has hit the coast of Java this morning.",
+          "id": "Badai besar telah melanda pantai Jawa pagi ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Add detail with 'already' and 'yet'.",
+          "id": "Tambahkan detail dengan 'already' dan 'yet'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Rescue teams have already arrived. They haven't found all victims yet.",
+          "id": "Tim penyelamat sudah tiba. Mereka belum menemukan semua korban."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. How would you start a conversation about this news?",
+          "id": "Bagus. Bagaimana kamu memulai percakapan tentang berita ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Have you heard about the storm?",
+          "id": "Apakah kamu sudah mendengar tentang badai itu?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now write your own short news report.",
+          "id": "Sempurna. Sekarang tulis berita singkat kalian sendiri."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Okay, I'll write about an earthquake.",
+          "id": "Baik, saya akan menulis tentang gempa bumi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Don't forget a headline and passive voice.",
+          "id": "Jangan lupa headline dan passive voice."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'll write: 'Earthquake Hits Coast; Three People Injured.'",
+          "id": "Saya akan tulis: 'Gempa Melanda Pantai; Tiga Orang Terluka.'"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kalian sudah menyelesaikan modul Berita dan Peristiwa dengan menulis berita singkat lengkap. Mari kita ingat semua yang dipelajari: present perfect, past participle, time markers, 'Have you heard about...?', passive voice, kosakata berita, dan struktur berita. Coba saya tanya: struktur berita apa saja? Benar: headline, lead, detail, penutup. Untuk PR, tulis berita singkat lengkap (10-12 kalimat) tentang satu peristiwa, dengan headline dan minimal 3 present perfect + 2 passive voice. Modul berikutnya kita akan masuk topik baru: Persahabatan, di mana kita belajar mendeskripsikan teman memakai adjektiva kepribadian. Sampai jumpa di modul baru!",
+      "instructions": "Tegaskan semua struktur dan apresiasi penyelesaian modul. Beri PR berita lengkap. Umumkan topik modul berikutnya: Persahabatan."
+    }
+  ]
+}

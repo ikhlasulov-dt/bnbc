@@ -1,0 +1,263 @@
+{
+  "id": "a2-l61",
+  "course_id": "english-a2",
+  "module_title": "Rumah dan Perabot",
+  "level": "A2",
+  "title": "Some dan Any untuk Deskripsi Rumah",
+  "subtitle": "Membedakan some pada kalimat positif dan any pada negatif/pertanyaan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan some untuk kalimat positif dan any untuk negatif/pertanyaan",
+    "Menggunakan some dan any dengan there is/there are",
+    "Menyusun kalimat tanya dan negatif yang tepat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar urutan deskripsi yang rapi. Siapa bisa sebutkan urutannya? Bagus: ciri umum, perabot, aksesori. Hari ini kita lanjutkan dengan 'some' dan 'any'. Pola ini dipakai untuk menyebut jumlah benda yang tidak tentu. Coba lihat kelas ini. Ada beberapa kursi? Ada beberapa buku? Kalau kita tidak tahu pasti jumlahnya, kita pakai 'some' atau 'any'. Itulah yang akan kita pelajari. Rencana: kita pelajari kapan pakai 'some' dan kapan pakai 'any', lalu berlatih memakainya dalam deskripsi rumah.",
+      "instructions": "Sapa murid dan minta sebutkan urutan deskripsi kemarin. Ajak murid mengamati benda di kelas yang jumlahnya tidak tentu. Jelaskan tujuan: belajar 'some' dan 'any'."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu 'Some' dan 'Any'?\n\n**Some** dan **any** dipakai untuk menyebut **jumlah yang tidak tentu**, biasanya untuk benda jamak atau uncountable noun. Artinya 'beberapa' atau 'sejumlah'.\n\n## Kapan Memakai 'Some'?\n\nPakai **some** dalam kalimat **positif**.\n- There are **some** books on the shelf.\n- There is **some** water in the kitchen.\n- I have **some** chairs in the dining room.\n\n## Kapan Memakai 'Any'?\n\nPakai **any** dalam kalimat **negatif** dan **pertanyaan**.\n- There aren't **any** lamps in the bathroom. (negatif)\n- Is there **any** milk in the refrigerator? (pertanyaan)\n- Are there **any** chairs in the garden? (pertanyaan)\n\n## Tabel Perbandingan\n\n| Bentuk | some | any |\n|---|---|---|\n| Positif | There are some books. | (jarang dipakai) |\n| Negatif | (jarang dipakai) | There aren't any books. |\n| Pertanyaan | (dipakai bila menawari/menunggu 'ya') | Are there any books? |\n\n## Contoh dalam Deskripsi Rumah\n\n- There are **some** cushions on the sofa.\n- There is **some** fruit on the dining table.\n- There aren't **any** rugs in the kitchen.\n- Are there **any** plants in the garden? Yes, there are some.\n- Is there **any** sugar in the cupboard? No, there isn't any.\n\n## Pengecualian: 'Some' dalam Pertanyaan\n\n'Some' bisa dipakai dalam pertanyaan saat kita **menawari** atau **menunggu jawaban 'ya'**.\n- Would you like **some** tea? (menawari)\n- Can I have **some** water? (mohon, menunggu 'ya')\n\n> **Hindari:** memakai 'some' dalam kalimat negatif. Salah: 'There aren't some books.' Benar: 'There aren't any books.' Juga hindari memakai 'any' dalam kalimat positif biasa. Salah: 'There are any chairs.' Benar: 'There are some chairs.'\n\n> **Catatan:** 'some' dan 'any' bisa dipakai untuk benda jamak (countable) maupun uncountable (water, milk, sugar).\n\n## Mini-dialogue\n\nA: Are there any cushions on the sofa?\nB: Yes, there are some blue cushions.\nA: Is there any milk in the fridge?\nB: No, there isn't any milk. We need to buy some.",
+      "key_points": [
+        "'Some' dan 'any' untuk jumlah yang tidak tentu (beberapa/sejumlah).",
+        "'Some' dipakai dalam kalimat positif.",
+        "'Any' dipakai dalam kalimat negatif dan pertanyaan.",
+        "'Some' bisa dipakai dalam pertanyaan yang menawari atau menunggu 'ya'.",
+        "Keduanya bisa untuk countable plural maupun uncountable noun.",
+        "Hindari 'some' dalam negatif dan 'any' dalam positif biasa.",
+        "Sangat berguna untuk deskripsi rumah: 'some books', 'any rugs'."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "living room",
+          "id": "ruang tamu",
+          "phonetic": "/ˈlɪvɪŋ ruːm/",
+          "example_en": "There is a sofa in the living room.",
+          "example_id": "Ada sofa di ruang tamu."
+        },
+        {
+          "en": "bedroom",
+          "id": "kamar tidur",
+          "phonetic": "/ˈbedruːm/",
+          "example_en": "My bedroom is small but cozy.",
+          "example_id": "Kamar tidur saya kecil tetapi nyaman."
+        },
+        {
+          "en": "kitchen",
+          "id": "dapur",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "example_en": "The kitchen is next to the living room.",
+          "example_id": "Dapurnya di sebelah ruang tamu."
+        },
+        {
+          "en": "bathroom",
+          "id": "kamar mandi",
+          "phonetic": "/ˈbæθruːm/",
+          "example_en": "There is a sink in the bathroom.",
+          "example_id": "Ada bak cuci tangan di kamar mandi."
+        },
+        {
+          "en": "dining room",
+          "id": "ruang makan",
+          "phonetic": "/ˈdaɪnɪŋ ruːm/",
+          "example_en": "We eat together in the dining room.",
+          "example_id": "Kami makan bersama di ruang makan."
+        },
+        {
+          "en": "garden",
+          "id": "taman",
+          "phonetic": "/ˈɡɑːrdn/",
+          "example_en": "The garden is behind the kitchen.",
+          "example_id": "Tamannya di belakang dapur."
+        },
+        {
+          "en": "sofa",
+          "id": "sofa",
+          "phonetic": "/ˈsoʊfə/",
+          "example_en": "There is a big sofa in the living room.",
+          "example_id": "Ada sofa besar di ruang tamu."
+        },
+        {
+          "en": "armchair",
+          "id": "kursi berlengan",
+          "phonetic": "/ˈɑːrmtʃer/",
+          "example_en": "There are two armchairs next to the window.",
+          "example_id": "Ada dua kursi berlengan di sebelah jendela."
+        },
+        {
+          "en": "wardrobe",
+          "id": "lemari pakaian",
+          "phonetic": "/ˈwɔːrdroʊb/",
+          "example_en": "There is a wardrobe between the door and the window.",
+          "example_id": "Ada lemari pakaian di antara pintu dan jendela."
+        },
+        {
+          "en": "shelf",
+          "id": "rak",
+          "phonetic": "/ʃelf/",
+          "example_en": "There are some books on the shelf.",
+          "example_id": "Ada beberapa buku di rak."
+        },
+        {
+          "en": "cupboard",
+          "id": "lemari",
+          "phonetic": "/ˈkʌpbərd/",
+          "example_en": "The TV is above the cupboard.",
+          "example_id": "Televisinya di atas lemari."
+        },
+        {
+          "en": "lamp",
+          "id": "lampu",
+          "phonetic": "/læmp/",
+          "example_en": "There is a lamp on the desk.",
+          "example_id": "Ada lampu di atas meja."
+        },
+        {
+          "en": "rug",
+          "id": "karpet",
+          "phonetic": "/rʌɡ/",
+          "example_en": "There is a rug under the table.",
+          "example_id": "Ada karpet di bawah meja."
+        },
+        {
+          "en": "curtain",
+          "id": "tirai",
+          "phonetic": "/ˈkɜːrtn/",
+          "example_en": "The curtains are blue.",
+          "example_id": "Tirainya berwarna biru."
+        },
+        {
+          "en": "sink",
+          "id": "bak cuci tangan",
+          "phonetic": "/sɪŋk/",
+          "example_en": "There is a sink in the kitchen.",
+          "example_id": "Ada bak cuci tangan di dapur."
+        },
+        {
+          "en": "refrigerator",
+          "id": "kulkas",
+          "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+          "example_en": "There is a refrigerator next to the stove.",
+          "example_id": "Ada kulkas di sebelah kompor."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru berikan kalimat positif/negatif/pertanyaan, murid isi dengan 'some' atau 'any'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan 'some' atau 'any'.\n3) **Pair work (5 menit):** Tanyakan-jawab tentang isi dapur/kamar memakai 'Is there any...?' / 'Are there any...?'.\n4) **Role play (4 menit):** Dua murid memeragakan tamu dan tuan rumah yang menawarkan minuman memakai 'some'.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'There aren't some chairs' -> 'There aren't any chairs').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When do we use 'some'?",
+          "id": "Kapan kita pakai 'some'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We use 'some' in positive sentences.",
+          "id": "Kita pakai 'some' dalam kalimat positif."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Give an example.",
+          "id": "Bagus. Beri contoh."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There are some books on the shelf.",
+          "id": "Ada beberapa buku di rak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When do we use 'any'?",
+          "id": "Kapan kita pakai 'any'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We use 'any' in negative sentences and questions.",
+          "id": "Kita pakai 'any' dalam kalimat negatif dan pertanyaan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Make a negative sentence with 'any'.",
+          "id": "Buat kalimat negatif dengan 'any'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There aren't any rugs in the kitchen.",
+          "id": "Tidak ada karpet di dapur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Now ask a question with 'any'.",
+          "id": "Bagus. Sekarang tanyakan satu pertanyaan dengan 'any'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Are there any plants in the garden?",
+          "id": "Apakah ada tanaman di taman?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. When can we use 'some' in a question?",
+          "id": "Bagus. Kapan kita bisa pakai 'some' dalam pertanyaan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "When we offer something, like 'Would you like some tea?'",
+          "id": "Saat kita menawari sesuatu, seperti 'Would you like some tea?'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'There are any chairs in the dining room.'",
+          "id": "Perbaiki ini: 'There are any chairs in the dining room.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'There are some chairs in the dining room.'",
+          "id": "Seharusnya 'There are some chairs in the dining room.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now describe your kitchen using 'some' and 'any'.",
+          "id": "Sempurna. Sekarang deskripsikan dapurmu memakai 'some' dan 'any'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There are some plates on the table. There isn't any milk in the fridge.",
+          "id": "Ada beberapa piring di meja. Tidak ada susu di kulkas."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah belajar 'some' dan 'any' untuk menyebut jumlah yang tidak tentu. Mari kita ingat: 'some' untuk positif, 'any' untuk negatif dan pertanyaan. Pengecualian: 'some' bisa dipakai untuk menawari. Coba saya tanya: kalau mau bilang 'Tidak ada buku', pakai yang mana? Benar, 'any' — 'There aren't any books.' Untuk PR, tulis 10 kalimat mendeskripsikan rumah memakai 'some' dan 'any' (campuran positif, negatif, pertanyaan). Pertemuan berikutnya kita akan menggabungkan semua struktur rumah: there is/are, preposisi, kosakata, urutan deskripsi, dan some/any dalam satu paragraf. Sampai jumpa!",
+      "instructions": "Tegaskan aturan 'some' untuk positif dan 'any' untuk negatif/pertanyaan. Beri PR 10 kalimat. Umumkan topik berikutnya: menggabungkan semua struktur rumah."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "a2-l34",
+  "course_id": "english-a2",
+  "module_title": "Teknologi dan Internet",
+  "level": "A2",
+  "title": "Pola Pertanyaan tentang Teknologi",
+  "subtitle": "Membahas perkembangan teknologi dengan present perfect dan pola used to",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk pertanyaan umum tentang teknologi",
+    "Menggabungkan pertanyaan present perfect dan used to"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang kosakata teknologi? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-34 dengan judul 'Pola Pertanyaan tentang Teknologi'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Saat minta bantuan soal teknologi, bagaimana bertanya dengan jelas? Mari pelajari pola pertanyaannya! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola Pertanyaan tentang Teknologi\n\nUntuk membahas teknologi, kita perlu berbagai pola pertanyaan: dengan present perfect, used to, dan wh-questions.\n\n### 1. Pertanyaan present perfect (pengalaman)\n\n- **Have** you **ever** used a 3D printer?\n- **Has** she **tried** the new app **yet**?\n- **How long have** you **had** your laptop?\n\n### 2. Pertanyaan used to (kebiasaan lampau)\n\n- **Did** you **use to** play video games?\n- **What did** people **use to do** before the internet?\n- **Didn't** they **use to** send letters?\n\n### 3. Wh-questions tentang teknologi\n\n| Wh-word | Contoh |\n|---|---|\n| What | **What** apps do you use? |\n| Which | **Which** phone do you prefer? |\n| How | **How** do you download apps? |\n| Where | **Where** do you store your files? |\n| Why | **Why** do you like this app? |\n| When | **When** did you buy your laptop? |\n\n### 4. Meminta bantuan teknis\n\n- Can you help me **install** this app?\n- How do I **reset** my password?\n- What does this **error** mean?\n- Can you show me how to **download** it?\n\n### 5. Mini-dialogue\n\n> A: **How do** you **download** apps?\n> B: Open the app store, **search** for the app, and tap **install**.\n> A: **Have** you **ever** had a virus on your computer?\n> B: No, I **haven't**. I **always use** antivirus software.\n\n> **Hindari:** \"How you download?\" (salah — *How do you download?*)\n> **Hindari:** \"What apps you use?\" (salah — *What apps do you use?*)\n\n### 6. Tip\n\nJangan lupa **do/does/did** di pertanyaan present simple/past, dan **have/has** di present perfect.",
+      "key_points": [
+        "Pertanyaan present perfect: Have you ever...? / Has she...yet? / How long have you...?",
+        "Pertanyaan used to: Did you use to...? / What did people use to do...?",
+        "Wh-questions: What/Which/How/Where/Why/When + do/does/did + subjek + V1",
+        "Meminta bantuan: Can you help me...? / How do I...? / What does this mean?",
+        "Selalu pakai do/does/did (present/past) atau have/has (present perfect)",
+        "Salah: 'How you download?'; Benar: 'How do you download?'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "technology",
+          "id": "teknologi",
+          "phonetic": "/tekˈnɒlədʒi/",
+          "example_en": "Technology changes fast.",
+          "example_id": "Teknologi berubah cepat."
+        },
+        {
+          "en": "internet",
+          "id": "internet",
+          "phonetic": "/ˈɪntərnet/",
+          "example_en": "I use the internet every day.",
+          "example_id": "Saya menggunakan internet setiap hari."
+        },
+        {
+          "en": "smartphone",
+          "id": "ponsel pintar",
+          "phonetic": "/ˈsmɑːrtfoʊn/",
+          "example_en": "My smartphone is new.",
+          "example_id": "Ponsel pintar saya baru."
+        },
+        {
+          "en": "computer",
+          "id": "komputer",
+          "phonetic": "/kəmˈpjuːtər/",
+          "example_en": "She works on a computer.",
+          "example_id": "Dia bekerja dengan komputer."
+        },
+        {
+          "en": "laptop",
+          "id": "laptop",
+          "phonetic": "/ˈlæptɒp/",
+          "example_en": "I bring my laptop to school.",
+          "example_id": "Saya membawa laptop ke sekolah."
+        },
+        {
+          "en": "tablet",
+          "id": "tablet",
+          "phonetic": "/ˈtæblət/",
+          "example_en": "The tablet is on the desk.",
+          "example_id": "Tabletnya di atas meja."
+        },
+        {
+          "en": "application",
+          "id": "aplikasi",
+          "phonetic": "/ˌæplɪˈkeɪʃn/",
+          "example_en": "I downloaded a new application.",
+          "example_id": "Saya mengunduh aplikasi baru."
+        },
+        {
+          "en": "software",
+          "id": "perangkat lunak",
+          "phonetic": "/ˈsɒftwer/",
+          "example_en": "This software is free.",
+          "example_id": "Perangkat lunak ini gratis."
+        },
+        {
+          "en": "download",
+          "id": "mengunduh",
+          "phonetic": "/ˌdaʊnˈloʊd/",
+          "example_en": "I download music online.",
+          "example_id": "Saya mengunduh musik daring."
+        },
+        {
+          "en": "upload",
+          "id": "mengunggah",
+          "phonetic": "/ˌʌpˈloʊd/",
+          "example_en": "She uploaded a new photo.",
+          "example_id": "Dia mengunggah foto baru."
+        },
+        {
+          "en": "website",
+          "id": "situs web",
+          "phonetic": "/ˈwebsaɪt/",
+          "example_en": "Visit our website for details.",
+          "example_id": "Kunjungi situs web kami untuk detail."
+        },
+        {
+          "en": "email",
+          "id": "surel",
+          "phonetic": "/ˈiːmeɪl/",
+          "example_en": "I will send you an email.",
+          "example_id": "Saya akan mengirim surel kepada Anda."
+        },
+        {
+          "en": "message",
+          "id": "pesan",
+          "phonetic": "/ˈmesɪdʒ/",
+          "example_en": "I got your message.",
+          "example_id": "Saya menerima pesan Anda."
+        },
+        {
+          "en": "social media",
+          "id": "media sosial",
+          "phonetic": "/ˈsoʊʃl ˈmiːdiə/",
+          "example_en": "Many people use social media.",
+          "example_id": "Banyak orang menggunakan media sosial."
+        },
+        {
+          "en": "password",
+          "id": "kata sandi",
+          "phonetic": "/ˈpæswɜːrd/",
+          "example_en": "Keep your password safe.",
+          "example_id": "Jaga kata sandi Anda dengan aman."
+        },
+        {
+          "en": "to update",
+          "id": "memperbarui",
+          "phonetic": "/tuː ʌpˈdeɪt/",
+          "example_en": "Please update your app.",
+          "example_id": "Mohon perbarui aplikasi Anda."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut situasi, murid buat pertanyaan yang sesuai (Have you ever/Did you use to/How do).\n2. Pair work: wawancara teman tentang kebiasaan teknologi dengan 6 pertanyaan berbeda.\n3. Fill-in-the-blank: 10 pertanyaan dengan do/does/did/have/has yang benar.\n4. Error correction: perbaiki 5 pertanyaan (mis. 'How you download?', 'What apps you use?').\n5. Tech support role play: satu murid butuh bantuan, satu jadi 'support' — 5 pertanyaan bantuan.\n\nTugas rumah: Susun 8 pertanyaan tentang teknologi (campuran present perfect, used to, wh-questions), lalu jawab.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you download apps on your phone?",
+          "id": "Bagaimana kamu mengunduh aplikasi di ponselmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I open the app store and tap install.",
+          "id": "Saya buka app store dan ketuk pasang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What apps do you use the most?",
+          "id": "Aplikasi apa yang paling sering kamu pakai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I use social media and a language app.",
+          "id": "Media sosial dan aplikasi bahasa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever had a virus on your computer?",
+          "id": "Pernahkah komputermu kena virus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I haven't. I always use antivirus software.",
+          "id": "Tidak. Saya selalu pakai perangkat lunak antivirus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you use to play video games as a child?",
+          "id": "Dulu kamu bermain video game waktu kecil?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I used to play every weekend.",
+          "id": "Ya, setiap akhir pekan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long have you had your smartphone?",
+          "id": "Sudah berapa lama kamu punya smartphone-mu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have had it for about a year.",
+          "id": "Sekitar setahun."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Can you help me reset my password?",
+          "id": "Bisakah kamu bantu saya atur ulang kata sandi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sure! I'll show you how to do it.",
+          "id": "Tentu! Saya akan tunjukkan caranya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Pola Pertanyaan tentang Teknologi'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Susun 8 pertanyaan tentang teknologi (campuran present perfect, used to, wh-questions), lalu jawab. Pelajaran berikutnya kita akan membahas membangun diskusi teknologi, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

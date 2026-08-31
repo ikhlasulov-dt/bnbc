@@ -1,0 +1,263 @@
+{
+  "id": "a2-l56",
+  "course_id": "english-a2",
+  "module_title": "Festival dan Tradisi",
+  "level": "A2",
+  "title": "Menyusun Recount Festival",
+  "subtitle": "Menulis teks recount festival yang padat dan runtut",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun recount festival dengan urutan waktu yang jelas",
+    "Menggabungkan past simple, used to, dan kosakata festival",
+    "Menulis paragraf recount sederhana tentang pengalaman festival"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita sampai di pelajaran terakhir modul Festival dan Tradisi. Kita sudah belajar past simple, 'used to', time markers, dan kosakata festival. Sekarang waktunya menggabungkan semuanya menjadi recount festival yang lengkap dan menarik. Coba ingat-ingat festival terakhir yang kalian hadiri. Apa yang kalian lakukan pertama, kedua, ketiga? Itulah yang akan kita tulis hari ini. Rencana: kita pelajari struktur recount festival yang baik, lalu berlatih menulis recount sendiri memakai semua pola yang sudah dipelajari.",
+      "instructions": "Sapa murid dan tegaskan ini pelajaran terakhir modul. Minta murid mengingat festival terakhir yang mereka hadiri dan urutan kegiatannya. Jelaskan tujuan: menggabungkan semua pola dalam recount."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Struktur Recount Festival\n\nRecount adalah teks yang **menceritakan kembali kejadian lampau** secara berurutan. Recount festival yang baik memiliki tiga bagian:\n\n### 1. Orientation (Pengenalan)\n\nBerisi informasi: **apa, kapan, di mana, dengan siapa**.\n- Last month, my family and I went to Bali for the Galungan festival.\n\n### 2. Events (Peristiwa)\n\nBerisi urutan kejadian memakai **time markers** dan **past simple**.\n- First, we visited the temple in the morning.\n- Then, we watched a traditional dance performance.\n- After that, we had a big feast with our relatives.\n- Next, the children lit lanterns in the garden.\n- Finally, we watched the fireworks at night.\n\n### 3. Reorientation (Penutup)\n\nBerisi **kesan atau pendapat** tentang festival.\n- It was a wonderful celebration. I felt very happy.\n\n## Contoh Recount Lengkap\n\n**Orientation:** Last year, my family and I went to Bali for the Galungan festival. We stayed at my grandparents' house.\n\n**Events:** First, we visited the temple early in the morning. My grandmother made offerings for the gods. Then, we watched a traditional dance performance in the village square. After that, we had a big feast with our relatives. There was rendang, ketupat, and many traditional cakes. Next, the children lit lanterns in the garden. Finally, we watched the fireworks at night.\n\n**Reorientation:** It was a wonderful celebration. I felt very happy and I want to go again next year.\n\n## Tips Menulis Recount\n\n- Gunakan **past simple** untuk semua kejadian.\n- Gunakan **time markers** untuk urutan (first, then, after that, next, finally).\n- Sertakan **detail sensoris**: apa yang dilihat, didengar, dirasakan.\n- Pakai **kosakata festival**: parade, costume, offering, fireworks, feast.\n- Akhiri dengan **kesan pribadi** di reorientation.\n\n> **Hindari:** melompat-lompat antar peristiwa tanpa time marker. Pembaca akan bingung urutannya.\n\n> **Catatan:** Bila ada tradisi lama yang sudah berubah, kalian bisa selipkan 'used to' di bagian orientation atau reorientation. Contoh: 'My grandmother used to make all the offerings herself.'\n\n## Mini-dialogue\n\nA: How was the festival?\nB: It was wonderful. First, we went to the temple, then we watched the parade.\nA: Did you wear a costume?\nB: Yes, I wore a traditional Balinese costume. Finally, we watched the fireworks.",
+      "key_points": [
+        "Recount festival memiliki tiga bagian: orientation, events, reorientation.",
+        "Orientation berisi informasi: apa, kapan, di mana, dengan siapa.",
+        "Events berisi urutan kejadian memakai past simple dan time markers.",
+        "Reorientation berisi kesan atau pendapat pribadi tentang festival.",
+        "Gunakan time markers: first, then, after that, next, finally.",
+        "Sertakan detail sensoris dan kosakata festival untuk membuat recount hidup.",
+        "Bisa selipkan 'used to' untuk tradisi lama yang sudah berubah."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "festival",
+          "id": "festival",
+          "phonetic": "/ˈfestɪvl/",
+          "example_en": "We went to a big festival last week.",
+          "example_id": "Kami pergi ke festival besar minggu lalu."
+        },
+        {
+          "en": "celebration",
+          "id": "perayaan",
+          "phonetic": "/ˌselɪˈbreɪʃn/",
+          "example_en": "The celebration was very lively.",
+          "example_id": "Perayaannya sangat meriah."
+        },
+        {
+          "en": "tradition",
+          "id": "tradisi",
+          "phonetic": "/trəˈdɪʃn/",
+          "example_en": "This tradition is very old.",
+          "example_id": "Tradisi ini sudah sangat lama."
+        },
+        {
+          "en": "parade",
+          "id": "pawai",
+          "phonetic": "/pəˈreɪd/",
+          "example_en": "The parade started at dawn.",
+          "example_id": "Pawai dimulai saat fajar."
+        },
+        {
+          "en": "fireworks",
+          "id": "kembang api",
+          "phonetic": "/ˈfaɪərwɜːrks/",
+          "example_en": "We watched the fireworks at night.",
+          "example_id": "Kami menonton kembang api pada malam hari."
+        },
+        {
+          "en": "costume",
+          "id": "kostum",
+          "phonetic": "/ˈkɒstuːm/",
+          "example_en": "She wore a traditional costume.",
+          "example_id": "Dia memakai kostum tradisional."
+        },
+        {
+          "en": "ceremony",
+          "id": "upacara",
+          "phonetic": "/ˈserəməni/",
+          "example_en": "The ceremony was held at the temple.",
+          "example_id": "Upacara digelar di pura."
+        },
+        {
+          "en": "offering",
+          "id": "sesajen",
+          "phonetic": "/ˈɒfərɪŋ/",
+          "example_en": "My grandmother made offerings for the gods.",
+          "example_id": "Nenek saya membuat sesajen untuk para dewa."
+        },
+        {
+          "en": "decoration",
+          "id": "hiasan",
+          "phonetic": "/ˌdekəˈreɪʃn/",
+          "example_en": "The decorations were very colorful.",
+          "example_id": "Hiasannya sangat berwarna-warni."
+        },
+        {
+          "en": "performance",
+          "id": "pertunjukan",
+          "phonetic": "/pərˈfɔːrməns/",
+          "example_en": "We watched a dance performance.",
+          "example_id": "Kami menonton pertunjukan tari."
+        },
+        {
+          "en": "drum",
+          "id": "gendang",
+          "phonetic": "/drʌm/",
+          "example_en": "The musicians played traditional drums.",
+          "example_id": "Para musisi memainkan gendang tradisional."
+        },
+        {
+          "en": "lantern",
+          "id": "lentera",
+          "phonetic": "/ˈlæntərn/",
+          "example_en": "We lit lanterns in the garden.",
+          "example_id": "Kami menyalakan lentera di taman."
+        },
+        {
+          "en": "feast",
+          "id": "pesta makan",
+          "phonetic": "/fiːst/",
+          "example_en": "The family had a big feast together.",
+          "example_id": "Keluarga itu mengadakan pesta makan besar bersama."
+        },
+        {
+          "en": "guest",
+          "id": "tamu",
+          "phonetic": "/ɡest/",
+          "example_en": "Many guests came to the celebration.",
+          "example_id": "Banyak tamu datang ke perayaan itu."
+        },
+        {
+          "en": "dance",
+          "id": "tarian",
+          "phonetic": "/dæns/",
+          "example_en": "The traditional dance was beautiful.",
+          "example_id": "Tarian tradisionalnya indah."
+        },
+        {
+          "en": "to celebrate",
+          "id": "merayakan",
+          "phonetic": "/tuː ˈselɪbreɪt/",
+          "example_en": "We celebrate Galungan every year.",
+          "example_id": "Kami merayakan Galungan setiap tahun."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Analisis (4 menit):** Baca recount contoh di papan, identifikasi orientation, events, dan reorientation.\n2) **Fill-in-the-blank (5 menit):** Lengkapi recount dengan time markers dan past simple yang benar.\n3) **Pair work (5 menit):** Ceritakan festival terakhir ke pasangan dalam 5-7 kalimat memakai time markers.\n4) **Writing (4 menit):** Tulis recount pendek (6-8 kalimat) tentang festival terakhir, lengkap dengan orientation, events, reorientation.\n5) **Sharing (2 menit):** 2 murid membacakan recount mereka.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Today we combine everything. What are the three parts of a recount?",
+          "id": "Hari ini kita gabungkan semuanya. Apa tiga bagian recount?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Orientation, events, and reorientation.",
+          "id": "Orientation, events, dan reorientation."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What goes in the orientation?",
+          "id": "Bagus. Apa yang ada di orientation?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Information about what, when, where, and with whom.",
+          "id": "Informasi tentang apa, kapan, di mana, dan dengan siapa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Give me an example.",
+          "id": "Sempurna. Beri saya satu contoh."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Last year, my family and I went to Bali for Galungan.",
+          "id": "Tahun lalu, keluarga saya dan saya pergi ke Bali untuk Galungan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Now use time markers for the events.",
+          "id": "Bagus. Sekarang pakai time marker untuk events."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "First, we visited the temple. Then, we watched the parade. Finally, we had a feast.",
+          "id": "Pertama, kami mengunjungi pura. Lalu, kami menonton pawai. Akhirnya, kami makan bersama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What goes in the reorientation?",
+          "id": "Bagus. Apa yang ada di reorientation?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Our personal feeling or opinion about the festival.",
+          "id": "Perasaan atau pendapat pribadi kita tentang festival."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Give an example.",
+          "id": "Beri satu contoh."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It was a wonderful celebration and I felt very happy.",
+          "id": "Itu perayaan yang luar biasa dan saya merasa sangat bahagia."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now, where can we add 'used to' in a recount?",
+          "id": "Sekarang, di mana kita bisa menambah 'used to' dalam recount?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In the orientation, like 'My grandmother used to make offerings herself.'",
+          "id": "Di orientation, seperti 'My grandmother used to make offerings herself.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! Now write your own recount in 6-8 sentences.",
+          "id": "Bagus! Sekarang tulis recount kalian sendiri dalam 6-8 kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Okay, I'll write about the Independence Day festival in my village.",
+          "id": "Baik, saya akan menulis tentang festival HUT RI di desa saya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kalian sudah menyelesaikan modul Festival dan Tradisi dengan menulis recount lengkap. Mari kita ingat struktur recount: orientation (apa, kapan, di mana), events (urutan kejadian dengan past simple dan time markers), dan reorientation (kesan pribadi). Coba saya tanya: apa fungsi time markers dalam recount? Benar, untuk menunjukkan urutan. Apa yang ada di reorientation? Tepat, kesan atau pendapat. Untuk PR, tulis recount lengkap (8-10 kalimat) tentang festival atau perayaan terakhir yang kalian hadiri, lengkap dengan orientation, events, dan reorientation. Modul berikutnya kita akan masuk topik baru: Rumah dan Perabot, di mana kita belajar mendeskripsikan rumah memakai 'there is/there are'. Sampai jumpa di modul baru!",
+      "instructions": "Tegaskan struktur recount dan apresiasi penyelesaian modul. Beri PR recount lengkap. Umumkan topik modul berikutnya: Rumah dan Perabot."
+    }
+  ]
+}

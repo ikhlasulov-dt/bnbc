@@ -1,0 +1,257 @@
+{
+  "id": "a2-l72",
+  "course_id": "english-a2",
+  "module_title": "Berita dan Peristiwa",
+  "level": "A2",
+  "title": "Pola Have You Heard About...?",
+  "subtitle": "Membuka percakapan tentang berita",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan pola Have you heard about...? untuk membuka percakapan",
+    "Memberi jawaban lazim untuk pertanyaan tersebut",
+    "Memulai percakapan tentang berita dengan natural"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar time markers khas present perfect. Siapa bisa beri satu contoh kalimat dengan 'yet'? Bagus. Hari ini kita lanjutkan dengan pola 'Have you heard about...?' Pola ini sangat berguna untuk memulai percakapan tentang berita atau peristiwa terbaru. Coba pikirkan: kalau kalian mau memberi tahu teman tentang berita gempa, bagaimana memulainya? 'Have you heard about the earthquake?' Itulah yang akan kita pelajari. Rencana: kita pelajari pola dan variasinya, lalu berlatih memulai percakapan tentang berita.",
+      "instructions": "Sapa murid dan minta satu contoh kalimat dengan 'yet'. Ajak murid memikirkan cara memulai percakapan tentang berita. Jelaskan tujuan: belajar 'Have you heard about...?'"
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola 'Have You Heard About...?'\n\n**'Have you heard about...?'** adalah pola yang sangat umum dipakai untuk **memulai percakapan** tentang berita atau peristiwa terbaru. Pola ini memakai present perfect karena berhubungan dengan informasi yang masih relevan.\n\n## Struktur\n\n**Have you heard about + [topik berita]?**\n\n- Have you heard about **the earthquake**?\n- Have you heard about **the election result**?\n- Have you heard about **the new policy**?\n- Have you heard about **the storm**?\n\n## Variasi Pola\n\n| Pola | Arti | Contoh |\n|---|---|---|\n| Have you heard about...? | Apakah kamu sudah dengar tentang...? | Have you heard about the storm? |\n| Did you hear about...? | (informal) Apakah kamu dengar tentang...? | Did you hear about the accident? |\n| Have you read about...? | Apakah kamu sudah baca tentang...? | Have you read about the new policy? |\n| Have you seen the news about...? | Apakah kamu sudah lihat berita tentang...? | Have you seen the news about the election? |\n\n## Respon Umum\n\n- **Ya:** Yes, I have. / Yes, I've heard about it. / Yes, I saw it on the news.\n- **Tidak:** No, I haven't. / No, what happened? / No, tell me about it.\n\n## Contoh Percakapan\n\nA: Have you heard about the earthquake?\nB: No, I haven't. What happened?\nA: A big earthquake has hit the coast. Three people have been injured.\nB: That's terrible! Have they sent rescue teams?\nA: Yes, they have already arrived.\n\n## Tips Memulai Percakapan Berita\n\n- Pakai **'Have you heard about...?'** untuk topik berita.\n- Sebutkan **topik** dengan jelas: the storm, the election, the accident.\n- Bila lawan bicara belum tahu, **jelaskan singkat** dengan present perfect: 'It has hit the coast.'\n- Ajak **reaksi**: 'That's terrible!' / 'That's great!'\n\n> **Hindari:** langsung menceritakan detail tanpa menanyakan dulu. Lebih sopan memulai dengan 'Have you heard about...?'\n\n> **Catatan:** 'about' diikuti kata benda atau frasa: 'about the storm', 'about what happened'. Bisa juga 'of' untuk nama: 'Have you heard of this journalist?'\n\n## Mini-dialogue\n\nA: Have you heard about the new policy?\nB: No, I haven't. What is it about?\nA: The government has announced a new education policy.\nB: Really? Tell me more!",
+      "key_points": [
+        "'Have you heard about...?' untuk memulai percakapan tentang berita.",
+        "Struktur: Have you heard about + topik berita?",
+        "Variasi: Did you hear about...?, Have you read about...?, Have you seen the news about...?",
+        "Respon ya: Yes, I have. / Yes, I saw it on the news.",
+        "Respon tidak: No, I haven't. / No, what happened?",
+        "Pakai present perfect untuk menjelaskan detail: 'It has hit the coast.'",
+        "Hindari langsung menceritakan detail tanpa menanyakan dulu."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "news",
+          "id": "berita",
+          "phonetic": "/nuːz/",
+          "example_en": "I read the news every morning.",
+          "example_id": "Saya membaca berita setiap pagi."
+        },
+        {
+          "en": "report",
+          "id": "laporan",
+          "phonetic": "/rɪˈpɔːrt/",
+          "example_en": "A journalist has written a new report.",
+          "example_id": "Seorang wartawan telah menulis laporan baru."
+        },
+        {
+          "en": "headline",
+          "id": "judul berita",
+          "phonetic": "/ˈhedlaɪn/",
+          "example_en": "The headline was very shocking.",
+          "example_id": "Judul beritanya sangat mengejutkan."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "The journalist has spoken to the public.",
+          "example_id": "Wartawan itu telah berbicara kepada publik."
+        },
+        {
+          "en": "broadcast",
+          "id": "siaran",
+          "phonetic": "/ˈbrɔːdkæst/",
+          "example_en": "The broadcast started at seven.",
+          "example_id": "Siaran dimulai pada pukul tujuh."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "The president gave an interview.",
+          "example_id": "Presiden memberikan wawancara."
+        },
+        {
+          "en": "article",
+          "id": "artikel",
+          "phonetic": "/ˈɑːrtɪkl/",
+          "example_en": "She has written an article about the storm.",
+          "example_id": "Dia telah menulis artikel tentang badai itu."
+        },
+        {
+          "en": "channel",
+          "id": "saluran",
+          "phonetic": "/ˈtʃænl/",
+          "example_en": "Change the channel, please.",
+          "example_id": "Ganti salurannya, tolong."
+        },
+        {
+          "en": "election",
+          "id": "pemilihan",
+          "phonetic": "/ɪˈlekʃn/",
+          "example_en": "The election result has been announced.",
+          "example_id": "Hasil pemilihan telah diumumkan."
+        },
+        {
+          "en": "policy",
+          "id": "kebijakan",
+          "phonetic": "/ˈpɒlɪsi/",
+          "example_en": "The government has announced a new policy.",
+          "example_id": "Pemerintah telah mengumumkan kebijakan baru."
+        },
+        {
+          "en": "storm",
+          "id": "badai",
+          "phonetic": "/stɔːrm/",
+          "example_en": "The storm has destroyed many houses.",
+          "example_id": "Badai telah menghancurkan banyak rumah."
+        },
+        {
+          "en": "earthquake",
+          "id": "gempa bumi",
+          "phonetic": "/ˈɜːrθkweɪk/",
+          "example_en": "Three earthquakes have hit the region this month.",
+          "example_id": "Tiga gempa bumi telah melanda wilayah itu bulan ini."
+        },
+        {
+          "en": "accident",
+          "id": "kecelakaan",
+          "phonetic": "/ˈæksɪdənt/",
+          "example_en": "Three people were injured in the accident.",
+          "example_id": "Tiga orang terluka dalam kecelakaan itu."
+        },
+        {
+          "en": "victim",
+          "id": "korban",
+          "phonetic": "/ˈvɪktɪm/",
+          "example_en": "They haven't found all the victims yet.",
+          "example_id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "en": "rescue",
+          "id": "penyelamatan",
+          "phonetic": "/ˈreskjuː/",
+          "example_en": "Rescue teams have arrived in the area.",
+          "example_id": "Tim penyelamat telah tiba di daerah itu."
+        },
+        {
+          "en": "to announce",
+          "id": "mengumumkan",
+          "phonetic": "/tuː əˈnaʊns/",
+          "example_en": "The government has announced the result.",
+          "example_id": "Pemerintah telah mengumumkan hasilnya."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut topik berita, murid buat kalimat 'Have you heard about...?'\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 percakapan singkat dengan pola yang tepat.\n3) **Pair work (5 menit):** Mulai percakapan tentang berita terbaru memakai 'Have you heard about...?'\n4) **Role play (4 menit):** Dua murid memeragakan teman yang berbagi berita terbaru.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'Have you heard of the storm?' -> 'Have you heard about the storm?').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you heard about the earthquake?",
+          "id": "Apakah kamu sudah mendengar tentang gempa itu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I haven't. What happened?",
+          "id": "Tidak. Apa yang terjadi?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "A big earthquake has hit the coast. Three people have been injured.",
+          "id": "Gempa besar telah melanda pantai. Tiga orang terluka."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's terrible! Have they sent rescue teams?",
+          "id": "Mengerikan! Apakah mereka sudah mengirim tim penyelamat?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, they have already arrived.",
+          "id": "Ya, mereka sudah tiba."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Now start a conversation with 'Have you heard about...?'",
+          "id": "Bagus. Sekarang mulai percakapan dengan 'Have you heard about...?'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Have you heard about the new policy?",
+          "id": "Apakah kamu sudah mendengar tentang kebijakan baru?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "No, I haven't. What is it about?",
+          "id": "Tidak. Tentang apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The government has announced a new education policy.",
+          "id": "Pemerintah telah mengumumkan kebijakan pendidikan baru."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Give another way to ask about news.",
+          "id": "Bagus. Beri cara lain untuk bertanya tentang berita."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Did you hear about the accident?",
+          "id": "Apakah kamu dengar tentang kecelakaan itu?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What's the difference between 'about' and 'of'?",
+          "id": "Bagus. Apa bedanya 'about' dan 'of'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'About' for topics, 'of' for names like people.",
+          "id": "'About' untuk topik, 'of' untuk nama seperti orang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: start a conversation about a storm.",
+          "id": "Sempurna. Terakhir: mulai percakapan tentang badai."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Have you heard about the storm? It has destroyed many houses.",
+          "id": "Apakah kamu sudah mendengar tentang badai itu? Badai telah menghancurkan banyak rumah."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar pola 'Have you heard about...?' untuk memulai percakapan tentang berita. Mari kita ingat: pakai 'about' untuk topik, 'of' untuk nama. Coba saya tanya: bagaimana cara memulai percakapan tentang gempa? Benar, 'Have you heard about the earthquake?' Untuk PR, tulis 4 percakapan singkat (masing-masing 4-6 baris) memakai pola 'Have you heard about...?' tentang berita berbeda. Pertemuan berikutnya kita akan belajar passive voice yang sering muncul di headline berita. Sampai jumpa!",
+      "instructions": "Tegaskan pola dan variasinya. Berikan 1-2 pertanyaan pemahaman. Beri PR 4 percakapan singkat dan umumkan topik passive voice."
+    }
+  ]
+}

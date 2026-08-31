@@ -1,0 +1,252 @@
+{
+  "id": "a2-l51",
+  "course_id": "english-a2",
+  "module_title": "Festival dan Tradisi",
+  "level": "A2",
+  "title": "Past Simple untuk Recount Festival",
+  "subtitle": "Menceritakan festival dengan kata kerja regular dan irregular",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengenali bentuk past simple regular dan irregular",
+    "Membentuk kalimat positif, negatif, dan pertanyaan dalam past simple",
+    "Menceritakan pengalaman festival secara singkat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, semuanya! Hari ini kita memulai modul baru yang sangat seru, yaitu Festival dan Tradisi. Modul ini akan mengajak kalian menceritakan berbagai festival dan perayaan yang pernah kalian ikuti. Sebelum mulai, mari kita ingat sebentar pelajaran kemarin tentang present continuous. Siapa bisa beri satu contoh kalimat present continuous? Bagus. Hari ini kita beralih ke past simple, pola yang dipakai untuk menceritakan kejadian lampau yang sudah selesai. Coba ingat-ingat, festival apa yang kamu hadiri tahun lalu? Apa yang kamu lakukan di sana? Itulah yang akan kita pelajari. Rencana hari ini: kita pelajari bentuk past simple regular dan irregular, lalu berlatih menceritakan festival.",
+      "instructions": "Sapa murid dengan hangat dan tegaskan bahwa ini awal modul baru. Tanyakan satu contoh kalimat present continuous sebagai pengulangan singkat. Catat 2-3 jawaban murid tentang festival yang pernah mereka hadiri di papan tulis untuk dipakai sebagai contoh nanti."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu Past Simple?\n\nPast simple adalah bentuk kata kerja untuk menyatakan kejadian yang **selesai pada waktu lampau**. Dalam teks recount festival, kita memakai past simple untuk menceritakan apa yang terjadi, apa yang kita lakukan, dan apa yang kita lihat saat festival berlangsung.\n\nContoh:\n- We **went** to Bali for Galungan last month.\n- The parade **started** at dawn.\n- I **wore** a traditional costume.\n\n## Kata Kerja Regular dan Irregular\n\nKata kerja regular membentuk past simple dengan menambahkan **-ed** pada bentuk dasar. Kata kerja irregular memiliki bentuk khusus yang wajib dihafal.\n\n| Bentuk dasar | Past simple | Jenis | Arti |\n|---|---|---|---|\n| celebrate | celebrated | regular | merayakan |\n| decorate | decorated | regular | menghias |\n| perform | performed | regular | tampil |\n| watch | watched | regular | menonton |\n| go | went | irregular | pergi |\n| come | came | irregular | datang |\n| wear | wore | irregular | memakai |\n| eat | ate | irregular | makan |\n| give | gave | irregular | memberi |\n| make | made | irregular | membuat |\n| see | saw | irregular | melihat |\n| buy | bought | irregular | membeli |\n\n## Bentuk Positif, Negatif, dan Pertanyaan\n\n- **Positif:** subjek + past simple\n  - We **celebrated** Galungan at the temple.\n  - She **wore** a beautiful costume.\n- **Negatif:** subjek + did not (didn't) + bentuk dasar\n  - We **didn't watch** the parade.\n  - He **didn't come** to the ceremony.\n- **Pertanyaan:** Did + subjek + bentuk dasar\n  - **Did you wear** a traditional costume?\n  - **Did they make** offerings?\n\n> **Hindari:** menambahkan -ed pada kata kerja irregular. Salah: 'I weared a costume.' Benar: 'I wore a costume.' Salah: 'He goed to the festival.' Benar: 'He went to the festival.'\n\n## Mini-dialogue\n\nA: What did you do at the festival?\nB: I watched the dance performance and ate a lot of food.\nA: Did you wear a costume?\nB: Yes, I wore a traditional Balinese costume.\n\n> **Catatan:** Dalam negatif dan pertanyaan, kata kerja utama kembali ke bentuk dasar karena 'did' sudah menunjukkan waktu lampau. Jangan tulis 'Did you went?' (salah) tapi 'Did you go?' (benar).",
+      "key_points": [
+        "Past simple menyatakan kejadian yang selesai pada waktu lampau.",
+        "Kata kerja regular berakhiran -ed: celebrated, decorated, performed, watched.",
+        "Kata kerja irregular wajib dihafal: went, came, wore, ate, gave, made, saw, bought.",
+        "Bentuk negatif memakai didn't + bentuk dasar, bukan bentuk past.",
+        "Bentuk pertanyaan memakai Did + subjek + bentuk dasar.",
+        "Hindari menambah -ed pada kata kerja irregular (weared, goed adalah salah).",
+        "Dalam negatif dan pertanyaan, kata kerja utama kembali ke bentuk dasar.",
+        "Time markers khas past simple: yesterday, last week, last month, in 2019."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "festival",
+          "id": "festival",
+          "phonetic": "/ˈfestɪvl/",
+          "example_en": "We went to a big festival last week.",
+          "example_id": "Kami pergi ke festival besar minggu lalu."
+        },
+        {
+          "en": "celebration",
+          "id": "perayaan",
+          "phonetic": "/ˌselɪˈbreɪʃn/",
+          "example_en": "The celebration was very lively.",
+          "example_id": "Perayaannya sangat meriah."
+        },
+        {
+          "en": "tradition",
+          "id": "tradisi",
+          "phonetic": "/trəˈdɪʃn/",
+          "example_en": "This tradition is very old.",
+          "example_id": "Tradisi ini sudah sangat lama."
+        },
+        {
+          "en": "parade",
+          "id": "pawai",
+          "phonetic": "/pəˈreɪd/",
+          "example_en": "The parade started at dawn.",
+          "example_id": "Pawai dimulai saat fajar."
+        },
+        {
+          "en": "fireworks",
+          "id": "kembang api",
+          "phonetic": "/ˈfaɪərwɜːrks/",
+          "example_en": "We watched the fireworks at night.",
+          "example_id": "Kami menonton kembang api pada malam hari."
+        },
+        {
+          "en": "costume",
+          "id": "kostum",
+          "phonetic": "/ˈkɒstuːm/",
+          "example_en": "She wore a traditional costume.",
+          "example_id": "Dia memakai kostum tradisional."
+        },
+        {
+          "en": "ceremony",
+          "id": "upacara",
+          "phonetic": "/ˈserəməni/",
+          "example_en": "The ceremony was held at the temple.",
+          "example_id": "Upacara digelar di pura."
+        },
+        {
+          "en": "offering",
+          "id": "sesajen",
+          "phonetic": "/ˈɒfərɪŋ/",
+          "example_en": "My grandmother made offerings for the gods.",
+          "example_id": "Nenek saya membuat sesajen untuk para dewa."
+        },
+        {
+          "en": "decoration",
+          "id": "hiasan",
+          "phonetic": "/ˌdekəˈreɪʃn/",
+          "example_en": "The decorations were very colorful.",
+          "example_id": "Hiasannya sangat berwarna-warni."
+        },
+        {
+          "en": "performance",
+          "id": "pertunjukan",
+          "phonetic": "/pərˈfɔːrməns/",
+          "example_en": "We watched a dance performance.",
+          "example_id": "Kami menonton pertunjukan tari."
+        },
+        {
+          "en": "drum",
+          "id": "gendang",
+          "phonetic": "/drʌm/",
+          "example_en": "The musicians played traditional drums.",
+          "example_id": "Para musisi memainkan gendang tradisional."
+        },
+        {
+          "en": "lantern",
+          "id": "lentera",
+          "phonetic": "/ˈlæntərn/",
+          "example_en": "We lit lanterns in the garden.",
+          "example_id": "Kami menyalakan lentera di taman."
+        },
+        {
+          "en": "feast",
+          "id": "pesta makan",
+          "phonetic": "/fiːst/",
+          "example_en": "The family had a big feast together.",
+          "example_id": "Keluarga itu mengadakan pesta makan besar bersama."
+        },
+        {
+          "en": "guest",
+          "id": "tamu",
+          "phonetic": "/ɡest/",
+          "example_en": "Many guests came to the celebration.",
+          "example_id": "Banyak tamu datang ke perayaan itu."
+        },
+        {
+          "en": "dance",
+          "id": "tarian",
+          "phonetic": "/dæns/",
+          "example_en": "The traditional dance was beautiful.",
+          "example_id": "Tarian tradisionalnya indah."
+        },
+        {
+          "en": "to celebrate",
+          "id": "merayakan",
+          "phonetic": "/tuː ˈselɪbreɪt/",
+          "example_en": "We celebrate Galungan every year.",
+          "example_id": "Kami merayakan Galungan setiap tahun."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Sebutkan bentuk past simple dari 10 kata kerja yang ditulis guru di papan (go, watch, celebrate, wear, eat, make, come, see, buy, perform). Murid menjawab serentak.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 6 kalimat dengan past simple yang benar (lihat lembar kerja di papan).\n3) **Pair work (5 menit):** Dalam pasangan, tanyakan dan jawab menggunakan 'Did you...?' tentang festival terakhir yang pernah dihadiri.\n4) **Role play (3 menit):** Dua murid memeragakan dialog singkat sebagai penonton festival dan pewawancara.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah di papan (mis. 'I weared a costume' -> 'I wore a costume').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the past simple of 'go'?",
+          "id": "Apa bentuk past simple dari 'go'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is 'went'.",
+          "id": "Yaitu 'went'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Now make a sentence about a festival using 'went'.",
+          "id": "Bagus. Sekarang buat satu kalimat tentang festival menggunakan 'went'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We went to Bali for the Galungan festival last month.",
+          "id": "Kami pergi ke Bali untuk festival Galungan bulan lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What is the past simple of 'wear'?",
+          "id": "Bagus sekali. Apa past simple dari 'wear'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is 'wore'.",
+          "id": "Yaitu 'wore'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you wear a traditional costume there?",
+          "id": "Apakah kamu memakai kostum tradisional di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I wore a white kebaya.",
+          "id": "Ya, saya memakai kebaya putih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now, change this into a negative: 'We watched the parade.'",
+          "id": "Sekarang, ubah ini jadi negatif: 'We watched the parade.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We didn't watch the parade.",
+          "id": "Kami tidak menonton pawai itu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! Make a question: 'Did you eat traditional food?'",
+          "id": "Bagus! Buat pertanyaan: 'Did you eat traditional food?'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I ate rendang and ketupat.",
+          "id": "Ya, saya makan rendang dan ketupat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last one: correct this sentence — 'He goed to the ceremony.'",
+          "id": "Sempurna. Terakhir: perbaiki kalimat ini — 'He goed to the ceremony.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'He went to the ceremony.'",
+          "id": "Seharusnya 'He went to the ceremony.'"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kalian sudah belajar bentuk past simple untuk menceritakan festival. Mari kita ingat: kata kerja regular berakhiran -ed, sedangkan irregular harus dihafal. Negatif memakai didn't + bentuk dasar, dan pertanyaan memakai Did + subjek + bentuk dasar. Coba saya tanya: apa past simple dari 'wear'? Benar, 'wore'. Apa bentuk negatif dari 'I went to the festival'? Tepat, 'I didn't go to the festival.' Untuk PR di rumah, tulis 5 kalimat past simple tentang festival terakhir yang kamu hadiri: 3 positif, 1 negatif, dan 1 pertanyaan. Pertemuan berikutnya kita akan pelajari pola 'used to' untuk tradisi lama yang sudah berubah. Sampai jumpa!",
+      "instructions": "Tegaskan kembali perbedaan regular dan irregular. Tanyakan 1-2 pertanyaan pemahaman secara lisan. Beri PR tertulis dan ingatkan topik pelajaran berikutnya."
+    }
+  ]
+}

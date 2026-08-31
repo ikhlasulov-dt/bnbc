@@ -1,0 +1,237 @@
+{
+  "id": "a2-l50",
+  "course_id": "english-a2",
+  "module_title": "Olahraga",
+  "level": "A2",
+  "title": "Tips Mengingat: Pendek vs Panjang",
+  "subtitle": "Membandingkan olahraga dengan comparatives dan superlatives",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan kata sifat pendek dan panjang",
+    "Menguasai pengecualian kata berakhiran -y"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang diskusi olahraga? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-50 dengan judul 'Tips Mengingat: Pendek vs Panjang'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Pelajaran terakhir modul Olahraga! Mari rangkum tips mengingat comparative/superlative untuk adjektiva pendek vs panjang. Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Tips Mengingat: Pendek vs Panjang\n\nAturan comparative/superlative bergantung pada **panjang adjektiva**. Berikut rangkuman + tips mengingat.\n\n### 1. Tabel rangkuman\n\n| Jenis | Comparative | Superlative | Contoh |\n|---|---|---|---|\n| 1 suku (pendek) | adj + -er | the + adj + -est | fast → faster → the fastest |\n| 2 suku berakhir -y | y → ier | y → iest | easy → easier → the easiest |\n| 2+ suku (panjang) | more + adj | the most + adj | popular → more popular → the most popular |\n| -ful / -ous / -ive | more + adj | the most + adj | careful → more careful → the most careful |\n\n### 2. Irregular (wajib dihafal)\n\n| Positif | Comparative | Superlative |\n|---|---|---|\n| good | better | the best |\n| bad | worse | the worst |\n| far | farther/further | the farthest/furthest |\n| much/many | more | the most |\n| little | less | the least |\n\n### 3. Ejaan khusus 1 suku\n\n| Aturan | Contoh |\n|---|---|\n| 1 suku + vokal + konsonan → gandakan | big → bigger → the biggest; hot → hotter |\n| berakhir -e → +r / +st | nice → nicer → the nicest |\n| berakhir -y setelah konsonan → y → i | happy → happier → the happiest |\n\n### 4. Contoh olahraga lengkap\n\n| Adjektiva | Comparative | Superlative | Kalimat |\n|---|---|---|---|\n| fast | faster | the fastest | He is the fastest runner. |\n| popular | more popular | the most popular | Football is the most popular. |\n| good | better | the best | She is the best player. |\n| exciting | more exciting | the most exciting | This was the most exciting match. |\n| easy | easier | the easiest | Badminton is easier than tennis. |\n\n### 5. Mini-dialogue\n\n> A: Is tennis **more difficult** than badminton?\n> B: Yes, but badminton is **the fastest** racket sport.\n> A: Who is **the best** athlete in the world?\n> B: That's hard! Many are **equally** great.\n\n### 6. Tips mengingat\n\n1. **Pendek → -er/-est**: fast, slow, big, hot, nice.\n2. **Panjang → more/most**: popular, exciting, difficult, careful.\n3. **-y → ier/iest**: easy, happy, busy, heavy.\n4. **Irregular hafal**: good/better/best, bad/worse/worst.\n5. **Cek ejaan**: gandakan konsonan (big→bigger), buang -e (nice→nicer).\n\n> **Hindari:** \"more faster\", \"the most fastest\" (jangan dobel).\n> **Hindari:** \"popularer\", \"easiers\" (salah ejaan/polaa).\n\n### 7. Tip akhir\n\nJika ragu, ucapkan dengan **more/most** — itu selalu aman untuk adjektiva panjang. Untuk adjektiva pendek umum (fast, big, good), hafalkan bentuk -er/-est dan irregular.",
+      "key_points": [
+        "Pendek (1 suku): -er/-est (fast→faster→the fastest)",
+        "Panjang (2+ suku): more/most (popular→more popular→the most popular)",
+        "2 suku -y: y→ier/iest (easy→easier→the easiest)",
+        "Irregular: good→better→the best; bad→worse→the worst; far→farther→the farthest",
+        "Ejaan: gandakan konsonan (big→bigger), buang -e (nice→nicer)",
+        "Jangan dobel: 'more faster', 'the most fastest' salah"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "sport",
+          "id": "olahraga",
+          "phonetic": "/spɔːrt/",
+          "example_en": "What is your favorite sport?",
+          "example_id": "Apa olahraga kesukaanmu?"
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "Football is very popular.",
+          "example_id": "Sepak bola sangat populer."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He plays basketball every week.",
+          "example_id": "Dia bermain bola basket setiap minggu."
+        },
+        {
+          "en": "volleyball",
+          "id": "bola voli",
+          "phonetic": "/ˈvɒlibɔːl/",
+          "example_en": "Volleyball is fun to play.",
+          "example_id": "Bola voli menyenangkan untuk dimainkan."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular in Indonesia.",
+          "example_id": "Bulu tangkis populer di Indonesia."
+        },
+        {
+          "en": "tennis",
+          "id": "tenis",
+          "phonetic": "/ˈtenɪs/",
+          "example_en": "She plays tennis on Sunday.",
+          "example_id": "Dia bermain tenis pada hari Minggu."
+        },
+        {
+          "en": "swimming",
+          "id": "renang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is good for health.",
+          "example_id": "Berenang baik untuk kesehatan."
+        },
+        {
+          "en": "athlete",
+          "id": "atlet",
+          "phonetic": "/ˈæθliːt/",
+          "example_en": "She is a great athlete.",
+          "example_id": "Dia atlet yang hebat."
+        },
+        {
+          "en": "team",
+          "id": "tim",
+          "phonetic": "/tiːm/",
+          "example_en": "Our team won the match.",
+          "example_id": "Tim kami memenangkan pertandingan."
+        },
+        {
+          "en": "coach",
+          "id": "pelatih",
+          "phonetic": "/koʊtʃ/",
+          "example_en": "The coach is very strict.",
+          "example_id": "Pelatihnya sangat tegas."
+        },
+        {
+          "en": "referee",
+          "id": "wasit",
+          "phonetic": "/ˌrefəˈriː/",
+          "example_en": "The referee blew the whistle.",
+          "example_id": "Wasit meniup peluit."
+        },
+        {
+          "en": "stadium",
+          "id": "stadion",
+          "phonetic": "/ˈsteɪdiəm/",
+          "example_en": "The stadium was full of fans.",
+          "example_id": "Stadion penuh dengan penggemar."
+        },
+        {
+          "en": "match",
+          "id": "pertandingan",
+          "phonetic": "/mætʃ/",
+          "example_en": "We watched an exciting match.",
+          "example_id": "Kami menonton pertandingan yang mendebarkan."
+        },
+        {
+          "en": "champion",
+          "id": "juara",
+          "phonetic": "/ˈtʃæmpiən/",
+          "example_en": "She is the world champion.",
+          "example_id": "Dia juara dunia."
+        },
+        {
+          "en": "to win",
+          "id": "menang",
+          "phonetic": "/tuː wɪn/",
+          "example_en": "Our team won the game.",
+          "example_id": "Tim kami memenangkan permainan."
+        },
+        {
+          "en": "score",
+          "id": "skor",
+          "phonetic": "/skɔːr/",
+          "example_en": "The final score was 2-1.",
+          "example_id": "Skor akhirnya 2-1."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut adjektiva, murid jawab comparative + superlative (fast, popular, easy, good, big).\n2. Pair work: buat 8 kalimat perbandingan olahraga dengan berbagai jenis adjektiva.\n3. Fill-in-the-blank: 12 kalimat dengan comparative/superlative yang benar (campuran pendek/panjang/irregular).\n4. Error correction: perbaiki 6 kalimat (mis. 'more faster', 'popularer', 'goodest').\n5. Final review: tiap murid buat tabel '5 adjektiva + comparative + superlative + kalimat olahraga'.\n\nTugas rumah: Buat tabel 10 adjektiva (pendek, panjang, irregular) lengkap dengan comparative, superlative, dan 1 kalimat olahraga untuk masing-masing.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is tennis more difficult than badminton?",
+          "id": "Apakah tenis lebih sulit dari bulu tangkis?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I think tennis is more difficult.",
+          "id": "Ya, saya rasa tenis lebih sulit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "But which is the fastest racket sport?",
+          "id": "Tapi mana olahraga raket tercepat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Badminton is the fastest racket sport.",
+          "id": "Bulu tangkis paling cepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is the best athlete in the world?",
+          "id": "Siapa atlet terbaik di dunia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's hard! Many are equally great.",
+          "id": "Sulit! Banyak yang sama hebatnya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is this the most exciting season?",
+          "id": "Apakah ini musim paling mendebarkan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it's by far the most exciting.",
+          "id": "Ya, jauh paling mendebarkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is football more popular than basketball here?",
+          "id": "Apakah sepak bola lebih populer dari basket di sini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, much more popular.",
+          "id": "Ya, jauh lebih populer."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Was this the best module for you?",
+          "id": "Apakah ini modul terbaik untukmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes! I learned a lot about comparing sports.",
+          "id": "Ya! Saya belajar banyak tentang membandingkan olahraga."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Tips Mengingat: Pendek vs Panjang'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Buat tabel 10 adjektiva (pendek, panjang, irregular) lengkap dengan comparative, superlative, dan 1 kalimat olahraga untuk masing-masing. Pelajaran berikutnya kita akan membahas selesai — modul A2 lengkap; siap melanjutkan ke level B1, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "a2-l48",
+  "course_id": "english-a2",
+  "module_title": "Olahraga",
+  "level": "A2",
+  "title": "Modifiers untuk Penguatan",
+  "subtitle": "Membandingkan olahraga dengan comparatives dan superlatives",
+  "duration_minutes": 60,
+  "objectives": [
+    "Memperkuat comparative dengan much dan a lot",
+    "Menggunakan 'one of the' untuk superlative"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang pola kalimat perbandingan? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-48 dengan judul 'Modifiers untuk Penguatan'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Kadang kita mau kuatkan: 'jauh lebih cepat', 'sedikit lebih baik'. Bagaimana dalam bahasa Inggris? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Modifiers untuk Penguatan\n\n**Modifiers** adalah kata yang memperkuat atau melemahkan comparative/superlative: *much, a lot, a bit, a little, far*.\n\n### 1. Penguat comparative\n\n| Modifier | Arti | Contoh |\n|---|---|---|\n| much | jauh | much faster |\n| a lot | jauh | a lot more popular |\n| far | jauh | far better |\n| a bit | sedikit | a bit easier |\n| a little | sedikit | a little slower |\n| slightly | sedikit | slightly more difficult |\n\n### 2. Contoh olahraga\n\n- He is **much faster** than the other runners.\n- Football is **a lot more popular** than golf here.\n- This match is **far better** than the last one.\n- Tennis is **a bit more difficult** than badminton.\n\n### 3. Penguat superlative\n\n- **by far** the best — jauh yang terbaik\n- **easily** the fastest — dengan mudah tercepat\n- **one of the** best — salah satu yang terbaik\n\nContoh:\n- He is **by far** the best player on the team.\n- She is **easily** the fastest swimmer.\n- This is **one of the most exciting** matches.\n\n### 4. Penguat positif (bukan comparative)\n\n- **very** fast — sangat cepat\n- **really** good — benar-benar bagus\n- **too** slow — terlalu lambat\n- **quite** difficult — agak sulit\n\n> **Hindari:** \"very faster\" (salah — *much faster* atau *a lot faster*)\n> **Hindari:** \"very the best\" (salah — *easily the best* atau *by far the best*)\n\n### 5. Mini-dialogue\n\n> A: Is he **much faster** than the others?\n> B: Yes, he's **by far** the fastest.\n> A: Is this match **a lot better**?\n> B: Yes, it's **easily** the best of the season.\n\n### 6. Tip\n\nUntuk comparative: pakai **much/a lot/far/a bit**. Untuk superlative: pakai **by far/easily/one of the**. **Very** TIDAK untuk comparative/superlative.",
+      "key_points": [
+        "Penguat comparative: much, a lot, far, a bit, a little, slightly",
+        "much faster, a lot more popular, a bit easier, far better",
+        "Penguat superlative: by far, easily, one of the",
+        "by far the best, easily the fastest, one of the most exciting",
+        "Penguat positif: very, really, too, quite (bukan untuk comparative)",
+        "Salah: 'very faster'; Benar: 'much faster'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "sport",
+          "id": "olahraga",
+          "phonetic": "/spɔːrt/",
+          "example_en": "What is your favorite sport?",
+          "example_id": "Apa olahraga kesukaanmu?"
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "Football is very popular.",
+          "example_id": "Sepak bola sangat populer."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He plays basketball every week.",
+          "example_id": "Dia bermain bola basket setiap minggu."
+        },
+        {
+          "en": "volleyball",
+          "id": "bola voli",
+          "phonetic": "/ˈvɒlibɔːl/",
+          "example_en": "Volleyball is fun to play.",
+          "example_id": "Bola voli menyenangkan untuk dimainkan."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular in Indonesia.",
+          "example_id": "Bulu tangkis populer di Indonesia."
+        },
+        {
+          "en": "tennis",
+          "id": "tenis",
+          "phonetic": "/ˈtenɪs/",
+          "example_en": "She plays tennis on Sunday.",
+          "example_id": "Dia bermain tenis pada hari Minggu."
+        },
+        {
+          "en": "swimming",
+          "id": "renang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is good for health.",
+          "example_id": "Berenang baik untuk kesehatan."
+        },
+        {
+          "en": "athlete",
+          "id": "atlet",
+          "phonetic": "/ˈæθliːt/",
+          "example_en": "She is a great athlete.",
+          "example_id": "Dia atlet yang hebat."
+        },
+        {
+          "en": "team",
+          "id": "tim",
+          "phonetic": "/tiːm/",
+          "example_en": "Our team won the match.",
+          "example_id": "Tim kami memenangkan pertandingan."
+        },
+        {
+          "en": "coach",
+          "id": "pelatih",
+          "phonetic": "/koʊtʃ/",
+          "example_en": "The coach is very strict.",
+          "example_id": "Pelatihnya sangat tegas."
+        },
+        {
+          "en": "referee",
+          "id": "wasit",
+          "phonetic": "/ˌrefəˈriː/",
+          "example_en": "The referee blew the whistle.",
+          "example_id": "Wasit meniup peluit."
+        },
+        {
+          "en": "stadium",
+          "id": "stadion",
+          "phonetic": "/ˈsteɪdiəm/",
+          "example_en": "The stadium was full of fans.",
+          "example_id": "Stadion penuh dengan penggemar."
+        },
+        {
+          "en": "match",
+          "id": "pertandingan",
+          "phonetic": "/mætʃ/",
+          "example_en": "We watched an exciting match.",
+          "example_id": "Kami menonton pertandingan yang mendebarkan."
+        },
+        {
+          "en": "champion",
+          "id": "juara",
+          "phonetic": "/ˈtʃæmpiən/",
+          "example_en": "She is the world champion.",
+          "example_id": "Dia juara dunia."
+        },
+        {
+          "en": "to win",
+          "id": "menang",
+          "phonetic": "/tuː wɪn/",
+          "example_en": "Our team won the game.",
+          "example_id": "Tim kami memenangkan permainan."
+        },
+        {
+          "en": "score",
+          "id": "skor",
+          "phonetic": "/skɔːr/",
+          "example_en": "The final score was 2-1.",
+          "example_id": "Skor akhirnya 2-1."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut comparative, murid tambahkan modifier (much/a bit/by far).\n2. Pair work: kuatkan 6 kalimat perbandingan olahraga dengan modifier yang tepat.\n3. Fill-in-the-blank: 10 kalimat dengan modifier (much, a lot, far, a bit, by far, easily).\n4. Error correction: perbaiki 5 kalimat (mis. 'very faster', 'very the best').\n5. Sentence upgrade: ambil 5 kalimat comparative biasa, kuatkan dengan modifier.\n\nTugas rumah: Tulis 6 kalimat comparative/superlative olahraga dengan modifier penguat (much, by far, a bit, dll).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is he much faster than the other runners?",
+          "id": "Apakah dia jauh lebih cepat dari pelari lain?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, he's by far the fastest.",
+          "id": "Ya, jauh tercepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is football a lot more popular than golf?",
+          "id": "Apakah sepak bola jauh lebih populer dari golf?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, much more popular here.",
+          "id": "Ya, jauh lebih populer di sini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is this match far better than the last?",
+          "id": "Apakah pertandingan ini jauh lebih baik dari sebelumnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it's easily the best of the season.",
+          "id": "Ya, dengan mudah terbaik musim ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is tennis a bit more difficult than badminton?",
+          "id": "Apakah tenis sedikit lebih sulit dari bulu tangkis?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, slightly more difficult for beginners.",
+          "id": "Ya, sedikit lebih sulit untuk pemula."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is she one of the best swimmers?",
+          "id": "Apakah dia salah satu perenang terbaik?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, she's one of the most talented.",
+          "id": "Ya, salah satu yang paling berbakat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is this game very exciting?",
+          "id": "Apakah pertandingan ini sangat mendebarkan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it's really exciting!",
+          "id": "Ya, benar-benar mendebarkan!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Modifiers untuk Penguatan'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat comparative/superlative olahraga dengan modifier penguat (much, by far, a bit, dll). Pelajaran berikutnya kita akan membahas membangun diskusi olahraga, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": "a2-l77",
+  "course_id": "english-a2",
+  "module_title": "Persahabatan",
+  "level": "A2",
+  "title": "Used to untuk Perubahan dalam Persahabatan",
+  "subtitle": "Membandingkan teman dulu dan sekarang",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan used to untuk menceritakan perubahan dalam persahabatan",
+    "Membentuk kalimat negatif dan pertanyaan dengan used to",
+    "Membandingkan kebiasaan teman masa lampau dan sekarang"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar adjektiva kepribadian. Siapa bisa deskripsikan sahabatnya dengan dua adjektiva? Bagus. Hari ini kita belajar 'used to' untuk menceritakan perubahan dalam persahabatan. Kita sudah pernah belajar 'used to' di modul festival, kan? Sekarang kita terapkan ke persahabatan. Coba pikirkan: dulu teman kalian pemalu, sekarang supel? Atau dulu kalian sering bermain bersama, sekarang jarang? Itulah yang akan kita pelajari. Rencana: kita ulas 'used to', lalu berlatih menceritakan perubahan dalam persahabatan.",
+      "instructions": "Sapa murid dan minta deskripsi sahabat dengan dua adjektiva kemarin. Ajak murid memikirkan perubahan dalam persahabatan. Jelaskan tujuan: belajar 'used to' untuk persahabatan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## 'Used to' untuk Perubahan dalam Persahabatan\n\n**'Used to'** dipakai untuk menyatakan kebiasaan atau keadaan di masa lampau yang **sudah berubah**. Dalam persahabatan, pola ini sangat berguna untuk menceritakan bagaimana hubungan atau sifat teman berubah dari waktu ke waktu.\n\n## Bentuk 'Used to'\n\n- **Afirmatif:** subjek + used to + bentuk dasar\n  - We **used to play** together every day. (dulu biasa, sekarang tidak)\n  - He **used to be** very shy. (dulu pemalu, sekarang tidak)\n- **Negatif:** subjek + didn't use to + bentuk dasar\n  - We **didn't use to talk** much before.\n- **Pertanyaan:** Did + subjek + use to + bentuk dasar?\n  - **Did you use to be** close friends?\n\n## Contoh dalam Persahabatan\n\n- We **used to be** best friends in primary school.\n- He **used to be** shy, but now he is outgoing.\n- We **used to share** everything with each other.\n- We **didn't use to fight** before, but now we argue sometimes.\n- **Did you use to keep in touch** after graduation?\n\n## Tabel Perubahan\n\n| Dulu (used to) | Sekarang |\n|---|---|\n| He used to be shy. | Now he is outgoing. |\n| We used to play every day. | Now we meet once a month. |\n| They used to share secrets. | Now they don't talk much. |\n| She used to be my best friend. | Now we are just classmates. |\n\n## Contoh Paragraf\n\nSarah and I **used to be** best friends in primary school. We **used to play** together every day and **used to share** all our secrets. She **used to be** very shy, but now she is outgoing and confident. We **didn't use to fight** before, but now we argue sometimes because we are busy. Even so, we still **keep in touch** and care about each other.\n\n> **Hindari:** memakai 'used to' untuk kebiasaan yang masih berlangsung. Salah: 'We used to be best friends now.' Benar: 'We used to be best friends in primary school.' (dulu, sekarang mungkin tidak)\n\n> **Catatan:** Pada negatif dan pertanyaan, 'used to' berubah jadi 'use to' karena ada did/didn't. 'Didn't use to' (bukan didn't used to).\n\n## Mini-dialogue\n\nA: Did you use to be close with your friend?\nB: Yes, we used to play together every day.\nA: Do you still meet often?\nB: No, we used to meet every day, but now we only meet once a month.",
+      "key_points": [
+        "'Used to' untuk kebiasaan/keadaan lampau yang sudah berubah.",
+        "Bentuk afirmatif: subjek + used to + bentuk dasar.",
+        "Negatif: didn't use to (bukan didn't used to).",
+        "Pertanyaan: Did + subjek + use to + bentuk dasar?",
+        "Sangat berguna untuk menceritakan perubahan dalam persahabatan.",
+        "Hindari 'used to' untuk kebiasaan yang masih berlangsung.",
+        "Pada negatif/pertanyaan, 'used to' jadi 'use to' karena ada did/didn't."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "friend",
+          "id": "teman",
+          "phonetic": "/frend/",
+          "example_en": "She is my best friend.",
+          "example_id": "Dia sahabat saya."
+        },
+        {
+          "en": "friendship",
+          "id": "persahabatan",
+          "phonetic": "/ˈfrendʃɪp/",
+          "example_en": "Our friendship has lasted for ten years.",
+          "example_id": "Persahabatan kami sudah berlangsung sepuluh tahun."
+        },
+        {
+          "en": "best friend",
+          "id": "sahabat",
+          "phonetic": "/best frend/",
+          "example_en": "My best friend is loyal and supportive.",
+          "example_id": "Sahabat saya setia dan mendukung."
+        },
+        {
+          "en": "loyal",
+          "id": "setia",
+          "phonetic": "/ˈlɔɪəl/",
+          "example_en": "He is a loyal friend.",
+          "example_id": "Dia teman yang setia."
+        },
+        {
+          "en": "honest",
+          "id": "jujur",
+          "phonetic": "/ˈɒnɪst/",
+          "example_en": "I like her because she is honest.",
+          "example_id": "Saya suka dia karena dia jujur."
+        },
+        {
+          "en": "kind",
+          "id": "baik hati",
+          "phonetic": "/kaɪnd/",
+          "example_en": "She is kind to everyone.",
+          "example_id": "Dia baik hati kepada semua orang."
+        },
+        {
+          "en": "supportive",
+          "id": "mendukung",
+          "phonetic": "/səˈpɔːrtɪv/",
+          "example_en": "She is supportive when I have problems.",
+          "example_id": "Dia mendukung saat saya punya masalah."
+        },
+        {
+          "en": "generous",
+          "id": "dermawan",
+          "phonetic": "/ˈdʒenərəs/",
+          "example_en": "He is generous with his time.",
+          "example_id": "Dia dermawan dengan waktunya."
+        },
+        {
+          "en": "funny",
+          "id": "lucu",
+          "phonetic": "/ˈfʌni/",
+          "example_en": "He is funny and always makes me laugh.",
+          "example_id": "Dia lucu dan selalu membuat saya tertawa."
+        },
+        {
+          "en": "patient",
+          "id": "sabar",
+          "phonetic": "/ˈpeɪʃnt/",
+          "example_en": "A good friend should be patient.",
+          "example_id": "Teman yang baik sebaiknya sabar."
+        },
+        {
+          "en": "shy",
+          "id": "pemalu",
+          "phonetic": "/ʃaɪ/",
+          "example_en": "He used to be very shy.",
+          "example_id": "Dia dulu sangat pemalu."
+        },
+        {
+          "en": "outgoing",
+          "id": "supel",
+          "phonetic": "/ˈaʊtɡoʊɪŋ/",
+          "example_en": "She is outgoing and loves parties.",
+          "example_id": "Dia supel dan suka pesta."
+        },
+        {
+          "en": "to trust",
+          "id": "mempercayai",
+          "phonetic": "/tuː trʌst/",
+          "example_en": "I trust my best friend completely.",
+          "example_id": "Saya mempercayai sahabat saya sepenuhnya."
+        },
+        {
+          "en": "to share",
+          "id": "berbagi",
+          "phonetic": "/tuː ʃer/",
+          "example_en": "We share our secrets with each other.",
+          "example_id": "Kami berbagi rahasia satu sama lain."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "We still keep in touch after all these years.",
+          "example_id": "Kami masih tetap berkomunikasi setelah sekian tahun."
+        },
+        {
+          "en": "secret",
+          "id": "rahasia",
+          "phonetic": "/ˈsiːkrɪt/",
+          "example_en": "She keeps my secrets safe.",
+          "example_id": "Dia menjaga rahasia saya dengan aman."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut situasi sekarang, murid buat kalimat 'used to' tentang masa lalu.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan 'used to' atau 'didn't use to'.\n3) **Pair work (5 menit):** Tanyakan-jawab 'Did you use to...?' tentang persahabatan masa kecil.\n4) **Role play (4 menit):** Dua murid memeragakan teman lama yang bertemu dan mengingat masa lalu.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'Did you used to be close?' -> 'Did you use to be close?').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you use to be close with your friend?",
+          "id": "Apakah dulu kamu dekat dengan temanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we used to play together every day.",
+          "id": "Ya, kami dulu biasa bermain bersama setiap hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you still meet often?",
+          "id": "Apakah kamu masih sering bertemu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, we used to meet every day, but now we meet once a month.",
+          "id": "Tidak, kami dulu biasa bertemu setiap hari, tapi sekarang sebulan sekali."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'used to be' with an adjective.",
+          "id": "Bagus. Pakai 'used to be' dengan adjektiva."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He used to be shy, but now he is outgoing.",
+          "id": "Dia dulu pemalu, tapi sekarang supel."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Make a negative sentence with 'didn't use to'.",
+          "id": "Bagus. Buat kalimat negatif dengan 'didn't use to'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We didn't use to fight before, but now we argue sometimes.",
+          "id": "Kami dulu tidak biasa bertengkar, tapi sekarang kadang berdebat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'Did you used to share secrets?'",
+          "id": "Perbaiki ini: 'Did you used to share secrets?'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'Did you use to share secrets?'",
+          "id": "Seharusnya 'Did you use to share secrets?'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because in questions, 'used to' becomes 'use to' after 'did'.",
+          "id": "Karena dalam pertanyaan, 'used to' jadi 'use to' setelah 'did'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Describe a change in your friendship.",
+          "id": "Bagus. Deskripsikan satu perubahan dalam persahabatanmu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We used to share everything, but now we keep some things private.",
+          "id": "Kami dulu berbagi semuanya, tapi sekarang kami menyimpan beberapa hal pribadi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: use 'keep in touch' in a sentence.",
+          "id": "Sempurna. Terakhir: pakai 'keep in touch' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Even though we are busy, we still keep in touch.",
+          "id": "Walaupun kami sibuk, kami masih tetap berkomunikasi."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar 'used to' untuk menceritakan perubahan dalam persahabatan. Mari kita ingat: 'used to' untuk kebiasaan lampau yang sudah berubah, negatif 'didn't use to', pertanyaan 'Did you use to...?'. Coba saya tanya: bagaimana bilang 'dulu kami biasa bermain bersama setiap hari'? Benar, 'We used to play together every day.' Untuk PR, tulis 8 kalimat tentang perubahan dalam persahabatan kalian memakai 'used to'. Pertemuan berikutnya kita akan belajar present perfect untuk durasi dengan 'since' dan 'for'. Sampai jumpa!",
+      "instructions": "Tegaskan bentuk 'used to' dan perubahannya di negatif/pertanyaan. Berikan 1-2 pertanyaan pemahaman. Beri PR 8 kalimat dan umumkan topik 'since/for'."
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": "a2-l58",
+  "course_id": "english-a2",
+  "module_title": "Rumah dan Perabot",
+  "level": "A2",
+  "title": "Preposisi Tempat",
+  "subtitle": "Menunjukkan letak benda di dalam rumah",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai 8 preposisi tempat: in, on, under, next to, between, in front of, behind, above",
+    "Menggabungkan preposisi dengan there is/there are",
+    "Mendeskripsikan letak perabot dengan tepat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar 'there is' dan 'there are'. Siapa bisa buat satu kalimat dengan 'there are'? Bagus. Hari ini kita lanjutkan dengan preposisi tempat, yaitu kata yang menunjukkan di mana suatu benda berada. Coba lihat kelas ini. Di mana papan tulis? Di atas? Di samping? Di bawah? Tanpa preposisi tempat, deskripsi kita tidak jelas. Misalnya, 'There is a lamp' — di mana lampunya? Di atas meja? Di bawah meja? Itulah pentingnya preposisi. Rencana hari ini: kita pelajari in, on, under, next to, between, behind, in front of, above, dan berlatih memakainya.",
+      "instructions": "Sapa murid dan minta satu contoh kalimat 'there are'. Ajak murid mengamati posisi benda di kelas. Jelaskan tujuan: belajar preposisi tempat."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu Preposisi Tempat?\n\nPreposisi tempat adalah kata yang menunjukkan **posisi atau letak** suatu benda. Preposisi ini dipakai bersama 'there is/there are' untuk mendeskripsikan ruangan dengan jelas.\n\n## Daftar Preposisi Tempat\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| in | di dalam | The cat is in the box. |\n| on | di atas (menempel) | The lamp is on the desk. |\n| under | di bawah | There is a rug under the table. |\n| next to | di sebelah | The kitchen is next to the living room. |\n| between | di antara | There is a wardrobe between the door and the window. |\n| behind | di belakang | The garden is behind the kitchen. |\n| in front of | di depan | There is a car in front of the house. |\n| above | di atas (tidak menempel) | The TV is above the cupboard. |\n| near | dekat | There is a sofa near the window. |\n\n## Contoh Deskripsi dengan Preposisi\n\n- There is a sofa **in** the living room.\n- There is a lamp **on** the desk.\n- There is a rug **under** the table.\n- There are two armchairs **next to** the window.\n- There is a wardrobe **between** the door and the window.\n- The garden is **behind** the kitchen.\n- There is a TV **above** the cupboard.\n- There is a refrigerator **next to** the stove.\n\n## Tips Memilih Preposisi\n\n- **on** untuk benda yang menempel di permukaan: on the desk, on the wall.\n- **in** untuk benda di dalam ruang/wadah: in the box, in the kitchen.\n- **above** untuk benda di atas tapi tidak menempel: above the cupboard.\n- **under** untuk benda di bawah: under the table.\n\n> **Hindari:** memakai 'in' untuk permukaan datar. Salah: 'The lamp is in the desk.' Benar: 'The lamp is on the desk.' Juga hindari 'on' untuk benda di dalam wadah. Salah: 'The cat is on the box.' (kalau di dalam) Benar: 'The cat is in the box.'\n\n> **Catatan:** 'between' dipakai untuk dua benda, 'among' untuk lebih dari dua. Contoh: 'between the door and the window' (dua benda).\n\n## Mini-dialogue\n\nA: Where is the lamp?\nB: It is on the desk, next to the computer.\nA: And where is the rug?\nB: The rug is under the table, in front of the sofa.",
+      "key_points": [
+        "Preposisi tempat menunjukkan posisi atau letak suatu benda.",
+        "Preposisi umum: in, on, under, next to, between, behind, in front of, above, near.",
+        "'on' untuk permukaan yang menempel, 'in' untuk di dalam wadah/ruang.",
+        "'above' untuk di atas tanpa menempel, 'under' untuk di bawah.",
+        "'between' untuk dua benda, 'among' untuk lebih dari dua benda.",
+        "Hindari 'in' untuk permukaan datar dan 'on' untuk di dalam wadah.",
+        "Preposisi dipakai bersama 'there is/there are' untuk deskripsi ruangan."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "living room",
+          "id": "ruang tamu",
+          "phonetic": "/ˈlɪvɪŋ ruːm/",
+          "example_en": "There is a sofa in the living room.",
+          "example_id": "Ada sofa di ruang tamu."
+        },
+        {
+          "en": "bedroom",
+          "id": "kamar tidur",
+          "phonetic": "/ˈbedruːm/",
+          "example_en": "My bedroom is small but cozy.",
+          "example_id": "Kamar tidur saya kecil tetapi nyaman."
+        },
+        {
+          "en": "kitchen",
+          "id": "dapur",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "example_en": "The kitchen is next to the living room.",
+          "example_id": "Dapurnya di sebelah ruang tamu."
+        },
+        {
+          "en": "bathroom",
+          "id": "kamar mandi",
+          "phonetic": "/ˈbæθruːm/",
+          "example_en": "There is a sink in the bathroom.",
+          "example_id": "Ada bak cuci tangan di kamar mandi."
+        },
+        {
+          "en": "dining room",
+          "id": "ruang makan",
+          "phonetic": "/ˈdaɪnɪŋ ruːm/",
+          "example_en": "We eat together in the dining room.",
+          "example_id": "Kami makan bersama di ruang makan."
+        },
+        {
+          "en": "garden",
+          "id": "taman",
+          "phonetic": "/ˈɡɑːrdn/",
+          "example_en": "The garden is behind the kitchen.",
+          "example_id": "Tamannya di belakang dapur."
+        },
+        {
+          "en": "sofa",
+          "id": "sofa",
+          "phonetic": "/ˈsoʊfə/",
+          "example_en": "There is a big sofa in the living room.",
+          "example_id": "Ada sofa besar di ruang tamu."
+        },
+        {
+          "en": "armchair",
+          "id": "kursi berlengan",
+          "phonetic": "/ˈɑːrmtʃer/",
+          "example_en": "There are two armchairs next to the window.",
+          "example_id": "Ada dua kursi berlengan di sebelah jendela."
+        },
+        {
+          "en": "wardrobe",
+          "id": "lemari pakaian",
+          "phonetic": "/ˈwɔːrdroʊb/",
+          "example_en": "There is a wardrobe between the door and the window.",
+          "example_id": "Ada lemari pakaian di antara pintu dan jendela."
+        },
+        {
+          "en": "shelf",
+          "id": "rak",
+          "phonetic": "/ʃelf/",
+          "example_en": "There are some books on the shelf.",
+          "example_id": "Ada beberapa buku di rak."
+        },
+        {
+          "en": "cupboard",
+          "id": "lemari",
+          "phonetic": "/ˈkʌpbərd/",
+          "example_en": "The TV is above the cupboard.",
+          "example_id": "Televisinya di atas lemari."
+        },
+        {
+          "en": "lamp",
+          "id": "lampu",
+          "phonetic": "/læmp/",
+          "example_en": "There is a lamp on the desk.",
+          "example_id": "Ada lampu di atas meja."
+        },
+        {
+          "en": "rug",
+          "id": "karpet",
+          "phonetic": "/rʌɡ/",
+          "example_en": "There is a rug under the table.",
+          "example_id": "Ada karpet di bawah meja."
+        },
+        {
+          "en": "curtain",
+          "id": "tirai",
+          "phonetic": "/ˈkɜːrtn/",
+          "example_en": "The curtains are blue.",
+          "example_id": "Tirainya berwarna biru."
+        },
+        {
+          "en": "sink",
+          "id": "bak cuci tangan",
+          "phonetic": "/sɪŋk/",
+          "example_en": "There is a sink in the kitchen.",
+          "example_id": "Ada bak cuci tangan di dapur."
+        },
+        {
+          "en": "refrigerator",
+          "id": "kulkas",
+          "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+          "example_en": "There is a refrigerator next to the stove.",
+          "example_id": "Ada kulkas di sebelah kompor."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menempatkan benda di berbagai posisi, murid sebutkan preposisi yang tepat.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan preposisi yang benar (in, on, under, next to, between, behind, above).\n3) **Pair work (5 menit):** Tanyakan-jawab posisi benda di kamar memakai 'Where is...?'.\n4) **Role play (4 menit):** Dua murid memeragakan penjual rumah yang menjelaskan letak perabot.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'The lamp is in the desk' -> 'The lamp is on the desk').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where is the lamp in your bedroom?",
+          "id": "Di mana lampu di kamarmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The lamp is on the desk, next to my computer.",
+          "id": "Lampunya di atas meja, di sebelah komputer saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And where is the rug?",
+          "id": "Dan di mana karpetnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a rug under the table, in front of the sofa.",
+          "id": "Ada karpet di bawah meja, di depan sofa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is there a wardrobe in your room?",
+          "id": "Apakah ada lemari pakaian di kamarmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, there is a wardrobe between the door and the window.",
+          "id": "Ya, ada lemari pakaian di antara pintu dan jendela."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where is your kitchen?",
+          "id": "Di mana dapurmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The kitchen is behind the living room.",
+          "id": "Dapurnya di belakang ruang tamu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'The TV is in the cupboard.'",
+          "id": "Perbaiki ini: 'The TV is in the cupboard.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'The TV is on the cupboard' or 'above the cupboard.'",
+          "id": "Seharusnya 'The TV is on the cupboard' atau 'above the cupboard.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Now use 'between' in a sentence.",
+          "id": "Bagus. Sekarang pakai 'between' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a sink between the stove and the refrigerator.",
+          "id": "Ada bak cuci tangan di antara kompor dan kulkas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Where is your bed?",
+          "id": "Bagus. Di mana tempat tidurmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My bed is near the window.",
+          "id": "Tempat tidur saya dekat jendela."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now describe your living room using two prepositions.",
+          "id": "Sekarang deskripsikan ruang tamumu memakai dua preposisi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a sofa in front of the TV, and a lamp above the sofa.",
+          "id": "Ada sofa di depan TV, dan lampu di atas sofa."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar preposisi tempat untuk mendeskripsikan posisi benda di rumah. Mari kita ingat: 'on' untuk permukaan menempel, 'in' untuk di dalam, 'under' untuk di bawah, 'above' untuk di atas tanpa menempel, 'next to' untuk di sebelah, 'between' untuk di antara dua benda. Coba saya tanya: preposisi apa untuk benda di atas meja yang menempel? Benar, 'on'. Untuk benda di antara pintu dan jendela? Tepat, 'between'. Untuk PR, gambar denah kamarmu dan tulis 8 kalimat memakai preposisi tempat untuk menjelaskan letak perabot. Pertemuan berikutnya kita akan fokus mengulang kosakata ruangan dan perabot supaya makin lancar. Sampai jumpa!",
+      "instructions": "Tegaskan daftar preposisi dan perbedaan 'on' vs 'in' vs 'above'. Beri PR gambar denah + 8 kalimat preposisi. Umumkan topik kosakata ruangan berikutnya."
+    }
+  ]
+}

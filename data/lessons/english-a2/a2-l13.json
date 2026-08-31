@@ -1,0 +1,237 @@
+{
+  "id": "a2-l13",
+  "course_id": "english-a2",
+  "module_title": "Kesehatan dan Dokter",
+  "level": "A2",
+  "title": "Kosakata Medis Inti",
+  "subtitle": "Mengungkapkan keluhan kesehatan dan memberi saran medis dalam bahasa Inggris",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata medis inti (medicine, prescription, symptom, dll)",
+    "Menggunakan kosakata medis dalam kalimat sederhana"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang percakapan dokter-pasien? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-13 dengan judul 'Kosakata Medis Inti'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Untuk percakapan yang lebih kaya, kita perlu lebih banyak kosakata medis. Apa saja yang wajib diketahui? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Medis Inti\n\nDi level A2, kita perlu menguasai **kosakata medis inti** untuk komunikasi sehari-hari di konteks kesehatan: di klinik, apotek, dan saat konsultasi dokter.\n\n### 1. Orang dan tempat\n\n| English | Indonesian |\n|---|---|\n| doctor | dokter |\n| nurse | perawat |\n| patient | pasien |\n| pharmacist | apoteker |\n| hospital | rumah sakit |\n| clinic | klinik |\n| pharmacy | apotek |\n| emergency room (ER) | ruang gawat darurat |\n\n### 2. Gejala dan kondisi\n\n| English | Indonesian |\n|---|---|\n| symptom | gejala |\n| fever | demam |\n| cough | batuk |\n| headache | sakit kepala |\n| sore throat | sakit tenggorokan |\n| infection | infeksi |\n| allergy | alergi |\n| pain | nyeri/sakit |\n\n### 3. Pengobatan\n\n| English | Indonesian |\n|---|---|\n| medicine | obat |\n| pill / tablet | pil / tablet |\n| prescription | resep |\n| dose | dosis |\n| check-up | pemeriksaan |\n| recover | sembuh |\n| rest | istirahat |\n\n### 4. Frasa umum\n\n- **take medicine** = minum obat (bukan *drink medicine*)\n- **see a doctor** = periksa ke dokter\n- **get well soon** = semoga lekas sembuh\n- **feel better** = merasa lebih baik\n\n### 5. Mini-dialogue\n\n> A: I need to **see a doctor**.\n> B: The **clinic** is next to the **pharmacy**.\n> A: Do I need a **prescription**?\n> B: Yes, the **doctor** will give you one. **Take** the **medicine** twice a day. **Get well soon!**\n\n> **Hindari:** \"drink medicine\" (salah — *take medicine*)\n> **Hindari:** \"eat medicine\" (salah — *take medicine*)\n\n### 6. Tip\n\nKelompokkan kosakata: orang (doctor, nurse, patient), tempat (hospital, clinic, pharmacy), gejala (fever, cough, pain), pengobatan (medicine, pill, prescription). Hafal per kelompok.",
+      "key_points": [
+        "Orang: doctor, nurse, patient, pharmacist",
+        "Tempat: hospital, clinic, pharmacy, emergency room",
+        "Gejala: symptom, fever, cough, headache, sore throat, infection, allergy, pain",
+        "Pengobatan: medicine, pill/tablet, prescription, dose, check-up, recover, rest",
+        "Frasa: take medicine (bukan drink), see a doctor, get well soon",
+        "Kelompokkan kosakata untuk memudahkan hafalan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "doctor",
+          "id": "dokter",
+          "phonetic": "/ˈdɒktər/",
+          "example_en": "I want to see a doctor.",
+          "example_id": "Saya ingin periksa ke dokter."
+        },
+        {
+          "en": "nurse",
+          "id": "perawat",
+          "phonetic": "/nɜːrs/",
+          "example_en": "The nurse is kind.",
+          "example_id": "Perawatnya ramah."
+        },
+        {
+          "en": "headache",
+          "id": "sakit kepala",
+          "phonetic": "/ˈhedeɪk/",
+          "example_en": "I have a headache.",
+          "example_id": "Saya sakit kepala."
+        },
+        {
+          "en": "fever",
+          "id": "demam",
+          "phonetic": "/ˈfiːvər/",
+          "example_en": "She has a fever.",
+          "example_id": "Dia demam."
+        },
+        {
+          "en": "cough",
+          "id": "batuk",
+          "phonetic": "/kɒf/",
+          "example_en": "I have a bad cough.",
+          "example_id": "Saya batuk parah."
+        },
+        {
+          "en": "sore throat",
+          "id": "sakit tenggorokan",
+          "phonetic": "/sɔːr θroʊt/",
+          "example_en": "He has a sore throat.",
+          "example_id": "Dia sakit tenggorokan."
+        },
+        {
+          "en": "stomachache",
+          "id": "sakit perut",
+          "phonetic": "/ˈstʌməkeɪk/",
+          "example_en": "I have a stomachache.",
+          "example_id": "Saya sakit perut."
+        },
+        {
+          "en": "medicine",
+          "id": "obat",
+          "phonetic": "/ˈmedsn/",
+          "example_en": "Take this medicine twice a day.",
+          "example_id": "Minum obat ini dua kali sehari."
+        },
+        {
+          "en": "prescription",
+          "id": "resep",
+          "phonetic": "/prɪˈskrɪpʃn/",
+          "example_en": "Here is your prescription.",
+          "example_id": "Ini resep Anda."
+        },
+        {
+          "en": "symptom",
+          "id": "gejala",
+          "phonetic": "/ˈsɪmptəm/",
+          "example_en": "What are your symptoms?",
+          "example_id": "Apa gejala Anda?"
+        },
+        {
+          "en": "healthy",
+          "id": "sehat",
+          "phonetic": "/ˈhelθi/",
+          "example_en": "She is very healthy.",
+          "example_id": "Dia sangat sehat."
+        },
+        {
+          "en": "sick",
+          "id": "sakit",
+          "phonetic": "/sɪk/",
+          "example_en": "He is sick today.",
+          "example_id": "Dia sakit hari ini."
+        },
+        {
+          "en": "rest",
+          "id": "istirahat",
+          "phonetic": "/rest/",
+          "example_en": "You should rest at home.",
+          "example_id": "Anda sebaiknya istirahat di rumah."
+        },
+        {
+          "en": "recover",
+          "id": "sembuh",
+          "phonetic": "/rɪˈkʌvər/",
+          "example_en": "I hope you recover soon.",
+          "example_id": "Saya harap Anda segera sembuh."
+        },
+        {
+          "en": "hospital",
+          "id": "rumah sakit",
+          "phonetic": "/ˈhɒspɪtl/",
+          "example_en": "We are going to the hospital.",
+          "example_id": "Kami pergi ke rumah sakit."
+        },
+        {
+          "en": "body",
+          "id": "tubuh",
+          "phonetic": "/ˈbɒdi/",
+          "example_en": "My whole body hurts.",
+          "example_id": "Seluruh tubuh saya sakit."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kosakata Indonesia, murid jawab bahasa Inggris dengan cepat.\n2. Pair work: deskripsikan alur 'sakit → klinik → dokter → resep → apotek → sembuh' pakai kosakata medis.\n3. Fill-in-the-blank: 10 kalimat dengan kosakata medis yang tepat.\n4. Error correction: perbaiki 5 frasa (mis. 'drink medicine', 'eat a pill').\n5. Categorizing: pilah 16 kartu kata ke 4 kelompok (orang, tempat, gejala, pengobatan).\n\nTugas rumah: Buat mini-kamus pribadi: 12 kosakata medis dengan contoh kalimat masing-masing.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you go when you are sick?",
+          "id": "Ke mana kamu pergi saat sakit?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I go to the clinic to see a doctor.",
+          "id": "Saya pergi ke klinik untuk periksa ke dokter."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who helps the doctor?",
+          "id": "Siapa yang membantu dokter?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A nurse helps the doctor.",
+          "id": "Perawat membantu dokter."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you buy medicine?",
+          "id": "Di mana kamu membeli obat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I buy medicine at the pharmacy.",
+          "id": "Saya membeli obat di apotek."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you need a prescription?",
+          "id": "Apakah kamu butuh resep?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, the doctor gives me a prescription.",
+          "id": "Ya, dokter memberi saya resep."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How often do you take the pills?",
+          "id": "Seberapa sering kamu meminum pilnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I take them twice a day after meals.",
+          "id": "Saya meminumnya dua kali sehari setelah makan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When do you recover?",
+          "id": "Kapan kamu sembuh?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I usually recover in a few days with rest.",
+          "id": "Saya biasanya sembuh dalam beberapa hari dengan istirahat."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kosakata Medis Inti'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Buat mini-kamus pribadi: 12 kosakata medis dengan contoh kalimat masing-masing. Pelajaran berikutnya kita akan membahas modul baru: Pekerjaan dan Profesi, dimulai dengan daftar profesi, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

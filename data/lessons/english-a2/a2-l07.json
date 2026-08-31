@@ -1,0 +1,237 @@
+{
+  "id": "a2-l07",
+  "course_id": "english-a2",
+  "module_title": "Kesehatan dan Dokter",
+  "level": "A2",
+  "title": "Bagian Tubuh yang Wajib Dikenal",
+  "subtitle": "Mengungkapkan keluhan kesehatan dan memberi saran medis dalam bahasa Inggris",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan bagian tubuh dalam bahasa Inggris",
+    "Membedakan leg dan foot, serta bentuk jamak feet"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Modul Perjalanan tentang cerita perjalanan masa lampau? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-7 dengan judul 'Bagian Tubuh yang Wajib Dikenal'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Pernahkah kalian sakit saat bepergian? Bagian tubuh mana yang sakit? Mari belajar menyebutnya dalam bahasa Inggris! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Bagian Tubuh yang Wajib Dikenal\n\nSaat konsultasi ke dokter, kita harus bisa menyebut **bagian tubuh** yang bermasalah. Di level A2, kita fokus pada bagian tubuh utama.\n\n### 1. Bagian tubuh utama\n\n| English | Indonesian | English | Indonesian |\n|---|---|---|---|\n| head | kepala | arm | lengan |\n| face | wajah | hand | tangan |\n| eye | mata | leg | kaki |\n| ear | telinga | foot (pl. feet) | kaki (telapak) |\n| nose | hidung | back | punggung |\n| mouth | mulut | chest | dada |\n| tooth (pl. teeth) | gigi | stomach | perut |\n| neck | leher | shoulder | bahu |\n\n### 2. Bentuk jamak yang tidak beraturan\n\n- foot → **feet** (bukan foots)\n- tooth → **teeth** (bukan tooths)\n\nContoh: *My feet are tired.* *I have a toothache, so my teeth hurt.*\n\n### 3. Menyebut keluhan dengan 'My ... hurts'\n\nPola sederhana: **My + bagian tubuh + hurts.**\n\n- My head hurts. (Kepalaku sakit.)\n- My stomach hurts.\n- My back hurts.\n\nUntuk jamak gunakan *hurt* (tanpa -s): *My eyes hurt. My feet hurt.*\n\n### 4. Mini-dialogue\n\n> A: What's wrong?\n> B: My **head** hurts and my **throat** is sore.\n> A: Let me check your **ears** and your **neck**.\n\n> **Hindari:** \"My foots hurt.\" (salah — *My feet hurt.*)\n> **Hindari:** \"I have pain on head.\" (lebih natural: *My head hurts.*)\n\n### 5. Tip\n\nHafalkan pasangan yang sering disebut bersama: head + neck, eyes + nose, chest + back, stomach + ...ache.\n\n### 7. Latihan di kepala\n\nBerdiri di depan cermin, tunjuk dan sebut 10 bagian tubuh dalam bahasa Inggris tanpa berhenti. Lalu ucapkan satu keluhan untuk masing-masing: *My head hurts. My eyes hurt. My back hurts.* Latihan ini menggabungkan kosakata dan pola keluhan sekaligus, sehingga saat berkonsultasi ke dokter kamu bisa langsung menyebut masalah dengan tepat tanpa mencari kata.",
+      "key_points": [
+        "Bagian tubuh utama: head, face, eye, ear, nose, mouth, neck, arm, hand, leg, foot, back, chest, stomach",
+        "Jamak tidak beraturan: foot→feet, tooth→teeth",
+        "Pola keluhan: My + bagian tubuh + hurts",
+        "Jamak pakai hurt (tanpa -s): My eyes hurt",
+        "throat = tenggorokan, shoulder = bahu",
+        "Pasangan umum: head+neck, eyes+nose, chest+back"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "doctor",
+          "id": "dokter",
+          "phonetic": "/ˈdɒktər/",
+          "example_en": "I want to see a doctor.",
+          "example_id": "Saya ingin periksa ke dokter."
+        },
+        {
+          "en": "nurse",
+          "id": "perawat",
+          "phonetic": "/nɜːrs/",
+          "example_en": "The nurse is kind.",
+          "example_id": "Perawatnya ramah."
+        },
+        {
+          "en": "headache",
+          "id": "sakit kepala",
+          "phonetic": "/ˈhedeɪk/",
+          "example_en": "I have a headache.",
+          "example_id": "Saya sakit kepala."
+        },
+        {
+          "en": "fever",
+          "id": "demam",
+          "phonetic": "/ˈfiːvər/",
+          "example_en": "She has a fever.",
+          "example_id": "Dia demam."
+        },
+        {
+          "en": "cough",
+          "id": "batuk",
+          "phonetic": "/kɒf/",
+          "example_en": "I have a bad cough.",
+          "example_id": "Saya batuk parah."
+        },
+        {
+          "en": "sore throat",
+          "id": "sakit tenggorokan",
+          "phonetic": "/sɔːr θroʊt/",
+          "example_en": "He has a sore throat.",
+          "example_id": "Dia sakit tenggorokan."
+        },
+        {
+          "en": "stomachache",
+          "id": "sakit perut",
+          "phonetic": "/ˈstʌməkeɪk/",
+          "example_en": "I have a stomachache.",
+          "example_id": "Saya sakit perut."
+        },
+        {
+          "en": "medicine",
+          "id": "obat",
+          "phonetic": "/ˈmedsn/",
+          "example_en": "Take this medicine twice a day.",
+          "example_id": "Minum obat ini dua kali sehari."
+        },
+        {
+          "en": "prescription",
+          "id": "resep",
+          "phonetic": "/prɪˈskrɪpʃn/",
+          "example_en": "Here is your prescription.",
+          "example_id": "Ini resep Anda."
+        },
+        {
+          "en": "symptom",
+          "id": "gejala",
+          "phonetic": "/ˈsɪmptəm/",
+          "example_en": "What are your symptoms?",
+          "example_id": "Apa gejala Anda?"
+        },
+        {
+          "en": "healthy",
+          "id": "sehat",
+          "phonetic": "/ˈhelθi/",
+          "example_en": "She is very healthy.",
+          "example_id": "Dia sangat sehat."
+        },
+        {
+          "en": "sick",
+          "id": "sakit",
+          "phonetic": "/sɪk/",
+          "example_en": "He is sick today.",
+          "example_id": "Dia sakit hari ini."
+        },
+        {
+          "en": "rest",
+          "id": "istirahat",
+          "phonetic": "/rest/",
+          "example_en": "You should rest at home.",
+          "example_id": "Anda sebaiknya istirahat di rumah."
+        },
+        {
+          "en": "recover",
+          "id": "sembuh",
+          "phonetic": "/rɪˈkʌvər/",
+          "example_en": "I hope you recover soon.",
+          "example_id": "Saya harap Anda segera sembuh."
+        },
+        {
+          "en": "hospital",
+          "id": "rumah sakit",
+          "phonetic": "/ˈhɒspɪtl/",
+          "example_en": "We are going to the hospital.",
+          "example_id": "Kami pergi ke rumah sakit."
+        },
+        {
+          "en": "body",
+          "id": "tubuh",
+          "phonetic": "/ˈbɒdi/",
+          "example_en": "My whole body hurts.",
+          "example_id": "Seluruh tubuh saya sakit."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menunjuk/ menyebut bagian tubuh, murid langsung sebutkan dalam bahasa Inggris.\n2. Pair work: satu murid jadi pasien yang menyebut 4 keluhan 'My ... hurts', teman mencatat.\n3. Fill-in-the-blank: 8 kalimat dengan bagian tubuh yang benar (foot/feet, tooth/teeth, dll).\n4. Error correction: perbaiki 5 kalimat (mis. 'My foots hurt', 'I have pain on head').\n5. Role play: dokter & pasien — pasien menyebut minimal 3 bagian tubuh yang sakit.\n\nTugas rumah: Gambar tubuh manusia, beri label 12 bagian dalam bahasa Inggris, lalu tulis 4 kalimat 'My ... hurts'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning! How are you feeling today?",
+          "id": "Selamat pagi! Bagaimana perasaanmu hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm not feeling well, actually.",
+          "id": "Sebenarnya saya tidak merasa sehat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's wrong? Where does it hurt?",
+          "id": "Apa yang salah? Di mana sakitnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My head hurts and my throat feels sore.",
+          "id": "Kepala saya sakit dan tenggorokan terasa sakit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let me check. Open your mouth, please.",
+          "id": "Mari saya periksa. Buka mulutmu, tolong."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Ah... is it bad?",
+          "id": "Ah... apakah parah?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Your throat is red. Any other problems?",
+          "id": "Tenggorokanmu merah. Ada masalah lain?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, my ears hurt a little too.",
+          "id": "Ya, telinga saya juga sedikit sakit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have a fever?",
+          "id": "Apakah kamu demam?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think so. My body feels hot.",
+          "id": "Saya rasa begitu. Tubuh saya terasa panas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "OK. Let's check your temperature.",
+          "id": "Baik. Mari kita periksa suhu tubuhmu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you, Doctor.",
+          "id": "Terima kasih, Dok."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Bagian Tubuh yang Wajib Dikenal'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Gambar tubuh manusia, beri label 12 bagian dalam bahasa Inggris, lalu tulis 4 kalimat 'My ... hurts'. Pelajaran berikutnya kita akan membahas pola 'I have a...' untuk menyampaikan keluhan spesifik, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

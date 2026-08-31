@@ -1,0 +1,263 @@
+{
+  "id": "a2-l79",
+  "course_id": "english-a2",
+  "module_title": "Persahabatan",
+  "level": "A2",
+  "title": "Kosakata Persahabatan",
+  "subtitle": "Kata kunci untuk mendeskripsikan teman dan persahabatan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata tema persahabatan",
+    "Menggabungkan kosakata dengan adjektiva dan present perfect",
+    "Menyusun kalimat utuh tentang persahabatan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita masuk pelajaran kosakata kunci modul Persahabatan. Kita sudah belajar adjektiva kepribadian, 'used to', dan present perfect dengan since/for. Sekarang waktunya memperkaya kosa kata supaya kalian bisa mendeskripsikan persahabatan dengan lebih detail. Coba sebutkan 3 kata berbahasa Inggris yang berhubungan dengan persahabatan yang kalian tahu. 'Friend'? 'Best friend'? Bagus. Hari ini kita akan pelajari 16 kata kunci: jenis teman, sifat, dan tindakan persahabatan, lengkap dengan cara mengucapkan dan contoh kalimatnya. Rencana: kita pelajari kata per kategori, lalu berlatih memakainya dalam kalimat sendiri.",
+      "instructions": "Sapa murid dan tanyakan 3 kata Inggris berhubungan dengan persahabatan. Catat di papan. Jelaskan fokus hari ini: memperkaya kosakata persahabatan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mengapa Kosakata Persahabatan Penting?\n\nUntuk mendeskripsikan persahabatan dengan detail, kita perlu kosakata yang tepat untuk **jenis teman**, **sifat**, dan **tindakan**. Tanpa kosakata ini, kita hanya bisa bilang 'friend' atau 'good'. Dengan kosakata yang tepat, kita bisa menceritakan persahabatan dengan hidup.\n\n## Kategori Kosakata Persahabatan\n\n### 1. Jenis Teman\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| friend | teman | She is my best friend. |\n| friendship | persahabatan | Our friendship has lasted for ten years. |\n| best friend | sahabat | My best friend is loyal and supportive. |\n\n### 2. Sifat Positif\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| loyal | setia | He is a loyal friend. |\n| honest | jujur | I like her because she is honest. |\n| kind | baik hati | She is kind to everyone. |\n| supportive | mendukung | She is supportive when I have problems. |\n| generous | dermawan | He is generous with his time. |\n| funny | lucu | He is funny and always makes me laugh. |\n| patient | sabar | A good friend should be patient. |\n\n### 3. Sifat Sosial\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| shy | pemalu | He used to be very shy. |\n| outgoing | supel | She is outgoing and loves parties. |\n\n### 4. Tindakan dan Konsep\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| to trust | mempercayai | I trust my best friend completely. |\n| to share | berbagi | We share our secrets with each other. |\n| to keep in touch | tetap berkomunikasi | We still keep in touch after all these years. |\n| secret | rahasia | She keeps my secrets safe. |\n\n## Tips Mengingat Kosakata\n\n- **Buat kalimat adjektiva** untuk setiap teman: 'My friend is loyal.'\n- **Buat kalimat tindakan**: 'We share our secrets.'\n- **Pasangkan dengan present perfect**: 'We have been friends for...'\n\n> **Hindari:** menghafal terjemahan saja. Selalu buat kalimat lengkap supaya tahu cara memakai kata.\n\n> **Catatan:** Beberapa kata seperti 'friend', 'sahabat' mudah diingat. Yang perlu dihafal: loyal, supportive, generous, to keep in touch.\n\n## Mini-dialogue\n\nA: What makes a good friend?\nB: A good friend is loyal, honest, and supportive.\nA: Do you share secrets with your friend?\nB: Yes, we share everything and we keep in touch every day.",
+      "key_points": [
+        "Kosakata persahabatan dikelompokkan: jenis teman, sifat positif, sifat sosial, tindakan/konsep.",
+        "Jenis teman: friend, friendship, best friend.",
+        "Sifat positif: loyal, honest, kind, supportive, generous, funny, patient.",
+        "Sifat sosial: shy, outgoing.",
+        "Tindakan: to trust, to share, to keep in touch, secret.",
+        "Selalu buat kalimat lengkap, bukan hanya menghafal terjemahan.",
+        "Pasangkan kosakata dengan adjektiva dan present perfect."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "friend",
+          "id": "teman",
+          "phonetic": "/frend/",
+          "example_en": "She is my best friend.",
+          "example_id": "Dia sahabat saya."
+        },
+        {
+          "en": "friendship",
+          "id": "persahabatan",
+          "phonetic": "/ˈfrendʃɪp/",
+          "example_en": "Our friendship has lasted for ten years.",
+          "example_id": "Persahabatan kami sudah berlangsung sepuluh tahun."
+        },
+        {
+          "en": "best friend",
+          "id": "sahabat",
+          "phonetic": "/best frend/",
+          "example_en": "My best friend is loyal and supportive.",
+          "example_id": "Sahabat saya setia dan mendukung."
+        },
+        {
+          "en": "loyal",
+          "id": "setia",
+          "phonetic": "/ˈlɔɪəl/",
+          "example_en": "He is a loyal friend.",
+          "example_id": "Dia teman yang setia."
+        },
+        {
+          "en": "honest",
+          "id": "jujur",
+          "phonetic": "/ˈɒnɪst/",
+          "example_en": "I like her because she is honest.",
+          "example_id": "Saya suka dia karena dia jujur."
+        },
+        {
+          "en": "kind",
+          "id": "baik hati",
+          "phonetic": "/kaɪnd/",
+          "example_en": "She is kind to everyone.",
+          "example_id": "Dia baik hati kepada semua orang."
+        },
+        {
+          "en": "supportive",
+          "id": "mendukung",
+          "phonetic": "/səˈpɔːrtɪv/",
+          "example_en": "She is supportive when I have problems.",
+          "example_id": "Dia mendukung saat saya punya masalah."
+        },
+        {
+          "en": "generous",
+          "id": "dermawan",
+          "phonetic": "/ˈdʒenərəs/",
+          "example_en": "He is generous with his time.",
+          "example_id": "Dia dermawan dengan waktunya."
+        },
+        {
+          "en": "funny",
+          "id": "lucu",
+          "phonetic": "/ˈfʌni/",
+          "example_en": "He is funny and always makes me laugh.",
+          "example_id": "Dia lucu dan selalu membuat saya tertawa."
+        },
+        {
+          "en": "patient",
+          "id": "sabar",
+          "phonetic": "/ˈpeɪʃnt/",
+          "example_en": "A good friend should be patient.",
+          "example_id": "Teman yang baik sebaiknya sabar."
+        },
+        {
+          "en": "shy",
+          "id": "pemalu",
+          "phonetic": "/ʃaɪ/",
+          "example_en": "He used to be very shy.",
+          "example_id": "Dia dulu sangat pemalu."
+        },
+        {
+          "en": "outgoing",
+          "id": "supel",
+          "phonetic": "/ˈaʊtɡoʊɪŋ/",
+          "example_en": "She is outgoing and loves parties.",
+          "example_id": "Dia supel dan suka pesta."
+        },
+        {
+          "en": "to trust",
+          "id": "mempercayai",
+          "phonetic": "/tuː trʌst/",
+          "example_en": "I trust my best friend completely.",
+          "example_id": "Saya mempercayai sahabat saya sepenuhnya."
+        },
+        {
+          "en": "to share",
+          "id": "berbagi",
+          "phonetic": "/tuː ʃer/",
+          "example_en": "We share our secrets with each other.",
+          "example_id": "Kami berbagi rahasia satu sama lain."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "We still keep in touch after all these years.",
+          "example_id": "Kami masih tetap berkomunikasi setelah sekian tahun."
+        },
+        {
+          "en": "secret",
+          "id": "rahasia",
+          "phonetic": "/ˈsiːkrɪt/",
+          "example_en": "She keeps my secrets safe.",
+          "example_id": "Dia menjaga rahasia saya dengan aman."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Guru menunjuk kata, murid sebutkan arti. Bergantian.\n2) **Match (4 menit):** Cocokkan 12 kata Inggris dengan arti Indonesianya.\n3) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan kosakata yang tepat.\n4) **Pair work (4 menit):** Tanyakan-jawab tentang teman memakai minimal 6 kata baru.\n5) **Role play (2 menit):** Dua murid memeragakan teman yang mendeskripsikan sahabat masing-masing.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's practice vocabulary. What is 'loyal' in Indonesian?",
+          "id": "Mari berlatih kosakata. Apa arti 'loyal'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Loyal' artinya 'setia'.",
+          "id": "'Loyal' artinya 'setia'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use it in a sentence.",
+          "id": "Bagus. Pakai dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is a loyal friend.",
+          "id": "Dia teman yang setia."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is 'to keep in touch'?",
+          "id": "Apa arti 'to keep in touch'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'To keep in touch' artinya 'tetap berkomunikasi'.",
+          "id": "'To keep in touch' artinya 'tetap berkomunikasi'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'keep in touch' in a sentence.",
+          "id": "Pakai 'keep in touch' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We still keep in touch after all these years.",
+          "id": "Kami masih tetap berkomunikasi setelah sekian tahun."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What is 'supportive'?",
+          "id": "Bagus. Apa arti 'supportive'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Supportive' artinya 'mendukung'.",
+          "id": "'Supportive' artinya 'mendukung'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'supportive' with 'when'.",
+          "id": "Pakai 'supportive' dengan 'when'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is supportive when I have problems.",
+          "id": "Dia mendukung saat saya punya masalah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What is 'secret'?",
+          "id": "Bagus. Apa arti 'secret'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Secret' artinya 'rahasia'.",
+          "id": "'Secret' artinya 'rahasia'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Describe your best friend using three new words.",
+          "id": "Sempurna. Deskripsikan sahabatmu memakai tiga kata baru."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My best friend is loyal, honest, and supportive. We share our secrets.",
+          "id": "Sahabat saya setia, jujur, dan mendukung. Kami berbagi rahasia."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah mempelajari 16 kata kunci tentang persahabatan. Mari kita ingat beberapa: 'loyal' artinya setia, 'to keep in touch' artinya tetap berkomunikasi, 'supportive' artinya mendukung. Coba saya tanya: apa arti 'secret'? Benar, rahasia. Untuk PR, tulis 10 kalimat memakai minimal 10 kata baru tentang persahabatan. Ucapkan kosakata ini berulang-ulang di rumah. Pertemuan berikutnya kita akan fokus membedakan 'since' dan 'for' lebih dalam. Sampai jumpa!",
+      "instructions": "Tegaskan kategori kosakata. Berikan PR menulis 10 kalimat. Umumkan topik berikutnya: perbedaan since dan for."
+    }
+  ]
+}

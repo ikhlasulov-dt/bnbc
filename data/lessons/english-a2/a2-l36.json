@@ -1,0 +1,237 @@
+{
+  "id": "a2-l36",
+  "course_id": "english-a2",
+  "module_title": "Hiburan dan Film",
+  "level": "A2",
+  "title": "Genre Film yang Wajib Dikenal",
+  "subtitle": "Mengulas film dan hiburan dengan past simple serta ungkapan opini",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan genre film dalam bahasa Inggris",
+    "Menggunakan pola 'a/an + genre + film'"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Modul Teknologi tentang diskusi teknologi? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-36 dengan judul 'Genre Film yang Wajib Dikenal'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Kita semua suka film. Tapi apa bahasa Inggrisnya 'film horor', 'komedi', 'film aksi'? Mari kenali genre film! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Genre Film yang Wajib Dikenal\n\nUntuk membicarakan film, kita perlu tahu nama-nama **genre** dalam bahasa Inggris.\n\n### 1. Genre utama\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| action | aksi | fast cars, fights, explosions |\n| comedy | komedi | funny, makes you laugh |\n| horror | horor | scary, ghosts, monsters |\n| drama | drama | serious, emotional stories |\n| romance | romansa | love stories |\n| sci-fi (science fiction) | fiksi ilmiah | space, future, aliens |\n| animation | animasi | cartoons, drawn/CGI |\n| documentary | dokumenter | real facts, true stories |\n| thriller | mendebarkan | suspense, tension |\n| fantasy | fantasi | magic, imaginary worlds |\n\n### 2. Bertanya genre\n\n- **What kind of** movies do you like?\n- **What genre** is this movie?\n- **Is it** a comedy **or** a horror?\n\n### 3. Menyatakan preferensi\n\n- I like **action** movies.\n- I love **comedy** because it makes me laugh.\n- I don't like **horror** because it's too scary.\n- My favorite genre is **sci-fi**.\n\n### 4. Adjektiva untuk mendeskripsikan genre\n\n| Genre | Adjektiva umum |\n|---|---|\n| comedy | funny, hilarious |\n| horror | scary, terrifying |\n| action | exciting, fast-paced |\n| drama | emotional, serious |\n| sci-fi | imaginative, futuristic |\n\n### 5. Mini-dialogue\n\n> A: **What kind of** movies do you like?\n> B: I love **comedy**. It makes me laugh.\n> A: I prefer **action** movies. They're **exciting**.\n> B: **Horror** is too scary for me!\n\n> **Hindari:** \"I like comedy movie.\" (untuk umum, pakai jamak — *I like comedy movies.* atau *I like comedy.*)\n> **Hindari:** \"scary movie\" vs \"horror movie\" — keduanya benar, tapi *horror* = genre, *scary* = sifat.\n\n### 6. Tip\n\nKata **movie** (Amerika) = **film** (Inggris/internasional). Keduanya bisa dipakai bergantian. *Movie* lebih umum di percakapan sehari-hari.",
+      "key_points": [
+        "Genre utama: action, comedy, horror, drama, romance, sci-fi, animation, documentary, thriller, fantasy",
+        "Tanya genre: What kind of movies...? / What genre is...?",
+        "Preferensi: I like/love/prefer...; I don't like... because...",
+        "Adjektiva: funny (comedy), scary (horror), exciting (action), emotional (drama)",
+        "Pakai jamak untuk umum: I like comedy movies / I like comedy",
+        "Movie (AS) = film (UK), bisa dipakai bergantian"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "movie",
+          "id": "film",
+          "phonetic": "/ˈmuːvi/",
+          "example_en": "We watched a great movie.",
+          "example_id": "Kami menonton film yang bagus."
+        },
+        {
+          "en": "cinema",
+          "id": "bioskop",
+          "phonetic": "/ˈsɪnəmə/",
+          "example_en": "Let's go to the cinema.",
+          "example_id": "Mari kita pergi ke bioskop."
+        },
+        {
+          "en": "actor",
+          "id": "aktor",
+          "phonetic": "/ˈæktər/",
+          "example_en": "He is a famous actor.",
+          "example_id": "Dia aktor yang terkenal."
+        },
+        {
+          "en": "director",
+          "id": "sutradara",
+          "phonetic": "/dəˈrektər/",
+          "example_en": "The director is very talented.",
+          "example_id": "Sutradaranya sangat berbakat."
+        },
+        {
+          "en": "character",
+          "id": "tokoh",
+          "phonetic": "/ˈkærəktər/",
+          "example_en": "The main character is brave.",
+          "example_id": "Tokoh utamanya pemberani."
+        },
+        {
+          "en": "scene",
+          "id": "adegan",
+          "phonetic": "/siːn/",
+          "example_en": "My favorite scene is at the end.",
+          "example_id": "Adegan favorit saya di bagian akhir."
+        },
+        {
+          "en": "plot",
+          "id": "alur cerita",
+          "phonetic": "/plɒt/",
+          "example_en": "The plot was very exciting.",
+          "example_id": "Alur ceritanya sangat mendebarkan."
+        },
+        {
+          "en": "ending",
+          "id": "akhir cerita",
+          "phonetic": "/ˈendɪŋ/",
+          "example_en": "I didn't like the ending.",
+          "example_id": "Saya tidak suka akhir ceritanya."
+        },
+        {
+          "en": "soundtrack",
+          "id": "musik latar",
+          "phonetic": "/ˈsaʊndtræk/",
+          "example_en": "The soundtrack is beautiful.",
+          "example_id": "Musik latarnya indah."
+        },
+        {
+          "en": "trailer",
+          "id": "cuplikan",
+          "phonetic": "/ˈtreɪlər/",
+          "example_en": "I watched the trailer online.",
+          "example_id": "Saya menonton cuplikan daring."
+        },
+        {
+          "en": "subtitle",
+          "id": "takarir",
+          "phonetic": "/ˈsʌbtaɪtl/",
+          "example_en": "Turn on the subtitle, please.",
+          "example_id": "Nyalakan takarirnya, tolong."
+        },
+        {
+          "en": "review",
+          "id": "ulasan",
+          "phonetic": "/rɪˈvjuː/",
+          "example_en": "I read a review before watching.",
+          "example_id": "Saya membaca ulasan sebelum menonton."
+        },
+        {
+          "en": "audience",
+          "id": "penonton",
+          "phonetic": "/ˈɔːdiəns/",
+          "example_en": "The audience laughed a lot.",
+          "example_id": "Penonton tertawa banyak."
+        },
+        {
+          "en": "comedy",
+          "id": "komedi",
+          "phonetic": "/ˈkɒmədi/",
+          "example_en": "I love comedy films.",
+          "example_id": "Saya suka film komedi."
+        },
+        {
+          "en": "horror",
+          "id": "horor",
+          "phonetic": "/ˈhɒrər/",
+          "example_en": "Horror films are too scary for me.",
+          "example_id": "Film horor terlalu menakutkan bagi saya."
+        },
+        {
+          "en": "exciting",
+          "id": "mendebarkan",
+          "phonetic": "/ɪkˈsaɪtɪŋ/",
+          "example_en": "The action film was exciting.",
+          "example_id": "Film aksinya mendebarkan."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut genre Indonesia, murid jawab bahasa Inggris + 1 adjektiva.\n2. Pair work: tanya 'What kind of movies do you like?' ke 5 teman, catat jawaban.\n3. Fill-in-the-blank: 10 kalimat dengan genre + adjektiva yang tepat.\n4. Error correction: perbaiki 5 kalimat (mis. 'I like comedy movie').\n5. Genre poster: kelompok buat poster 5 genre dengan contoh film + adjektiva.\n\nTugas rumah: Tulis 8 kalimat tentang genre film yang kamu suka/tidak suka dengan alasan karena.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What kind of movies do you like?",
+          "id": "Film jenis apa yang kamu suka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I love comedy. It makes me laugh.",
+          "id": "Saya suka komedi. Membuat saya tertawa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you like comedy?",
+          "id": "Kenapa kamu suka komedi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because it's funny and relaxing.",
+          "id": "Karena lucu dan menyenangkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like horror movies?",
+          "id": "Apakah kamu suka film horor?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I don't. They're too scary for me.",
+          "id": "Tidak. Terlalu menakutkan untuk saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about action movies?",
+          "id": "Bagaimana dengan film aksi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I like them. They're very exciting.",
+          "id": "Saya suka. Sangat mendebarkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever watched a sci-fi movie?",
+          "id": "Pernahkah kamu menonton film fiksi ilmiah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have. I find them imaginative.",
+          "id": "Ya. Saya merasa imajinatif."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your favorite genre?",
+          "id": "Apa genre favoritmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite genre is animation.",
+          "id": "Genre favorit saya animasi."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Genre Film yang Wajib Dikenal'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 8 kalimat tentang genre film yang kamu suka/tidak suka dengan alasan karena. Pelajaran berikutnya kita akan membahas kosakata hiburan inti, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "a2-l31",
+  "course_id": "english-a2",
+  "module_title": "Teknologi dan Internet",
+  "level": "A2",
+  "title": "Time Markers Present Perfect",
+  "subtitle": "Membahas perkembangan teknologi dengan present perfect dan pola used to",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan time markers present perfect (already, yet, just, ever, never, for, since)",
+    "Membedakan penggunaan masing-masing marker"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang ever dan yet? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-31 dengan judul 'Time Markers Present Perfect'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Selain ever/yet, ada time marker lain untuk present perfect. Mari lengkapi! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Time Markers Present Perfect (Teknologi)\n\nSelain ever/yet/already, ada beberapa time marker lain yang sering dipakai dengan present perfect di konteks teknologi.\n\n### 1. Sejak/selama: since & for\n\n| Marker | Pemakaian | Contoh teknologi |\n|---|---|---|\n| since | titik mulai | I have had this phone since 2021. |\n| for | lama waktu | I have used this app for two years. |\n\n### 2. Sejauh ini: so far\n\n- We **have** sold 1000 devices **so far**.\n- I **have** learned a lot **so far** in this course.\n\n### 3. Baru saja: just\n\n- She **has just** installed the new software.\n- I **have just** downloaded the update.\n\n### 4. Belum pernah: never\n\n- I **have never** used a 3D printer.\n- He **has never** owned a tablet.\n\n### 5. Tabel ringkas\n\n| Marker | Arti | Posisi | Jenis kalimat |\n|---|---|---|---|\n| ever | pernah | setelah subjek | tanya |\n| never | tidak pernah | setelah have/has | positif |\n| just | baru saja | setelah have/has | positif |\n| already | sudah | setelah have/has | positif |\n| yet | sudah/belum | akhir | tanya/negatif |\n| so far | sejauh ini | akhir | positif/negatif |\n| since | sejak | sebelum waktu | positif |\n| for | selama | sebelum durasi | positif |\n\n### 6. Mini-dialogue\n\n> A: **How long have** you **had** your laptop?\n> B: I **have had** it **since** 2021. I **have used** it **for** three years.\n> A: **Have** you **had** any problems **so far**?\n> B: No, I **haven't**. It **has** just **gotten** a new update.\n\n> **Hindari:** \"since three years\" (salah — *for three years*)\n> **Hindari:** \"I have this phone since 2021.\" (salah — *I have had this phone since 2021.* — butuh have + V3)\n\n### 7. Tip\n\nUntuk kalimat \"sudah punya sejak...\", gunakan **have had**: *I have had this phone since 2021.*",
+      "key_points": [
+        "since = titik mulai (since 2021, since Monday)",
+        "for = lama waktu (for three years, for two months)",
+        "so far = sejauh ini, posisi di akhir",
+        "just = baru saja, posisi setelah have/has",
+        "never = tidak pernah, posisi setelah have/has",
+        "Punya sejak: have had (I have had this phone since 2021)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "technology",
+          "id": "teknologi",
+          "phonetic": "/tekˈnɒlədʒi/",
+          "example_en": "Technology changes fast.",
+          "example_id": "Teknologi berubah cepat."
+        },
+        {
+          "en": "internet",
+          "id": "internet",
+          "phonetic": "/ˈɪntərnet/",
+          "example_en": "I use the internet every day.",
+          "example_id": "Saya menggunakan internet setiap hari."
+        },
+        {
+          "en": "smartphone",
+          "id": "ponsel pintar",
+          "phonetic": "/ˈsmɑːrtfoʊn/",
+          "example_en": "My smartphone is new.",
+          "example_id": "Ponsel pintar saya baru."
+        },
+        {
+          "en": "computer",
+          "id": "komputer",
+          "phonetic": "/kəmˈpjuːtər/",
+          "example_en": "She works on a computer.",
+          "example_id": "Dia bekerja dengan komputer."
+        },
+        {
+          "en": "laptop",
+          "id": "laptop",
+          "phonetic": "/ˈlæptɒp/",
+          "example_en": "I bring my laptop to school.",
+          "example_id": "Saya membawa laptop ke sekolah."
+        },
+        {
+          "en": "tablet",
+          "id": "tablet",
+          "phonetic": "/ˈtæblət/",
+          "example_en": "The tablet is on the desk.",
+          "example_id": "Tabletnya di atas meja."
+        },
+        {
+          "en": "application",
+          "id": "aplikasi",
+          "phonetic": "/ˌæplɪˈkeɪʃn/",
+          "example_en": "I downloaded a new application.",
+          "example_id": "Saya mengunduh aplikasi baru."
+        },
+        {
+          "en": "software",
+          "id": "perangkat lunak",
+          "phonetic": "/ˈsɒftwer/",
+          "example_en": "This software is free.",
+          "example_id": "Perangkat lunak ini gratis."
+        },
+        {
+          "en": "download",
+          "id": "mengunduh",
+          "phonetic": "/ˌdaʊnˈloʊd/",
+          "example_en": "I download music online.",
+          "example_id": "Saya mengunduh musik daring."
+        },
+        {
+          "en": "upload",
+          "id": "mengunggah",
+          "phonetic": "/ˌʌpˈloʊd/",
+          "example_en": "She uploaded a new photo.",
+          "example_id": "Dia mengunggah foto baru."
+        },
+        {
+          "en": "website",
+          "id": "situs web",
+          "phonetic": "/ˈwebsaɪt/",
+          "example_en": "Visit our website for details.",
+          "example_id": "Kunjungi situs web kami untuk detail."
+        },
+        {
+          "en": "email",
+          "id": "surel",
+          "phonetic": "/ˈiːmeɪl/",
+          "example_en": "I will send you an email.",
+          "example_id": "Saya akan mengirim surel kepada Anda."
+        },
+        {
+          "en": "message",
+          "id": "pesan",
+          "phonetic": "/ˈmesɪdʒ/",
+          "example_en": "I got your message.",
+          "example_id": "Saya menerima pesan Anda."
+        },
+        {
+          "en": "social media",
+          "id": "media sosial",
+          "phonetic": "/ˈsoʊʃl ˈmiːdiə/",
+          "example_en": "Many people use social media.",
+          "example_id": "Banyak orang menggunakan media sosial."
+        },
+        {
+          "en": "password",
+          "id": "kata sandi",
+          "phonetic": "/ˈpæswɜːrd/",
+          "example_en": "Keep your password safe.",
+          "example_id": "Jaga kata sandi Anda dengan aman."
+        },
+        {
+          "en": "to update",
+          "id": "memperbarui",
+          "phonetic": "/tuː ʌpˈdeɪt/",
+          "example_en": "Please update your app.",
+          "example_id": "Mohon perbarui aplikasi Anda."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut situasi + waktu, murid buat kalimat dengan since/for/just/so far.\n2. Pair work: tanya 'How long have you had/used...?' dengan 5 perangkat/aplikasi.\n3. Fill-in-the-blank: 10 kalimat dengan since/for/just/so far/never yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'since three years', 'I have this since 2021').\n5. Timeline tech: gambar garis waktu perangkat teknologi yang pernah dimiliki, tulis 5 kalimat.\n\nTugas rumah: Tulis 6 kalimat tentang perangkat/aplikasi yang kamu pakai dengan since/for/just/so far.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long have you had your laptop?",
+          "id": "Sudah berapa lama kamu punya laptopmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have had it since 2021.",
+          "id": "Sejak 2021."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "So you've used it for three years?",
+          "id": "Jadi kamu sudah memakainya tiga tahun?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have used it for three years.",
+          "id": "Ya, tiga tahun."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you had any problems so far?",
+          "id": "Pernah ada masalah sejauh ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I haven't. It works well.",
+          "id": "Tidak. Berfungsi baik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has it just gotten a new update?",
+          "id": "Apakah baru saja mendapat pembaruan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it has just updated last night.",
+          "id": "Ya, baru semalam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever owned a desktop computer?",
+          "id": "Pernahkah kamu punya komputer desktop?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I have never owned one.",
+          "id": "Tidak pernah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long have you used this software?",
+          "id": "Sudah berapa lama kamu memakai perangkat lunak ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have used it for about six months.",
+          "id": "Sekitar enam bulan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Time Markers Present Perfect'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat tentang perangkat/aplikasi yang kamu pakai dengan since/for/just/so far. Pelajaran berikutnya kita akan membahas pola used to untuk kebiasaan masa lalu, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

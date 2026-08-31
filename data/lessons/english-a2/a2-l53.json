@@ -1,0 +1,251 @@
+{
+  "id": "a2-l53",
+  "course_id": "english-a2",
+  "module_title": "Festival dan Tradisi",
+  "level": "A2",
+  "title": "Used to vs Past Simple",
+  "subtitle": "Membedakan kejadian tunggal dan kebiasaan berulang",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan kejadian tunggal (past simple) dan kebiasaan berulang (used to)",
+    "Memilih struktur yang tepat untuk konteks festival",
+    "Menghindari penggunaan used to untuk kebiasaan yang masih berlangsung"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar pola 'used to'. Siapa bisa beri satu contoh kalimat dengan 'used to' dari PR kemarin? Bagus. Hari ini kita akan membandingkan dua pola yang sudah kita pelajari: 'used to' dan 'past simple'. Keduanya bicara tentang masa lampau, tapi fungsinya berbeda. Coba pikirkan: kalau saya bilang 'I went to the festival' dan 'I used to go to the festival', apa bedanya? Itulah yang akan kita bahas hari ini. Rencana: kita pelajari perbedaan fungsinya, lalu berlatih memilih pola yang tepat untuk situasi berbeda.",
+      "instructions": "Sapa murid dan minta satu contoh PR 'used to'. Ajukan pertanyaan pancingan tentang perbedaan 'went' dan 'used to go'. Catat hipotesis murid di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Perbedaan 'Used to' dan 'Past Simple'\n\nKedua pola ini bicara tentang masa lampau, tetapi **fokusnya berbeda**.\n\n| Aspek | Used to | Past Simple |\n|---|---|---|\n| Arti | kebiasaan/keadaan lampau yang sudah berhenti | kejadian lampau yang selesai |\n| Durasi | berulang/panjang, sudah tidak berlaku | bisa satu kali atau berulang |\n| Contoh | I used to make ketupat. (dulu biasa, sekarang tidak) | I made ketupat last year. (kejadian satu kali) |\n| Bisa untuk keadaan? | Ya (I used to live in Bali) | Ya (I lived in Bali) |\n\n## Kapan Memakai 'Used to'?\n\nPakai **used to** ketika:\n- Menyatakan kebiasaan lampau yang **sudah berhenti**.\n  - I **used to watch** the parade every year. (dulu setiap tahun, sekarang tidak)\n- Menyatakan keadaan lampau yang **sudah berubah**.\n  - There **used to be** a big temple here. (dulu ada, sekarang tidak)\n\n## Kapan Memakai 'Past Simple'?\n\nPakai **past simple** ketika:\n- Menyatakan kejadian lampau **sekali atau beberapa kali** dengan waktu tertentu.\n  - We **went** to the festival last Sunday.\n  - She **wore** a costume yesterday.\n- Tidak menekankan bahwa kebiasaan sudah berhenti.\n\n## Perbandingan Langsung\n\n- I **used to celebrate** Galungan in my village. (dulu biasa, sekarang mungkin tidak)\n- I **celebrated** Galungan in my village last year. (kejadian tahun lalu)\n\n> **Hindari:** memakai 'used to' dengan waktu spesifik. Salah: 'I used to go to Bali last week.' Benar: 'I went to Bali last week.' 'Used to' tidak dipakai dengan time marker spesifik seperti yesterday, last week, in 2020.\n\n## Mini-dialogue\n\nA: I used to attend the parade every year when I was a child.\nB: Really? Did you go last year?\nA: Yes, I went last year, but I don't go every year anymore.\n\n> **Catatan:** 'used to' tidak dipakai untuk sesuatu yang baru saja terjadi. Hanya untuk kebiasaan/keadaan lampau yang sudah berubah.",
+      "key_points": [
+        "'Used to' untuk kebiasaan/keadaan lampau yang sudah berhenti atau berubah.",
+        "'Past simple' untuk kejadian lampau yang selesai, bisa sekali atau berulang.",
+        "'Used to' menekankan bahwa kebiasaan sudah tidak berlaku lagi.",
+        "'Past simple' netral, hanya melaporkan kejadian lampau.",
+        "Hindari 'used to' dengan time marker spesifik (yesterday, last week, in 2020).",
+        "'Used to' tidak dipakai untuk kejadian yang baru saja terjadi.",
+        "Keduanya bisa dipakai untuk keadaan lampau (used to live / lived)."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "festival",
+          "id": "festival",
+          "phonetic": "/ˈfestɪvl/",
+          "example_en": "We went to a big festival last week.",
+          "example_id": "Kami pergi ke festival besar minggu lalu."
+        },
+        {
+          "en": "celebration",
+          "id": "perayaan",
+          "phonetic": "/ˌselɪˈbreɪʃn/",
+          "example_en": "The celebration was very lively.",
+          "example_id": "Perayaannya sangat meriah."
+        },
+        {
+          "en": "tradition",
+          "id": "tradisi",
+          "phonetic": "/trəˈdɪʃn/",
+          "example_en": "This tradition is very old.",
+          "example_id": "Tradisi ini sudah sangat lama."
+        },
+        {
+          "en": "parade",
+          "id": "pawai",
+          "phonetic": "/pəˈreɪd/",
+          "example_en": "The parade started at dawn.",
+          "example_id": "Pawai dimulai saat fajar."
+        },
+        {
+          "en": "fireworks",
+          "id": "kembang api",
+          "phonetic": "/ˈfaɪərwɜːrks/",
+          "example_en": "We watched the fireworks at night.",
+          "example_id": "Kami menonton kembang api pada malam hari."
+        },
+        {
+          "en": "costume",
+          "id": "kostum",
+          "phonetic": "/ˈkɒstuːm/",
+          "example_en": "She wore a traditional costume.",
+          "example_id": "Dia memakai kostum tradisional."
+        },
+        {
+          "en": "ceremony",
+          "id": "upacara",
+          "phonetic": "/ˈserəməni/",
+          "example_en": "The ceremony was held at the temple.",
+          "example_id": "Upacara digelar di pura."
+        },
+        {
+          "en": "offering",
+          "id": "sesajen",
+          "phonetic": "/ˈɒfərɪŋ/",
+          "example_en": "My grandmother made offerings for the gods.",
+          "example_id": "Nenek saya membuat sesajen untuk para dewa."
+        },
+        {
+          "en": "decoration",
+          "id": "hiasan",
+          "phonetic": "/ˌdekəˈreɪʃn/",
+          "example_en": "The decorations were very colorful.",
+          "example_id": "Hiasannya sangat berwarna-warni."
+        },
+        {
+          "en": "performance",
+          "id": "pertunjukan",
+          "phonetic": "/pərˈfɔːrməns/",
+          "example_en": "We watched a dance performance.",
+          "example_id": "Kami menonton pertunjukan tari."
+        },
+        {
+          "en": "drum",
+          "id": "gendang",
+          "phonetic": "/drʌm/",
+          "example_en": "The musicians played traditional drums.",
+          "example_id": "Para musisi memainkan gendang tradisional."
+        },
+        {
+          "en": "lantern",
+          "id": "lentera",
+          "phonetic": "/ˈlæntərn/",
+          "example_en": "We lit lanterns in the garden.",
+          "example_id": "Kami menyalakan lentera di taman."
+        },
+        {
+          "en": "feast",
+          "id": "pesta makan",
+          "phonetic": "/fiːst/",
+          "example_en": "The family had a big feast together.",
+          "example_id": "Keluarga itu mengadakan pesta makan besar bersama."
+        },
+        {
+          "en": "guest",
+          "id": "tamu",
+          "phonetic": "/ɡest/",
+          "example_en": "Many guests came to the celebration.",
+          "example_id": "Banyak tamu datang ke perayaan itu."
+        },
+        {
+          "en": "dance",
+          "id": "tarian",
+          "phonetic": "/dæns/",
+          "example_en": "The traditional dance was beautiful.",
+          "example_id": "Tarian tradisionalnya indah."
+        },
+        {
+          "en": "to celebrate",
+          "id": "merayakan",
+          "phonetic": "/tuː ˈselɪbreɪt/",
+          "example_en": "We celebrate Galungan every year.",
+          "example_id": "Kami merayakan Galungan setiap tahun."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru memberikan kalimat, murid tentukan apakah pakai 'used to' atau 'past simple' dan mengucapkannya.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan 'used to' atau past simple yang tepat.\n3) **Pair work (5 menit):** Tanyakan-jawab tentang kebiasaan masa kecil vs kejadian festival tahun lalu.\n4) **Role play (4 menit):** Dua murid menceritakan bagaimana tradisi berubah dari dulu sampai sekarang.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'I used to go to Bali yesterday' -> 'I went to Bali yesterday').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's compare. Which is correct: 'I used to go to Bali last week' or 'I went to Bali last week'?",
+          "id": "Mari kita bandingkan. Mana yang benar: 'I used to go to Bali last week' atau 'I went to Bali last week'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'I went to Bali last week' is correct because it's a specific time.",
+          "id": "'I went to Bali last week' yang benar karena waktunya spesifik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Now, which pattern for a habit that stopped: 'I ___ watch the parade every year.'",
+          "id": "Bagus. Sekarang, pola mana untuk kebiasaan yang sudah berhenti: 'I ___ watch the parade every year.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'I used to watch the parade every year.'",
+          "id": "'I used to watch the parade every year.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Make a past simple sentence about a festival.",
+          "id": "Bagus. Buat kalimat past simple tentang sebuah festival."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We celebrated Galungan at the temple last month.",
+          "id": "Kami merayakan Galungan di pura bulan lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now make a 'used to' sentence about a tradition that changed.",
+          "id": "Sekarang buat kalimat 'used to' tentang tradisi yang berubah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "People used to make their own offerings, but now many buy them.",
+          "id": "Dulu orang biasa membuat sesajen sendiri, tapi sekarang banyak yang membeli."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'I used to wear a costume yesterday.'",
+          "id": "Perbaiki ini: 'I used to wear a costume yesterday.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'I wore a costume yesterday.'",
+          "id": "Seharusnya 'I wore a costume yesterday.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why can't we use 'used to' there?",
+          "id": "Mengapa kita tidak bisa pakai 'used to' di situ?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'yesterday' is a specific time, and 'used to' is for habits.",
+          "id": "Karena 'yesterday' itu waktu spesifik, dan 'used to' untuk kebiasaan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: 'There ___ be a big temple here.' Which pattern?",
+          "id": "Sempurna. Terakhir: 'There ___ be a big temple here.' Pola mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'There used to be a big temple here.'",
+          "id": "'There used to be a big temple here.'"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah bisa membedakan 'used to' dan 'past simple'. Mari kita ringkas: 'used to' untuk kebiasaan lampau yang sudah berhenti, sedangkan 'past simple' untuk kejadian lampau dengan waktu tertentu. Coba saya tanya: kalau saya bilang 'I went to the festival last Sunday', boleh diganti 'I used to go'? Tidak boleh, karena waktunya spesifik. Bagus sekali. Untuk PR, tulis 6 kalimat: 3 dengan 'used to' (kebiasaan yang berubah) dan 3 dengan 'past simple' (kejadian dengan waktu tertentu). Pertemuan berikutnya kita akan belajar time markers khas teks festival seperti 'last week', 'in 2019', 'a few years ago'. Sampai jumpa!",
+      "instructions": "Tegaskan perbedaan fokus kedua pola. Berikan 1-2 pertanyaan pemahaman lisan. Beri PR tertulis dan ingatkan topik time markers di pelajaran berikutnya."
+    }
+  ]
+}

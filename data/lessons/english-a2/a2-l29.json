@@ -1,0 +1,237 @@
+{
+  "id": "a2-l29",
+  "course_id": "english-a2",
+  "module_title": "Teknologi dan Internet",
+  "level": "A2",
+  "title": "Present Perfect: Pengalaman dan Perubahan Teknologi",
+  "subtitle": "Membahas perkembangan teknologi dengan present perfect dan pola used to",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan present perfect untuk pengalaman teknologi",
+    "Menggunakan present perfect untuk perubahan teknologi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Modul Lingkungan tentang diskusi lingkungan? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-29 dengan judul 'Present Perfect: Pengalaman dan Perubahan Teknologi'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Teknologi berkembang sangat cepat. Bagaimana mengatakan 'Saya sudah membeli smartphone baru' atau 'Internet telah berubah'? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Present Perfect: Pengalaman dan Perubahan Teknologi\n\n**Present perfect** sangat cocok untuk membicarakan **pengalaman dengan teknologi** dan **perubahan teknologi** dari dulu sampai sekarang.\n\n### 1. Rumus (ingat kembali)\n\n**Subjek + have/has + V3 (past participle)**\n\n- I **have bought** a new smartphone.\n- She **has downloaded** a useful app.\n- Technology **has changed** our lives.\n\n### 2. Pengalaman dengan teknologi\n\n- **Have** you **ever** used a tablet? — Yes, I have.\n- I **have never** owned a smartwatch.\n- He **has** already **updated** his laptop.\n\n### 3. Perubahan teknologi\n\n- The internet **has become** faster.\n- Smartphones **have replaced** many old devices.\n- Online shopping **has grown** a lot.\n\n### 4. Kata kerja teknologi umum (V3)\n\n| V1 | V3 | Arti |\n|---|---|---|\n| download | downloaded | mengunduh |\n| upload | uploaded | mengunggah |\n| update | updated | memperbarui |\n| install | installed | memasang |\n| buy | bought | membeli |\n| use | used | menggunakan |\n| try | tried | mencoba |\n\n### 5. Mini-dialogue\n\n> A: **Have** you **bought** a new phone?\n> B: Yes, I **have**. I **have** also **downloaded** some apps.\n> A: **Has** the internet **gotten** faster at your home?\n> B: Yes, it **has improved** a lot this year.\n\n> **Hindari:** \"I have buy a phone.\" (salah — *I have bought a phone.* — pakai V3)\n> **Hindari:** \"She have downloaded.\" (salah — *She has downloaded.*)\n\n### 6. Tip\n\nUntuk teknologi, sering pakai **just** (baru saja): *I have just updated my app.* Ini menekankan bahwa aksi baru selesai dan relevan sekarang.",
+      "key_points": [
+        "Rumus: subjek + have/has + V3 untuk pengalaman & perubahan teknologi",
+        "Pengalaman: Have you ever used...? I have never owned...",
+        "Perubahan: The internet has become faster; Technology has changed our lives",
+        "Kata kerja V3: downloaded, uploaded, updated, installed, bought, used, tried",
+        "Pakai just untuk aksi baru selesai: I have just updated my app",
+        "Salah: 'I have buy'; Benar: 'I have bought'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "technology",
+          "id": "teknologi",
+          "phonetic": "/tekˈnɒlədʒi/",
+          "example_en": "Technology changes fast.",
+          "example_id": "Teknologi berubah cepat."
+        },
+        {
+          "en": "internet",
+          "id": "internet",
+          "phonetic": "/ˈɪntərnet/",
+          "example_en": "I use the internet every day.",
+          "example_id": "Saya menggunakan internet setiap hari."
+        },
+        {
+          "en": "smartphone",
+          "id": "ponsel pintar",
+          "phonetic": "/ˈsmɑːrtfoʊn/",
+          "example_en": "My smartphone is new.",
+          "example_id": "Ponsel pintar saya baru."
+        },
+        {
+          "en": "computer",
+          "id": "komputer",
+          "phonetic": "/kəmˈpjuːtər/",
+          "example_en": "She works on a computer.",
+          "example_id": "Dia bekerja dengan komputer."
+        },
+        {
+          "en": "laptop",
+          "id": "laptop",
+          "phonetic": "/ˈlæptɒp/",
+          "example_en": "I bring my laptop to school.",
+          "example_id": "Saya membawa laptop ke sekolah."
+        },
+        {
+          "en": "tablet",
+          "id": "tablet",
+          "phonetic": "/ˈtæblət/",
+          "example_en": "The tablet is on the desk.",
+          "example_id": "Tabletnya di atas meja."
+        },
+        {
+          "en": "application",
+          "id": "aplikasi",
+          "phonetic": "/ˌæplɪˈkeɪʃn/",
+          "example_en": "I downloaded a new application.",
+          "example_id": "Saya mengunduh aplikasi baru."
+        },
+        {
+          "en": "software",
+          "id": "perangkat lunak",
+          "phonetic": "/ˈsɒftwer/",
+          "example_en": "This software is free.",
+          "example_id": "Perangkat lunak ini gratis."
+        },
+        {
+          "en": "download",
+          "id": "mengunduh",
+          "phonetic": "/ˌdaʊnˈloʊd/",
+          "example_en": "I download music online.",
+          "example_id": "Saya mengunduh musik daring."
+        },
+        {
+          "en": "upload",
+          "id": "mengunggah",
+          "phonetic": "/ˌʌpˈloʊd/",
+          "example_en": "She uploaded a new photo.",
+          "example_id": "Dia mengunggah foto baru."
+        },
+        {
+          "en": "website",
+          "id": "situs web",
+          "phonetic": "/ˈwebsaɪt/",
+          "example_en": "Visit our website for details.",
+          "example_id": "Kunjungi situs web kami untuk detail."
+        },
+        {
+          "en": "email",
+          "id": "surel",
+          "phonetic": "/ˈiːmeɪl/",
+          "example_en": "I will send you an email.",
+          "example_id": "Saya akan mengirim surel kepada Anda."
+        },
+        {
+          "en": "message",
+          "id": "pesan",
+          "phonetic": "/ˈmesɪdʒ/",
+          "example_en": "I got your message.",
+          "example_id": "Saya menerima pesan Anda."
+        },
+        {
+          "en": "social media",
+          "id": "media sosial",
+          "phonetic": "/ˈsoʊʃl ˈmiːdiə/",
+          "example_en": "Many people use social media.",
+          "example_id": "Banyak orang menggunakan media sosial."
+        },
+        {
+          "en": "password",
+          "id": "kata sandi",
+          "phonetic": "/ˈpæswɜːrd/",
+          "example_en": "Keep your password safe.",
+          "example_id": "Jaga kata sandi Anda dengan aman."
+        },
+        {
+          "en": "to update",
+          "id": "memperbarui",
+          "phonetic": "/tuː ʌpˈdeɪt/",
+          "example_en": "Please update your app.",
+          "example_id": "Mohon perbarui aplikasi Anda."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut aksi teknologi, murid buat kalimat present perfect (have/has + V3).\n2. Pair work: tanya 'Have you ever used/bought/tried...?' dengan 6 perangkat/aplikasi.\n3. Fill-in-the-blank: 10 kalimat dengan have/has + V3 teknologi yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'I have buy', 'She have downloaded').\n5. Discussion: sebutkan 4 perubahan teknologi di hidupmu dengan present perfect.\n\nTugas rumah: Tulis 6 kalimat present perfect tentang pengalaman dan perubahan teknologi dalam hidupmu.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you bought a new smartphone recently?",
+          "id": "Apakah kamu sudah membeli smartphone baru baru ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have. I bought it last month.",
+          "id": "Ya, bulan lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you downloaded any useful apps?",
+          "id": "Apakah kamu sudah mengunduh aplikasi berguna?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have downloaded a language app.",
+          "id": "Ya, aplikasi bahasa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has the internet gotten faster at your home?",
+          "id": "Apakah internet di rumahmu menjadi lebih cepat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it has improved a lot this year.",
+          "id": "Ya, jauh membaik tahun ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever used a tablet for studying?",
+          "id": "Pernahkah kamu menggunakan tablet untuk belajar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have used one at school.",
+          "id": "Ya, di sekolah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has technology changed your daily life?",
+          "id": "Apakah teknologi mengubah hidupmu sehari-hari?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it has changed a lot of things.",
+          "id": "Ya, banyak hal berubah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you updated your laptop recently?",
+          "id": "Apakah kamu sudah memperbarui laptopmu baru-baru ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have just updated it yesterday.",
+          "id": "Ya, baru saja kemarin."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Present Perfect: Pengalaman dan Perubahan Teknologi'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat present perfect tentang pengalaman dan perubahan teknologi dalam hidupmu. Pelajaran berikutnya kita akan membahas pertanyaan dengan ever dan yet, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

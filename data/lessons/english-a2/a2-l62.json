@@ -1,0 +1,263 @@
+{
+  "id": "a2-l62",
+  "course_id": "english-a2",
+  "module_title": "Rumah dan Perabot",
+  "level": "A2",
+  "title": "Menggabungkan Semua Struktur Rumah",
+  "subtitle": "Menulis deskripsi rumah yang utuh dan runtut",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggabungkan there is/there are, preposisi, dan kosakata rumah",
+    "Menulis paragraf deskripsi rumah yang lengkap",
+    "Mendeskripsikan rumah untuk iklan sewa atau penjelasan kepada tamu"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita sampai di pelajaran terakhir modul Rumah dan Perabot. Kita sudah belajar 'there is/there are', preposisi tempat, kosakata, urutan deskripsi, dan 'some/any'. Sekarang waktunya menggabungkan semuanya menjadi deskripsi rumah yang lengkap dan menarik. Coba bayangkan rumah kalian. Kalau ada teman bertanya 'Tell me about your house', apa yang kalian jawab? Itulah yang akan kita susun hari ini. Rencana: kita pelajari cara menggabungkan semua struktur, lalu berlatih menulis deskripsi rumah lengkap.",
+      "instructions": "Sapa murid dan tegaskan ini pelajaran terakhir modul. Minta murid membayangkan rumah mereka. Jelaskan tujuan: menggabungkan semua struktur dalam deskripsi rumah."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menggabungkan Semua Struktur\n\nDeskripsi rumah yang lengkap memakai **semua pola** yang sudah kita pelajari:\n1. **There is / There are** untuk menyatakan keberadaan benda.\n2. **Preposisi tempat** untuk posisi (in, on, under, next to, between, behind, above).\n3. **Kosakata rumah** untuk ruangan dan perabot.\n4. **Urutan logis**: umum -> perabot utama -> aksesori.\n5. **Some / Any** untuk jumlah yang tidak tentu.\n\n## Contoh Deskripsi Rumah Lengkap\n\nMy house is small but comfortable. It has a living room, two bedrooms, a kitchen, and a bathroom.\n\nThe living room is the biggest room. **There is** a big sofa **in** the living room. **There are** two armchairs **next to** the window. **There is** a TV **above** the cupboard. **There are some** cushions on the sofa, but **there aren't any** rugs on the floor.\n\nMy bedroom is small but cozy. **There is** a bed **near** the window. **There is** a desk **next to** the bed with a lamp **on** it. **There is** a wardrobe **between** the door and the window. **There are some** books **on** the shelf. The curtains are blue.\n\nThe kitchen is **behind** the living room. **There is** a stove, a sink, and a refrigerator. **There is some** fruit **on** the table.\n\nI really love my house. It is small, but it is warm and comfortable.\n\n## Tips Menulis Deskripsi Rumah\n\n- Mulai dengan **gambaran umum** rumah: ukuran, jumlah ruangan.\n- Deskripsikan **satu ruangan per paragraf** supaya rapi.\n- Di setiap ruangan, ikuti **urutan logis**: ciri umum -> perabot -> aksesori.\n- Pakai **there is/there are** + **preposisi** + **kosakata** + **some/any**.\n- Akhiri dengan **kesan pribadi** tentang rumah.\n\n> **Hindari:** mencampur semua ruangan dalam satu paragraf. Setiap ruangan sebaiknya punya paragraf sendiri supaya deskripsi rapi.\n\n> **Catatan:** Bila perlu, hubungkan ruangan dengan preposisi: 'The kitchen is behind the living room.' 'The garden is next to the kitchen.'\n\n## Mini-dialogue\n\nA: Tell me about your house.\nB: My house has a living room, two bedrooms, and a kitchen. There is a big sofa in the living room and there are some cushions on it.\nA: What about your bedroom?\nB: There is a bed near the window and a desk next to it. I really love my room.",
+      "key_points": [
+        "Deskripsi rumah lengkap menggabungkan: there is/are, preposisi, kosakata, urutan, some/any.",
+        "Mulai dengan gambaran umum rumah: ukuran dan jumlah ruangan.",
+        "Deskripsikan satu ruangan per paragraf supaya rapi.",
+        "Ikuti urutan logis di setiap ruangan: umum -> perabot -> aksesori.",
+        "Hubungkan ruangan dengan preposisi (behind, next to).",
+        "Akhiri dengan kesan pribadi tentang rumah.",
+        "Hindari mencampur semua ruangan dalam satu paragraf."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "living room",
+          "id": "ruang tamu",
+          "phonetic": "/ˈlɪvɪŋ ruːm/",
+          "example_en": "There is a sofa in the living room.",
+          "example_id": "Ada sofa di ruang tamu."
+        },
+        {
+          "en": "bedroom",
+          "id": "kamar tidur",
+          "phonetic": "/ˈbedruːm/",
+          "example_en": "My bedroom is small but cozy.",
+          "example_id": "Kamar tidur saya kecil tetapi nyaman."
+        },
+        {
+          "en": "kitchen",
+          "id": "dapur",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "example_en": "The kitchen is next to the living room.",
+          "example_id": "Dapurnya di sebelah ruang tamu."
+        },
+        {
+          "en": "bathroom",
+          "id": "kamar mandi",
+          "phonetic": "/ˈbæθruːm/",
+          "example_en": "There is a sink in the bathroom.",
+          "example_id": "Ada bak cuci tangan di kamar mandi."
+        },
+        {
+          "en": "dining room",
+          "id": "ruang makan",
+          "phonetic": "/ˈdaɪnɪŋ ruːm/",
+          "example_en": "We eat together in the dining room.",
+          "example_id": "Kami makan bersama di ruang makan."
+        },
+        {
+          "en": "garden",
+          "id": "taman",
+          "phonetic": "/ˈɡɑːrdn/",
+          "example_en": "The garden is behind the kitchen.",
+          "example_id": "Tamannya di belakang dapur."
+        },
+        {
+          "en": "sofa",
+          "id": "sofa",
+          "phonetic": "/ˈsoʊfə/",
+          "example_en": "There is a big sofa in the living room.",
+          "example_id": "Ada sofa besar di ruang tamu."
+        },
+        {
+          "en": "armchair",
+          "id": "kursi berlengan",
+          "phonetic": "/ˈɑːrmtʃer/",
+          "example_en": "There are two armchairs next to the window.",
+          "example_id": "Ada dua kursi berlengan di sebelah jendela."
+        },
+        {
+          "en": "wardrobe",
+          "id": "lemari pakaian",
+          "phonetic": "/ˈwɔːrdroʊb/",
+          "example_en": "There is a wardrobe between the door and the window.",
+          "example_id": "Ada lemari pakaian di antara pintu dan jendela."
+        },
+        {
+          "en": "shelf",
+          "id": "rak",
+          "phonetic": "/ʃelf/",
+          "example_en": "There are some books on the shelf.",
+          "example_id": "Ada beberapa buku di rak."
+        },
+        {
+          "en": "cupboard",
+          "id": "lemari",
+          "phonetic": "/ˈkʌpbərd/",
+          "example_en": "The TV is above the cupboard.",
+          "example_id": "Televisinya di atas lemari."
+        },
+        {
+          "en": "lamp",
+          "id": "lampu",
+          "phonetic": "/læmp/",
+          "example_en": "There is a lamp on the desk.",
+          "example_id": "Ada lampu di atas meja."
+        },
+        {
+          "en": "rug",
+          "id": "karpet",
+          "phonetic": "/rʌɡ/",
+          "example_en": "There is a rug under the table.",
+          "example_id": "Ada karpet di bawah meja."
+        },
+        {
+          "en": "curtain",
+          "id": "tirai",
+          "phonetic": "/ˈkɜːrtn/",
+          "example_en": "The curtains are blue.",
+          "example_id": "Tirainya berwarna biru."
+        },
+        {
+          "en": "sink",
+          "id": "bak cuci tangan",
+          "phonetic": "/sɪŋk/",
+          "example_en": "There is a sink in the kitchen.",
+          "example_id": "Ada bak cuci tangan di dapur."
+        },
+        {
+          "en": "refrigerator",
+          "id": "kulkas",
+          "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+          "example_en": "There is a refrigerator next to the stove.",
+          "example_id": "Ada kulkas di sebelah kompor."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Analisis (4 menit):** Baca deskripsi rumah contoh, identifikasi semua struktur yang dipakai (there is/are, preposisi, some/any).\n2) **Fill-in-the-blank (5 menit):** Lengkapi deskripsi rumah dengan struktur yang tepat.\n3) **Pair work (5 menit):** Ceritakan rumah ke pasangan dalam 8-10 kalimat memakai semua struktur.\n4) **Writing (4 menit):** Tulis deskripsi rumah lengkap (10-12 kalimat) memakai minimal 2 paragraf.\n5) **Sharing (2 menit):** 2 murid membacakan deskripsi mereka.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Today we combine everything. What structures do we use to describe a house?",
+          "id": "Hari ini kita gabungkan semuanya. Struktur apa yang dipakai untuk mendeskripsikan rumah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is/there are, prepositions, vocabulary, order, and some/any.",
+          "id": "There is/there are, preposisi, kosakata, urutan, dan some/any."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. How should we organize the description?",
+          "id": "Bagus. Bagaimana sebaiknya kita menyusun deskripsinya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "One room per paragraph, starting with general features.",
+          "id": "Satu ruangan per paragraf, mulai dari ciri umum."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Describe your living room using there is/are and a preposition.",
+          "id": "Bagus. Deskripsikan ruang tamumu memakai there is/are dan preposisi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There is a big sofa in the living room, and there are two armchairs next to the window.",
+          "id": "Ada sofa besar di ruang tamu, dan ada dua kursi berlengan di sebelah jendela."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now use 'some' or 'any' in a sentence about your kitchen.",
+          "id": "Sekarang pakai 'some' atau 'any' dalam kalimat tentang dapurmu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There are some plates on the table, but there isn't any milk in the fridge.",
+          "id": "Ada beberapa piring di meja, tapi tidak ada susu di kulkas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great. How do you connect two rooms?",
+          "id": "Bagus. Bagaimana menghubungkan dua ruangan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "With a preposition, like 'The kitchen is behind the living room.'",
+          "id": "Dengan preposisi, seperti 'The kitchen is behind the living room.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How should you end the description?",
+          "id": "Bagaimana sebaiknya mengakhiri deskripsi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "With a personal feeling, like 'I really love my house.'",
+          "id": "Dengan perasaan pribadi, seperti 'I really love my house.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now write your full house description in 10-12 sentences.",
+          "id": "Sempurna. Sekarang tulis deskripsi rumah kalian lengkap dalam 10-12 kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Okay, I'll describe my living room, my bedroom, and my kitchen.",
+          "id": "Baik, saya akan mendeskripsikan ruang tamu, kamar tidur, dan dapur saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Don't forget to use some and any!",
+          "id": "Jangan lupa pakai some dan any!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will. I'll use 'some' for positive and 'any' for negative.",
+          "id": "Saya akan. Saya pakai 'some' untuk positif dan 'any' untuk negatif."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kalian sudah menyelesaikan modul Rumah dan Perabot dengan menulis deskripsi rumah lengkap. Mari kita ingat semua yang sudah kita pelajari: 'there is/there are', preposisi tempat, kosakata rumah, urutan deskripsi, dan 'some/any'. Coba saya tanya: kalau mau deskripsikan rumah, mulai dari mana? Benar, gambaran umum dulu. Apa yang dipakai untuk menyatakan keberadaan benda? Tepat, 'there is/there are'. Untuk PR, tulis deskripsi rumah kalian lengkap (12-15 kalimat, minimal 3 paragraf) memakai semua struktur yang sudah dipelajari. Modul berikutnya kita akan masuk topik baru: Hewan Peliharaan, di mana kita belajar menceritakan hewan peliharaan memakai 'have got/has got'. Sampai jumpa di modul baru!",
+      "instructions": "Tegaskan semua struktur dan apresiasi penyelesaian modul. Beri PR deskripsi rumah lengkap. Umumkan topik modul berikutnya: Hewan Peliharaan."
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "id": "a2-l81",
+  "course_id": "english-a2",
+  "module_title": "Persahabatan",
+  "level": "A2",
+  "title": "Menyusun Paragraf tentang Teman",
+  "subtitle": "Menggabungkan adjektiva, used to, dan present perfect",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun paragraf tentang teman dengan urutan yang baik",
+    "Menggabungkan adjektiva, used to, dan present perfect",
+    "Menulis deskripsi sahabat yang lengkap"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita sampai di pelajaran terakhir modul Persahabatan. Kita sudah belajar adjektiva kepribadian, 'used to', present perfect dengan since/for, dan kosakata persahabatan. Sekarang waktunya menggabungkan semuanya menjadi paragraf tentang teman. Coba bayangkan sahabat kalian. Kalau ada teman baru bertanya 'Tell me about your best friend', apa yang kalian jawab? Itulah yang akan kita susun hari ini. Rencana: kita pelajari struktur paragraf tentang teman, lalu berlatih menulisnya memakai semua pola yang sudah dipelajari.",
+      "instructions": "Sapa murid dan tegaskan ini pelajaran terakhir modul. Minta murid membayangkan sahabat. Jelaskan tujuan: menyusun paragraf tentang teman."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menyusun Paragraf tentang Teman\n\nParagraf yang baik tentang teman memakai **semua pola** yang sudah kita pelajari:\n1. **Adjektiva kepribadian** untuk sifat.\n2. **'Used to'** untuk perubahan.\n3. **Present perfect + since/for** untuk durasi.\n4. **Kosakata persahabatan** untuk konsep dan tindakan.\n\n## Struktur Paragraf\n\n### 1. Perkenalan\nSiapa temannya, namanya, sejak kapa.\n- My best friend is Sarah. I **have known** her **since** primary school, so we **have been** friends **for** ten years.\n\n### 2. Sifat\nDeskripsikan sifat memakai adjektiva.\n- She **is loyal, honest, and kind**. She **is always supportive** when I have problems. She **is also funny** and makes me laugh.\n\n### 3. Perubahan atau Tindakan\nGunakan 'used to' atau tindakan persahabatan.\n- She **used to be** shy, but now she is outgoing. We **share** our secrets and **keep in touch** every day.\n\n### 4. Kesan Pribadi\nKesan atau perasaan tentang persahabatan.\n- I **trust** her completely. Our friendship **has lasted for** ten years and I hope it will last forever.\n\n## Contoh Paragraf Lengkap\n\nMy best friend is Sarah. I **have known** her **since** primary school, so we **have been** friends **for** ten years. She **is loyal, honest, and kind**. She **is always supportive** when I have problems, and she **is funny** too. She **used to be** very shy, but now she is outgoing and confident. We **share** our secrets with each other and we **keep in touch** every day. I **trust** her completely. Our friendship **has lasted for** a long time, and I hope it will last forever.\n\n## Tips Menulis Paragraf\n\n- Mulai dengan **perkenalan**: nama, sejak kapa (since/for).\n- Lalu **sifat** memakai adjektiva kepribadian.\n- Tambahkan **perubahan** atau **tindakan** memakai 'used to' atau kata kerja (share, trust).\n- Akhiri dengan **kesan pribadi**.\n- Pakai **penghubung** (and, but, because, so) supaya mengalir.\n\n> **Hindari:** mencampur semua ide tanpa urutan. Ikuti struktur: perkenalan -> sifat -> perubahan/tindakan -> kesan.\n\n> **Catatan:** Bila tidak punya sahabat dekat, kalian bisa menceritakan teman biasa atau anggota keluarga.\n\n## Mini-dialogue\n\nA: Tell me about your best friend.\nB: My best friend is Sarah. I have known her since primary school. She is loyal and funny.\nA: Has your friendship changed?\nB: Yes, she used to be shy, but now she is outgoing. We still keep in touch every day.",
+      "key_points": [
+        "Paragraf tentang teman menggabungkan: adjektiva, used to, present perfect + since/for, kosakata.",
+        "Struktur: perkenalan -> sifat -> perubahan/tindakan -> kesan.",
+        "Mulai dengan perkenalan: nama, sejak kapa (since/for).",
+        "Sifat memakai adjektiva kepribadian (loyal, honest, kind).",
+        "Perubahan memakai 'used to', tindakan memakai share, trust, keep in touch.",
+        "Akhiri dengan kesan pribadi tentang persahabatan.",
+        "Pakai penghubung (and, but, because, so) supaya paragraf mengalir."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "friend",
+          "id": "teman",
+          "phonetic": "/frend/",
+          "example_en": "She is my best friend.",
+          "example_id": "Dia sahabat saya."
+        },
+        {
+          "en": "friendship",
+          "id": "persahabatan",
+          "phonetic": "/ˈfrendʃɪp/",
+          "example_en": "Our friendship has lasted for ten years.",
+          "example_id": "Persahabatan kami sudah berlangsung sepuluh tahun."
+        },
+        {
+          "en": "best friend",
+          "id": "sahabat",
+          "phonetic": "/best frend/",
+          "example_en": "My best friend is loyal and supportive.",
+          "example_id": "Sahabat saya setia dan mendukung."
+        },
+        {
+          "en": "loyal",
+          "id": "setia",
+          "phonetic": "/ˈlɔɪəl/",
+          "example_en": "He is a loyal friend.",
+          "example_id": "Dia teman yang setia."
+        },
+        {
+          "en": "honest",
+          "id": "jujur",
+          "phonetic": "/ˈɒnɪst/",
+          "example_en": "I like her because she is honest.",
+          "example_id": "Saya suka dia karena dia jujur."
+        },
+        {
+          "en": "kind",
+          "id": "baik hati",
+          "phonetic": "/kaɪnd/",
+          "example_en": "She is kind to everyone.",
+          "example_id": "Dia baik hati kepada semua orang."
+        },
+        {
+          "en": "supportive",
+          "id": "mendukung",
+          "phonetic": "/səˈpɔːrtɪv/",
+          "example_en": "She is supportive when I have problems.",
+          "example_id": "Dia mendukung saat saya punya masalah."
+        },
+        {
+          "en": "generous",
+          "id": "dermawan",
+          "phonetic": "/ˈdʒenərəs/",
+          "example_en": "He is generous with his time.",
+          "example_id": "Dia dermawan dengan waktunya."
+        },
+        {
+          "en": "funny",
+          "id": "lucu",
+          "phonetic": "/ˈfʌni/",
+          "example_en": "He is funny and always makes me laugh.",
+          "example_id": "Dia lucu dan selalu membuat saya tertawa."
+        },
+        {
+          "en": "patient",
+          "id": "sabar",
+          "phonetic": "/ˈpeɪʃnt/",
+          "example_en": "A good friend should be patient.",
+          "example_id": "Teman yang baik sebaiknya sabar."
+        },
+        {
+          "en": "shy",
+          "id": "pemalu",
+          "phonetic": "/ʃaɪ/",
+          "example_en": "He used to be very shy.",
+          "example_id": "Dia dulu sangat pemalu."
+        },
+        {
+          "en": "outgoing",
+          "id": "supel",
+          "phonetic": "/ˈaʊtɡoʊɪŋ/",
+          "example_en": "She is outgoing and loves parties.",
+          "example_id": "Dia supel dan suka pesta."
+        },
+        {
+          "en": "to trust",
+          "id": "mempercayai",
+          "phonetic": "/tuː trʌst/",
+          "example_en": "I trust my best friend completely.",
+          "example_id": "Saya mempercayai sahabat saya sepenuhnya."
+        },
+        {
+          "en": "to share",
+          "id": "berbagi",
+          "phonetic": "/tuː ʃer/",
+          "example_en": "We share our secrets with each other.",
+          "example_id": "Kami berbagi rahasia satu sama lain."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "We still keep in touch after all these years.",
+          "example_id": "Kami masih tetap berkomunikasi setelah sekian tahun."
+        },
+        {
+          "en": "secret",
+          "id": "rahasia",
+          "phonetic": "/ˈsiːkrɪt/",
+          "example_en": "She keeps my secrets safe.",
+          "example_id": "Dia menjaga rahasia saya dengan aman."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Analisis (4 menit):** Baca paragraf contoh, identifikasi semua pola yang dipakai.\n2) **Fill-in-the-blank (5 menit):** Lengkapi paragraf dengan struktur yang tepat.\n3) **Pair work (5 menit):** Ceritakan sahabat ke pasangan dalam 6-8 kalimat memakai semua pola.\n4) **Writing (4 menit):** Tulis paragraf lengkap (8-10 kalimat) tentang sahabat atau teman dekat.\n5) **Sharing (2 menit):** 2 murid membacakan paragraf mereka.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Today we combine everything. What should a paragraph about a friend include?",
+          "id": "Hari ini kita gabungkan semuanya. Apa yang harus ada dalam paragraf tentang teman?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Introduction, personality, changes, and personal feeling.",
+          "id": "Perkenalan, sifat, perubahan, dan perasaan pribadi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. How do you start?",
+          "id": "Bagus. Bagaimana memulainya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My best friend is Sarah. I have known her since primary school.",
+          "id": "Sahabat saya Sarah. Saya mengenalnya sejak sekolah dasar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Now describe her personality.",
+          "id": "Bagus. Sekarang deskripsikan sifatnya."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is loyal, honest, and kind. She is always supportive.",
+          "id": "Dia setia, jujur, dan baik hati. Dia selalu mendukung."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now add a change with 'used to'.",
+          "id": "Sekarang tambahkan perubahan dengan 'used to'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She used to be shy, but now she is outgoing.",
+          "id": "Dia dulu pemalu, tapi sekarang supel."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Add an action with 'share' or 'trust'.",
+          "id": "Bagus. Tambahkan tindakan dengan 'share' atau 'trust'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We share our secrets and I trust her completely.",
+          "id": "Kami berbagi rahasia dan saya mempercayainya sepenuhnya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you end the paragraph?",
+          "id": "Bagaimana mengakhiri paragraf?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "With a personal feeling, like 'I hope our friendship will last forever.'",
+          "id": "Dengan perasaan pribadi, seperti 'I hope our friendship will last forever.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now write your own paragraph in 8-10 sentences.",
+          "id": "Sempurna. Sekarang tulis paragraf kalian sendiri dalam 8-10 kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Okay, I'll write about my best friend.",
+          "id": "Baik, saya akan menulis tentang sahabat saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Don't forget to use since/for for the duration.",
+          "id": "Jangan lupa pakai since/for untuk durasi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'll say 'We have been friends for six years since 2018.'",
+          "id": "Saya akan tulis 'We have been friends for six years since 2018.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great. Two students will share their paragraphs at the end.",
+          "id": "Bagus. Dua murid akan membacakan paragrafnya di akhir."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm ready to share mine!",
+          "id": "Saya siap membacakan punya saya!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kalian sudah menyelesaikan modul Persahabatan dengan menulis paragraf tentang teman. Mari kita ingat semua yang dipelajari: adjektiva kepribadian, 'used to', present perfect dengan since/for, dan kosakata persahabatan. Coba saya tanya: struktur paragraf tentang teman apa saja? Benar: perkenalan, sifat, perubahan/tindakan, kesan. Untuk PR, tulis paragraf lengkap (10-12 kalimat) tentang sahabat kalian memakai semua pola. Modul berikutnya kita akan masuk topik baru: Memasak dan Resep, di mana kita belajar instruksi memasak memakai imperative. Sampai jumpa di modul baru!",
+      "instructions": "Tegaskan semua struktur dan apresiasi penyelesaian modul. Beri PR paragraf lengkap. Umumkan topik modul berikutnya: Memasak dan Resep."
+    }
+  ]
+}

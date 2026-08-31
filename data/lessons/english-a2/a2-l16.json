@@ -1,0 +1,237 @@
+{
+  "id": "a2-l16",
+  "course_id": "english-a2",
+  "module_title": "Pekerjaan dan Profesi",
+  "level": "A2",
+  "title": "Present Continuous untuk Rencana Masa Depan",
+  "subtitle": "Membicarakan cita-cita dan rencana karier dengan present continuous untuk masa depan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan present continuous untuk rencana masa depan yang pasti",
+    "Memakai time marker tomorrow, next week, next month"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang pola 'I want to be...'? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-16 dengan judul 'Present Continuous untuk Rencana Masa Depan'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Cita-cita sudah ada. Tapi bagaimana menyatakan rencana konkret, mis. 'Besok saya menghadiri wawancara'? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Present Continuous untuk Rencana Masa Depan\n\n**Present continuous** (be + V-ing) tidak hanya untuk kejadian sekarang — juga dipakai untuk **rencana masa depan yang sudah pasti/terjadwal**.\n\n### 1. Rumus\n\n**Subjek + am/is/are + V-ing + (future time marker)**\n\n- I **am meeting** the manager tomorrow.\n- She **is starting** her new job next week.\n- They **are flying** to Singapore on Monday.\n\n### 2. Time markers masa depan\n\n| Bahasa Inggris | Arti |\n|---|---|\n| tomorrow | besok |\n| next week | minggu depan |\n| next month | bulan depan |\n| on Monday | hari Senin |\n| in June | di bulan Juni |\n| soon | segera |\n\n### 3. Kapan dipakai?\n\nPresent continuous untuk masa depan cocok untuk:\n- **Janji temu** (appointments): I'm seeing the doctor tomorrow.\n- **Perjalanan terjadwal** (travel): We're flying to Bali next week.\n- **Rencana kerja** (work): I'm starting my new job on Monday.\n\n### 4. Perbedaan dengan 'will'\n\n- **I'm meeting him tomorrow.** → sudah terjadwal/aturan pasti.\n- **I'll meet him tomorrow.** → keputusan spontan saat bicara.\n\n### 5. Mini-dialogue\n\n> A: What **are** you **doing** tomorrow?\n> B: I **'m having** a job interview at 10.\n> A: Good luck! What **is** your sister **doing**?\n> B: She **is starting** her new job next week.\n\n> **Hindari:** \"I am meet him tomorrow.\" (salah — *I am meeting him tomorrow.*)\n> **Hindari:** \"I meeting him tomorrow.\" (salah — *I am meeting him tomorrow.*)\n\n### 6. Tip\n\nPastikan ada **time marker masa depan** (tomorrow, next week) agar jelas ini rencana, bukan kejadian sekarang.",
+      "key_points": [
+        "Present continuous: am/is/are + V-ing untuk rencana terjadwal",
+        "Time marker masa depan: tomorrow, next week, on Monday, soon",
+        "Cocok untuk janji temu, perjalanan, rencana kerja yang pasti",
+        "vs 'will': present continuous = terjadwal; will = spontan",
+        "Selalu sertakan time marker masa depan agar jelas",
+        "Jangan lupa am/is/are sesuai subjek"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "job",
+          "id": "pekerjaan",
+          "phonetic": "/dʒɒb/",
+          "example_en": "He has a new job.",
+          "example_id": "Dia punya pekerjaan baru."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "engineer",
+          "id": "insinyur",
+          "phonetic": "/ˌendʒɪˈnɪr/",
+          "example_en": "My uncle is an engineer.",
+          "example_id": "Paman saya seorang insinyur."
+        },
+        {
+          "en": "lawyer",
+          "id": "pengacara",
+          "phonetic": "/ˈlɔɪər/",
+          "example_en": "She is a famous lawyer.",
+          "example_id": "Dia pengacara yang terkenal."
+        },
+        {
+          "en": "accountant",
+          "id": "akuntan",
+          "phonetic": "/əˈkaʊntənt/",
+          "example_en": "An accountant works with numbers.",
+          "example_id": "Akuntan bekerja dengan angka."
+        },
+        {
+          "en": "pilot",
+          "id": "penerbang",
+          "phonetic": "/ˈpaɪlət/",
+          "example_en": "The pilot flies the plane.",
+          "example_id": "Penerbang menerbangkan pesawat."
+        },
+        {
+          "en": "chef",
+          "id": "koki",
+          "phonetic": "/ʃef/",
+          "example_en": "The chef cooks delicious food.",
+          "example_id": "Koki memasak makanan lezat."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "A journalist writes news.",
+          "example_id": "Wartawan menulis berita."
+        },
+        {
+          "en": "programmer",
+          "id": "pemrogram",
+          "phonetic": "/ˈproʊɡræmər/",
+          "example_en": "He is a computer programmer.",
+          "example_id": "Dia pemrogram komputer."
+        },
+        {
+          "en": "police officer",
+          "id": "polisi",
+          "phonetic": "/pəˈliːs ˈɒfɪsər/",
+          "example_en": "A police officer protects people.",
+          "example_id": "Polisi melindungi orang."
+        },
+        {
+          "en": "firefighter",
+          "id": "pemadam kebakaran",
+          "phonetic": "/ˈfaɪərfaɪtər/",
+          "example_en": "A firefighter puts out fires.",
+          "example_id": "Pemadam kebakaran memadamkan api."
+        },
+        {
+          "en": "scientist",
+          "id": "ilmuwan",
+          "phonetic": "/ˈsaɪəntɪst/",
+          "example_en": "Scientists do experiments.",
+          "example_id": "Ilmuwan melakukan eksperimen."
+        },
+        {
+          "en": "mechanic",
+          "id": "montir",
+          "phonetic": "/məˈkænɪk/",
+          "example_en": "The mechanic fixed my car.",
+          "example_id": "Montir memperbaiki mobil saya."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara kerja",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "I have a job interview tomorrow.",
+          "example_id": "Saya ada wawancara kerja besok."
+        },
+        {
+          "en": "colleague",
+          "id": "rekan kerja",
+          "phonetic": "/ˈkɒliːɡ/",
+          "example_en": "My colleague is very helpful.",
+          "example_id": "Rekan kerja saya sangat membantu."
+        },
+        {
+          "en": "salary",
+          "id": "gaji",
+          "phonetic": "/ˈsæləri/",
+          "example_en": "He gets a good salary.",
+          "example_id": "Dia mendapat gaji yang baik."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut rencana, murid buat kalimat present continuous + time marker.\n2. Pair work: tanya-jawab 'What are you doing tomorrow/next week?' dengan 5 rencana.\n3. Fill-in-the-blank: 10 kalimat dengan am/is/are + V-ing + time marker.\n4. Error correction: perbaiki 5 kalimat (mis. 'I meet him tomorrow', 'She are working next week').\n5. Role play: rencanakan jadwal pekan depan dengan present continuous (5 kalimat).\n\nTugas rumah: Tulis 6 kalimat rencana konkret pekan depan menggunakan present continuous + time marker.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What are you doing tomorrow?",
+          "id": "Apa yang kamu lakukan besok?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm having a job interview at 10 a.m.",
+          "id": "Saya mengikuti wawancara kerja jam 10 pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good luck! What is your sister doing?",
+          "id": "Semoga sukses! Apa yang dilakukan kakakmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is starting her new job next week.",
+          "id": "Dia memulai pekerjaan barunya minggu depan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Are your parents traveling soon?",
+          "id": "Apakah orang tuamu akan bepergian segera?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they are flying to Singapore on Friday.",
+          "id": "Ya, mereka terbang ke Singapura hari Jumat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When are you meeting your friends?",
+          "id": "Kapan kamu bertemu teman-temanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm meeting them on Saturday evening.",
+          "id": "Saya bertemu mereka Sabtu malam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Are you taking any courses next month?",
+          "id": "Apakah kamu mengikuti kursus bulan depan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I'm taking an English course.",
+          "id": "Ya, saya mengikuti kursus bahasa Inggris."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long are you staying in Jakarta?",
+          "id": "Berapa lama kamu tinggal di Jakarta?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm staying there for two weeks.",
+          "id": "Saya tinggal di sana selama dua minggu."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Present Continuous untuk Rencana Masa Depan'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat rencana konkret pekan depan menggunakan present continuous + time marker. Pelajaran berikutnya kita akan membahas pola 'going to' sebagai alternatif rencana, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

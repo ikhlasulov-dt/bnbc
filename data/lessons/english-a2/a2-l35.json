@@ -1,0 +1,237 @@
+{
+  "id": "a2-l35",
+  "course_id": "english-a2",
+  "module_title": "Teknologi dan Internet",
+  "level": "A2",
+  "title": "Membangun Diskusi Teknologi",
+  "subtitle": "Membahas perkembangan teknologi dengan present perfect dan pola used to",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun diskusi teknologi: masa lalu, perubahan, kesimpulan",
+    "Menggabungkan used to, present perfect, dan kosakata teknologi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang pertanyaan teknologi? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-35 dengan judul 'Membangun Diskusi Teknologi'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Sekarang gabungkan semuanya untuk diskusi teknologi yang utuh: pengalaman, perubahan, dan pendapat! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Membangun Diskusi Teknologi\n\nDiskusi teknologi yang baik memadukan **present perfect** (pengalaman/perubahan), **used to** (perbandingan dulu-sekarang), dan **ungkapan pendapat**.\n\n### 1. Struktur diskusi teknologi\n\n| Tahap | Isi | Bahasa |\n|---|---|---|\n| Topik | sebutkan teknologi | Smartphones have changed our lives. |\n| Pengalaman | pengalaman pribadi | I have used one for five years. |\n| Perbandingan | dulu vs sekarang | We used to share one phone. Now everyone has one. |\n| Pendapat | opini | I think technology is useful, but... |\n| Saran | apa sebaiknya | We shouldn't use phones too much. |\n\n### 2. Ungkapan pendapat\n\n- **In my opinion**, technology makes life easier.\n- **I think** social media is fun but risky.\n- **I believe** smartphones help students learn.\n- **I'd say** the internet is the best invention.\n\n### 3. Menanggapi\n\n- **I agree** / **I disagree**.\n- **That's true** / **That's a good point**.\n- **I see what you mean, but...**\n- **Really? I'm not so sure.**\n\n### 4. Mini-diskusi\n\n> A: **In my opinion**, smartphones are very useful.\n> B: I agree. I **have used** mine for everything.\n> A: But we **used to** talk face to face more.\n> B: True. We **shouldn't** use phones at dinner.\n\n### 5. Frasa transisi\n\n- **On the one hand**, ... **on the other hand**, ...\n- **However**, ...\n- **For example**, ...\n- **In addition**, ...\n\n> **Hindari:** diskusi tanpa contoh konkret.\n> **Hindari:** hanya menyatakan pendapat tanpa alasan.\n\n### 6. Tip\n\nSaat berdiskusi, selalu dukung pendapat dengan **alasan** (because) atau **contoh** (for example).",
+      "key_points": [
+        "Struktur: topik → pengalaman (present perfect) → perbandingan (used to) → pendapat → saran",
+        "Ungkapan pendapat: In my opinion, I think, I believe, I'd say",
+        "Menanggapi: I agree/disagree, That's true, I see what you mean but...",
+        "Frasa transisi: On the one hand..., However, For example, In addition",
+        "Dukung pendapat dengan alasan (because) atau contoh (for example)",
+        "Padukan present perfect, used to, dan should dalam satu diskusi"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "technology",
+          "id": "teknologi",
+          "phonetic": "/tekˈnɒlədʒi/",
+          "example_en": "Technology changes fast.",
+          "example_id": "Teknologi berubah cepat."
+        },
+        {
+          "en": "internet",
+          "id": "internet",
+          "phonetic": "/ˈɪntərnet/",
+          "example_en": "I use the internet every day.",
+          "example_id": "Saya menggunakan internet setiap hari."
+        },
+        {
+          "en": "smartphone",
+          "id": "ponsel pintar",
+          "phonetic": "/ˈsmɑːrtfoʊn/",
+          "example_en": "My smartphone is new.",
+          "example_id": "Ponsel pintar saya baru."
+        },
+        {
+          "en": "computer",
+          "id": "komputer",
+          "phonetic": "/kəmˈpjuːtər/",
+          "example_en": "She works on a computer.",
+          "example_id": "Dia bekerja dengan komputer."
+        },
+        {
+          "en": "laptop",
+          "id": "laptop",
+          "phonetic": "/ˈlæptɒp/",
+          "example_en": "I bring my laptop to school.",
+          "example_id": "Saya membawa laptop ke sekolah."
+        },
+        {
+          "en": "tablet",
+          "id": "tablet",
+          "phonetic": "/ˈtæblət/",
+          "example_en": "The tablet is on the desk.",
+          "example_id": "Tabletnya di atas meja."
+        },
+        {
+          "en": "application",
+          "id": "aplikasi",
+          "phonetic": "/ˌæplɪˈkeɪʃn/",
+          "example_en": "I downloaded a new application.",
+          "example_id": "Saya mengunduh aplikasi baru."
+        },
+        {
+          "en": "software",
+          "id": "perangkat lunak",
+          "phonetic": "/ˈsɒftwer/",
+          "example_en": "This software is free.",
+          "example_id": "Perangkat lunak ini gratis."
+        },
+        {
+          "en": "download",
+          "id": "mengunduh",
+          "phonetic": "/ˌdaʊnˈloʊd/",
+          "example_en": "I download music online.",
+          "example_id": "Saya mengunduh musik daring."
+        },
+        {
+          "en": "upload",
+          "id": "mengunggah",
+          "phonetic": "/ˌʌpˈloʊd/",
+          "example_en": "She uploaded a new photo.",
+          "example_id": "Dia mengunggah foto baru."
+        },
+        {
+          "en": "website",
+          "id": "situs web",
+          "phonetic": "/ˈwebsaɪt/",
+          "example_en": "Visit our website for details.",
+          "example_id": "Kunjungi situs web kami untuk detail."
+        },
+        {
+          "en": "email",
+          "id": "surel",
+          "phonetic": "/ˈiːmeɪl/",
+          "example_en": "I will send you an email.",
+          "example_id": "Saya akan mengirim surel kepada Anda."
+        },
+        {
+          "en": "message",
+          "id": "pesan",
+          "phonetic": "/ˈmesɪdʒ/",
+          "example_en": "I got your message.",
+          "example_id": "Saya menerima pesan Anda."
+        },
+        {
+          "en": "social media",
+          "id": "media sosial",
+          "phonetic": "/ˈsoʊʃl ˈmiːdiə/",
+          "example_en": "Many people use social media.",
+          "example_id": "Banyak orang menggunakan media sosial."
+        },
+        {
+          "en": "password",
+          "id": "kata sandi",
+          "phonetic": "/ˈpæswɜːrd/",
+          "example_en": "Keep your password safe.",
+          "example_id": "Jaga kata sandi Anda dengan aman."
+        },
+        {
+          "en": "to update",
+          "id": "memperbarui",
+          "phonetic": "/tuː ʌpˈdeɪt/",
+          "example_en": "Please update your app.",
+          "example_id": "Mohon perbarui aplikasi Anda."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: hafalkan frasa pendapat & menanggapi (I think, I agree, That's true) dengan korus.\n2. Pair work: diskusi 3 menit tentang 'smartphone: untung atau rugi?' dengan struktur 5 tahap.\n3. Fill-in-the-blank: lengkapi 8 kalimat diskusi dengan frasa pendapat/menanggapi/transisi.\n4. Error correction: perbaiki 5 kalimat dalam transkrip diskusi yang salah.\n5. Mini-debate: dua kelompok, 'pro teknologi' vs 'kontra', masing-masing 3 argumen dengan present perfect/used to.\n\nTugas rumah: Tulis dialog diskusi teknologi 12 baris dengan struktur lengkap (topik, pengalaman, perbandingan, pendapat, saran).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "In your opinion, are smartphones useful?",
+          "id": "Menurutmu, apakah smartphone berguna?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think smartphones are very useful for daily life.",
+          "id": "Saya rasa smartphone sangat berguna untuk hidup sehari-hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How have they changed our lives?",
+          "id": "Bagaimana mereka mengubah hidup kita?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We used to share one phone, but now everyone has one.",
+          "id": "Dulu kita berbagi satu ponsel, sekarang semua orang punya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you used your phone for studying?",
+          "id": "Apakah kamu memakai ponsel untuk belajar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have used it to download e-books.",
+          "id": "Ya, untuk mengunduh buku elektronik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you think social media is good or bad?",
+          "id": "Apakah kamu rasa media sosial baik atau buruk?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think it's fun, but we shouldn't use it too much.",
+          "id": "Saya rasa menyenangkan, tapi tidak boleh berlebihan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did people use to do before the internet?",
+          "id": "Apa yang orang lakukan sebelum ada internet?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They used to read books and meet friends in person.",
+          "id": "Mereka membaca buku dan bertemu teman langsung."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What should we do to use technology wisely?",
+          "id": "Apa yang sebaiknya kita lakukan untuk memakai teknologi dengan bijak?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We should limit screen time and take breaks.",
+          "id": "Kita sebaiknya membatasi waktu layar dan beristirahat."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Membangun Diskusi Teknologi'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis dialog diskusi teknologi 12 baris dengan struktur lengkap (topik, pengalaman, perbandingan, pendapat, saran). Pelajaran berikutnya kita akan membahas modul baru: Hiburan dan Film, dimulai dengan genre film, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

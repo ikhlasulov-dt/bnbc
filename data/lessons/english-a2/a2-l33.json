@@ -1,0 +1,237 @@
+{
+  "id": "a2-l33",
+  "course_id": "english-a2",
+  "module_title": "Teknologi dan Internet",
+  "level": "A2",
+  "title": "Kosakata Teknologi Inti",
+  "subtitle": "Membahas perkembangan teknologi dengan present perfect dan pola used to",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata teknologi inti",
+    "Menggunakan kosakata teknologi dalam kalimat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang used to? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-33 dengan judul 'Kosakata Teknologi Inti'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Untuk percakapan teknologi yang kaya, kita perlu kosakata. Apa saja kata wajib di dunia digital? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Teknologi Inti\n\nBerikut kosakata inti untuk membicarakan **teknologi dan internet** di level A2.\n\n### 1. Perangkat keras (hardware)\n\n| English | Indonesian |\n|---|---|\n| computer | komputer |\n| laptop | laptop |\n| tablet | tablet |\n| smartphone | ponsel pintar |\n| screen | layar |\n| keyboard | papan ketik |\n\n### 2. Perangkat lunak & internet\n\n| English | Indonesian |\n|---|---|\n| software | perangkat lunak |\n| application (app) | aplikasi |\n| website | situs web |\n| internet | internet |\n| email | surel |\n| message | pesan |\n| social media | media sosial |\n| password | kata sandi |\n\n### 3. Aksi digital\n\n| English | Indonesian |\n|---|---|\n| download | mengunduh |\n| upload | mengunggah |\n| to update | memperbarui |\n| install | memasang |\n| click | mengklik |\n| search | mencari |\n\n### 4. Frasa umum\n\n- **go online** = terhubung internet\n- **log in / log out** = masuk / keluar (akun)\n- **sign up** = mendaftar\n- **charge the battery** = mengisi daya baterai\n- **surf the internet** = berselancar di internet\n\n### 5. Mini-dialogue\n\n> A: Can you help me **install** this **app**?\n> B: Sure. First, **go online** and **download** it.\n> A: I **forgot** my **password**.\n> B: You can **sign up** again or **search** for \"reset password\".\n\n> **Hindari:** \"open the internet\" (lebih natural — *go online* atau *surf the internet*)\n> **Hindari:** \"enter internet\" (lebih natural — *go online*)\n\n### 6. Tip\n\nBedakan **hardware** (perangkat keras = benda fisik: laptop, screen) dan **software** (perangkat lunak = program: app, website).",
+      "key_points": [
+        "Hardware: computer, laptop, tablet, smartphone, screen, keyboard",
+        "Software: software, application/app, website, internet, email, message, social media, password",
+        "Aksi digital: download, upload, to update, install, click, search",
+        "Frasa: go online, log in/out, sign up, charge the battery, surf the internet",
+        "Bedakan hardware (fisik) vs software (program)",
+        "Salah: 'open internet'; Benar: 'go online' / 'surf the internet'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "technology",
+          "id": "teknologi",
+          "phonetic": "/tekˈnɒlədʒi/",
+          "example_en": "Technology changes fast.",
+          "example_id": "Teknologi berubah cepat."
+        },
+        {
+          "en": "internet",
+          "id": "internet",
+          "phonetic": "/ˈɪntərnet/",
+          "example_en": "I use the internet every day.",
+          "example_id": "Saya menggunakan internet setiap hari."
+        },
+        {
+          "en": "smartphone",
+          "id": "ponsel pintar",
+          "phonetic": "/ˈsmɑːrtfoʊn/",
+          "example_en": "My smartphone is new.",
+          "example_id": "Ponsel pintar saya baru."
+        },
+        {
+          "en": "computer",
+          "id": "komputer",
+          "phonetic": "/kəmˈpjuːtər/",
+          "example_en": "She works on a computer.",
+          "example_id": "Dia bekerja dengan komputer."
+        },
+        {
+          "en": "laptop",
+          "id": "laptop",
+          "phonetic": "/ˈlæptɒp/",
+          "example_en": "I bring my laptop to school.",
+          "example_id": "Saya membawa laptop ke sekolah."
+        },
+        {
+          "en": "tablet",
+          "id": "tablet",
+          "phonetic": "/ˈtæblət/",
+          "example_en": "The tablet is on the desk.",
+          "example_id": "Tabletnya di atas meja."
+        },
+        {
+          "en": "application",
+          "id": "aplikasi",
+          "phonetic": "/ˌæplɪˈkeɪʃn/",
+          "example_en": "I downloaded a new application.",
+          "example_id": "Saya mengunduh aplikasi baru."
+        },
+        {
+          "en": "software",
+          "id": "perangkat lunak",
+          "phonetic": "/ˈsɒftwer/",
+          "example_en": "This software is free.",
+          "example_id": "Perangkat lunak ini gratis."
+        },
+        {
+          "en": "download",
+          "id": "mengunduh",
+          "phonetic": "/ˌdaʊnˈloʊd/",
+          "example_en": "I download music online.",
+          "example_id": "Saya mengunduh musik daring."
+        },
+        {
+          "en": "upload",
+          "id": "mengunggah",
+          "phonetic": "/ˌʌpˈloʊd/",
+          "example_en": "She uploaded a new photo.",
+          "example_id": "Dia mengunggah foto baru."
+        },
+        {
+          "en": "website",
+          "id": "situs web",
+          "phonetic": "/ˈwebsaɪt/",
+          "example_en": "Visit our website for details.",
+          "example_id": "Kunjungi situs web kami untuk detail."
+        },
+        {
+          "en": "email",
+          "id": "surel",
+          "phonetic": "/ˈiːmeɪl/",
+          "example_en": "I will send you an email.",
+          "example_id": "Saya akan mengirim surel kepada Anda."
+        },
+        {
+          "en": "message",
+          "id": "pesan",
+          "phonetic": "/ˈmesɪdʒ/",
+          "example_en": "I got your message.",
+          "example_id": "Saya menerima pesan Anda."
+        },
+        {
+          "en": "social media",
+          "id": "media sosial",
+          "phonetic": "/ˈsoʊʃl ˈmiːdiə/",
+          "example_en": "Many people use social media.",
+          "example_id": "Banyak orang menggunakan media sosial."
+        },
+        {
+          "en": "password",
+          "id": "kata sandi",
+          "phonetic": "/ˈpæswɜːrd/",
+          "example_en": "Keep your password safe.",
+          "example_id": "Jaga kata sandi Anda dengan aman."
+        },
+        {
+          "en": "to update",
+          "id": "memperbarui",
+          "phonetic": "/tuː ʌpˈdeɪt/",
+          "example_en": "Please update your app.",
+          "example_id": "Mohon perbarui aplikasi Anda."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kosakata Indonesia, murid jawab bahasa Inggris cepat.\n2. Pair work: deskripsikan perangkat & aplikasi yang sering dipakai pakai 8 kosakata teknologi.\n3. Fill-in-the-blank: 10 kalimat dengan kosakata teknologi yang tepat.\n4. Error correction: perbaiki 5 frasa (mis. 'open internet', 'enter email').\n5. Categorizing: pilah 16 kartu kata ke hardware / software / aksi digital.\n\nTugas rumah: Buat daftar perangkat dan aplikasi yang kamu pakai, tulis 1 kalimat fungsi masing-masing (min. 8).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What devices do you have at home?",
+          "id": "Perangkat apa yang kamu punya di rumah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have a laptop, a tablet, and a smartphone.",
+          "id": "Laptop, tablet, dan ponsel pintar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you use social media?",
+          "id": "Apakah kamu memakai media sosial?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I use it every day to send messages.",
+          "id": "Ya, setiap hari untuk mengirim pesan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Can you help me install this app?",
+          "id": "Bisakah kamu bantu saya memasang aplikasi ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sure. First, go online and download it.",
+          "id": "Tentu. Pertama, sambungkan internet dan unduh."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What if I forget my password?",
+          "id": "Bagaimana kalau saya lupa kata sandi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You can search for 'reset password' on the website.",
+          "id": "Cari 'atur ulang kata sandi' di situs webnya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you update your software often?",
+          "id": "Apakah kamu sering memperbarui perangkat lunak?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I update it when there's a new version.",
+          "id": "Ya, saat ada versi baru."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you charge your phone?",
+          "id": "Bagaimana kamu mengisi daya ponsel?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I charge the battery every night.",
+          "id": "Saya mengisi baterai setiap malam."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kosakata Teknologi Inti'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Buat daftar perangkat dan aplikasi yang kamu pakai, tulis 1 kalimat fungsi masing-masing (min. 8). Pelajaran berikutnya kita akan membahas pola pertanyaan tentang teknologi, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

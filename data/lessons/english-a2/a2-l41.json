@@ -1,0 +1,237 @@
+{
+  "id": "a2-l41",
+  "course_id": "english-a2",
+  "module_title": "Hiburan dan Film",
+  "level": "A2",
+  "title": "Merekomendasikan Film",
+  "subtitle": "Mengulas film dan hiburan dengan past simple serta ungkapan opini",
+  "duration_minutes": 60,
+  "objectives": [
+    "Merekomendasikan film dengan past simple dan ungkapan opini",
+    "Menggabungkan genre, penilaian, dan rekomendasi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang kosakata penilaian film? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-41 dengan judul 'Merekomendasikan Film'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Saat teman minta rekomendasi, bagaimana cara merekomendasikan film dengan menarik? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Merekomendasikan Film\n\nUntuk **merekomendasikan film**, kita gunakan frasa khas + alasan + penilaian singkat.\n\n### 1. Frasa rekomendasi\n\n| Frasa | Arti |\n|---|---|\n| I recommend... | Saya rekomendasikan... |\n| You should watch... | Kamu sebaiknya tonton... |\n| You have to see... | Kamu harus tonton... |\n| I really suggest... | Saya sangat menyarankan... |\n| Don't miss... | Jangan lewatkan... |\n| It's a must-watch. | Wajib tonton. |\n\n### 2. Struktur rekomendasi\n\n**Frasa rekomendasi + (film) + because + alasan**\n\n- I recommend **\"Inception\"** **because** the plot is clever.\n- You should watch **\"Coco\"** **because** it's touching.\n- You have to see **\"Parasite\"** — **it's a masterpiece**.\n\n### 3. Menanyakan rekomendasi\n\n- **Can you recommend** a good movie?\n- **What do you suggest** I watch?\n- **Any recommendations** for a comedy?\n- **Have** you **seen** anything good **lately**?\n\n### 4. Menanggapi rekomendasi\n\n| Menerima | Menolak sopan |\n|---|---|\n| Thanks, I'll watch it! | Thanks, but I don't like horror. |\n| Sounds great! | Maybe later. I prefer comedy. |\n| I'll add it to my list. | I've already seen it. |\n\n### 5. Mini-dialogue\n\n> A: **Can you recommend** a good movie?\n> B: I recommend **\"Soul\"**. It's **touching** and the **soundtrack** is amazing.\n> A: **Sounds great!** What's it about?\n> B: It's about a musician who finds the meaning of life.\n> A: I'll watch it tonight. Thanks!\n\n> **Hindari:** \"I recommend you to watch...\" (terlalu formal — *I recommend '...' * atau *You should watch '...'* lebih natural)\n> **Hindari:** lupa kasih alasan dengan *because*.\n\n### 6. Tip\n\nRekomendasi yang baik = **judul + alasan + 1-2 adjektiva penilaian**. Buat pendengar penasaran!",
+      "key_points": [
+        "Frasa rekomendasi: I recommend, You should watch, You have to see, I really suggest, Don't miss, It's a must-watch",
+        "Struktur: Frasa + film + because + alasan",
+        "Tanya rekomendasi: Can you recommend...? / What do you suggest? / Any recommendations?",
+        "Menerima: Thanks I'll watch it / Sounds great / I'll add it to my list",
+        "Menolak sopan: Thanks but I don't like... / Maybe later / I've already seen it",
+        "Rekomendasi baik = judul + alasan (because) + 1-2 adjektiva"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "movie",
+          "id": "film",
+          "phonetic": "/ˈmuːvi/",
+          "example_en": "We watched a great movie.",
+          "example_id": "Kami menonton film yang bagus."
+        },
+        {
+          "en": "cinema",
+          "id": "bioskop",
+          "phonetic": "/ˈsɪnəmə/",
+          "example_en": "Let's go to the cinema.",
+          "example_id": "Mari kita pergi ke bioskop."
+        },
+        {
+          "en": "actor",
+          "id": "aktor",
+          "phonetic": "/ˈæktər/",
+          "example_en": "He is a famous actor.",
+          "example_id": "Dia aktor yang terkenal."
+        },
+        {
+          "en": "director",
+          "id": "sutradara",
+          "phonetic": "/dəˈrektər/",
+          "example_en": "The director is very talented.",
+          "example_id": "Sutradaranya sangat berbakat."
+        },
+        {
+          "en": "character",
+          "id": "tokoh",
+          "phonetic": "/ˈkærəktər/",
+          "example_en": "The main character is brave.",
+          "example_id": "Tokoh utamanya pemberani."
+        },
+        {
+          "en": "scene",
+          "id": "adegan",
+          "phonetic": "/siːn/",
+          "example_en": "My favorite scene is at the end.",
+          "example_id": "Adegan favorit saya di bagian akhir."
+        },
+        {
+          "en": "plot",
+          "id": "alur cerita",
+          "phonetic": "/plɒt/",
+          "example_en": "The plot was very exciting.",
+          "example_id": "Alur ceritanya sangat mendebarkan."
+        },
+        {
+          "en": "ending",
+          "id": "akhir cerita",
+          "phonetic": "/ˈendɪŋ/",
+          "example_en": "I didn't like the ending.",
+          "example_id": "Saya tidak suka akhir ceritanya."
+        },
+        {
+          "en": "soundtrack",
+          "id": "musik latar",
+          "phonetic": "/ˈsaʊndtræk/",
+          "example_en": "The soundtrack is beautiful.",
+          "example_id": "Musik latarnya indah."
+        },
+        {
+          "en": "trailer",
+          "id": "cuplikan",
+          "phonetic": "/ˈtreɪlər/",
+          "example_en": "I watched the trailer online.",
+          "example_id": "Saya menonton cuplikan daring."
+        },
+        {
+          "en": "subtitle",
+          "id": "takarir",
+          "phonetic": "/ˈsʌbtaɪtl/",
+          "example_en": "Turn on the subtitle, please.",
+          "example_id": "Nyalakan takarirnya, tolong."
+        },
+        {
+          "en": "review",
+          "id": "ulasan",
+          "phonetic": "/rɪˈvjuː/",
+          "example_en": "I read a review before watching.",
+          "example_id": "Saya membaca ulasan sebelum menonton."
+        },
+        {
+          "en": "audience",
+          "id": "penonton",
+          "phonetic": "/ˈɔːdiəns/",
+          "example_en": "The audience laughed a lot.",
+          "example_id": "Penonton tertawa banyak."
+        },
+        {
+          "en": "comedy",
+          "id": "komedi",
+          "phonetic": "/ˈkɒmədi/",
+          "example_en": "I love comedy films.",
+          "example_id": "Saya suka film komedi."
+        },
+        {
+          "en": "horror",
+          "id": "horor",
+          "phonetic": "/ˈhɒrər/",
+          "example_en": "Horror films are too scary for me.",
+          "example_id": "Film horor terlalu menakutkan bagi saya."
+        },
+        {
+          "en": "exciting",
+          "id": "mendebarkan",
+          "phonetic": "/ɪkˈsaɪtɪŋ/",
+          "example_en": "The action film was exciting.",
+          "example_id": "Film aksinya mendebarkan."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut genre, murid buat 1 kalimat rekomendasi dengan frasa + because.\n2. Pair work: saling rekomendasikan 3 film dengan alasan, teman menanggapi (terima/tolak).\n3. Fill-in-the-blank: 10 kalimat dengan frasa rekomendasi + because yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'I recommend you to watch', tanpa alasan).\n5. Recommendation pitch: tiap murid 'jual' 1 film selama 30 detik di depan kelas.\n\nTugas rumah: Tulis rekomendasi 3 film dengan struktur lengkap (frasa + judul + because + adjektiva) masing-masing.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Can you recommend a good movie?",
+          "id": "Bisakah kamu merekomendasikan film bagus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I recommend 'Soul'. It's touching.",
+          "id": "Saya rekomendasikan 'Soul'. Menyentuh."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you recommend it?",
+          "id": "Kenapa kamu merekomendasikannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because the story is meaningful and the soundtrack is amazing.",
+          "id": "Karena ceritanya bermakna dan musiklatarnya luar biasa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sounds great! What's it about?",
+          "id": "Terdengar bagus! Tentang apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's about a musician who finds the meaning of life.",
+          "id": "Tentang musisi yang menemukan makna hidup."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Should I bring tissues?",
+          "id": "Apakah saya perlu bawa tisu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, you might cry! It's a must-watch.",
+          "id": "Ya, mungkin menangis! Wajib tonton."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you seen anything else good lately?",
+          "id": "Pernah tonton bagus lain baru-baru ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I also suggest 'Encanto'. It's hilarious.",
+          "id": "Ya, saya juga sarankan 'Encanto'. Sangat lucu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thanks, I'll add them to my list!",
+          "id": "Terima kasih, saya akan tambahkan ke daftar saya!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You're welcome. Enjoy watching!",
+          "id": "Sama-sama. Selamat menonton!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Merekomendasikan Film'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis rekomendasi 3 film dengan struktur lengkap (frasa + judul + because + adjektiva) masing-masing. Pelajaran berikutnya kita akan membahas membedakan fakta dan opini, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

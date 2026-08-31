@@ -1,0 +1,237 @@
+{
+  "id": "a2-l46",
+  "course_id": "english-a2",
+  "module_title": "Olahraga",
+  "level": "A2",
+  "title": "Superlative: Tingkat Tertinggi",
+  "subtitle": "Membandingkan olahraga dengan comparatives dan superlatives",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk superlative kata sifat pendek dengan the -est",
+    "Membentuk superlative kata sifat panjang dengan the most ..."
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang comparative? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-46 dengan judul 'Superlative: Tingkat Tertinggi'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Kalau bukan dua, tapi TIGA atau lebih yang dibandingkan? 'Yang paling...' — pakai superlative! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Superlative: Tingkat Tertinggi\n\n**Superlative** dipakai untuk **membandingkan tiga hal atau lebih** — menyatakan tingkat tertinggi/terendah.\n\n### 1. Rumus\n\n| Jenis adjektiva | Rumus | Contoh |\n|---|---|---|\n| 1 suku | the + adj + -est | fast → the fastest |\n| 2 suku berakhir -y | the + y → iest | easy → the easiest |\n| 2+ suku / -ful/-ous | the most + adj | popular → the most popular |\n| tidak beraturan | — | good → the best, bad → the worst |\n\n### 2. Contoh olahraga\n\n- Football is **the most popular** sport in the world.\n- He is **the fastest** runner in our team.\n- That was **the best** match I've ever seen.\n- This is **the worst** game of the season.\n\n### 3. Irregular superlatives (wajib dihafal)\n\n| Positif | Comparative | Superlative |\n|---|---|---|\n| good | better | the best |\n| bad | worse | the worst |\n| far | farther | the farthest |\n| much/many | more | the most |\n| little | less | the least |\n\n### 4. Pola kalimat\n\n**A + be + the + superlative + (noun) + (in/of group)**\n\n- She is **the best** player **in** the team.\n- This is **the most exciting** match **of** the year.\n\n### 5. Comparative vs superlative\n\n| Comparative (2 hal) | Superlative (3+ hal) |\n|---|---|\n| A is faster than B. | A is the fastest of all. |\n| Tennis is more popular than golf. | Football is the most popular sport. |\n\n### 6. Mini-dialogue\n\n> A: Who is **the best** player on your team?\n> B: Andi is **the best**. He is also **the fastest**.\n> A: Is this **the most exciting** match?\n> B: Yes, it's **the best** match of the season!\n\n> **Hindari:** \"the most fastest\" (salah — *the fastest*)\n> **Hindari:** \"He is best player.\" (salah — *He is the best player.* — selalu pakai *the*)\n\n### 7. Tip\n\nSuperlative selalu pakai **the**. Aturan bentuk sama dengan comparative, tapi pakai **-est** / **the most**.",
+      "key_points": [
+        "Superlative: membandingkan 3+ hal, tingkat tertinggi/terendah",
+        "1 suku: the + adj + -est (fast → the fastest)",
+        "2 suku -y: the + y → iest (easy → the easiest)",
+        "2+ suku: the most + adj (popular → the most popular)",
+        "Irregular: good→the best, bad→the worst, far→the farthest, much/many→the most",
+        "Selalu pakai 'the' di superlative"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "sport",
+          "id": "olahraga",
+          "phonetic": "/spɔːrt/",
+          "example_en": "What is your favorite sport?",
+          "example_id": "Apa olahraga kesukaanmu?"
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "Football is very popular.",
+          "example_id": "Sepak bola sangat populer."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He plays basketball every week.",
+          "example_id": "Dia bermain bola basket setiap minggu."
+        },
+        {
+          "en": "volleyball",
+          "id": "bola voli",
+          "phonetic": "/ˈvɒlibɔːl/",
+          "example_en": "Volleyball is fun to play.",
+          "example_id": "Bola voli menyenangkan untuk dimainkan."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular in Indonesia.",
+          "example_id": "Bulu tangkis populer di Indonesia."
+        },
+        {
+          "en": "tennis",
+          "id": "tenis",
+          "phonetic": "/ˈtenɪs/",
+          "example_en": "She plays tennis on Sunday.",
+          "example_id": "Dia bermain tenis pada hari Minggu."
+        },
+        {
+          "en": "swimming",
+          "id": "renang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is good for health.",
+          "example_id": "Berenang baik untuk kesehatan."
+        },
+        {
+          "en": "athlete",
+          "id": "atlet",
+          "phonetic": "/ˈæθliːt/",
+          "example_en": "She is a great athlete.",
+          "example_id": "Dia atlet yang hebat."
+        },
+        {
+          "en": "team",
+          "id": "tim",
+          "phonetic": "/tiːm/",
+          "example_en": "Our team won the match.",
+          "example_id": "Tim kami memenangkan pertandingan."
+        },
+        {
+          "en": "coach",
+          "id": "pelatih",
+          "phonetic": "/koʊtʃ/",
+          "example_en": "The coach is very strict.",
+          "example_id": "Pelatihnya sangat tegas."
+        },
+        {
+          "en": "referee",
+          "id": "wasit",
+          "phonetic": "/ˌrefəˈriː/",
+          "example_en": "The referee blew the whistle.",
+          "example_id": "Wasit meniup peluit."
+        },
+        {
+          "en": "stadium",
+          "id": "stadion",
+          "phonetic": "/ˈsteɪdiəm/",
+          "example_en": "The stadium was full of fans.",
+          "example_id": "Stadion penuh dengan penggemar."
+        },
+        {
+          "en": "match",
+          "id": "pertandingan",
+          "phonetic": "/mætʃ/",
+          "example_en": "We watched an exciting match.",
+          "example_id": "Kami menonton pertandingan yang mendebarkan."
+        },
+        {
+          "en": "champion",
+          "id": "juara",
+          "phonetic": "/ˈtʃæmpiən/",
+          "example_en": "She is the world champion.",
+          "example_id": "Dia juara dunia."
+        },
+        {
+          "en": "to win",
+          "id": "menang",
+          "phonetic": "/tuː wɪn/",
+          "example_en": "Our team won the game.",
+          "example_id": "Tim kami memenangkan permainan."
+        },
+        {
+          "en": "score",
+          "id": "skor",
+          "phonetic": "/skɔːr/",
+          "example_en": "The final score was 2-1.",
+          "example_id": "Skor akhirnya 2-1."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut adjektiva, murid jawab superlative (fast, easy, popular, good, bad).\n2. Pair work: tentukan 'the best/the most' untuk 6 kategori olahraga (pemain, tim, dll).\n3. Fill-in-the-blank: 10 kalimat dengan superlative (-est / the most / irregular) yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'the most fastest', 'He is best player').\n5. Awards ceremony: tiap murid beri 'penghargaan' superlative ke 5 teman (the fastest, the best, dll).\n\nTugas rumah: Tulis 6 kalimat superlative tentang olahraga/pemain (gunakan -est, the most, dan irregular).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is the best player on your team?",
+          "id": "Siapa pemain terbaik di timmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Andi is the best player.",
+          "id": "Andi pemain terbaik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is he also the fastest?",
+          "id": "Apakah dia juga paling cepat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, he is the fastest runner too.",
+          "id": "Ya, dia juga pelari tercepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the most popular sport in the world?",
+          "id": "Apa olahraga paling populer di dunia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Football is the most popular sport.",
+          "id": "Sepak bola paling populer."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Was that the best match of the season?",
+          "id": "Apakah itu pertandingan terbaik musim ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it was the most exciting match!",
+          "id": "Ya, paling mendebarkan!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is the worst team in the league?",
+          "id": "Siapa tim terburuk di liga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think the blue team is the worst.",
+          "id": "Saya rasa tim biru terburuk."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the most difficult sport?",
+          "id": "Apa olahraga paling sulit?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Many say gymnastics is the most difficult.",
+          "id": "Banyak yang bilang senam paling sulit."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Superlative: Tingkat Tertinggi'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat superlative tentang olahraga/pemain (gunakan -est, the most, dan irregular). Pelajaran berikutnya kita akan membahas pola kalimat perbandingan, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

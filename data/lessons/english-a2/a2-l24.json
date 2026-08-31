@@ -1,0 +1,237 @@
+{
+  "id": "a2-l24",
+  "course_id": "english-a2",
+  "module_title": "Lingkungan dan Alam",
+  "level": "A2",
+  "title": "Perbedaan dengan Past Simple",
+  "subtitle": "Membahas isu lingkungan dengan present perfect dan kalimat saran",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan present perfect dan past simple",
+    "Memilih tense yang tepat berdasarkan penanda waktu"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang penggunaan present perfect? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-24 dengan judul 'Perbedaan dengan Past Simple'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Banyak yang bingung: kapan pakai present perfect, kapan past simple? Mari kita perjelas! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Perbedaan dengan Past Simple\n\n**Present perfect** dan **past simple** sama-sama membicarakan lampau, tapi fokus dan time markernya berbeda.\n\n### 1. Tabel perbandingan\n\n| Aspek | Present Perfect | Past Simple |\n|---|---|---|\n| Waktu | tidak spesifik / masih relevan | spesifik lampau |\n| Time marker | ever, never, just, already, yet, since, for | yesterday, last week, in 2020, two days ago |\n| Fokus | hasil/pengalaman sekarang | kejadian lampau |\n| Contoh | I have recycled plastic. | I recycled plastic yesterday. |\n\n### 2. Contoh berdampingan\n\n- Present perfect: We **have cleaned** the beach. (fokus hasil sekarang: pantai bersih)\n- Past simple: We **cleaned** the beach last Sunday. (fokus kejadian lampau)\n\n- Present perfect: She **has planted** ten trees. (sejauh ini, mungkin masih akan tanam)\n- Past simple: She **planted** ten trees last year. (selesai, lampau)\n\n### 3. Aturan praktis\n\n| Ada time marker lampau spesifik? | Pakai |\n|---|---|\n| Ya (yesterday, last week, in 2020, ...ago) | Past simple |\n| Tidak, atau pakai ever/never/just/already/yet/since/for | Present perfect |\n\n### 4. Mini-dialogue\n\n> A: **Have** you **recycled** today? (present perfect — fokus hasil)\n> B: Yes, I **recycled** this morning. (past simple — waktu spesifik)\n> A: **Did** you **join** the cleanup last week? (past simple — waktu spesifik)\n> B: Yes, I **did**. We **collected** 20 bags. (past simple)\n\n> **Hindari:** \"I have recycled yesterday.\" (salah — *I recycled yesterday.*)\n> **Hindari:** \"I recycled plastic.\" (boleh, tapi jika tidak ada konteks waktu, present perfect lebih natural: *I have recycled plastic.*)\n\n### 5. Tip\n\nTanya pada diri: \"Apakah ada kata waktu lampau spesifik?\" Jika ya → past simple. Jika tidak, atau menekankan hasil sekarang → present perfect.",
+      "key_points": [
+        "Present perfect: waktu tidak spesifik, fokus hasil/pengalaman sekarang",
+        "Past simple: waktu spesifik lampau (yesterday, last week, ...ago)",
+        "Time marker present perfect: ever, never, just, already, yet, since, for",
+        "Time marker past simple: yesterday, last..., in + tahun, ...ago",
+        "Ada waktu spesifik → past simple; tidak ada → present perfect",
+        "Salah: 'I have done it yesterday'; Benar: 'I did it yesterday'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "environment",
+          "id": "lingkungan",
+          "phonetic": "/ɪnˈvaɪrənmənt/",
+          "example_en": "We must protect the environment.",
+          "example_id": "Kita harus melindungi lingkungan."
+        },
+        {
+          "en": "pollution",
+          "id": "polusi",
+          "phonetic": "/pəˈluːʃn/",
+          "example_en": "Air pollution is a big problem.",
+          "example_id": "Polusi udara adalah masalah besar."
+        },
+        {
+          "en": "recycle",
+          "id": "mendaur ulang",
+          "phonetic": "/ˌriːˈsaɪkl/",
+          "example_en": "We should recycle plastic.",
+          "example_id": "Kita sebaiknya mendaur ulang plastik."
+        },
+        {
+          "en": "reduce",
+          "id": "mengurangi",
+          "phonetic": "/rɪˈduːs/",
+          "example_en": "Reduce the use of plastic bags.",
+          "example_id": "Kurangi penggunaan kantong plastik."
+        },
+        {
+          "en": "reuse",
+          "id": "menggunakan kembali",
+          "phonetic": "/ˌriːˈjuːz/",
+          "example_en": "Reuse your old bottles.",
+          "example_id": "Gunakan kembali botol lama Anda."
+        },
+        {
+          "en": "waste",
+          "id": "limbah",
+          "phonetic": "/weɪst/",
+          "example_en": "Factory waste pollutes the river.",
+          "example_id": "Limbah pabrik mencemari sungai."
+        },
+        {
+          "en": "plastic",
+          "id": "plastik",
+          "phonetic": "/ˈplæstɪk/",
+          "example_en": "Plastic takes years to break down.",
+          "example_id": "Plastik butuh bertahun-tahun untuk terurai."
+        },
+        {
+          "en": "trash",
+          "id": "sampah",
+          "phonetic": "/træʃ/",
+          "example_en": "Don't throw trash in the river.",
+          "example_id": "Jangan buang sampah di sungai."
+        },
+        {
+          "en": "forest",
+          "id": "hutan",
+          "phonetic": "/ˈfɒrɪst/",
+          "example_en": "Many forests are disappearing.",
+          "example_id": "Banyak hutan yang hilang."
+        },
+        {
+          "en": "river",
+          "id": "sungai",
+          "phonetic": "/ˈrɪvər/",
+          "example_en": "The river is very dirty now.",
+          "example_id": "Sungainya sangat kotor sekarang."
+        },
+        {
+          "en": "ocean",
+          "id": "laut",
+          "phonetic": "/ˈoʊʃn/",
+          "example_en": "The ocean is full of plastic.",
+          "example_id": "Laut penuh dengan plastik."
+        },
+        {
+          "en": "climate",
+          "id": "iklim",
+          "phonetic": "/ˈklaɪmət/",
+          "example_en": "The climate is changing.",
+          "example_id": "Iklim sedang berubah."
+        },
+        {
+          "en": "to plant",
+          "id": "menanam",
+          "phonetic": "/tuː plænt/",
+          "example_en": "We should plant more trees.",
+          "example_id": "Kita sebaiknya menanam lebih banyak pohon."
+        },
+        {
+          "en": "tree",
+          "id": "pohon",
+          "phonetic": "/triː/",
+          "example_en": "Trees give us clean air.",
+          "example_id": "Pohon memberi kita udara bersih."
+        },
+        {
+          "en": "to protect",
+          "id": "melindungi",
+          "phonetic": "/tuː prəˈtekt/",
+          "example_en": "We must protect nature.",
+          "example_id": "Kita harus melindungi alam."
+        },
+        {
+          "en": "energy",
+          "id": "energi",
+          "phonetic": "/ˈenərdʒi/",
+          "example_en": "Save energy at home.",
+          "example_id": "Hemat energi di rumah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kalimat + time marker, murid pilih present perfect atau past simple.\n2. Pair work: ubah 6 kalimat dari present perfect ke past simple dengan menambah time marker.\n3. Fill-in-the-blank: 10 kalimat, pilih have/has + V3 atau V2 sesuai time marker.\n4. Error correction: perbaiki 5 kalimat (mis. 'I have done it yesterday', 'I recycled ever').\n5. Sort cards: pilah 12 kartu kalimat ke kolom Present Perfect / Past Simple.\n\nTugas rumah: Tulis 6 pasang kalimat: present perfect dan past simple-nya untuk situasi lingkungan yang sama.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you recycled your bottles today?",
+          "id": "Apakah kamu sudah mendaur ulang botol hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I recycled them this morning.",
+          "id": "Ya, saya mendaur ulangnya tadi pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you join the cleanup last week?",
+          "id": "Apakah kamu ikut pembersihan minggu lalu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I did. We collected 20 bags.",
+          "id": "Ya. Kami mengumpulkan 20 karung."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has the school planted trees this year?",
+          "id": "Apakah sekolah sudah menanam pohon tahun ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we planted them in March.",
+          "id": "Ya, kami menanamnya bulan Maret."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did pollution increase in 2020?",
+          "id": "Apakah polusi meningkat di 2020?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it increased a lot that year.",
+          "id": "Ya, meningkat banyak tahun itu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever visited a forest?",
+          "id": "Pernahkah kamu mengunjungi hutan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I visited one last summer.",
+          "id": "Ya, saya mengunjungi satu musim panas lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has the river gotten cleaner?",
+          "id": "Apakah sungai menjadi lebih bersih?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it got cleaner after the cleanup.",
+          "id": "Ya, lebih bersih setelah pembersihan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Perbedaan dengan Past Simple'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 pasang kalimat: present perfect dan past simple-nya untuk situasi lingkungan yang sama. Pelajaran berikutnya kita akan membahas time markers present perfect, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

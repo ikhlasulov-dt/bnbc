@@ -1,0 +1,263 @@
+{
+  "id": "a2-l67",
+  "course_id": "english-a2",
+  "module_title": "Hewan Peliharaan",
+  "level": "A2",
+  "title": "Membandingkan Hewan dengan Can dan Can't",
+  "subtitle": "Membedakan kemampuan beberapa hewan peliharaan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membandingkan kemampuan dua hewan dengan can/can't",
+    "Menggunakan conjunction but untuk membandingkan",
+    "Membuat kalimat perbandingan yang bermakna"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar kosakata hewan peliharaan. Siapa bisa sebutkan 3 kata baru yang dipelajari? Bagus. Hari ini kita belajar membandingkan hewan memakai 'can' dan 'can't'. Setiap hewan punya kemampuan berbeda. Anjing bisa berlari cepat, kucing bisa memanjat, ikan bisa berenang. Dengan membandingkan, kita bisa menceritakan keunikan setiap hewan. Coba pikirkan: hewan apa yang paling cepat? Hewan apa yang bisa terbang? Itulah yang akan kita pelajari. Rencana: kita pelajari cara membandingkan kemampuan hewan, lalu berlatih menceritakan perbandingan.",
+      "instructions": "Sapa murid dan tanyakan 3 kata kosakata kemarin. Ajak murid membandingkan kemampuan hewan. Jelaskan tujuan: belajar membandingkan hewan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Membandingkan Hewan dengan 'Can' dan 'Can't'\n\nSetiap hewan punya kemampuan berbeda. Dengan 'can' dan 'can't', kita bisa **membandingkan** kemampuan dua hewan atau lebih. Pola ini sangat berguna untuk menceritakan keunikan setiap hewan.\n\n## Pola Perbandingan\n\n### 1. Perbandingan Sederhana\nPakai 'can' dan 'can't' untuk membandingkan dua hewan secara langsung.\n- A dog **can run** fast, but a turtle **can't run** fast.\n- A cat **can climb** trees, but a dog **can't climb** trees.\n- A fish **can swim**, but a bird **can't swim** well.\n- A parrot **can mimic** words, but a hamster **can't mimic** words.\n\n### 2. Perbandingan dengan 'but'\nGabungkan dua kalimat dengan **'but'** untuk menunjukkan perbedaan.\n- A cat can see in the dark, **but** a dog can't see well in the dark.\n- A bird can fly, **but** a fish can't fly.\n- A turtle can live for many years, **but** a hamster can't live that long.\n\n### 3. Perbandingan dengan 'and'\nGabungkan dengan **'and'** untuk menunjukkan kemiripan.\n- A dog can run **and** a cat can run too.\n- Fish can swim **and** turtles can swim too.\n\n## Contoh Paragraf Perbandingan\n\nMy friend has a dog and a cat. They are very different. The dog **can run** very fast and **can swim**, but it **can't climb** trees. The cat **can climb** trees and **can see** in the dark, but it **can't swim**. Both animals **can play** with people, but the dog **can** do more tricks. I think the dog is more active, but the cat is more independent.\n\n## Tabel Perbandingan\n\n| Kemampuan | Anjing | Kucing | Ikan |\n|---|---|---|---|\n| run fast | can | can (smaller) | can't |\n| climb trees | can't | can | can't |\n| swim | can | can't (most cats) | can |\n| fly | can't | can't | can't |\n| see in the dark | can (ok) | can (very well) | can't |\n\n> **Hindari:** membandingkan tanpa 'but' atau 'and'. Salah: 'A dog can run. A turtle can't run.' (terputus) Benar: 'A dog can run, but a turtle can't run.' (terhubung)\n\n> **Catatan:** Saat membandingkan, ulangi kata kerja supaya jelas: 'A cat can climb, but a dog can't climb.' Bisa juga disingkat: 'A cat can climb, but a dog can't.'\n\n## Mini-dialogue\n\nA: Which is faster, a dog or a turtle?\nB: A dog is faster. A dog can run fast, but a turtle can't.\nA: Can both swim?\nB: A dog can swim, but most cats can't swim.",
+      "key_points": [
+        "Membandingkan hewan memakai 'can' dan 'can't' untuk menunjukkan perbedaan kemampuan.",
+        "Pakai 'but' untuk menunjukkan perbedaan: 'A can X, but B can't X.'",
+        "Pakai 'and' untuk menunjukkan kemiripan: 'A can X and B can X too.'",
+        "Saat membandingkan, ulangi kata kerja supaya jelas atau singkat dengan 'can't' saja.",
+        "Setiap hewan punya keunikan: dog run, cat climb, fish swim, parrot mimic.",
+        "Hindari membandingkan tanpa penghubung 'but' atau 'and'.",
+        "Bisa bandingkan lebih dari dua hewan: 'A can X, B can X, but C can't.'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "pet",
+          "id": "hewan peliharaan",
+          "phonetic": "/pet/",
+          "example_en": "Have you got a pet?",
+          "example_id": "Apakah kamu punya hewan peliharaan?"
+        },
+        {
+          "en": "dog",
+          "id": "anjing",
+          "phonetic": "/dɒɡ/",
+          "example_en": "My dog can run very fast.",
+          "example_id": "Anjing saya bisa berlari sangat cepat."
+        },
+        {
+          "en": "cat",
+          "id": "kucing",
+          "phonetic": "/kæt/",
+          "example_en": "The cat can climb trees.",
+          "example_id": "Kucing itu bisa memanjat pohon."
+        },
+        {
+          "en": "rabbit",
+          "id": "kelinci",
+          "phonetic": "/ˈræbɪt/",
+          "example_en": "She has got a white rabbit.",
+          "example_id": "Dia punya kelinci putih."
+        },
+        {
+          "en": "parrot",
+          "id": "beo",
+          "phonetic": "/ˈpærət/",
+          "example_en": "A parrot can mimic words.",
+          "example_id": "Beo bisa menirukan kata-kata."
+        },
+        {
+          "en": "hamster",
+          "id": "hamster",
+          "phonetic": "/ˈhæmstər/",
+          "example_en": "The hamster is in the cage.",
+          "example_id": "Hamsternya ada di dalam sangkar."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "Fish can swim but they can't walk.",
+          "example_id": "Ikan bisa berenang tetapi tidak bisa berjalan."
+        },
+        {
+          "en": "turtle",
+          "id": "kura-kura",
+          "phonetic": "/ˈtɜːrtl/",
+          "example_en": "A turtle can live for many years.",
+          "example_id": "Kura-kura bisa hidup bertahun-tahun."
+        },
+        {
+          "en": "cage",
+          "id": "sangkar",
+          "phonetic": "/keɪdʒ/",
+          "example_en": "The bird is in the cage.",
+          "example_id": "Burungnya ada di dalam sangkar."
+        },
+        {
+          "en": "to feed",
+          "id": "memberi makan",
+          "phonetic": "/tuː fiːd/",
+          "example_en": "You should feed your cat twice a day.",
+          "example_id": "Kamu sebaiknya memberi makan kucingmu dua kali sehari."
+        },
+        {
+          "en": "to walk",
+          "id": "mengajak jalan",
+          "phonetic": "/tuː wɔːk/",
+          "example_en": "I walk my dog every morning.",
+          "example_id": "Saya mengajak anjing saya jalan setiap pagi."
+        },
+        {
+          "en": "to brush",
+          "id": "menyikat",
+          "phonetic": "/tuː brʌʃ/",
+          "example_en": "You should brush your dog every week.",
+          "example_id": "Kamu sebaiknya menyikat anjingmu setiap minggu."
+        },
+        {
+          "en": "vet",
+          "id": "dokter hewan",
+          "phonetic": "/vet/",
+          "example_en": "You should take your pet to the vet.",
+          "example_id": "Kamu sebaiknya membawa peliharaanmu ke dokter hewan."
+        },
+        {
+          "en": "leash",
+          "id": "tali kekang",
+          "phonetic": "/liːʃ/",
+          "example_en": "Use a leash when you walk your dog.",
+          "example_id": "Gunakan tali kekang saat mengajak anjingmu jalan."
+        },
+        {
+          "en": "to train",
+          "id": "melatih",
+          "phonetic": "/tuː treɪn/",
+          "example_en": "You can train a dog to sit.",
+          "example_id": "Kamu bisa melatih anjing untuk duduk."
+        },
+        {
+          "en": "to take care of",
+          "id": "merawat",
+          "phonetic": "/tuː teɪk ker əv/",
+          "example_en": "You should take care of your pet every day.",
+          "example_id": "Kamu sebaiknya merawat peliharaanmu setiap hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut dua hewan, murid buat kalimat perbandingan memakai 'can' dan 'but'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat perbandingan dengan 'can', 'can't', 'but', atau 'and'.\n3) **Pair work (5 menit):** Bandingkan dua hewan peliharaan ke pasangan memakai minimal 4 kalimat perbandingan.\n4) **Role play (4 menit):** Dua murid memeragakan toko hewan yang menjelaskan kelebihan setiap hewan.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'A dog can run a turtle can't' -> 'A dog can run, but a turtle can't').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Which is faster, a dog or a turtle?",
+          "id": "Mana yang lebih cepat, anjing atau kura-kura?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A dog is faster. A dog can run fast, but a turtle can't.",
+          "id": "Anjing lebih cepat. Anjing bisa berlari cepat, tapi kura-kura tidak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Can both swim?",
+          "id": "Bagus. Apakah keduanya bisa berenang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A dog can swim, but most cats can't swim.",
+          "id": "Anjing bisa berenang, tapi kebanyakan kucing tidak bisa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Compare a cat and a fish.",
+          "id": "Bandingkan kucing dan ikan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A cat can climb trees, but a fish can't. A fish can swim, but a cat can't swim well.",
+          "id": "Kucing bisa memanjat pohon, tapi ikan tidak. Ikan bisa berenang, tapi kucing tidak bisa berenang dengan baik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Use 'and' to show a similarity.",
+          "id": "Bagus. Pakai 'and' untuk menunjukkan kesamaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A dog can run and a cat can run too.",
+          "id": "Anjing bisa berlari dan kucing juga bisa berlari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now compare a parrot and a hamster.",
+          "id": "Sekarang bandingkan beo dan hamster."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A parrot can mimic words, but a hamster can't. A parrot can fly, but a hamster can't.",
+          "id": "Beo bisa menirukan kata, tapi hamster tidak. Beo bisa terbang, tapi hamster tidak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Correct this: 'A dog can run a turtle can't.'",
+          "id": "Bagus. Perbaiki ini: 'A dog can run a turtle can't.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'A dog can run, but a turtle can't.'",
+          "id": "Seharusnya 'A dog can run, but a turtle can't.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now compare two pets you know.",
+          "id": "Sempurna. Sekarang bandingkan dua hewan peliharaan yang kamu tahu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My dog can jump high, but my rabbit can't. Both can run fast.",
+          "id": "Anjing saya bisa melompat tinggi, tapi kelinci saya tidak. Keduanya bisa berlari cepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! Last: which animal can live the longest?",
+          "id": "Bagus! Terakhir: hewan mana yang bisa hidup paling lama?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A turtle can live the longest. A turtle can live for many years, but a hamster can't.",
+          "id": "Kura-kura bisa hidup paling lama. Kura-kura bisa hidup bertahun-tahun, tapi hamster tidak."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar membandingkan hewan memakai 'can' dan 'can't' dengan penghubung 'but' dan 'and'. Mari kita ingat: 'but' untuk perbedaan, 'and' untuk kesamaan. Coba saya tanya: kalau mau bilang 'Anjing bisa berlari, tapi kura-kura tidak', bagaimana? Benar, 'A dog can run, but a turtle can't.' Untuk PR, tulis 8 kalimat perbandingan antara dua hewan peliharaan memakai 'can', 'can't', 'but', dan 'and'. Pertemuan berikutnya kita akan menyusun paragraf lengkap tentang hewan peliharaan memakai semua yang sudah dipelajari. Sampai jumpa!",
+      "instructions": "Tegaskan penggunaan 'but' dan 'and'. Berikan 1-2 pertanyaan pemahaman. Beri PR 8 kalimat perbandingan dan umumkan topik menyusun paragraf."
+    }
+  ]
+}

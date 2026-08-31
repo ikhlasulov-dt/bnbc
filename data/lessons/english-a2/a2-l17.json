@@ -1,0 +1,237 @@
+{
+  "id": "a2-l17",
+  "course_id": "english-a2",
+  "module_title": "Pekerjaan dan Profesi",
+  "level": "A2",
+  "title": "Pola 'Going to' sebagai Alternatif",
+  "subtitle": "Membicarakan cita-cita dan rencana karier dengan present continuous untuk masa depan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan pola 'going to' untuk niat masa depan",
+    "Membedakan 'going to' dan present continuous"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang present continuous untuk masa depan? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-17 dengan judul 'Pola 'Going to' sebagai Alternatif'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Selain present continuous, ada cara lain: 'going to'. Kapan pakai yang mana? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola 'Going to' sebagai Alternatif\n\n**Going to** dipakai untuk **niat atau rencana** masa depan yang sudah dipikirkan sebelumnya, dan untuk **prediksi** berdasarkan bukti.\n\n### 1. Rumus\n\n| Bentuk | Rumus | Contoh |\n|---|---|---|\n| Positif | Subjek + am/is/are going to + V1 | I am going to apply for a job. |\n| Negatif | Subjek + am/is/are not going to + V1 | She isn't going to quit. |\n| Pertanyaan | Am/Is/Are + subjek + going to + V1? | Are you going to study abroad? |\n\n### 2. Going to untuk niat (intention)\n\n- I **am going to be** a doctor. (cita-cita/niat)\n- They **are going to open** a new business.\n- He **is going to take** an interview next week.\n\n### 3. Going to vs present continuous\n\n| Going to | Present continuous |\n|---|---|\n| niat/rencana (belum tentu terjadwal) | rencana terjadwal/pasti |\n| I'm going to look for a job. | I'm meeting the manager tomorrow. |\n\nBanyak kasus keduanya bisa dipakai bergantian, tapi *going to* menekankan **niat**, sementara present continuous menekankan **jadwal**.\n\n### 4. Going to untuk prediksi (ada bukti)\n\n- Look at the clouds! It **is going to rain**.\n- She studies hard. She **is going to pass** the exam.\n\n### 5. Mini-dialogue\n\n> A: **Are** you **going to** apply for that job?\n> B: Yes, I **am going to** send my CV tomorrow.\n> A: **Is** your brother **going to** study abroad?\n> B: No, he **isn't going to**. He **is going to** work here.\n\n> **Hindari:** \"I am going to applying.\" (salah — *I am going to apply.*)\n> **Hindari:** \"She going to be a doctor.\" (salah — *She is going to be a doctor.*)\n\n### 6. Tip\n\n*Going to* selalu diikuti **V1 (bentuk dasar)**, bukan V-ing. Jangan tertukar dengan present continuous!",
+      "key_points": [
+        "Pola: am/is/are + going to + V1",
+        "Going to untuk niat/rencana yang sudah dipikirkan",
+        "Going to untuk prediksi berdasarkan bukti (It's going to rain)",
+        "vs present continuous: going to = niat; pres. continuous = terjadwal",
+        "Setelah going to selalu V1, bukan V-ing",
+        "Negatif: am/is/are not going to + V1"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "job",
+          "id": "pekerjaan",
+          "phonetic": "/dʒɒb/",
+          "example_en": "He has a new job.",
+          "example_id": "Dia punya pekerjaan baru."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "engineer",
+          "id": "insinyur",
+          "phonetic": "/ˌendʒɪˈnɪr/",
+          "example_en": "My uncle is an engineer.",
+          "example_id": "Paman saya seorang insinyur."
+        },
+        {
+          "en": "lawyer",
+          "id": "pengacara",
+          "phonetic": "/ˈlɔɪər/",
+          "example_en": "She is a famous lawyer.",
+          "example_id": "Dia pengacara yang terkenal."
+        },
+        {
+          "en": "accountant",
+          "id": "akuntan",
+          "phonetic": "/əˈkaʊntənt/",
+          "example_en": "An accountant works with numbers.",
+          "example_id": "Akuntan bekerja dengan angka."
+        },
+        {
+          "en": "pilot",
+          "id": "penerbang",
+          "phonetic": "/ˈpaɪlət/",
+          "example_en": "The pilot flies the plane.",
+          "example_id": "Penerbang menerbangkan pesawat."
+        },
+        {
+          "en": "chef",
+          "id": "koki",
+          "phonetic": "/ʃef/",
+          "example_en": "The chef cooks delicious food.",
+          "example_id": "Koki memasak makanan lezat."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "A journalist writes news.",
+          "example_id": "Wartawan menulis berita."
+        },
+        {
+          "en": "programmer",
+          "id": "pemrogram",
+          "phonetic": "/ˈproʊɡræmər/",
+          "example_en": "He is a computer programmer.",
+          "example_id": "Dia pemrogram komputer."
+        },
+        {
+          "en": "police officer",
+          "id": "polisi",
+          "phonetic": "/pəˈliːs ˈɒfɪsər/",
+          "example_en": "A police officer protects people.",
+          "example_id": "Polisi melindungi orang."
+        },
+        {
+          "en": "firefighter",
+          "id": "pemadam kebakaran",
+          "phonetic": "/ˈfaɪərfaɪtər/",
+          "example_en": "A firefighter puts out fires.",
+          "example_id": "Pemadam kebakaran memadamkan api."
+        },
+        {
+          "en": "scientist",
+          "id": "ilmuwan",
+          "phonetic": "/ˈsaɪəntɪst/",
+          "example_en": "Scientists do experiments.",
+          "example_id": "Ilmuwan melakukan eksperimen."
+        },
+        {
+          "en": "mechanic",
+          "id": "montir",
+          "phonetic": "/məˈkænɪk/",
+          "example_en": "The mechanic fixed my car.",
+          "example_id": "Montir memperbaiki mobil saya."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara kerja",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "I have a job interview tomorrow.",
+          "example_id": "Saya ada wawancara kerja besok."
+        },
+        {
+          "en": "colleague",
+          "id": "rekan kerja",
+          "phonetic": "/ˈkɒliːɡ/",
+          "example_en": "My colleague is very helpful.",
+          "example_id": "Rekan kerja saya sangat membantu."
+        },
+        {
+          "en": "salary",
+          "id": "gaji",
+          "phonetic": "/ˈsæləri/",
+          "example_en": "He gets a good salary.",
+          "example_id": "Dia mendapat gaji yang baik."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut niat, murid buat kalimat 'I am going to + V1'.\n2. Pair work: tanya-jawab 'Are you going to...?' dengan 6 rencana karier/studi.\n3. Fill-in-the-blank: 10 kalimat dengan going to + V1 yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'I going to apply', 'She is going to working').\n5. Prediction game: lihat gambar situasi, prediksi dengan 'It's going to...' (rain, fall, win).\n\nTugas rumah: Tulis 6 kalimat rencana masa depanmu menggunakan going to (3 niat, 3 prediksi).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Are you going to apply for the new job?",
+          "id": "Apakah kamu akan melamar pekerjaan baru itu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I am going to send my CV tomorrow.",
+          "id": "Ya, saya akan mengirim CV saya besok."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is your brother going to study abroad?",
+          "id": "Apakah kakakmu akan belajar di luar negeri?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, he isn't going to. He is going to work here.",
+          "id": "Tidak. Dia akan bekerja di sini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What are you going to do after graduation?",
+          "id": "Apa yang akan kamu lakukan setelah lulus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am going to look for a job as an engineer.",
+          "id": "Saya akan mencari pekerjaan sebagai insinyur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Are your parents going to move?",
+          "id": "Apakah orang tuamu akan pindah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they are going to move to a bigger house.",
+          "id": "Ya, mereka akan pindah ke rumah yang lebih besar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When are you going to start the course?",
+          "id": "Kapan kamu akan memulai kursusnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am going to start next Monday.",
+          "id": "Saya akan mulai Senin depan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Look at those dark clouds!",
+          "id": "Lihat awan gelap itu!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is going to rain. Let's go inside.",
+          "id": "Akan turun hujan. Mari masuk."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Pola 'Going to' sebagai Alternatif'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat rencana masa depanmu menggunakan going to (3 niat, 3 prediksi). Pelajaran berikutnya kita akan membahas menjelaskan tugas suatu profesi, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "a2-l20",
+  "course_id": "english-a2",
+  "module_title": "Pekerjaan dan Profesi",
+  "level": "A2",
+  "title": "Kosakata Pendukung Karier",
+  "subtitle": "Membicarakan cita-cita dan rencana karier dengan present continuous untuk masa depan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata pendukung karier (salary, interview, colleague, dll)",
+    "Menggunakan kosakata karier dalam kalimat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang pertanyaan pekerjaan? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-20 dengan judul 'Kosakata Pendukung Karier'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Untuk berbicara karier dengan lancar, kita perlu kosakata tambahan. Apa saja kata penting di dunia kerja? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Pendukung Karier\n\nSelain nama profesi, ada kosakata penting untuk membicarakan **dunia kerja**: tempat, orang, proses, dan istilah karier.\n\n### 1. Tempat kerja\n\n| English | Indonesian |\n|---|---|\n| office | kantor |\n| company | perusahaan |\n| factory | pabrik |\n| hospital | rumah sakit |\n| school | sekolah |\n| workshop | bengkel/bengkel kerja |\n\n### 2. Orang di tempat kerja\n\n| English | Indonesian |\n|---|---|\n| boss | atasan |\n| colleague | rekan kerja |\n| employee | karyawan |\n| employer | pemberi kerja |\n| staff | staf |\n| client | klien |\n\n### 3. Proses & istilah karier\n\n| English | Indonesian |\n|---|---|\n| job | pekerjaan |\n| career | karier |\n| interview | wawancara kerja |\n| salary | gaji |\n| experience | pengalaman |\n| qualification | kualifikasi |\n| promotion | promosi/kenaikan jabatan |\n| resign | mengundurkan diri |\n\n### 4. Frasa umum\n\n- **apply for a job** = melamar pekerjaan\n- **get a job** = mendapat pekerjaan\n- **go to an interview** = menghadiri wawancara\n- **earn a salary** = mendapat gaji\n- **work overtime** = bekerja lembur\n\n### 5. Mini-dialogue\n\n> A: I'm **applying for a job** at a big **company**.\n> B: Good luck with the **interview**! What's the **salary**?\n> A: I don't know yet. I hope it's good.\n> B: My **colleague** works there. He **earns** a good **salary**.\n\n> **Hindari:** \"I want to apply a job.\" (salah — *apply for a job*)\n> **Hindari:** \"He has good salary.\" (lebih natural — *a good salary*)\n\n### 6. Tip\n\nBedakan **job** (pekerjaan spesifik) vs **career** (jalur karier seumur hidup). *My job is teaching, but my career is in education.*",
+      "key_points": [
+        "Tempat kerja: office, company, factory, hospital, school, workshop",
+        "Orang: boss, colleague, employee, employer, staff, client",
+        "Proses: job, career, interview, salary, experience, qualification, promotion, resign",
+        "Frasa: apply for a job, get a job, go to an interview, earn a salary",
+        "Bedakan job (pekerjaan spesifik) vs career (jalur seumur hidup)",
+        "Selalu pakai a/an sebelum salary: a good salary"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "job",
+          "id": "pekerjaan",
+          "phonetic": "/dʒɒb/",
+          "example_en": "He has a new job.",
+          "example_id": "Dia punya pekerjaan baru."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "engineer",
+          "id": "insinyur",
+          "phonetic": "/ˌendʒɪˈnɪr/",
+          "example_en": "My uncle is an engineer.",
+          "example_id": "Paman saya seorang insinyur."
+        },
+        {
+          "en": "lawyer",
+          "id": "pengacara",
+          "phonetic": "/ˈlɔɪər/",
+          "example_en": "She is a famous lawyer.",
+          "example_id": "Dia pengacara yang terkenal."
+        },
+        {
+          "en": "accountant",
+          "id": "akuntan",
+          "phonetic": "/əˈkaʊntənt/",
+          "example_en": "An accountant works with numbers.",
+          "example_id": "Akuntan bekerja dengan angka."
+        },
+        {
+          "en": "pilot",
+          "id": "penerbang",
+          "phonetic": "/ˈpaɪlət/",
+          "example_en": "The pilot flies the plane.",
+          "example_id": "Penerbang menerbangkan pesawat."
+        },
+        {
+          "en": "chef",
+          "id": "koki",
+          "phonetic": "/ʃef/",
+          "example_en": "The chef cooks delicious food.",
+          "example_id": "Koki memasak makanan lezat."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "A journalist writes news.",
+          "example_id": "Wartawan menulis berita."
+        },
+        {
+          "en": "programmer",
+          "id": "pemrogram",
+          "phonetic": "/ˈproʊɡræmər/",
+          "example_en": "He is a computer programmer.",
+          "example_id": "Dia pemrogram komputer."
+        },
+        {
+          "en": "police officer",
+          "id": "polisi",
+          "phonetic": "/pəˈliːs ˈɒfɪsər/",
+          "example_en": "A police officer protects people.",
+          "example_id": "Polisi melindungi orang."
+        },
+        {
+          "en": "firefighter",
+          "id": "pemadam kebakaran",
+          "phonetic": "/ˈfaɪərfaɪtər/",
+          "example_en": "A firefighter puts out fires.",
+          "example_id": "Pemadam kebakaran memadamkan api."
+        },
+        {
+          "en": "scientist",
+          "id": "ilmuwan",
+          "phonetic": "/ˈsaɪəntɪst/",
+          "example_en": "Scientists do experiments.",
+          "example_id": "Ilmuwan melakukan eksperimen."
+        },
+        {
+          "en": "mechanic",
+          "id": "montir",
+          "phonetic": "/məˈkænɪk/",
+          "example_en": "The mechanic fixed my car.",
+          "example_id": "Montir memperbaiki mobil saya."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara kerja",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "I have a job interview tomorrow.",
+          "example_id": "Saya ada wawancara kerja besok."
+        },
+        {
+          "en": "colleague",
+          "id": "rekan kerja",
+          "phonetic": "/ˈkɒliːɡ/",
+          "example_en": "My colleague is very helpful.",
+          "example_id": "Rekan kerja saya sangat membantu."
+        },
+        {
+          "en": "salary",
+          "id": "gaji",
+          "phonetic": "/ˈsæləri/",
+          "example_en": "He gets a good salary.",
+          "example_id": "Dia mendapat gaji yang baik."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut kosakata Indonesia, murid jawab bahasa Inggris cepat.\n2. Pair work: diskusikan 'pekerjaan impian' pakai 8 kosakata karier (salary, colleague, interview, dll).\n3. Fill-in-the-blank: 10 kalimat dengan kosakata karier yang tepat.\n4. Error correction: perbaiki 5 frasa (mis. 'apply a job', 'good salary' tanpa a).\n5. Mind map: buat peta konsep kosakata karier (tempat, orang, proses) di papan.\n\nTugas rumah: Tulis 8 kalimat tentang pekerjaan impianmu menggunakan minimal 6 kosakata karier.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Are you looking for a job right now?",
+          "id": "Apakah kamu sedang mencari pekerjaan sekarang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I'm applying for a job at a big company.",
+          "id": "Ya, saya sedang melamar pekerjaan di perusahaan besar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good luck with the interview! Do you have experience?",
+          "id": "Semoga sukses wawancaranya! Punya pengalaman?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I worked as an intern for six months.",
+          "id": "Ya, saya magang selama enam bulan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What qualifications do you have?",
+          "id": "Kualifikasi apa yang kamu miliki?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have a degree in computer science.",
+          "id": "Saya punya gelar di bidang ilmu komputer."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you know anyone who works there?",
+          "id": "Apakah kamu kenal orang yang bekerja di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, a colleague of my brother works there.",
+          "id": "Ya, rekan kerja kakak saya bekerja di sana."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is the salary good?",
+          "id": "Apakah gajinya bagus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I heard they pay a good salary.",
+          "id": "Saya dengar mereka memberi gaji yang baik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you want for your career?",
+          "id": "Apa yang kamu inginkan untuk kariersmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I want a long career in technology.",
+          "id": "Saya ingin karier panjang di bidang teknologi."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kosakata Pendukung Karier'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 8 kalimat tentang pekerjaan impianmu menggunakan minimal 6 kosakata karier. Pelajaran berikutnya kita akan membahas modul baru: Lingkungan dan Alam, dimulai dengan struktur present perfect, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

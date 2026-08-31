@@ -1,0 +1,237 @@
+{
+  "id": "a2-l27",
+  "course_id": "english-a2",
+  "module_title": "Lingkungan dan Alam",
+  "level": "A2",
+  "title": "Should untuk Saran Lingkungan",
+  "subtitle": "Membahas isu lingkungan dengan present perfect dan kalimat saran",
+  "duration_minutes": 60,
+  "objectives": [
+    "Memberi saran pelestarian lingkungan dengan should dan shouldn't",
+    "Menggunakan 'I think we should...' untuk saran yang sopan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang kosakata lingkungan? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-27 dengan judul 'Should untuk Saran Lingkungan'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Setelah tahu masalahnya, kita perlu saran: 'Kita sebaiknya kurangi plastik.' Bagaimana mengatakannya? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Should untuk Saran Lingkungan\n\n**Should** sangat cocok untuk memberi **saran lingkungan** — apa yang sebaiknya kita lakukan untuk menjaga alam.\n\n### 1. Rumus (ingat kembali)\n\n**Subjek + should/shouldn't + V1**\n\n- We **should** protect the environment.\n- People **shouldn't** use plastic bags.\n- We **should** plant more trees.\n\n### 2. Saran lingkungan umum\n\n| Saran positif | Saran negatif |\n|---|---|\n| We should reduce waste. | We shouldn't throw trash in the river. |\n| We should recycle plastic. | We shouldn't use too much plastic. |\n| We should plant trees. | We shouldn't cut down forests. |\n| We should save energy. | We shouldn't waste water. |\n| We should reuse bags. | We shouldn't burn trash. |\n\n### 3. Mengapa? dengan because\n\n- We **should** recycle **because** it saves resources.\n- We **shouldn't** use plastic bags **because** they pollute the ocean.\n\n### 4. Ungkapan saran lain\n\n- **We'd better** reduce waste. (= we had better)\n- **I think we should** plant more trees.\n- **Let's** clean the beach! (ajakan)\n- **Why don't we** start a recycling program? (usul)\n\n### 5. Mini-dialogue\n\n> A: The river is very dirty.\n> B: We **should** clean it up.\n> A: Yes. We **shouldn't** throw trash in it.\n> B: I **think we should** start a recycling program at school.\n\n> **Hindari:** \"We should to recycle.\" (salah — *We should recycle.*)\n> **Hindari:** \"We should recycling.\" (salah — *We should recycle.*)\n\n### 6. Tip\n\nGabungkan dengan kosakata 3R (reduce, reuse, recycle) untuk saran yang konkret: *We should reduce, reuse, and recycle.*",
+      "key_points": [
+        "Should/shouldn't + V1 untuk saran lingkungan",
+        "Saran positif: should reduce/recycle/plant/save",
+        "Saran negatif: shouldn't throw trash/cut forests/waste water/burn trash",
+        "Alasan: because + kalimat (should recycle because...)",
+        "Ungkapan lain: We'd better, I think we should, Let's, Why don't we",
+        "Gabungkan dengan 3R (reduce, reuse, recycle) untuk saran konkret"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "environment",
+          "id": "lingkungan",
+          "phonetic": "/ɪnˈvaɪrənmənt/",
+          "example_en": "We must protect the environment.",
+          "example_id": "Kita harus melindungi lingkungan."
+        },
+        {
+          "en": "pollution",
+          "id": "polusi",
+          "phonetic": "/pəˈluːʃn/",
+          "example_en": "Air pollution is a big problem.",
+          "example_id": "Polusi udara adalah masalah besar."
+        },
+        {
+          "en": "recycle",
+          "id": "mendaur ulang",
+          "phonetic": "/ˌriːˈsaɪkl/",
+          "example_en": "We should recycle plastic.",
+          "example_id": "Kita sebaiknya mendaur ulang plastik."
+        },
+        {
+          "en": "reduce",
+          "id": "mengurangi",
+          "phonetic": "/rɪˈduːs/",
+          "example_en": "Reduce the use of plastic bags.",
+          "example_id": "Kurangi penggunaan kantong plastik."
+        },
+        {
+          "en": "reuse",
+          "id": "menggunakan kembali",
+          "phonetic": "/ˌriːˈjuːz/",
+          "example_en": "Reuse your old bottles.",
+          "example_id": "Gunakan kembali botol lama Anda."
+        },
+        {
+          "en": "waste",
+          "id": "limbah",
+          "phonetic": "/weɪst/",
+          "example_en": "Factory waste pollutes the river.",
+          "example_id": "Limbah pabrik mencemari sungai."
+        },
+        {
+          "en": "plastic",
+          "id": "plastik",
+          "phonetic": "/ˈplæstɪk/",
+          "example_en": "Plastic takes years to break down.",
+          "example_id": "Plastik butuh bertahun-tahun untuk terurai."
+        },
+        {
+          "en": "trash",
+          "id": "sampah",
+          "phonetic": "/træʃ/",
+          "example_en": "Don't throw trash in the river.",
+          "example_id": "Jangan buang sampah di sungai."
+        },
+        {
+          "en": "forest",
+          "id": "hutan",
+          "phonetic": "/ˈfɒrɪst/",
+          "example_en": "Many forests are disappearing.",
+          "example_id": "Banyak hutan yang hilang."
+        },
+        {
+          "en": "river",
+          "id": "sungai",
+          "phonetic": "/ˈrɪvər/",
+          "example_en": "The river is very dirty now.",
+          "example_id": "Sungainya sangat kotor sekarang."
+        },
+        {
+          "en": "ocean",
+          "id": "laut",
+          "phonetic": "/ˈoʊʃn/",
+          "example_en": "The ocean is full of plastic.",
+          "example_id": "Laut penuh dengan plastik."
+        },
+        {
+          "en": "climate",
+          "id": "iklim",
+          "phonetic": "/ˈklaɪmət/",
+          "example_en": "The climate is changing.",
+          "example_id": "Iklim sedang berubah."
+        },
+        {
+          "en": "to plant",
+          "id": "menanam",
+          "phonetic": "/tuː plænt/",
+          "example_en": "We should plant more trees.",
+          "example_id": "Kita sebaiknya menanam lebih banyak pohon."
+        },
+        {
+          "en": "tree",
+          "id": "pohon",
+          "phonetic": "/triː/",
+          "example_en": "Trees give us clean air.",
+          "example_id": "Pohon memberi kita udara bersih."
+        },
+        {
+          "en": "to protect",
+          "id": "melindungi",
+          "phonetic": "/tuː prəˈtekt/",
+          "example_en": "We must protect nature.",
+          "example_id": "Kita harus melindungi alam."
+        },
+        {
+          "en": "energy",
+          "id": "energi",
+          "phonetic": "/ˈenərdʒi/",
+          "example_en": "Save energy at home.",
+          "example_id": "Hemat energi di rumah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut masalah lingkungan, murid beri saran cepat 'We should/shouldn't...'.\n2. Pair work: buat 6 saran lingkungan (3 should, 3 shouldn't) dengan alasan because.\n3. Fill-in-the-blank: 10 kalimat dengan should/shouldn't + V1 yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'We should to recycle', 'We should planting').\n5. Brainstorm: kelompok buat poster '5 hal yang should + 5 yang shouldn't' untuk lingkungan.\n\nTugas rumah: Tulis 8 saran lingkungan (4 should, 4 shouldn't) untuk rumah dan sekolahmu.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "The river in our town is very dirty. What should we do?",
+          "id": "Sungai di kota kita sangat kotor. Apa yang harus kita lakukan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We should clean it up together.",
+          "id": "Kita sebaiknya membersihkannya bersama-sama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Should we throw trash in the river?",
+          "id": "Apakah kita boleh membuang sampah di sungai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, we shouldn't throw trash in it.",
+          "id": "Tidak, kita tidak boleh membuang sampah di sana."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What else should we do at school?",
+          "id": "Apa lagi yang sebaiknya kita lakukan di sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think we should start a recycling program.",
+          "id": "Saya rasa kita sebaiknya mulai program daur ulang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Should we use plastic bags?",
+          "id": "Apakah kita boleh menggunakan kantong plastik?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, we shouldn't. We should use cloth bags.",
+          "id": "Tidak. Kita sebaiknya pakai tas kain."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why should we plant trees?",
+          "id": "Kenapa kita harus menanam pohon?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because trees give us clean air.",
+          "id": "Karena pohon memberi udara bersih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What should we do to save energy?",
+          "id": "Apa yang sebaiknya kita lakukan untuk menghemat energi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We should turn off lights when we leave.",
+          "id": "Kita sebaiknya mematikan lampu saat meninggalkan ruangan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Should untuk Saran Lingkungan'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 8 saran lingkungan (4 should, 4 shouldn't) untuk rumah dan sekolahmu. Pelajaran berikutnya kita akan membahas membangun diskusi lingkungan, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "a2-l45",
+  "course_id": "english-a2",
+  "module_title": "Olahraga",
+  "level": "A2",
+  "title": "Comparative: Membandingkan Dua Hal",
+  "subtitle": "Membandingkan olahraga dengan comparatives dan superlatives",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk comparative kata sifat pendek dengan -er than",
+    "Membentuk comparative kata sifat panjang dengan more ... than"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang kosakata olahraga? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-45 dengan judul 'Comparative: Membandingkan Dua Hal'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Mana lebih sulit: sepak bola atau bulu tangkis? Bagaimana membandingkan dalam bahasa Inggris? Pakai comparative! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Comparative: Membandingkan Dua Hal\n\n**Comparative** dipakai untuk **membandingkan dua hal**. Di konteks olahraga: mana lebih cepat, lebih sulit, lebih populer.\n\n### 1. Rumus\n\n| Jenis adjektiva | Rumus | Contoh |\n|---|---|---|\n| 1 suku | adj + -er + than | fast → faster than |\n| 2 suku berakhir -y | y → ier + than | easy → easier than |\n| 2+ suku / -ful/-ous | more + adj + than | popular → more popular than |\n| tidak beraturan | — | good → better than, bad → worse than |\n\n### 2. Contoh olahraga\n\n- Football is **more popular than** tennis in Indonesia.\n- Running is **cheaper than** cycling.\n- Swimming is **easier than** basketball for me.\n- My team is **better than** your team.\n\n### 3. Irregular comparatives (wajib dihafal)\n\n| Positif | Comparative |\n|---|---|\n| good | better |\n| bad | worse |\n| far | farther/further |\n| much/many | more |\n| little | less |\n\n### 4. Pola kalimat\n\n**A + be + comparative + than + B**\n\n- Basketball **is** **faster than** volleyball.\n- Tennis **is** **more difficult than** badminton.\n\n### 5. Mini-dialogue\n\n> A: Which is **faster**, football or basketball?\n> B: I think basketball **is faster than** football.\n> A: Is badminton **easier than** tennis?\n> B: Yes, I think so. But tennis **is more popular**.\n\n> **Hindari:** \"more faster\" (salah — *faster*, jangan double)\n> **Hindari:** \"Football is popularer than tennis.\" (salah — *more popular than*)\n\n### 6. Tip\n\nAturan praktis: adjektiva **pendek** (1 suku) pakai **-er**; adjektiva **panjang** (2+ suku) pakai **more**. Jangan campur keduanya!",
+      "key_points": [
+        "Comparative: membandingkan dua hal",
+        "1 suku: adj + -er + than (fast → faster than)",
+        "2 suku -y: y → ier + than (easy → easier than)",
+        "2+ suku: more + adj + than (popular → more popular than)",
+        "Irregular: good→better, bad→worse, far→farther, much/many→more, little→less",
+        "Salah: 'more faster', 'popularer'; jangan campur -er dan more"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "sport",
+          "id": "olahraga",
+          "phonetic": "/spɔːrt/",
+          "example_en": "What is your favorite sport?",
+          "example_id": "Apa olahraga kesukaanmu?"
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "Football is very popular.",
+          "example_id": "Sepak bola sangat populer."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He plays basketball every week.",
+          "example_id": "Dia bermain bola basket setiap minggu."
+        },
+        {
+          "en": "volleyball",
+          "id": "bola voli",
+          "phonetic": "/ˈvɒlibɔːl/",
+          "example_en": "Volleyball is fun to play.",
+          "example_id": "Bola voli menyenangkan untuk dimainkan."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular in Indonesia.",
+          "example_id": "Bulu tangkis populer di Indonesia."
+        },
+        {
+          "en": "tennis",
+          "id": "tenis",
+          "phonetic": "/ˈtenɪs/",
+          "example_en": "She plays tennis on Sunday.",
+          "example_id": "Dia bermain tenis pada hari Minggu."
+        },
+        {
+          "en": "swimming",
+          "id": "renang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is good for health.",
+          "example_id": "Berenang baik untuk kesehatan."
+        },
+        {
+          "en": "athlete",
+          "id": "atlet",
+          "phonetic": "/ˈæθliːt/",
+          "example_en": "She is a great athlete.",
+          "example_id": "Dia atlet yang hebat."
+        },
+        {
+          "en": "team",
+          "id": "tim",
+          "phonetic": "/tiːm/",
+          "example_en": "Our team won the match.",
+          "example_id": "Tim kami memenangkan pertandingan."
+        },
+        {
+          "en": "coach",
+          "id": "pelatih",
+          "phonetic": "/koʊtʃ/",
+          "example_en": "The coach is very strict.",
+          "example_id": "Pelatihnya sangat tegas."
+        },
+        {
+          "en": "referee",
+          "id": "wasit",
+          "phonetic": "/ˌrefəˈriː/",
+          "example_en": "The referee blew the whistle.",
+          "example_id": "Wasit meniup peluit."
+        },
+        {
+          "en": "stadium",
+          "id": "stadion",
+          "phonetic": "/ˈsteɪdiəm/",
+          "example_en": "The stadium was full of fans.",
+          "example_id": "Stadion penuh dengan penggemar."
+        },
+        {
+          "en": "match",
+          "id": "pertandingan",
+          "phonetic": "/mætʃ/",
+          "example_en": "We watched an exciting match.",
+          "example_id": "Kami menonton pertandingan yang mendebarkan."
+        },
+        {
+          "en": "champion",
+          "id": "juara",
+          "phonetic": "/ˈtʃæmpiən/",
+          "example_en": "She is the world champion.",
+          "example_id": "Dia juara dunia."
+        },
+        {
+          "en": "to win",
+          "id": "menang",
+          "phonetic": "/tuː wɪn/",
+          "example_en": "Our team won the game.",
+          "example_id": "Tim kami memenangkan permainan."
+        },
+        {
+          "en": "score",
+          "id": "skor",
+          "phonetic": "/skɔːr/",
+          "example_en": "The final score was 2-1.",
+          "example_id": "Skor akhirnya 2-1."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut adjektiva, murid jawab bentuk comparative (fast, easy, popular, good, bad).\n2. Pair work: bandingkan 6 pasang olahraga dengan comparative + than.\n3. Fill-in-the-blank: 10 kalimat dengan comparative (-er / more / irregular) yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'more faster', 'popularer than').\n5. Debate mini: dua murid berdebat 'olahraga A vs B' dengan comparative, masing-masing 3 argumen.\n\nTugas rumah: Tulis 6 kalimat comparative membandingkan olahraga berbeda (gunakan -er, more, dan irregular).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Which is faster, football or basketball?",
+          "id": "Mana lebih cepat, sepak bola atau bola basket?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think basketball is faster than football.",
+          "id": "Saya rasa bola basket lebih cepat dari sepak bola."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is badminton easier than tennis?",
+          "id": "Apakah bulu tangkis lebih mudah dari tenis?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I think badminton is easier.",
+          "id": "Ya, saya rasa bulu tangkis lebih mudah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Which is more popular in Indonesia?",
+          "id": "Mana yang lebih populer di Indonesia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Football is more popular than tennis.",
+          "id": "Sepak bola lebih populer dari tenis."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is swimming cheaper than cycling?",
+          "id": "Apakah renang lebih murah dari bersepeda?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, swimming is cheaper.",
+          "id": "Ya, renang lebih murah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Which team is better, yours or theirs?",
+          "id": "Tim mana yang lebih baik, milikmu atau mereka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Our team is better than theirs.",
+          "id": "Tim kami lebih baik dari mereka."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is running more difficult than walking?",
+          "id": "Apakah lari lebih sulit dari berjalan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Of course! Running is more tiring than walking.",
+          "id": "Tentu! Lari lebih melelahkan dari berjalan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Comparative: Membandingkan Dua Hal'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat comparative membandingkan olahraga berbeda (gunakan -er, more, dan irregular). Pelajaran berikutnya kita akan membahas superlative: tingkat tertinggi, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

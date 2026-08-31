@@ -1,0 +1,237 @@
+{
+  "id": "a2-l28",
+  "course_id": "english-a2",
+  "module_title": "Lingkungan dan Alam",
+  "level": "A2",
+  "title": "Membangun Diskusi Lingkungan",
+  "subtitle": "Membahas isu lingkungan dengan present perfect dan kalimat saran",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun diskusi lingkungan: masalah, dampak, solusi",
+    "Menggabungkan present perfect dan should dalam diskusi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang should untuk saran lingkungan? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-28 dengan judul 'Membangun Diskusi Lingkungan'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Sekarang gabungkan semuanya: kosakata, present perfect, dan should untuk diskusi lingkungan yang utuh! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Membangun Diskusi Lingkungan\n\nDiskusi lingkungan yang baik punya **struktur**: masalah → bukti (present perfect) → saran (should) → aksi.\n\n### 1. Struktur diskusi\n\n| Tahap | Isi | Bahasa |\n|---|---|---|\n| Masalah | sebutkan isu | Pollution is a big problem. |\n| Bukti | perubahan/pengalaman | The air has gotten worse. |\n| Saran | apa yang sebaiknya | We should reduce waste. |\n| Aksi | rencana konkret | Let's start a recycling club. |\n\n### 2. Frasa pembuka diskusi\n\n- **In my opinion**, pollution is the biggest problem.\n- **I think** we should do more.\n- **Have you noticed** that the river is dirtier?\n- **What do you think** we should do?\n\n### 3. Menyatakan pendapat & menanggapi\n\n| Menyatakan pendapat | Menanggapi |\n|---|---|\n| I think... | I agree. / I disagree. |\n| In my opinion... | That's true. / That's a good point. |\n| I believe... | I see what you mean, but... |\n\n### 4. Mini-diskusi\n\n> A: **In my opinion**, plastic waste is the biggest problem.\n> B: I agree. Pollution **has increased** a lot.\n> A: We **should** ban plastic bags.\n> B: Yes. **Let's** start a campaign at school.\n\n### 5. Memadukan present perfect + should\n\n- The forest **has disappeared**. We **should** plant more trees.\n- Pollution **has gotten worse**. We **shouldn't** burn trash.\n- We **have wasted** too much water. We **should** save it.\n\n> **Hindari:** diskusi tanpa struktur — sebut masalah tapi tidak kasih saran.\n> **Hindari:** lupa mendengarkan pendapat orang lain.\n\n### 6. Tip\n\nSaat berdiskusi, gunakan frasa **\"I agree/I disagree\"** untuk menanggapi sopan sebelum menyampaikan pendapat sendiri.",
+      "key_points": [
+        "Struktur: masalah → bukti (present perfect) → saran (should) → aksi",
+        "Frasa pendapat: In my opinion, I think, I believe",
+        "Frasa menanggapi: I agree, I disagree, That's true, That's a good point",
+        "Padukan present perfect (bukti) + should (saran)",
+        "Frasa aksi: Let's..., Why don't we...?",
+        "Dengarkan pendapat orang lain sebelum menanggapi"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "environment",
+          "id": "lingkungan",
+          "phonetic": "/ɪnˈvaɪrənmənt/",
+          "example_en": "We must protect the environment.",
+          "example_id": "Kita harus melindungi lingkungan."
+        },
+        {
+          "en": "pollution",
+          "id": "polusi",
+          "phonetic": "/pəˈluːʃn/",
+          "example_en": "Air pollution is a big problem.",
+          "example_id": "Polusi udara adalah masalah besar."
+        },
+        {
+          "en": "recycle",
+          "id": "mendaur ulang",
+          "phonetic": "/ˌriːˈsaɪkl/",
+          "example_en": "We should recycle plastic.",
+          "example_id": "Kita sebaiknya mendaur ulang plastik."
+        },
+        {
+          "en": "reduce",
+          "id": "mengurangi",
+          "phonetic": "/rɪˈduːs/",
+          "example_en": "Reduce the use of plastic bags.",
+          "example_id": "Kurangi penggunaan kantong plastik."
+        },
+        {
+          "en": "reuse",
+          "id": "menggunakan kembali",
+          "phonetic": "/ˌriːˈjuːz/",
+          "example_en": "Reuse your old bottles.",
+          "example_id": "Gunakan kembali botol lama Anda."
+        },
+        {
+          "en": "waste",
+          "id": "limbah",
+          "phonetic": "/weɪst/",
+          "example_en": "Factory waste pollutes the river.",
+          "example_id": "Limbah pabrik mencemari sungai."
+        },
+        {
+          "en": "plastic",
+          "id": "plastik",
+          "phonetic": "/ˈplæstɪk/",
+          "example_en": "Plastic takes years to break down.",
+          "example_id": "Plastik butuh bertahun-tahun untuk terurai."
+        },
+        {
+          "en": "trash",
+          "id": "sampah",
+          "phonetic": "/træʃ/",
+          "example_en": "Don't throw trash in the river.",
+          "example_id": "Jangan buang sampah di sungai."
+        },
+        {
+          "en": "forest",
+          "id": "hutan",
+          "phonetic": "/ˈfɒrɪst/",
+          "example_en": "Many forests are disappearing.",
+          "example_id": "Banyak hutan yang hilang."
+        },
+        {
+          "en": "river",
+          "id": "sungai",
+          "phonetic": "/ˈrɪvər/",
+          "example_en": "The river is very dirty now.",
+          "example_id": "Sungainya sangat kotor sekarang."
+        },
+        {
+          "en": "ocean",
+          "id": "laut",
+          "phonetic": "/ˈoʊʃn/",
+          "example_en": "The ocean is full of plastic.",
+          "example_id": "Laut penuh dengan plastik."
+        },
+        {
+          "en": "climate",
+          "id": "iklim",
+          "phonetic": "/ˈklaɪmət/",
+          "example_en": "The climate is changing.",
+          "example_id": "Iklim sedang berubah."
+        },
+        {
+          "en": "to plant",
+          "id": "menanam",
+          "phonetic": "/tuː plænt/",
+          "example_en": "We should plant more trees.",
+          "example_id": "Kita sebaiknya menanam lebih banyak pohon."
+        },
+        {
+          "en": "tree",
+          "id": "pohon",
+          "phonetic": "/triː/",
+          "example_en": "Trees give us clean air.",
+          "example_id": "Pohon memberi kita udara bersih."
+        },
+        {
+          "en": "to protect",
+          "id": "melindungi",
+          "phonetic": "/tuː prəˈtekt/",
+          "example_en": "We must protect nature.",
+          "example_id": "Kita harus melindungi alam."
+        },
+        {
+          "en": "energy",
+          "id": "energi",
+          "phonetic": "/ˈenərdʒi/",
+          "example_en": "Save energy at home.",
+          "example_id": "Hemat energi di rumah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: hafalkan frasa pendapat dan menanggapi (I think, I agree, That's true) dengan korus.\n2. Pair work: diskusi 3 menit tentang satu masalah lingkungan, gunakan struktur 4 tahap.\n3. Fill-in-the-blank: lengkapi 8 kalimat diskusi dengan frasa pendapat/menanggapi.\n4. Error correction: perbaiki 5 kalimat dalam transkrip diskusi yang salah.\n5. Group debate: dua kelompok, satu 'pro larangan plastik', satu 'contra', masing-masing 3 argumen.\n\nTugas rumah: Tulis dialog diskusi lingkungan 12 baris dengan struktur lengkap (masalah, bukti, saran, aksi).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "In your opinion, what is the biggest environmental problem?",
+          "id": "Menurutmu, apa masalah lingkungan terbesar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I think plastic waste is the biggest problem.",
+          "id": "Saya rasa limbah plastik adalah masalah terbesar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you think so?",
+          "id": "Kenapa kamu berpikir begitu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because pollution has increased a lot in our town.",
+          "id": "Karena polusi meningkat banyak di kota kami."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What should we do about it?",
+          "id": "Apa yang sebaiknya kita lakukan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We should ban plastic bags and use cloth bags.",
+          "id": "Kita sebaiknya melarang kantong plastik dan pakai tas kain."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you noticed any changes in your area?",
+          "id": "Apakah kamu memperhatikan perubahan di daerahmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, the river has gotten dirtier this year.",
+          "id": "Ya, sungai menjadi lebih kotor tahun ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Should schools do more?",
+          "id": "Apakah sekolah sebaiknya berbuat lebih?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I think schools should teach recycling.",
+          "id": "Ya, saya rasa sekolah sebaiknya mengajarkan daur ulang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's start a campaign. What do you think?",
+          "id": "Mari mulai kampanye. Bagaimana menurutmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's a great idea! I agree completely.",
+          "id": "Ide bagus! Saya setuju sepenuhnya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Membangun Diskusi Lingkungan'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis dialog diskusi lingkungan 12 baris dengan struktur lengkap (masalah, bukti, saran, aksi). Pelajaran berikutnya kita akan membahas modul baru: Teknologi dan Internet, dimulai dengan present perfect untuk teknologi, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

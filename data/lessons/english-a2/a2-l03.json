@@ -1,0 +1,237 @@
+{
+  "id": "a2-l03",
+  "course_id": "english-a2",
+  "module_title": "Perjalanan",
+  "level": "A2",
+  "title": "Kata Kerja Irregular: Wajib Diingat",
+  "subtitle": "Menceritakan pengalaman perjalanan menggunakan past simple",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menghafal bentuk lampau kata kerja irregular yang sering dipakai",
+    "Menggunakan irregular verbs dalam kalimat perjalanan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang kata kerja regular berakhir -ed? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-3 dengan judul 'Kata Kerja Irregular: Wajib Diingat'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Tapi kan ada kata seperti 'go' yang jadi 'went', bukan 'goed'. Mengapa? Karena itu kata kerja irregular! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kata Kerja Irregular: Wajib Diingat\n\nBanyak kata kerja penting untuk perjalanan **tidak** mengikuti aturan -ed. Ini disebut **irregular verbs** dan harus dihafal.\n\n### 1. Daftar irregular untuk perjalanan\n\n| Bentuk dasar | Past simple | Arti |\n|---|---|---|\n| go | went | pergi |\n| come | came | datang |\n| take | took | mengambil/menaiki |\n| bring | brought | membawa |\n| buy | bought | membeli |\n| see | saw | melihat |\n| eat | ate | makan |\n| drink | drank | minum |\n| fly | flew | terbang |\n| drive | drove | mengemudi |\n| ride | rode | berkendara |\n| leave | left | berangkat/tinggalkan |\n| meet | met | bertemu |\n| find | found | menemukan |\n| get | got | mendapat/sampai |\n| have | had | punya |\n\n### 2. Pola kalimat\n\n- Positif: We **went** to Bali last month.\n- Negatif: We **didn't go** to Bali. (tetap pakai did + bentuk dasar!)\n- Tanya: **Did** you **go** to Bali?\n\n> **Penting:** Bentuk irregular hanya dipakai di kalimat positif. Di negatif & tanya, kembali ke bentuk dasar dengan *did/didn't*.\n\n> **Hindari:** \"I didn't went.\" (salah — *I didn't go.*)\n> **Hindari:** \"Did you saw it?\" (salah — *Did you see it?*)\n\n### 3. Mini-dialogue\n\n> A: Where **did** you **go**?\n> B: We **went** to Lombok. We **flew** there.\n> A: **Did** you **see** the beaches?\n> B: Yes, we **saw** beautiful beaches. We **took** many photos.\n\n### 4. Tip menghafal\n\nKelompokkan kata yang mirip polanya: buy/brought/bought, bring/brought, fly/flew, drive/drove, ride/rode. Hafalkan dalam kelompok, bukan satu-satu.",
+      "key_points": [
+        "Irregular verbs tidak pakai -ed, harus dihafal",
+        "go→went, come→came, take→took, bring→brought, buy→bought",
+        "see→saw, eat→ate, fly→flew, drive→drove, leave→left",
+        "Negatif & tanya tetap pakai did/didn't + bentuk dasar",
+        "Bentuk irregular hanya di kalimat positif",
+        "Hafalkan dalam kelompok pola yang mirip"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "travel",
+          "id": "bepergian",
+          "phonetic": "/ˈtrævl/",
+          "example_en": "I love to travel.",
+          "example_id": "Saya suka bepergian."
+        },
+        {
+          "en": "trip",
+          "id": "perjalanan",
+          "phonetic": "/trɪp/",
+          "example_en": "We had a great trip.",
+          "example_id": "Kami punya perjalanan yang menyenangkan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan (jauh)",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "The journey was long.",
+          "example_id": "Perjalanannya jauh."
+        },
+        {
+          "en": "ticket",
+          "id": "tiket",
+          "phonetic": "/ˈtɪkɪt/",
+          "example_en": "I bought a train ticket.",
+          "example_id": "Saya membeli tiket kereta."
+        },
+        {
+          "en": "passport",
+          "id": "paspor",
+          "phonetic": "/ˈpæspɔːrt/",
+          "example_en": "Don't forget your passport.",
+          "example_id": "Jangan lupa paspor Anda."
+        },
+        {
+          "en": "luggage",
+          "id": "bagasi",
+          "phonetic": "/ˈlʌɡɪdʒ/",
+          "example_en": "My luggage is heavy.",
+          "example_id": "Bagasi saya berat."
+        },
+        {
+          "en": "airport",
+          "id": "bandara",
+          "phonetic": "/ˈerpɔːrt/",
+          "example_en": "We arrived at the airport.",
+          "example_id": "Kami tiba di bandara."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is crowded.",
+          "example_id": "Stasiunnya ramai."
+        },
+        {
+          "en": "depart",
+          "id": "berangkat",
+          "phonetic": "/dɪˈpɑːrt/",
+          "example_en": "The train departs at noon.",
+          "example_id": "Kereta berangkat siang."
+        },
+        {
+          "en": "arrive",
+          "id": "tiba",
+          "phonetic": "/əˈraɪv/",
+          "example_en": "We arrived late.",
+          "example_id": "Kami tiba terlambat."
+        },
+        {
+          "en": "abroad",
+          "id": "luar negeri",
+          "phonetic": "/əˈbrɔːd/",
+          "example_en": "I want to study abroad.",
+          "example_id": "Saya ingin belajar di luar negeri."
+        },
+        {
+          "en": "destination",
+          "id": "tujuan",
+          "phonetic": "/ˌdestɪˈneɪʃn/",
+          "example_en": "Bali is a popular destination.",
+          "example_id": "Bali adalah tujuan yang populer."
+        },
+        {
+          "en": "souvenir",
+          "id": "oleh-oleh",
+          "phonetic": "/ˌsuːvəˈnɪr/",
+          "example_en": "I bought souvenirs.",
+          "example_id": "Saya membeli oleh-oleh."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "guide",
+          "id": "pemandu",
+          "phonetic": "/ɡaɪd/",
+          "example_en": "Our guide was helpful.",
+          "example_id": "Pemandu kami sangat membantu."
+        },
+        {
+          "en": "explore",
+          "id": "menjelajahi",
+          "phonetic": "/ɪkˈsplɔːr/",
+          "example_en": "We explored the city.",
+          "example_id": "Kami menjelajahi kota."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut bentuk dasar (go, see, eat, buy, fly), murid langsung jawab bentuk past dalam 2 detik.\n2. Pair work: tanya-jawab 'Where did you go? What did you do?' menggunakan minimal 6 irregular verbs.\n3. Fill-in-the-blank: 10 kalimat dengan irregular verbs (go, see, take, eat, buy, fly, come, bring, find, leave).\n4. Error correction: perbaiki 5 kalimat salah (mis. 'She didn't went', 'Did you bought?').\n5. Story chain: satu murid mulai cerita liburan dengan satu kalimat irregular, murid berikutnya lanjutkan.\n\nTugas rumah: Hafalkan 16 irregular verbs di buku catatan, lalu tulis 8 kalimat positif tentang perjalanan menggunakan irregular verbs.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where did you go on your last holiday?",
+          "id": "Ke mana kamu pergi pada liburan terakhirmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I went to Lombok with my cousins.",
+          "id": "Saya pergi ke Lombok dengan sepupu-sepupu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How did you get there?",
+          "id": "Bagaimana kamu sampai di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We flew from Jakarta early in the morning.",
+          "id": "Kami terbang dari Jakarta pagi-pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you see any interesting places?",
+          "id": "Apakah kamu melihat tempat menarik?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we saw beautiful beaches and we took many photos.",
+          "id": "Ya, kami melihat pantai indah dan mengambil banyak foto."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did you eat there?",
+          "id": "Apa yang kamu makan di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We ate grilled fish and drank coconut water.",
+          "id": "Kami makan ikan bakar dan minum air kelapa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you buy any souvenirs?",
+          "id": "Apakah kamu membeli oleh-oleh?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I bought some pearls for my mother.",
+          "id": "Ya, saya membeli beberapa mutiara untuk ibu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When did you come back home?",
+          "id": "Kapan kamu pulang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We came back last Sunday evening.",
+          "id": "Kami pulang hari Minggu malam."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kata Kerja Irregular: Wajib Diingat'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Hafalkan 16 irregular verbs di buku catatan, lalu tulis 8 kalimat positif tentang perjalanan menggunakan irregular verbs. Pelajaran berikutnya kita akan membahas time markers masa lampau untuk memberi konteks waktu, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

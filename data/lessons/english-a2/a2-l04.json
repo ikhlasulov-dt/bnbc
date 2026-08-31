@@ -1,0 +1,237 @@
+{
+  "id": "a2-l04",
+  "course_id": "english-a2",
+  "module_title": "Perjalanan",
+  "level": "A2",
+  "title": "Time Markers Masa Lampau",
+  "subtitle": "Menceritakan pengalaman perjalanan menggunakan past simple",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan penanda waktu masa lampau dengan tepat",
+    "Membedakan yesterday, last, ago, in, dan on"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang kata kerja irregular? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-4 dengan judul 'Time Markers Masa Lampau'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Kalau seseorang bertanya 'Kapan kamu pergi?', bagaimana kita menjawab dengan tepat? Kita butuh penanda waktu! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Time Markers Masa Lampau\n\nUntuk menunjukkan **kapan** suatu peristiwa perjalanan terjadi, kita gunakan **time markers**. Ini membantu pendengar memahami konteks waktu dengan jelas.\n\n### 1. Time markers umum\n\n| Bahasa Inggris | Arti | Contoh |\n|---|---|---|\n| yesterday | kemarin | I arrived yesterday. |\n| last week | minggu lalu | We traveled last week. |\n| last month | bulan lalu | They went abroad last month. |\n| last year | tahun lalu | She flew to Japan last year. |\n| two days ago | dua hari lalu | He booked the ticket two days ago. |\n| in 2019 | pada 2019 | We visited Europe in 2019. |\n| on Monday | pada hari Senin | I departed on Monday. |\n| this morning | tadi pagi | The trip started this morning. |\n\n### 2. Posisi dalam kalimat\n\nTime markers bisa di **awal** atau **akhir** kalimat.\n\n- **Last week**, we went to Bali.\n- We went to Bali **last week**.\n\nKedua posisi benar; posisi akhir lebih umum dalam percakapan.\n\n### 3. Ago vs last\n\n- **ago** dihitung mundur dari sekarang: *three days ago, two weeks ago, five years ago*.\n- **last** merujuk periode terdekat: *last Monday, last June, last year*.\n\n> **Hindari:** \"I went to Bali ago three days.\" (salah urutan — *three days ago*)\n> **Hindari:** \"last the week\" (salah — *last week*)\n\n### 4. Mini-dialogue\n\n> A: When **did** you **go** to Bandung?\n> B: I went there **last weekend**.\n> A: And your friends?\n> B: They **arrived** two days **ago**.\n\n### 5. Tip\n\nGabungkan time marker dengan past simple agar cerita perjalanan terasa hidup: *\"Last summer, I traveled to Jogja. I arrived on Friday and explored the city for three days.\"*",
+      "key_points": [
+        "Time markers umum: yesterday, last week/month/year, ...ago, in + tahun",
+        "ago dihitung mundur dari sekarang: three days ago",
+        "last merujuk periode terdekat: last Monday, last June",
+        "Posisi time marker bisa di awal atau akhir kalimat",
+        "Jangan pakai present perfect dengan time marker lampau spesifik",
+        "Gabungkan time marker + past simple untuk narasi perjalanan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "travel",
+          "id": "bepergian",
+          "phonetic": "/ˈtrævl/",
+          "example_en": "I love to travel.",
+          "example_id": "Saya suka bepergian."
+        },
+        {
+          "en": "trip",
+          "id": "perjalanan",
+          "phonetic": "/trɪp/",
+          "example_en": "We had a great trip.",
+          "example_id": "Kami punya perjalanan yang menyenangkan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan (jauh)",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "The journey was long.",
+          "example_id": "Perjalanannya jauh."
+        },
+        {
+          "en": "ticket",
+          "id": "tiket",
+          "phonetic": "/ˈtɪkɪt/",
+          "example_en": "I bought a train ticket.",
+          "example_id": "Saya membeli tiket kereta."
+        },
+        {
+          "en": "passport",
+          "id": "paspor",
+          "phonetic": "/ˈpæspɔːrt/",
+          "example_en": "Don't forget your passport.",
+          "example_id": "Jangan lupa paspor Anda."
+        },
+        {
+          "en": "luggage",
+          "id": "bagasi",
+          "phonetic": "/ˈlʌɡɪdʒ/",
+          "example_en": "My luggage is heavy.",
+          "example_id": "Bagasi saya berat."
+        },
+        {
+          "en": "airport",
+          "id": "bandara",
+          "phonetic": "/ˈerpɔːrt/",
+          "example_en": "We arrived at the airport.",
+          "example_id": "Kami tiba di bandara."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is crowded.",
+          "example_id": "Stasiunnya ramai."
+        },
+        {
+          "en": "depart",
+          "id": "berangkat",
+          "phonetic": "/dɪˈpɑːrt/",
+          "example_en": "The train departs at noon.",
+          "example_id": "Kereta berangkat siang."
+        },
+        {
+          "en": "arrive",
+          "id": "tiba",
+          "phonetic": "/əˈraɪv/",
+          "example_en": "We arrived late.",
+          "example_id": "Kami tiba terlambat."
+        },
+        {
+          "en": "abroad",
+          "id": "luar negeri",
+          "phonetic": "/əˈbrɔːd/",
+          "example_en": "I want to study abroad.",
+          "example_id": "Saya ingin belajar di luar negeri."
+        },
+        {
+          "en": "destination",
+          "id": "tujuan",
+          "phonetic": "/ˌdestɪˈneɪʃn/",
+          "example_en": "Bali is a popular destination.",
+          "example_id": "Bali adalah tujuan yang populer."
+        },
+        {
+          "en": "souvenir",
+          "id": "oleh-oleh",
+          "phonetic": "/ˌsuːvəˈnɪr/",
+          "example_en": "I bought souvenirs.",
+          "example_id": "Saya membeli oleh-oleh."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "guide",
+          "id": "pemandu",
+          "phonetic": "/ɡaɪd/",
+          "example_en": "Our guide was helpful.",
+          "example_id": "Pemandu kami sangat membantu."
+        },
+        {
+          "en": "explore",
+          "id": "menjelajahi",
+          "phonetic": "/ɪkˈsplɔːr/",
+          "example_en": "We explored the city.",
+          "example_id": "Kami menjelajahi kota."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut situasi, murid buat kalimat past simple dengan time marker yang tepat.\n2. Pair work: saling tanya 'When did you...?' dengan 6 aktivitas, jawab pakai time markers.\n3. Fill-in-the-blank: 8 kalimat dengan yesterday/last/ago/in yang benar.\n4. Error correction: perbaiki urutan kata pada 5 kalimat (mis. 'I went ago two days').\n5. Storytelling: susun 5 kalimat narasi liburan, setiap kalimat harus ada time marker.\n\nTugas rumah: Tulis jurnal singkat liburan terakhir (8 kalimat) dengan minimal 5 time marker berbeda.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When did you go on your last trip?",
+          "id": "Kapan kamu pergi pada perjalanan terakhirmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I went to Medan last month.",
+          "id": "Saya pergi ke Medan bulan lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long did you stay there?",
+          "id": "Berapa lama kamu tinggal di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I stayed for five days, from Monday to Friday.",
+          "id": "Saya tinggal selama lima hari, dari Senin sampai Jumat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you travel alone?",
+          "id": "Apakah kamu bepergian sendiri?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I traveled with my brother two weeks ago.",
+          "id": "Tidak, saya bepergian dengan kakak dua minggu lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did you do yesterday?",
+          "id": "Apa yang kamu lakukan kemarin?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yesterday I visited Lake Toba with a local guide.",
+          "id": "Kemarin saya mengunjungi Danau Toba dengan pemandu lokal."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever flown abroad?",
+          "id": "Pernahkah kamu terbang ke luar negeri?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I flew to Malaysia last year.",
+          "id": "Ya, saya terbang ke Malaysia tahun lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When did you come back?",
+          "id": "Kapan kamu pulang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I came back three days ago.",
+          "id": "Saya pulang tiga hari lalu."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Time Markers Masa Lampau'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis jurnal singkat liburan terakhir (8 kalimat) dengan minimal 5 time marker berbeda. Pelajaran berikutnya kita akan membahas bentuk negatif dan pertanyaan dengan did, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

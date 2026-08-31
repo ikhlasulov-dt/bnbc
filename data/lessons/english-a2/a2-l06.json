@@ -1,0 +1,237 @@
+{
+  "id": "a2-l06",
+  "course_id": "english-a2",
+  "module_title": "Perjalanan",
+  "level": "A2",
+  "title": "Membangun Cerita Perjalanan yang Padat",
+  "subtitle": "Menceritakan pengalaman perjalanan menggunakan past simple",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyusun cerita perjalanan secara kronologis",
+    "Menggabungkan was/were, regular, irregular, dan time marker"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang bentuk negatif dan pertanyaan dengan did? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-6 dengan judul 'Membangun Cerita Perjalanan yang Padat'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Sekarang semua alat sudah ada — was/were, regular, irregular, time markers, did. Bagaimana menyusunnya jadi cerita perjalanan yang menarik? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Membangun Cerita Perjalanan yang Padat\n\nSebuah cerita perjalanan yang baik punya **alur**, **detail**, dan **urutan waktu**. Kita gabungkan semua yang sudah dipelajari: was/were, kata kerja regular & irregular, time markers, dan bentuk did.\n\n### 1. Struktur cerita perjalanan\n\n| Bagian | Isi | Contoh |\n|---|---|---|\n| Pembuka | kapan, ke mana, dengan siapa | Last month, I went to Bali with my family. |\n| Perjalanan | transportasi, kedatangan | We flew there on Friday morning. The flight was smooth. |\n| Aktivitas | hal-hal yang dilakukan | We visited temples, explored rice fields, and ate local food. |\n| Kesan | perasaan/pendapat | The trip was amazing. I didn't want to leave. |\n\n### 2. Kata penghubung urutan\n\n- **First**, we arrived at the hotel.\n- **Then**, we explored the town.\n- **After that**, we had dinner.\n- **Finally**, we went back to the room.\n\n### 3. Memadukan was/were dan kata kerja aksi\n\n> Last summer, I **traveled** to Jogja. The weather **was** warm. I **visited** Malioboro and **bought** some souvenirs. The people **were** friendly. I **didn't want** to leave.\n\n### 4. Menambah detail dengan adjektiva\n\nGunakan adjektiva sederhana untuk memperkaya cerita: *beautiful, delicious, crowded, peaceful, exciting, tiring*.\n\n> The beach **was beautiful**. The food **was delicious**. The market **was crowded** but fun.\n\n### 5. Mini-dialogue\n\n> A: Tell me about your trip.\n> B: **Last week**, I **went** to Bandung. I **took** the train. The journey **was** comfortable. I **visited** a farm and **ate** strawberry. It **was** a great trip!\n\n> **Hindari:** cerita tanpa time marker — pendengar bingung kapan kejadiannya.\n> **Hindari:** terlalu banyak kalimat pendek tanpa penghubung.",
+      "key_points": [
+        "Struktur cerita: pembuka, perjalanan, aktivitas, kesan",
+        "Pakai kata penghubung urutan: first, then, after that, finally",
+        "Padukan was/were (keadaan) dengan kata kerja aksi (regular/irregular)",
+        "Tambah time marker di setiap bagian untuk konteks waktu",
+        "Gunakan adjektiva sederhana: beautiful, delicious, crowded, exciting",
+        "Jangan lupa bentuk negatif (didn't) untuk variasi cerita"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "travel",
+          "id": "bepergian",
+          "phonetic": "/ˈtrævl/",
+          "example_en": "I love to travel.",
+          "example_id": "Saya suka bepergian."
+        },
+        {
+          "en": "trip",
+          "id": "perjalanan",
+          "phonetic": "/trɪp/",
+          "example_en": "We had a great trip.",
+          "example_id": "Kami punya perjalanan yang menyenangkan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan (jauh)",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "The journey was long.",
+          "example_id": "Perjalanannya jauh."
+        },
+        {
+          "en": "ticket",
+          "id": "tiket",
+          "phonetic": "/ˈtɪkɪt/",
+          "example_en": "I bought a train ticket.",
+          "example_id": "Saya membeli tiket kereta."
+        },
+        {
+          "en": "passport",
+          "id": "paspor",
+          "phonetic": "/ˈpæspɔːrt/",
+          "example_en": "Don't forget your passport.",
+          "example_id": "Jangan lupa paspor Anda."
+        },
+        {
+          "en": "luggage",
+          "id": "bagasi",
+          "phonetic": "/ˈlʌɡɪdʒ/",
+          "example_en": "My luggage is heavy.",
+          "example_id": "Bagasi saya berat."
+        },
+        {
+          "en": "airport",
+          "id": "bandara",
+          "phonetic": "/ˈerpɔːrt/",
+          "example_en": "We arrived at the airport.",
+          "example_id": "Kami tiba di bandara."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is crowded.",
+          "example_id": "Stasiunnya ramai."
+        },
+        {
+          "en": "depart",
+          "id": "berangkat",
+          "phonetic": "/dɪˈpɑːrt/",
+          "example_en": "The train departs at noon.",
+          "example_id": "Kereta berangkat siang."
+        },
+        {
+          "en": "arrive",
+          "id": "tiba",
+          "phonetic": "/əˈraɪv/",
+          "example_en": "We arrived late.",
+          "example_id": "Kami tiba terlambat."
+        },
+        {
+          "en": "abroad",
+          "id": "luar negeri",
+          "phonetic": "/əˈbrɔːd/",
+          "example_en": "I want to study abroad.",
+          "example_id": "Saya ingin belajar di luar negeri."
+        },
+        {
+          "en": "destination",
+          "id": "tujuan",
+          "phonetic": "/ˌdestɪˈneɪʃn/",
+          "example_en": "Bali is a popular destination.",
+          "example_id": "Bali adalah tujuan yang populer."
+        },
+        {
+          "en": "souvenir",
+          "id": "oleh-oleh",
+          "phonetic": "/ˌsuːvəˈnɪr/",
+          "example_en": "I bought souvenirs.",
+          "example_id": "Saya membeli oleh-oleh."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "guide",
+          "id": "pemandu",
+          "phonetic": "/ɡaɪd/",
+          "example_en": "Our guide was helpful.",
+          "example_id": "Pemandu kami sangat membantu."
+        },
+        {
+          "en": "explore",
+          "id": "menjelajahi",
+          "phonetic": "/ɪkˈsplɔːr/",
+          "example_en": "We explored the city.",
+          "example_id": "Kami menjelajahi kota."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: susun 5 kartu kalimat acak menjadi cerita urut yang logis.\n2. Pair work: masing-masing ceritakan liburan terakhir dalam 8 kalimat, teman bertanya 3 pertanyaan.\n3. Fill-in-the-blank: lengkapi paragraf cerita perjalanan dengan kata kerja dan time marker.\n4. Error correction: perbaiki 5 kalimat dalam paragraf cerita yang salah struktur.\n5. Storytelling final: tiap murid presentasi cerita perjalanan 1 menit di depan kelas.\n\nTugas rumah: Tulis cerita perjalanan 12-15 kalimat dengan struktur lengkap (pembuka, perjalanan, aktivitas, kesan) dan minimal 2 kata penghubung urutan.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Can you tell me about your last trip?",
+          "id": "Bisakah kamu menceritakan perjalananmu yang terakhir?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sure! Last month, I went to Bromo with my friends.",
+          "id": "Tentu! Bulan lalu, saya pergi ke Bromo bersama teman-teman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How did you get there?",
+          "id": "Bagaimana kamu sampai di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "First, we drove from Surabaya. The road was steep.",
+          "id": "Pertama, kami mengemudi dari Surabaya. Jalannya curam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What did you do first?",
+          "id": "Apa yang kamu lakukan pertama kali?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Then, we arrived at sunrise. It was beautiful.",
+          "id": "Lalu, kami tiba saat matahari terbit. Indah sekali."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "After that, what did you do?",
+          "id": "Setelah itu, apa yang kamu lakukan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "After that, we explored the sea of sand on foot.",
+          "id": "Setelah itu, kami menjelajahi lautan pasir dengan berjalan kaki."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did you take many photos?",
+          "id": "Apakah kamu mengambil banyak foto?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I took a lot. Finally, we had breakfast.",
+          "id": "Ya, banyak. Akhirnya, kami sarapan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How was the whole experience?",
+          "id": "Bagaimana keseluruhan pengalamannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It was amazing. I didn't want to leave!",
+          "id": "Luar biasa. Saya tidak ingin pulang!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Membangun Cerita Perjalanan yang Padat'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis cerita perjalanan 12-15 kalimat dengan struktur lengkap (pembuka, perjalanan, aktivitas, kesan) dan minimal 2 kata penghubung urutan. Pelajaran berikutnya kita akan membahas modul baru: Kesehatan dan Dokter, dimulai dengan bagian tubuh, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

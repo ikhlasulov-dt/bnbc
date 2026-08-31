@@ -1,0 +1,263 @@
+{
+  "id": "a2-l54",
+  "course_id": "english-a2",
+  "module_title": "Festival dan Tradisi",
+  "level": "A2",
+  "title": "Time Markers untuk Teks Festival",
+  "subtitle": "Menyatakan waktu kejadian dengan tepat",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengenal time markers khas teks recount festival",
+    "Menggunakan last, ago, in, every, dan when I was a child dengan tepat",
+    "Menyusun kalimat festival dengan konteks waktu jelas"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita bandingkan 'used to' dan 'past simple'. Siapa bisa sebutkan kapan kita pakai 'used to'? Tepat, untuk kebiasaan lampau yang sudah berhenti. Hari ini kita lanjutkan dengan time markers, yaitu penanda waktu yang membantu pendengar tahu kapan suatu kejadian terjadi. Dalam teks recount festival, time markers sangat penting supaya cerita kita jelas urutannya. Coba sebutkan satu time marker yang kalian tahu. 'Yesterday'? 'Last week'? Bagus. Hari ini kita akan pelajari berbagai time markers khas teks festival dan urutannya. Rencana: kita pelajari daftar time markers, lalu berlatih menyusunnya dalam recount festival.",
+      "instructions": "Sapa murid dan tanyakan kapan memakai 'used to' sebagai pengulangan. Tanyakan satu contoh time marker yang mereka tahu. Catat di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu Time Markers?\n\nTime markers adalah **penanda waktu** yang menunjukkan kapan suatu kejadian terjadi. Dalam teks recount festival, time markers membantu pendengar mengikuti urutan peristiwa dengan jelas.\n\n## Time Markers Khas Past Simple\n\n| Time marker | Arti | Contoh |\n|---|---|---|\n| yesterday | kemarin | We went to the temple yesterday. |\n| last week | minggu lalu | The parade started last week. |\n| last month | bulan lalu | I visited Bali last month. |\n| last year | tahun lalu | They celebrated Galungan last year. |\n| in 2019 | pada 2019 | We held the ceremony in 2019. |\n| a few days ago | beberapa hari lalu | The festival ended a few days ago. |\n| two weeks ago | dua minggu lalu | She wore a costume two weeks ago. |\n| when I was a child | waktu saya kecil | I used to watch the parade when I was a child. |\n\n## Time Markers untuk Urutan Peristiwa\n\nUntuk menceritakan festival secara berurutan, gunakan penanda urutan:\n\n- **First** (pertama): First, we went to the temple.\n- **Then** (kemudian): Then, we watched the parade.\n- **After that** (setelah itu): After that, we had a big feast.\n- **Next** (berikutnya): Next, the dancers performed.\n- **Finally** (akhirnya): Finally, we lit the lanterns.\n\n## Contoh Recount Pendek\n\nLast year, my family went to Bali for Galungan. **First**, we visited the temple in the morning. **Then**, we watched a traditional dance performance. **After that**, we had a big feast with relatives. **Next**, the children lit lanterns in the garden. **Finally**, we watched the fireworks at night. It was a wonderful celebration.\n\n> **Hindari:** mencampur time markers dari tense berbeda. Jangan tulis 'We have gone to Bali last year' — past simple dengan 'last year' tidak memakai 'have'. Benar: 'We went to Bali last year.'\n\n> **Catatan:** Time marker biasanya diletakkan di **akhir kalimat** (We went there yesterday) atau **awal kalimat** (Yesterday, we went there). Keduanya benar.\n\n## Mini-dialogue\n\nA: When did you go to the festival?\nB: I went there last week.\nA: What did you do first?\nB: First, we watched the parade, then we ate traditional food.",
+      "key_points": [
+        "Time markers adalah penanda waktu yang menunjukkan kapan kejadian terjadi.",
+        "Time markers khas past simple: yesterday, last week, last month, last year, in 2019, ... ago.",
+        "Penanda urutan: first, then, after that, next, finally.",
+        "Time marker biasanya di akhir atau awal kalimat.",
+        "Hindari mencampur past simple dengan present perfect (have + V3) untuk waktu spesifik.",
+        "Penanda urutan membantu pendengar mengikuti cerita festival secara berurutan.",
+        "'... ago' selalu dipakai dengan past simple, bukan present perfect."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "festival",
+          "id": "festival",
+          "phonetic": "/ˈfestɪvl/",
+          "example_en": "We went to a big festival last week.",
+          "example_id": "Kami pergi ke festival besar minggu lalu."
+        },
+        {
+          "en": "celebration",
+          "id": "perayaan",
+          "phonetic": "/ˌselɪˈbreɪʃn/",
+          "example_en": "The celebration was very lively.",
+          "example_id": "Perayaannya sangat meriah."
+        },
+        {
+          "en": "tradition",
+          "id": "tradisi",
+          "phonetic": "/trəˈdɪʃn/",
+          "example_en": "This tradition is very old.",
+          "example_id": "Tradisi ini sudah sangat lama."
+        },
+        {
+          "en": "parade",
+          "id": "pawai",
+          "phonetic": "/pəˈreɪd/",
+          "example_en": "The parade started at dawn.",
+          "example_id": "Pawai dimulai saat fajar."
+        },
+        {
+          "en": "fireworks",
+          "id": "kembang api",
+          "phonetic": "/ˈfaɪərwɜːrks/",
+          "example_en": "We watched the fireworks at night.",
+          "example_id": "Kami menonton kembang api pada malam hari."
+        },
+        {
+          "en": "costume",
+          "id": "kostum",
+          "phonetic": "/ˈkɒstuːm/",
+          "example_en": "She wore a traditional costume.",
+          "example_id": "Dia memakai kostum tradisional."
+        },
+        {
+          "en": "ceremony",
+          "id": "upacara",
+          "phonetic": "/ˈserəməni/",
+          "example_en": "The ceremony was held at the temple.",
+          "example_id": "Upacara digelar di pura."
+        },
+        {
+          "en": "offering",
+          "id": "sesajen",
+          "phonetic": "/ˈɒfərɪŋ/",
+          "example_en": "My grandmother made offerings for the gods.",
+          "example_id": "Nenek saya membuat sesajen untuk para dewa."
+        },
+        {
+          "en": "decoration",
+          "id": "hiasan",
+          "phonetic": "/ˌdekəˈreɪʃn/",
+          "example_en": "The decorations were very colorful.",
+          "example_id": "Hiasannya sangat berwarna-warni."
+        },
+        {
+          "en": "performance",
+          "id": "pertunjukan",
+          "phonetic": "/pərˈfɔːrməns/",
+          "example_en": "We watched a dance performance.",
+          "example_id": "Kami menonton pertunjukan tari."
+        },
+        {
+          "en": "drum",
+          "id": "gendang",
+          "phonetic": "/drʌm/",
+          "example_en": "The musicians played traditional drums.",
+          "example_id": "Para musisi memainkan gendang tradisional."
+        },
+        {
+          "en": "lantern",
+          "id": "lentera",
+          "phonetic": "/ˈlæntərn/",
+          "example_en": "We lit lanterns in the garden.",
+          "example_id": "Kami menyalakan lentera di taman."
+        },
+        {
+          "en": "feast",
+          "id": "pesta makan",
+          "phonetic": "/fiːst/",
+          "example_en": "The family had a big feast together.",
+          "example_id": "Keluarga itu mengadakan pesta makan besar bersama."
+        },
+        {
+          "en": "guest",
+          "id": "tamu",
+          "phonetic": "/ɡest/",
+          "example_en": "Many guests came to the celebration.",
+          "example_id": "Banyak tamu datang ke perayaan itu."
+        },
+        {
+          "en": "dance",
+          "id": "tarian",
+          "phonetic": "/dæns/",
+          "example_en": "The traditional dance was beautiful.",
+          "example_id": "Tarian tradisionalnya indah."
+        },
+        {
+          "en": "to celebrate",
+          "id": "merayakan",
+          "phonetic": "/tuː ˈselɪbreɪt/",
+          "example_en": "We celebrate Galungan every year.",
+          "example_id": "Kami merayakan Galungan setiap tahun."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut time marker, murid buat kalimat past simple singkat dengannya.\n2) **Fill-in-the-blank (5 menit):** Lengkapi recount pendek dengan time marker urutan yang benar (first, then, after that, next, finally).\n3) **Pair work (5 menit):** Menceritakan festival terakhir dengan minimal 4 time marker urutan.\n4) **Role play (4 menit):** Dua murid mewawancarai penonton festival tentang urutan kegiatannya.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat dengan time marker salah (mis. 'We have gone yesterday' -> 'We went yesterday').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What time markers do you know for past simple?",
+          "id": "Time marker apa yang kamu tahu untuk past simple?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yesterday, last week, last month, last year, and '... ago'.",
+          "id": "Yesterday, last week, last month, last year, dan '... ago'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Make a sentence with 'last week'.",
+          "id": "Bagus. Buat kalimat dengan 'last week'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We went to the festival last week.",
+          "id": "Kami pergi ke festival minggu lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now use 'first', 'then', and 'finally' to describe a festival.",
+          "id": "Sekarang pakai 'first', 'then', dan 'finally' untuk mendeskripsikan festival."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "First, we visited the temple. Then, we watched the parade. Finally, we had a feast.",
+          "id": "Pertama, kami mengunjungi pura. Lalu, kami menonton pawai. Akhirnya, kami makan bersama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Correct this: 'We have gone to Bali last year.'",
+          "id": "Bagus. Perbaiki ini: 'We have gone to Bali last year.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'We went to Bali last year.'",
+          "id": "Seharusnya 'We went to Bali last year.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'last year' is specific, so we use past simple, not present perfect.",
+          "id": "Karena 'last year' itu spesifik, jadi kita pakai past simple, bukan present perfect."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do we usually put time markers in a sentence?",
+          "id": "Di mana biasanya kita meletakkan time marker dalam kalimat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "At the end or at the beginning of the sentence.",
+          "id": "Di akhir atau di awal kalimat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Make a sentence with the time marker at the beginning.",
+          "id": "Buat kalimat dengan time marker di awal."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Two weeks ago, my family celebrated Galungan together.",
+          "id": "Dua minggu lalu, keluarga saya merayakan Galungan bersama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect! Now use 'after that' in a sentence about a festival.",
+          "id": "Sempurna! Sekarang pakai 'after that' dalam kalimat tentang festival."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We watched the parade. After that, we lit the lanterns.",
+          "id": "Kami menonton pawai. Setelah itu, kami menyalakan lentera."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah mengenal time markers khas teks festival dan penanda urutan seperti first, then, after that, next, finally. Mari kita ingat: time marker spesifik (yesterday, last week, ... ago) dipakai dengan past simple, bukan present perfect. Coba saya tanya: time marker apa yang menandakan urutan pertama? Benar, 'first'. Apa yang terakhir? Tepat, 'finally'. Untuk PR, tulis recount pendek (5-7 kalimat) tentang festival terakhir yang kamu hadiri, lengkap dengan minimal 4 time marker urutan. Pertemuan berikutnya kita akan fokus mengulang kosakata kunci festival supaya kalian lebih lancar menceritakan festival. Sampai jumpa!",
+      "instructions": "Tegaskan kembali daftar time marker dan penanda urutan. Berikan 1-2 pertanyaan pemahaman. Beri PR berupa recount pendek dengan time marker."
+    }
+  ]
+}

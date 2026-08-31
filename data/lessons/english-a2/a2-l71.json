@@ -1,0 +1,275 @@
+{
+  "id": "a2-l71",
+  "course_id": "english-a2",
+  "module_title": "Berita dan Peristiwa",
+  "level": "A2",
+  "title": "Time Markers Khas Present Perfect",
+  "subtitle": "Menggunakan just, already, yet, recently, ever, never",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengenal time markers khas present perfect",
+    "Membedakan just, already, yet, recently",
+    "Menggunakan ever/never dalam pertanyaan dan pernyataan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar past participle. Siapa bisa sebutkan V3 dari 'write'? Benar, 'written'. Hari ini kita lanjutkan dengan time markers khas present perfect. Pola ini sering muncul dengan kata seperti 'just', 'already', 'yet', 'recently', 'ever', 'never'. Coba bayangkan: kalau berita bilang 'The government has just announced...', apa artinya? Itulah yang akan kita pelajari. Rencana: kita pelajari daftar time markers khas present perfect, lalu berlatih memakainya dalam kalimat berita.",
+      "instructions": "Sapa murid dan minta V3 dari 'write'. Jelaskan time markers khas present perfect. Jelaskan tujuan: belajar just, already, yet, recently."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Time Markers Khas Present Perfect\n\nPresent perfect sering dipakai dengan **time markers** tertentu yang menunjukkan hubungan dengan sekarang.\n\n## Daftar Time Markers\n\n| Time marker | Arti | Posisi | Contoh |\n|---|---|---|---|\n| just | baru saja | sebelum V3 | The government has just announced it. |\n| already | sudah | sebelum V3 | They have already sent rescue teams. |\n| yet | belum | akhir (negatif/pertanyaan) | They haven't found them yet. |\n| recently | baru-baru ini | akhir | A storm has hit the coast recently. |\n| ever | pernah | sebelum V3 (pertanyaan) | Have you ever heard of this? |\n| never | tidak pernah | sebelum V3 | I have never seen such a storm. |\n| so far | sejauh ini | akhir | So far, three people have been rescued. |\n| this week/month | minggu/bulan ini | akhir | Three earthquakes have hit this month. |\n\n## Posisi Time Markers\n\n- **just, already, ever, never** diletakkan **sebelum V3**:\n  - She has **just written** the report.\n  - They have **already arrived**.\n  - I have **never seen** such a storm.\n- **yet, recently, so far, this week** diletakkan **di akhir**:\n  - They haven't found them **yet**.\n  - A storm has hit **recently**.\n  - Three earthquakes have hit **this month**.\n\n## Contoh dalam Berita\n\n- The government **has just announced** a new policy.\n- Rescue teams **have already arrived** in the area.\n- They **haven't found** all the victims **yet**.\n- Three earthquakes **have hit** the region **this month**.\n- **Have you ever** experienced an earthquake?\n- I **have never** seen such a big storm.\n\n> **Hindari:** memakai 'yet' di kalimat positif. Salah: 'They have found them yet.' Benar: 'They haven't found them yet.' (negatif) atau 'Have they found them yet?' (pertanyaan).\n\n> **Catatan:** 'already' untuk positif, 'yet' untuk negatif dan pertanyaan. 'Ever' untuk pertanyaan, 'never' untuk pernyataan negatif.\n\n## Mini-dialogue\n\nA: Has the government announced the result yet?\nB: Yes, they have just announced it.\nA: Have rescue teams arrived already?\nB: Yes, they have already arrived.\nA: Have they found all the victims yet?\nB: No, they haven't found them yet.",
+      "key_points": [
+        "Time markers khas present perfect: just, already, yet, recently, ever, never, so far.",
+        "'just, already, ever, never' diletakkan sebelum V3.",
+        "'yet, recently, so far, this month' diletakkan di akhir kalimat.",
+        "'already' untuk positif, 'yet' untuk negatif dan pertanyaan.",
+        "'ever' untuk pertanyaan, 'never' untuk pernyataan negatif.",
+        "Hindari 'yet' di kalimat positif.",
+        "Time markers ini membantu menunjukkan hubungan kejadian dengan sekarang."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "news",
+          "id": "berita",
+          "phonetic": "/nuːz/",
+          "example_en": "I read the news every morning.",
+          "example_id": "Saya membaca berita setiap pagi."
+        },
+        {
+          "en": "report",
+          "id": "laporan",
+          "phonetic": "/rɪˈpɔːrt/",
+          "example_en": "A journalist has written a new report.",
+          "example_id": "Seorang wartawan telah menulis laporan baru."
+        },
+        {
+          "en": "headline",
+          "id": "judul berita",
+          "phonetic": "/ˈhedlaɪn/",
+          "example_en": "The headline was very shocking.",
+          "example_id": "Judul beritanya sangat mengejutkan."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "The journalist has spoken to the public.",
+          "example_id": "Wartawan itu telah berbicara kepada publik."
+        },
+        {
+          "en": "broadcast",
+          "id": "siaran",
+          "phonetic": "/ˈbrɔːdkæst/",
+          "example_en": "The broadcast started at seven.",
+          "example_id": "Siaran dimulai pada pukul tujuh."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "The president gave an interview.",
+          "example_id": "Presiden memberikan wawancara."
+        },
+        {
+          "en": "article",
+          "id": "artikel",
+          "phonetic": "/ˈɑːrtɪkl/",
+          "example_en": "She has written an article about the storm.",
+          "example_id": "Dia telah menulis artikel tentang badai itu."
+        },
+        {
+          "en": "channel",
+          "id": "saluran",
+          "phonetic": "/ˈtʃænl/",
+          "example_en": "Change the channel, please.",
+          "example_id": "Ganti salurannya, tolong."
+        },
+        {
+          "en": "election",
+          "id": "pemilihan",
+          "phonetic": "/ɪˈlekʃn/",
+          "example_en": "The election result has been announced.",
+          "example_id": "Hasil pemilihan telah diumumkan."
+        },
+        {
+          "en": "policy",
+          "id": "kebijakan",
+          "phonetic": "/ˈpɒlɪsi/",
+          "example_en": "The government has announced a new policy.",
+          "example_id": "Pemerintah telah mengumumkan kebijakan baru."
+        },
+        {
+          "en": "storm",
+          "id": "badai",
+          "phonetic": "/stɔːrm/",
+          "example_en": "The storm has destroyed many houses.",
+          "example_id": "Badai telah menghancurkan banyak rumah."
+        },
+        {
+          "en": "earthquake",
+          "id": "gempa bumi",
+          "phonetic": "/ˈɜːrθkweɪk/",
+          "example_en": "Three earthquakes have hit the region this month.",
+          "example_id": "Tiga gempa bumi telah melanda wilayah itu bulan ini."
+        },
+        {
+          "en": "accident",
+          "id": "kecelakaan",
+          "phonetic": "/ˈæksɪdənt/",
+          "example_en": "Three people were injured in the accident.",
+          "example_id": "Tiga orang terluka dalam kecelakaan itu."
+        },
+        {
+          "en": "victim",
+          "id": "korban",
+          "phonetic": "/ˈvɪktɪm/",
+          "example_en": "They haven't found all the victims yet.",
+          "example_id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "en": "rescue",
+          "id": "penyelamatan",
+          "phonetic": "/ˈreskjuː/",
+          "example_en": "Rescue teams have arrived in the area.",
+          "example_id": "Tim penyelamat telah tiba di daerah itu."
+        },
+        {
+          "en": "to announce",
+          "id": "mengumumkan",
+          "phonetic": "/tuː əˈnaʊns/",
+          "example_en": "The government has announced the result.",
+          "example_id": "Pemerintah telah mengumumkan hasilnya."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut time marker, murid buat kalimat present perfect dengannya.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan just, already, yet, recently, ever, never.\n3) **Pair work (5 menit):** Tanyakan-jawab 'Have you...yet?' / 'Have you ever...?' tentang berita.\n4) **Role play (4 menit):** Dua murid memeragakan presenter berita yang memberi update terbaru.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'They have found them yet' -> 'They haven't found them yet').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has the government announced the result yet?",
+          "id": "Apakah pemerintah sudah mengumumkan hasilnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they have just announced it.",
+          "id": "Ya, mereka baru saja mengumumkannya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have rescue teams arrived already?",
+          "id": "Apakah tim penyelamat sudah tiba?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they have already arrived in the area.",
+          "id": "Ya, mereka sudah tiba di daerah itu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'yet' in a question.",
+          "id": "Bagus. Pakai 'yet' dalam pertanyaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Have they found all the victims yet?",
+          "id": "Apakah mereka sudah menemukan semua korban?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now answer with 'yet' in negative.",
+          "id": "Sekarang jawab dengan 'yet' dalam negatif."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, they haven't found them yet.",
+          "id": "Tidak, mereka belum menemukan mereka."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Use 'ever' in a question.",
+          "id": "Bagus. Pakai 'ever' dalam pertanyaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Have you ever experienced an earthquake?",
+          "id": "Pernahkah Anda mengalami gempa bumi?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Answer with 'never'.",
+          "id": "Jawab dengan 'never'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I have never experienced an earthquake.",
+          "id": "Tidak, saya tidak pernah mengalami gempa bumi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'They have found them yet.'",
+          "id": "Perbaiki ini: 'They have found them yet.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'They haven't found them yet.'",
+          "id": "Seharusnya 'They haven't found them yet.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'recently' in a present perfect sentence.",
+          "id": "Bagus. Pakai 'recently' dalam kalimat present perfect."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A storm has hit the coast recently.",
+          "id": "Badai telah melanda pantai baru-baru ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: use 'so far' in a sentence.",
+          "id": "Sempurna. Terakhir: pakai 'so far' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "So far, three people have been rescued.",
+          "id": "Sejauh ini, tiga orang telah diselamatkan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kalian sudah belajar time markers khas present perfect: just, already, yet, recently, ever, never, so far. Mari kita ingat: 'already' untuk positif, 'yet' untuk negatif/pertanyaan. Coba saya tanya: kalau mau bilang 'mereka belum menemukannya', pakai time marker apa? Benar, 'yet' — 'They haven't found it yet.' Untuk PR, tulis 8 kalimat present perfect memakai minimal 6 time marker berbeda. Pertemuan berikutnya kita akan belajar pola 'Have you heard about...?' untuk memulai percakapan tentang berita. Sampai jumpa!",
+      "instructions": "Tegaskan posisi dan pemakaian time markers. Berikan 1-2 pertanyaan pemahaman. Beri PR 8 kalimat dan umumkan topik 'Have you heard about...?'"
+    }
+  ]
+}

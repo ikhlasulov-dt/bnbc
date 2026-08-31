@@ -1,0 +1,237 @@
+{
+  "id": "a2-l14",
+  "course_id": "english-a2",
+  "module_title": "Pekerjaan dan Profesi",
+  "level": "A2",
+  "title": "Daftar Profesi yang Wajib Dikenal",
+  "subtitle": "Membicarakan cita-cita dan rencana karier dengan present continuous untuk masa depan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan profesi umum dalam bahasa Inggris",
+    "Menggunakan artikel a/an sebelum profesi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Modul Kesehatan tentang kosakata medis? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-14 dengan judul 'Daftar Profesi yang Wajib Dikenal'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Saat orang bertanya 'Apa cita-citamu?', apa jawabanmu dalam bahasa Inggris? Mari kenali nama-nama profesi! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Daftar Profesi yang Wajib Dikenal\n\nUntuk membicarakan cita-cita dan pekerjaan, kita perlu menguasai nama-nama **profesi** umum dalam bahasa Inggris.\n\n### 1. Profesi profesional\n\n| English | Indonesian |\n|---|---|\n| engineer | insinyur/teknik |\n| lawyer | pengacara |\n| accountant | akuntan |\n| doctor | dokter |\n| nurse | perawat |\n| scientist | ilmuwan |\n| journalist | wartawan |\n| programmer | pemrogram |\n\n### 2. Profesi layanan publik\n\n| English | Indonesian |\n|---|---|\n| police officer | polisi |\n| firefighter | pemadam kebakaran |\n| pilot | penerbang |\n| chef | koki |\n| mechanic | montir |\n| teacher | guru |\n\n### 3. Artikel sebelum profesi\n\nSebagian besar profesi pakai artikel **a/an**:\n- I want to be **a** doctor.\n- She is **an** engineer.\n- He is **a** chef.\n\nPakai **an** jika kata berawalan vokal: *an engineer, an accountant, an officer.*\n\n### 4. Pertanyaan umum tentang pekerjaan\n\n- What do you do? (Apa pekerjaanmu?)\n- What does your father do?\n- What do you want to be?\n\n### 5. Mini-dialogue\n\n> A: What **do** you **do**?\n> B: I'm **a** teacher. And you?\n> A: I'm **an** engineer. I work in a big company.\n> B: Wow! What **does** your brother **do**?\n> A: He is **a** firefighter.\n\n> **Hindari:** \"I'm teacher.\" (salah — *I'm a teacher.*)\n> **Hindari:** \"She is engineer.\" (salah — *She is an engineer.*)\n\n### 6. Tip\n\nHafalkan profesi dalam kelompok: profesional (doctor, engineer), layanan publik (police officer, firefighter), kreatif (chef, journalist). Selalu ingat artikel *a/an*.",
+      "key_points": [
+        "Profesi profesional: engineer, lawyer, accountant, doctor, scientist, journalist, programmer",
+        "Profesi layanan publik: police officer, firefighter, pilot, chef, mechanic, teacher",
+        "Selalu pakai a/an sebelum profesi: a doctor, an engineer",
+        "an untuk kata berawalan vokal: an engineer, an accountant, an officer",
+        "Tanya pekerjaan: What do you do? / What does your father do?",
+        "Cita-cita: What do you want to be? — I want to be a ..."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "job",
+          "id": "pekerjaan",
+          "phonetic": "/dʒɒb/",
+          "example_en": "He has a new job.",
+          "example_id": "Dia punya pekerjaan baru."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "engineer",
+          "id": "insinyur",
+          "phonetic": "/ˌendʒɪˈnɪr/",
+          "example_en": "My uncle is an engineer.",
+          "example_id": "Paman saya seorang insinyur."
+        },
+        {
+          "en": "lawyer",
+          "id": "pengacara",
+          "phonetic": "/ˈlɔɪər/",
+          "example_en": "She is a famous lawyer.",
+          "example_id": "Dia pengacara yang terkenal."
+        },
+        {
+          "en": "accountant",
+          "id": "akuntan",
+          "phonetic": "/əˈkaʊntənt/",
+          "example_en": "An accountant works with numbers.",
+          "example_id": "Akuntan bekerja dengan angka."
+        },
+        {
+          "en": "pilot",
+          "id": "penerbang",
+          "phonetic": "/ˈpaɪlət/",
+          "example_en": "The pilot flies the plane.",
+          "example_id": "Penerbang menerbangkan pesawat."
+        },
+        {
+          "en": "chef",
+          "id": "koki",
+          "phonetic": "/ʃef/",
+          "example_en": "The chef cooks delicious food.",
+          "example_id": "Koki memasak makanan lezat."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "A journalist writes news.",
+          "example_id": "Wartawan menulis berita."
+        },
+        {
+          "en": "programmer",
+          "id": "pemrogram",
+          "phonetic": "/ˈproʊɡræmər/",
+          "example_en": "He is a computer programmer.",
+          "example_id": "Dia pemrogram komputer."
+        },
+        {
+          "en": "police officer",
+          "id": "polisi",
+          "phonetic": "/pəˈliːs ˈɒfɪsər/",
+          "example_en": "A police officer protects people.",
+          "example_id": "Polisi melindungi orang."
+        },
+        {
+          "en": "firefighter",
+          "id": "pemadam kebakaran",
+          "phonetic": "/ˈfaɪərfaɪtər/",
+          "example_en": "A firefighter puts out fires.",
+          "example_id": "Pemadam kebakaran memadamkan api."
+        },
+        {
+          "en": "scientist",
+          "id": "ilmuwan",
+          "phonetic": "/ˈsaɪəntɪst/",
+          "example_en": "Scientists do experiments.",
+          "example_id": "Ilmuwan melakukan eksperimen."
+        },
+        {
+          "en": "mechanic",
+          "id": "montir",
+          "phonetic": "/məˈkænɪk/",
+          "example_en": "The mechanic fixed my car.",
+          "example_id": "Montir memperbaiki mobil saya."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara kerja",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "I have a job interview tomorrow.",
+          "example_id": "Saya ada wawancara kerja besok."
+        },
+        {
+          "en": "colleague",
+          "id": "rekan kerja",
+          "phonetic": "/ˈkɒliːɡ/",
+          "example_en": "My colleague is very helpful.",
+          "example_id": "Rekan kerja saya sangat membantu."
+        },
+        {
+          "en": "salary",
+          "id": "gaji",
+          "phonetic": "/ˈsæləri/",
+          "example_en": "He gets a good salary.",
+          "example_id": "Dia mendapat gaji yang baik."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut profesi dalam bahasa Indonesia, murid jawab dengan a/an + profesi.\n2. Pair work: saling tanya 'What do you do? / What do you want to be?' dengan 5 teman.\n3. Fill-in-the-blank: 10 kalimat dengan a/an + profesi yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'I'm teacher', 'She is engineer').\n5. Matching: cocokkan gambar profesi dengan nama bahasa Inggrisnya.\n\nTugas rumah: Tulis 8 kalimat tentang pekerjaan anggota keluargamu menggunakan a/an + profesi.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you want to be when you grow up?",
+          "id": "Apa cita-citamu saat besar nanti?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I want to be a doctor.",
+          "id": "Saya ingin menjadi dokter."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's great! What does your father do?",
+          "id": "Bagus! Apa pekerjaan ayahmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is an engineer at a construction company.",
+          "id": "Dia insinyur di perusahaan konstruksi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your mother?",
+          "id": "Dan ibumu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is a teacher at my school.",
+          "id": "Dia guru di sekolah saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have siblings? What do they do?",
+          "id": "Punya saudara? Apa pekerjaan mereka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My brother is a firefighter.",
+          "id": "Kakak saya pemadam kebakaran."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Wow, that's a brave job! What about your aunt?",
+          "id": "Wah, pekerjaan yang berani! Bagaimana dengan bibimu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is a lawyer in the city.",
+          "id": "Dia pengacara di kota."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "So many interesting jobs! Why a doctor?",
+          "id": "Banyak pekerjaan menarik! Kenapa dokter?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because I want to help sick people.",
+          "id": "Karena saya ingin membantu orang sakit."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Daftar Profesi yang Wajib Dikenal'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 8 kalimat tentang pekerjaan anggota keluargamu menggunakan a/an + profesi. Pelajaran berikutnya kita akan membahas pola 'I want to be...' untuk cita-cita, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "id": "a2-l64",
+  "course_id": "english-a2",
+  "module_title": "Hewan Peliharaan",
+  "level": "A2",
+  "title": "Can dan Can't untuk Kemampuan Hewan",
+  "subtitle": "Mendeskripsikan apa yang bisa dan tidak bisa dilakukan hewan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat afirmatif, negatif, dan pertanyaan dengan can/can't",
+    "Mendeskripsikan kemampuan khas hewan peliharaan",
+    "Menggunakan can tanpa to setelah kata kerja"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar 'have got/has got'. Siapa bisa buat satu kalimat tentang hewan peliharaan memakai pola itu? Bagus. Hari ini kita lanjutkan dengan 'can' dan 'can't'. Pola ini dipakai untuk menyatakan kemampuan. Hewan peliharaan punya berbagai kemampuan: anjing bisa berlari cepat, kucing bisa memanjat, ikan bisa berenang. Coba pikirkan: hewan peliharaan kalian bisa apa? Itulah yang akan kita pelajari. Rencana hari ini: kita pelajari bentuk 'can' dan 'can't', lalu berlatih menceritakan kemampuan hewan.",
+      "instructions": "Sapa murid dan minta satu contoh 'have got/has got' kemarin. Ajak murid memikirkan kemampuan hewan peliharaan. Jelaskan tujuan: belajar 'can' dan 'can't'."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu 'Can' dan 'Can't'?\n\n**Can** adalah kata bantu (modal) untuk menyatakan **kemampuan** atau **kecakapan**. **Can't** (cannot) adalah bentuk negatifnya, menyatakan ketidakmampuan. Dalam konteks hewan peliharaan, pola ini sangat sering dipakai: 'A dog can run fast' (Anjing bisa berlari cepat).\n\n## Bentuk 'Can' dan 'Can't'\n\n- **Positif:** subjek + can + bentuk dasar\n  - A dog **can run** very fast.\n  - A cat **can climb** trees.\n  - A parrot **can mimic** words.\n  - Fish **can swim**.\n- **Negatif:** subjek + can't (cannot) + bentuk dasar\n  - A dog **can't fly**.\n  - Fish **can't walk**.\n  - A turtle **can't run** fast.\n- **Pertanyaan:** Can + subjek + bentuk dasar?\n  - **Can** a cat climb trees? Yes, it can.\n  - **Can** a dog fly? No, it can't.\n\n## Tabel Kemampuan Hewan\n\n| Hewan | Bisa (can) | Tidak Bisa (can't) |\n|---|---|---|\n| dog | run, bark, swim | fly, climb trees |\n| cat | climb, jump, see in the dark | talk |\n| parrot | mimic words, fly | swim well |\n| fish | swim, breathe underwater | walk, run |\n| turtle | live long, swim | run fast |\n| hamster | run in a wheel, dig | fly |\n\n## Contoh Paragraf\n\nMy dog is very clever. It **can run** very fast and **can swim** in the river. It **can't climb** trees, but it **can jump** over small fences. My cat is different. It **can climb** trees and **can see** in the dark, but it **can't swim**.\n\n> **Hindari:** menambahkan -s pada kata kerja setelah 'can'. Salah: 'A cat can climbs.' Benar: 'A cat can climb.' 'Can' selalu diikuti bentuk dasar tanpa -s.\n\n> **Catatan:** 'Can' tidak berubah untuk subjek tunggal/jamak. He/she/it juga memakai 'can' (bukan 'cans'). 'A dog can run.' 'Dogs can run.'\n\n## Mini-dialogue\n\nA: What can your dog do?\nB: It can run very fast and it can swim.\nA: Can it climb trees?\nB: No, it can't. But my cat can climb trees.",
+      "key_points": [
+        "'Can' untuk menyatakan kemampuan, 'can't' (cannot) untuk ketidakmampuan.",
+        "Struktur: subjek + can/can't + bentuk dasar kata kerja.",
+        "'Can' tidak berubah untuk semua subjek (he/she/it tetap 'can', bukan 'cans').",
+        "Setelah 'can', kata kerja selalu bentuk dasar tanpa -s.",
+        "Pertanyaan: Can + subjek + bentuk dasar?",
+        "Sangat berguna untuk menceritakan kemampuan hewan peliharaan.",
+        "Hindari menambah -s pada kata kerja setelah 'can' (can climbs = salah)."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "pet",
+          "id": "hewan peliharaan",
+          "phonetic": "/pet/",
+          "example_en": "Have you got a pet?",
+          "example_id": "Apakah kamu punya hewan peliharaan?"
+        },
+        {
+          "en": "dog",
+          "id": "anjing",
+          "phonetic": "/dɒɡ/",
+          "example_en": "My dog can run very fast.",
+          "example_id": "Anjing saya bisa berlari sangat cepat."
+        },
+        {
+          "en": "cat",
+          "id": "kucing",
+          "phonetic": "/kæt/",
+          "example_en": "The cat can climb trees.",
+          "example_id": "Kucing itu bisa memanjat pohon."
+        },
+        {
+          "en": "rabbit",
+          "id": "kelinci",
+          "phonetic": "/ˈræbɪt/",
+          "example_en": "She has got a white rabbit.",
+          "example_id": "Dia punya kelinci putih."
+        },
+        {
+          "en": "parrot",
+          "id": "beo",
+          "phonetic": "/ˈpærət/",
+          "example_en": "A parrot can mimic words.",
+          "example_id": "Beo bisa menirukan kata-kata."
+        },
+        {
+          "en": "hamster",
+          "id": "hamster",
+          "phonetic": "/ˈhæmstər/",
+          "example_en": "The hamster is in the cage.",
+          "example_id": "Hamsternya ada di dalam sangkar."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "Fish can swim but they can't walk.",
+          "example_id": "Ikan bisa berenang tetapi tidak bisa berjalan."
+        },
+        {
+          "en": "turtle",
+          "id": "kura-kura",
+          "phonetic": "/ˈtɜːrtl/",
+          "example_en": "A turtle can live for many years.",
+          "example_id": "Kura-kura bisa hidup bertahun-tahun."
+        },
+        {
+          "en": "cage",
+          "id": "sangkar",
+          "phonetic": "/keɪdʒ/",
+          "example_en": "The bird is in the cage.",
+          "example_id": "Burungnya ada di dalam sangkar."
+        },
+        {
+          "en": "to feed",
+          "id": "memberi makan",
+          "phonetic": "/tuː fiːd/",
+          "example_en": "You should feed your cat twice a day.",
+          "example_id": "Kamu sebaiknya memberi makan kucingmu dua kali sehari."
+        },
+        {
+          "en": "to walk",
+          "id": "mengajak jalan",
+          "phonetic": "/tuː wɔːk/",
+          "example_en": "I walk my dog every morning.",
+          "example_id": "Saya mengajak anjing saya jalan setiap pagi."
+        },
+        {
+          "en": "to brush",
+          "id": "menyikat",
+          "phonetic": "/tuː brʌʃ/",
+          "example_en": "You should brush your dog every week.",
+          "example_id": "Kamu sebaiknya menyikat anjingmu setiap minggu."
+        },
+        {
+          "en": "vet",
+          "id": "dokter hewan",
+          "phonetic": "/vet/",
+          "example_en": "You should take your pet to the vet.",
+          "example_id": "Kamu sebaiknya membawa peliharaanmu ke dokter hewan."
+        },
+        {
+          "en": "leash",
+          "id": "tali kekang",
+          "phonetic": "/liːʃ/",
+          "example_en": "Use a leash when you walk your dog.",
+          "example_id": "Gunakan tali kekang saat mengajak anjingmu jalan."
+        },
+        {
+          "en": "to train",
+          "id": "melatih",
+          "phonetic": "/tuː treɪn/",
+          "example_en": "You can train a dog to sit.",
+          "example_id": "Kamu bisa melatih anjing untuk duduk."
+        },
+        {
+          "en": "to take care of",
+          "id": "merawat",
+          "phonetic": "/tuː teɪk ker əv/",
+          "example_en": "You should take care of your pet every day.",
+          "example_id": "Kamu sebaiknya merawat peliharaanmu setiap hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut hewan dan kemampuan, murid buat kalimat 'can/can't'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan 'can' atau 'can't' dan kata kerja yang tepat.\n3) **Pair work (5 menit):** Tanyakan-jawab 'Can your pet...?' tentang kemampuan hewan peliharaan.\n4) **Role play (4 menit):** Dua murid memeragakan pemilik hewan yang membandingkan kemampuan hewan masing-masing.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'A cat can climbs' -> 'A cat can climb').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What can your dog do?",
+          "id": "Apa yang bisa dilakukan anjingmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It can run very fast and it can swim in the river.",
+          "id": "Dia bisa berlari sangat cepat dan bisa berenang di sungai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Can it climb trees?",
+          "id": "Apakah dia bisa memanjat pohon?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, it can't. But my cat can climb trees.",
+          "id": "Tidak. Tapi kucing saya bisa memanjat pohon."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What can a parrot do?",
+          "id": "Bagus. Apa yang bisa dilakukan beo?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A parrot can mimic words and it can fly.",
+          "id": "Beo bisa menirukan kata-kata dan bisa terbang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What can't a fish do?",
+          "id": "Apa yang tidak bisa dilakukan ikan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A fish can't walk and it can't run.",
+          "id": "Ikan tidak bisa berjalan dan tidak bisa berlari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Correct this: 'A cat can climbs trees.'",
+          "id": "Bagus. Perbaiki ini: 'A cat can climbs trees.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'A cat can climb trees.'",
+          "id": "Seharusnya 'A cat can climb trees.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because after 'can', the verb has no -s.",
+          "id": "Karena setelah 'can', kata kerja tidak pakai -s."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Now make a question with 'Can...?'",
+          "id": "Bagus. Sekarang buat pertanyaan dengan 'Can...?'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Can a turtle run fast?",
+          "id": "Apakah kura-kura bisa berlari cepat?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Answer it.",
+          "id": "Jawab."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, it can't. A turtle can't run fast.",
+          "id": "Tidak. Kura-kura tidak bisa berlari cepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Describe your pet's abilities in two sentences.",
+          "id": "Sempurna. Deskripsikan kemampuan hewan peliharaanmu dalam dua kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My hamster can run in a wheel. It can't fly.",
+          "id": "Hamster saya bisa berlari di roda. Dia tidak bisa terbang."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar 'can' dan 'can't' untuk menceritakan kemampuan hewan peliharaan. Mari kita ingat: 'can' untuk kemampuan, 'can't' untuk ketidakmampuan, dan kata kerja setelah 'can' selalu bentuk dasar tanpa -s. Coba saya tanya: kalau mau bilang 'Anjing tidak bisa terbang', bagaimana? Benar, 'A dog can't fly.' Untuk PR, tulis 10 kalimat tentang kemampuan berbagai hewan memakai 'can' dan 'can't'. Pertemuan berikutnya kita akan belajar 'should' dan 'shouldn't' untuk memberi saran perawatan hewan. Sampai jumpa!",
+      "instructions": "Tegaskan aturan 'can' + bentuk dasar. Berikan 1-2 pertanyaan pemahaman. Beri PR 10 kalimat dan umumkan topik 'should/shouldn't'."
+    }
+  ]
+}

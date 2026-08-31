@@ -1,0 +1,263 @@
+{
+  "id": "a2-l90",
+  "course_id": "english-a2",
+  "module_title": "Perpisahan dan Rencana Masa Depan",
+  "level": "A2",
+  "title": "Pola Be Going To",
+  "subtitle": "Menyatakan rencana yang sudah disusun dan prediksi berdasarkan tanda",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat afirmatif, negatif, dan pertanyaan dengan be going to",
+    "Memahami kapan memakai be going to: rencana dan prediksi berdasarkan tanda",
+    "Membedakan am, is, are sesuai subjek"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar 'will' dan 'won't'. Siapa bisa beri satu contoh kalimat 'will'? Bagus. Hari ini kita lanjutkan dengan pola 'be going to'. Pola ini juga untuk masa depan, tapi fokusnya berbeda dengan 'will'. Coba pikirkan: kalau kalian sudah punya rencana pasti untuk liburan, bagaimana menceritakannya? 'I am going to visit Bali next month.' Itulah yang akan kita pelajari. Rencana: kita pelajari 'be going to', lalu berlatih menceritakan rencana yang sudah pasti.",
+      "instructions": "Sapa murid dan minta satu contoh 'will' kemarin. Ajak murid memikirkan rencana pasti. Jelaskan tujuan: belajar 'be going to'."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu 'Be Going To'?\n\n**Be going to** adalah pola untuk menceritakan **rencana masa depan yang sudah pasti** atau **prediksi berdasarkan bukti**. Pola ini berbeda dengan 'will' yang lebih spontan.\n\n## Struktur\n\nsubjek + **am/is/are** + **going to** + bentuk dasar\n\n- **am** untuk I\n- **is** untuk he, she, it\n- **are** untuk you, we, they\n\n## Contoh\n\n- I **am going to study** engineering.\n- She **is going to travel** abroad next year.\n- They **are going to move** to Jakarta.\n- We **are going to have** a farewell party.\n- He **is going to apply** for a scholarship.\n\n## Bentuk Negatif dan Pertanyaan\n\n| Bentuk | Struktur | Contoh |\n|---|---|---|\n| Positif | subjek + am/is/are + going to + V1 | I am going to study. |\n| Negatif | subjek + am not/isn't/aren't + going to + V1 | I'm not going to leave. |\n| Pertanyaan | Am/Is/Are + subjek + going to + V1? | Are you going to travel? |\n\n## Kapan Memakai 'Be Going To'?\n\n1. **Rencana yang sudah pasti** (sudah diputuskan sebelumnya):\n   - I **am going to visit** my grandparents next week. (sudah ada rencana)\n2. **Prediksi berdasarkan bukti**:\n   - Look at the clouds. It **is going to rain**. (ada bukti: awan gelap)\n\n## Tabel 'Be Going To'\n\n| Subjek | Positif | Negatif |\n|---|---|---|\n| I | I am going to go. | I'm not going to go. |\n| You | You are going to study. | You aren't going to study. |\n| He/She | She is going to travel. | She isn't going to travel. |\n| We | We are going to celebrate. | We aren't going to celebrate. |\n| They | They are going to move. | They aren't going to move. |\n\n## Contoh Paragraf\n\nNext month, I **am going to start** university in Jakarta. My family **is going to move** there together. My best friend **is going to stay** here, but we **are going to keep in touch**. We **are going to have** a farewell party next week. I **am not going to forget** the memories we made. I am excited about this new journey.\n\n> **Hindari:** memakai 'will' untuk rencana yang sudah pasti. Bila rencana sudah diputuskan, pakai 'be going to'. Contoh: 'I am going to visit Bali next month' (bukan 'I will visit Bali next month' bila rencananya sudah pasti).\n\n> **Catatan:** 'be going to' memakai am/is/are sesuai subjek. Setelah 'going to' selalu bentuk dasar.\n\n## Mini-dialogue\n\nA: What are you going to do next year?\nB: I am going to study at a university in Jakarta.\nA: Are you going to live there?\nB: Yes, my family is going to move with me.",
+      "key_points": [
+        "'Be going to' untuk rencana masa depan yang sudah pasti atau prediksi berdasarkan bukti.",
+        "Struktur: subjek + am/is/are + going to + bentuk dasar.",
+        "'am' untuk I, 'is' untuk he/she/it, 'are' untuk you/we/they.",
+        "Negatif: am not/isn't/aren't + going to. Pertanyaan: Am/Is/Are + subjek + going to?",
+        "Untuk rencana yang sudah pasti, pakai 'be going to' (bukan 'will').",
+        "Setelah 'going to' selalu bentuk dasar kata kerja.",
+        "Prediksi berdasarkan bukti juga memakai 'be going to': 'It is going to rain.'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "future",
+          "id": "masa depan",
+          "phonetic": "/ˈfjuːtʃər/",
+          "example_en": "I am thinking about my future.",
+          "example_id": "Saya memikirkan masa depan saya."
+        },
+        {
+          "en": "plan",
+          "id": "rencana",
+          "phonetic": "/plæn/",
+          "example_en": "I am going to share my plans with you.",
+          "example_id": "Saya akan berbagi rencana saya denganmu."
+        },
+        {
+          "en": "hope",
+          "id": "harapan",
+          "phonetic": "/hoʊp/",
+          "example_en": "I hope I will get a scholarship.",
+          "example_id": "Saya berharap mendapat beasiswa."
+        },
+        {
+          "en": "dream",
+          "id": "cita-cita",
+          "phonetic": "/driːm/",
+          "example_en": "My dream is to study abroad.",
+          "example_id": "Cita-cita saya adalah belajar di luar negeri."
+        },
+        {
+          "en": "career",
+          "id": "karier",
+          "phonetic": "/kəˈrɪr/",
+          "example_en": "She wants a career in medicine.",
+          "example_id": "Dia ingin berkarier di bidang kedokteran."
+        },
+        {
+          "en": "scholarship",
+          "id": "beasiswa",
+          "phonetic": "/ˈskɒlərʃɪp/",
+          "example_en": "She got a scholarship to study in Japan.",
+          "example_id": "Dia mendapat beasiswa untuk belajar di Jepang."
+        },
+        {
+          "en": "university",
+          "id": "universitas",
+          "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+          "example_en": "I am going to study at a university in Jakarta.",
+          "example_id": "Saya akan belajar di universitas di Jakarta."
+        },
+        {
+          "en": "to succeed",
+          "id": "berhasil",
+          "phonetic": "/tuː səkˈsiːd/",
+          "example_en": "I am sure you will succeed.",
+          "example_id": "Saya yakin kamu akan berhasil."
+        },
+        {
+          "en": "goal",
+          "id": "tujuan",
+          "phonetic": "/ɡoʊl/",
+          "example_en": "My goal is to become an engineer.",
+          "example_id": "Tujuan saya menjadi insinyur."
+        },
+        {
+          "en": "opportunity",
+          "id": "kesempatan",
+          "phonetic": "/ˌɒpərˈtuːnəti/",
+          "example_en": "This is a great opportunity for me.",
+          "example_id": "Ini adalah kesempatan besar bagi saya."
+        },
+        {
+          "en": "farewell",
+          "id": "perpisahan",
+          "phonetic": "/ˌferˈwel/",
+          "example_en": "We had a farewell party last night.",
+          "example_id": "Kami mengadakan pesta perpisahan tadi malam."
+        },
+        {
+          "en": "goodbye",
+          "id": "selamat tinggal",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "example_en": "Goodbye and all the best.",
+          "example_id": "Selamat tinggal dan semoga semua yang terbaik."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "Please keep in touch after you move.",
+          "example_id": "Tetaplah berkomunikasi setelah kamu pindah."
+        },
+        {
+          "en": "take care",
+          "id": "jaga diri",
+          "phonetic": "/teɪk ker/",
+          "example_en": "Take care and have a safe trip.",
+          "example_id": "Jagalah dirimu dan selamat jalan."
+        },
+        {
+          "en": "journey",
+          "id": "perjalanan",
+          "phonetic": "/ˈdʒɜːrni/",
+          "example_en": "I'm looking forward to this new journey.",
+          "example_id": "Saya menantikan perjalanan baru ini."
+        },
+        {
+          "en": "to look forward to",
+          "id": "menantikan",
+          "phonetic": "/tuː lʊk ˈfɔːrwərd tuː/",
+          "example_en": "I'm looking forward to seeing you again.",
+          "example_id": "Saya menantikan untuk bertemu denganmu lagi."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru menyebut subjek dan kata kerja, murid buat kalimat 'be going to'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan 'am/is/are going to' yang tepat.\n3) **Pair work (5 menit):** Tanyakan-jawab 'Are you going to...?' tentang rencana.\n4) **Role play (4 menit):** Dua murid memeragakan teman yang berbagi rencana masa depan.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'She are going to go' -> 'She is going to go').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What are you going to do next year?",
+          "id": "Apa yang akan kamu lakukan tahun depan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am going to study at a university in Jakarta.",
+          "id": "Saya akan belajar di universitas di Jakarta."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Are you going to live there?",
+          "id": "Apakah kamu akan tinggal di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, my family is going to move with me.",
+          "id": "Ya, keluarga saya akan pindah bersama saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'be going to' with 'they'.",
+          "id": "Bagus. Pakai 'be going to' dengan 'they'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They are going to have a farewell party next week.",
+          "id": "Mereka akan mengadakan pesta perpisahan minggu depan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Make a negative sentence.",
+          "id": "Bagus. Buat kalimat negatif."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm not going to forget my friends here.",
+          "id": "Saya tidak akan melupakan teman-teman di sini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'She are going to travel.'",
+          "id": "Perbaiki ini: 'She are going to travel.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'She is going to travel.'",
+          "id": "Seharusnya 'She is going to travel.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'she' takes 'is', not 'are'.",
+          "id": "Karena 'she' memakai 'is', bukan 'are'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Ask me: 'Are you going to...?'",
+          "id": "Bagus. Tanyakan saya: 'Are you going to...?'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Are you going to keep in touch after graduation?",
+          "id": "Apakah Anda akan tetap berkomunikasi setelah lulus?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, I am. Last: describe your plans using 'be going to'.",
+          "id": "Ya. Terakhir: deskripsikan rencanamu memakai 'be going to'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am going to study engineering. My family is going to support me.",
+          "id": "Saya akan belajar teknik. Keluarga saya akan mendukung saya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar 'be going to' untuk rencana masa depan yang sudah pasti. Mari kita ingat strukturnya: subjek + am/is/are + going to + bentuk dasar. 'Am' untuk I, 'is' untuk he/she/it, 'are' untuk you/we/they. Coba saya tanya: kalau subjeknya 'she', pakai 'am', 'is', atau 'are'? Benar, 'is'. Bagaimana dengan 'they'? Tepat, 'are'. Untuk PR, tulis 10 kalimat rencana masa depan memakai 'be going to' (campuran positif, negatif, dan pertanyaan). Pertemuan berikutnya kita akan membandingkan 'will' dan 'be going to' supaya kalian tahu kapan memakai yang mana. Sampai jumpa!",
+      "instructions": "Tegaskan struktur 'be going to'. Berikan 1-2 pertanyaan pemahaman. Beri PR 10 kalimat dan umumkan topik perbandingan will vs be going to."
+    }
+  ]
+}

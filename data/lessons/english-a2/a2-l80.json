@@ -1,0 +1,263 @@
+{
+  "id": "a2-l80",
+  "course_id": "english-a2",
+  "module_title": "Persahabatan",
+  "level": "A2",
+  "title": "Perbedaan Since dan For",
+  "subtitle": "Memilih since untuk titik waktu dan for untuk durasi",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan since untuk titik waktu dan for untuk durasi",
+    "Menghindari kesalahan umum dalam penggunaan since/for",
+    "Memilih kata yang tepat dalam konteks persahabatan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar kosakata persahabatan. Siapa bisa sebutkan 3 kata baru yang dipelajari? Bagus. Hari ini kita akan fokus membedakan 'since' dan 'for' lebih dalam. Kita sudah belajar keduanya di pelajaran present perfect untuk durasi. Sekarang kita perdalam pemahaman supaya tidak tertukar. Coba pikirkan: kalau mau bilang 'sejak 2018', pakai 'since' atau 'for'? Kalau 'selama tiga tahun'? Itulah yang akan kita perdalam hari ini. Rencana: kita pelajari perbedaan detailnya, lalu berlatih memakainya dengan benar.",
+      "instructions": "Sapa murid dan tanyakan 3 kata kosakata kemarin. Ajak murid membedakan 'since' dan 'for'. Jelaskan tujuan: memperdalam perbedaan since dan for."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Perbedaan 'Since' dan 'For'\n\nKita sudah belajar keduanya di present perfect untuk durasi. Sekarang kita perdalam pemahaman supaya tidak tertukar.\n\n## Aturan Utama\n\n- **For** + **durasi** (jangka waktu: berapa lama)\n  - for five years, for ten minutes, for a long time, for ages\n- **Since** + **titik mulai** (waktu spesifik: kapan mulai)\n  - since 2019, since January, since Monday, since I was a child\n\n## Tabel Lengkap\n\n| For (durasi) | Since (titik mulai) |\n|---|---|\n| for two hours | since 3 o'clock |\n| for five years | since 2019 |\n| for ten months | since January |\n| for a long time | since I was young |\n| for many weeks | since last week |\n| for ages | since primary school |\n| for a few days | since Monday |\n\n## Cara Mengingat\n\n- **For** menjawab: **How long?** (Berapa lama?)\n  - I have known her **for** five years. (Berapa lama? Lima tahun.)\n- **Since** menjawab: **Since when?** (Sejak kapan?)\n  - I have known her **since** 2019. (Sejak kapan? 2019.)\n\n## Contoh dalam Persahabatan\n\n- We have been friends **for** ten years. (Berapa lama? Sepuluh tahun.)\n- We have been friends **since** primary school. (Sejak kapan? Sekolah dasar.)\n- I have trusted her **for** a long time.\n- I have trusted her **since** we first met.\n- Our friendship has lasted **for** many years.\n- Our friendship has lasted **since** 2015.\n\n## Kesalahan Umum\n\n- Salah: 'I have known her since five years.' (since + durasi)\n- Benar: 'I have known her for five years.' (for + durasi)\n- Salah: 'I have known her for 2019.' (for + titik)\n- Benar: 'I have known her since 2019.' (since + titik)\n\n> **Hindari:** mencampur 'since' dengan durasi dan 'for' dengan titik waktu. Selalu cek: apakah kata setelahnya durasi (for) atau titik (since)?\n\n> **Catatan:** Beberapa frasa bisa ambigu: 'for a long time' (durasi) vs 'since a long time ago' (titik). Lebih aman pakai 'for a long time'.\n\n## Mini-dialogue\n\nA: How long have you been friends?\nB: We have been friends for ten years.\nA: Since when exactly?\nB: Since we started primary school in 2014.",
+      "key_points": [
+        "'For' + durasi (jangka waktu): for five years, for ten minutes.",
+        "'Since' + titik mulai (waktu spesifik): since 2019, since January.",
+        "'For' menjawab 'How long?', 'Since' menjawab 'Since when?'.",
+        "Hindari 'since' + durasi ('since five years' = salah).",
+        "Hindari 'for' + titik waktu ('for 2019' = salah).",
+        "Cek kata setelahnya: durasi -> for, titik -> since.",
+        "Keduanya dipakai dengan present perfect untuk menyatakan durasi."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "friend",
+          "id": "teman",
+          "phonetic": "/frend/",
+          "example_en": "She is my best friend.",
+          "example_id": "Dia sahabat saya."
+        },
+        {
+          "en": "friendship",
+          "id": "persahabatan",
+          "phonetic": "/ˈfrendʃɪp/",
+          "example_en": "Our friendship has lasted for ten years.",
+          "example_id": "Persahabatan kami sudah berlangsung sepuluh tahun."
+        },
+        {
+          "en": "best friend",
+          "id": "sahabat",
+          "phonetic": "/best frend/",
+          "example_en": "My best friend is loyal and supportive.",
+          "example_id": "Sahabat saya setia dan mendukung."
+        },
+        {
+          "en": "loyal",
+          "id": "setia",
+          "phonetic": "/ˈlɔɪəl/",
+          "example_en": "He is a loyal friend.",
+          "example_id": "Dia teman yang setia."
+        },
+        {
+          "en": "honest",
+          "id": "jujur",
+          "phonetic": "/ˈɒnɪst/",
+          "example_en": "I like her because she is honest.",
+          "example_id": "Saya suka dia karena dia jujur."
+        },
+        {
+          "en": "kind",
+          "id": "baik hati",
+          "phonetic": "/kaɪnd/",
+          "example_en": "She is kind to everyone.",
+          "example_id": "Dia baik hati kepada semua orang."
+        },
+        {
+          "en": "supportive",
+          "id": "mendukung",
+          "phonetic": "/səˈpɔːrtɪv/",
+          "example_en": "She is supportive when I have problems.",
+          "example_id": "Dia mendukung saat saya punya masalah."
+        },
+        {
+          "en": "generous",
+          "id": "dermawan",
+          "phonetic": "/ˈdʒenərəs/",
+          "example_en": "He is generous with his time.",
+          "example_id": "Dia dermawan dengan waktunya."
+        },
+        {
+          "en": "funny",
+          "id": "lucu",
+          "phonetic": "/ˈfʌni/",
+          "example_en": "He is funny and always makes me laugh.",
+          "example_id": "Dia lucu dan selalu membuat saya tertawa."
+        },
+        {
+          "en": "patient",
+          "id": "sabar",
+          "phonetic": "/ˈpeɪʃnt/",
+          "example_en": "A good friend should be patient.",
+          "example_id": "Teman yang baik sebaiknya sabar."
+        },
+        {
+          "en": "shy",
+          "id": "pemalu",
+          "phonetic": "/ʃaɪ/",
+          "example_en": "He used to be very shy.",
+          "example_id": "Dia dulu sangat pemalu."
+        },
+        {
+          "en": "outgoing",
+          "id": "supel",
+          "phonetic": "/ˈaʊtɡoʊɪŋ/",
+          "example_en": "She is outgoing and loves parties.",
+          "example_id": "Dia supel dan suka pesta."
+        },
+        {
+          "en": "to trust",
+          "id": "mempercayai",
+          "phonetic": "/tuː trʌst/",
+          "example_en": "I trust my best friend completely.",
+          "example_id": "Saya mempercayai sahabat saya sepenuhnya."
+        },
+        {
+          "en": "to share",
+          "id": "berbagi",
+          "phonetic": "/tuː ʃer/",
+          "example_en": "We share our secrets with each other.",
+          "example_id": "Kami berbagi rahasia satu sama lain."
+        },
+        {
+          "en": "to keep in touch",
+          "id": "tetap berkomunikasi",
+          "phonetic": "/tuː kiːp ɪn tʌtʃ/",
+          "example_en": "We still keep in touch after all these years.",
+          "example_id": "Kami masih tetap berkomunikasi setelah sekian tahun."
+        },
+        {
+          "en": "secret",
+          "id": "rahasia",
+          "phonetic": "/ˈsiːkrɪt/",
+          "example_en": "She keeps my secrets safe.",
+          "example_id": "Dia menjaga rahasia saya dengan aman."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Guru menyebut frasa waktu, murid tentukan 'for' atau 'since'.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 10 kalimat dengan 'for' atau 'since'.\n3) **Pair work (4 menit):** Tanyakan-jawab 'How long...?' dan 'Since when...?' tentang pertemanan.\n4) **Role play (4 menit):** Dua murid memeragakan teman yang menceritakan lamanya pertemanan.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'since five years' -> 'for five years').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long have you been friends?",
+          "id": "Sudah berapa lama kalian berteman?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We have been friends for ten years.",
+          "id": "Kami sudah berteman sepuluh tahun."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Since when exactly?",
+          "id": "Sejak kapan tepatnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Since we started primary school in 2014.",
+          "id": "Sejak kami mulai sekolah dasar tahun 2014."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use 'for' with a duration.",
+          "id": "Bagus. Pakai 'for' dengan durasi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have known her for a long time.",
+          "id": "Saya mengenalnya sudah lama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now use 'since' with a point in time.",
+          "id": "Sekarang pakai 'since' dengan titik waktu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have known her since 2019.",
+          "id": "Saya mengenalnya sejak 2019."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'I have known her since five years.'",
+          "id": "Perbaiki ini: 'I have known her since five years.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'I have known her for five years.'",
+          "id": "Seharusnya 'I have known her for five years.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because 'five years' is a duration, so we use 'for'.",
+          "id": "Karena 'five years' itu durasi, jadi pakai 'for'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Correct this: 'I have known her for 2019.'",
+          "id": "Bagus. Perbaiki ini: 'I have known her for 2019.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'I have known her since 2019.'",
+          "id": "Seharusnya 'I have known her since 2019.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Last: ask me 'How long' and 'Since when' about a friendship.",
+          "id": "Sempurna. Terakhir: tanyakan saya 'How long' dan 'Since when' tentang persahabatan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "How long have you been friends? Since when?",
+          "id": "Sudah berapa lama Anda berteman? Sejak kapan?"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah memperdalam perbedaan 'since' dan 'for'. Mari kita ingat: 'for' untuk durasi, 'since' untuk titik mulai. Coba saya tanya: 'for three years' atau 'since three years'? Benar, 'for three years'. Untuk PR, tulis 10 kalimat memakai 'for' dan 'since' dengan benar (campuran). Pertemuan berikutnya kita akan menyusun paragraf tentang teman memakai semua yang sudah dipelajari. Sampai jumpa!",
+      "instructions": "Tegaskan aturan 'for' = durasi, 'since' = titik. Berikan 1-2 pertanyaan pemahaman. Beri PR 10 kalimat dan umumkan topik menyusun paragraf."
+    }
+  ]
+}

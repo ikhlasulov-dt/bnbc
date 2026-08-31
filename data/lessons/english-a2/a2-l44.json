@@ -1,0 +1,237 @@
+{
+  "id": "a2-l44",
+  "course_id": "english-a2",
+  "module_title": "Olahraga",
+  "level": "A2",
+  "title": "Kosakata Olahraga Inti",
+  "subtitle": "Membandingkan olahraga dengan comparatives dan superlatives",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan kosakata olahraga dan peralatannya",
+    "Membedakan court dan field, athlete dan coach"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Modul Hiburan tentang ulasan film? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-44 dengan judul 'Kosakata Olahraga Inti'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Kita semua suka olahraga. Tapi apa bahasa Inggrisnya 'sepak bola', 'bulu tangkis', 'renang'? Mari kenali! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Olahraga Inti\n\nBerikut kosakata inti untuk membicarakan **olahraga** di level A2.\n\n### 1. Nama olahraga\n\n| English | Indonesian |\n|---|---|\n| sport | olahraga |\n| football | sepak bola |\n| basketball | bola basket |\n| volleyball | bola voli |\n| badminton | bulu tangkis |\n| tennis | tenis |\n| swimming | renang |\n| running | lari |\n| cycling | bersepeda |\n\n### 2. Orang dalam olahraga\n\n| English | Indonesian |\n|---|---|\n| athlete | atlet |\n| player | pemain |\n| team | tim |\n| coach | pelatih |\n| referee | wasit |\n| champion | juara |\n\n### 3. Tempat & elemen\n\n| English | Indonesian |\n|---|---|\n| stadium | stadion |\n| court | lapangan (dalam) |\n| field | lapangan (rumput) |\n| match | pertandingan |\n| game | permainan |\n| score | skor |\n| to win | menang |\n| to lose | kalah |\n\n### 4. Frasa umum\n\n- **play football/basketball** = bermain sepak bola/bola basket\n- **go swimming/running** = pergi renang/lari (olahraga -ing pakai *go*)\n- **watch a match** = menonton pertandingan\n- **win a game** = memenangkan pertandingan\n- **score a goal** = mencetak gol\n\n### 5. Mini-dialogue\n\n> A: **What's** your favorite **sport**?\n> B: I love **badminton**. I **play** it every weekend.\n> A: Who is your favorite **athlete**?\n> B: I like the **champion** of the last **match**.\n\n> **Hindari:** \"play swimming\" (salah — *go swimming*)\n> **Hindari:** \"do football\" (salah — *play football*)\n\n### 6. Tip\n\nAturan praktis: **play** + olahraga bola (football, basketball, tennis); **go** + olahraga -ing (swimming, running, cycling).",
+      "key_points": [
+        "Olahraga: sport, football, basketball, volleyball, badminton, tennis, swimming, running, cycling",
+        "Orang: athlete, player, team, coach, referee, champion",
+        "Tempat/elemen: stadium, court, field, match, game, score, to win, to lose",
+        "Frasa: play football, go swimming, watch a match, win a game, score a goal",
+        "play + olahraga bola; go + olahraga -ing",
+        "Salah: 'play swimming', 'do football'; Benar: 'go swimming', 'play football'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "sport",
+          "id": "olahraga",
+          "phonetic": "/spɔːrt/",
+          "example_en": "What is your favorite sport?",
+          "example_id": "Apa olahraga kesukaanmu?"
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "Football is very popular.",
+          "example_id": "Sepak bola sangat populer."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He plays basketball every week.",
+          "example_id": "Dia bermain bola basket setiap minggu."
+        },
+        {
+          "en": "volleyball",
+          "id": "bola voli",
+          "phonetic": "/ˈvɒlibɔːl/",
+          "example_en": "Volleyball is fun to play.",
+          "example_id": "Bola voli menyenangkan untuk dimainkan."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular in Indonesia.",
+          "example_id": "Bulu tangkis populer di Indonesia."
+        },
+        {
+          "en": "tennis",
+          "id": "tenis",
+          "phonetic": "/ˈtenɪs/",
+          "example_en": "She plays tennis on Sunday.",
+          "example_id": "Dia bermain tenis pada hari Minggu."
+        },
+        {
+          "en": "swimming",
+          "id": "renang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is good for health.",
+          "example_id": "Berenang baik untuk kesehatan."
+        },
+        {
+          "en": "athlete",
+          "id": "atlet",
+          "phonetic": "/ˈæθliːt/",
+          "example_en": "She is a great athlete.",
+          "example_id": "Dia atlet yang hebat."
+        },
+        {
+          "en": "team",
+          "id": "tim",
+          "phonetic": "/tiːm/",
+          "example_en": "Our team won the match.",
+          "example_id": "Tim kami memenangkan pertandingan."
+        },
+        {
+          "en": "coach",
+          "id": "pelatih",
+          "phonetic": "/koʊtʃ/",
+          "example_en": "The coach is very strict.",
+          "example_id": "Pelatihnya sangat tegas."
+        },
+        {
+          "en": "referee",
+          "id": "wasit",
+          "phonetic": "/ˌrefəˈriː/",
+          "example_en": "The referee blew the whistle.",
+          "example_id": "Wasit meniup peluit."
+        },
+        {
+          "en": "stadium",
+          "id": "stadion",
+          "phonetic": "/ˈsteɪdiəm/",
+          "example_en": "The stadium was full of fans.",
+          "example_id": "Stadion penuh dengan penggemar."
+        },
+        {
+          "en": "match",
+          "id": "pertandingan",
+          "phonetic": "/mætʃ/",
+          "example_en": "We watched an exciting match.",
+          "example_id": "Kami menonton pertandingan yang mendebarkan."
+        },
+        {
+          "en": "champion",
+          "id": "juara",
+          "phonetic": "/ˈtʃæmpiən/",
+          "example_en": "She is the world champion.",
+          "example_id": "Dia juara dunia."
+        },
+        {
+          "en": "to win",
+          "id": "menang",
+          "phonetic": "/tuː wɪn/",
+          "example_en": "Our team won the game.",
+          "example_id": "Tim kami memenangkan permainan."
+        },
+        {
+          "en": "score",
+          "id": "skor",
+          "phonetic": "/skɔːr/",
+          "example_en": "The final score was 2-1.",
+          "example_id": "Skor akhirnya 2-1."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut olahraga Indonesia, murid jawab bahasa Inggris + play/go yang benar.\n2. Pair work: tanya 'What's your favorite sport? How often do you play?' ke 5 teman.\n3. Fill-in-the-blank: 10 kalimat dengan kosakata olahraga + play/go yang tepat.\n4. Error correction: perbaiki 5 frasa (mis. 'play swimming', 'do football').\n5. Sport poster: kelompok buat poster 5 olahraga dengan nama, pemain, dan tempat.\n\nTugas rumah: Tulis 8 kalimat tentang olahraga yang kamu suka mainkan/tonton dengan kosakata inti.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your favorite sport?",
+          "id": "Apa olahraga favoritmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite sport is badminton.",
+          "id": "Olahraga favorit saya bulu tangkis."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How often do you play?",
+          "id": "Seberapa sering kamu bermain?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I play it every weekend with my friends.",
+          "id": "Setiap akhir pekan dengan teman-teman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you play other sports?",
+          "id": "Apakah kamu bermain olahraga lain?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I also go swimming on Fridays.",
+          "id": "Ya, saya juga pergi renang hari Jumat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is your favorite athlete?",
+          "id": "Siapa atlet favoritmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I like the champion of the last match.",
+          "id": "Saya suka juara pertandingan terakhir."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever watched a match in a stadium?",
+          "id": "Pernahkah kamu menonton pertandingan di stadion?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have. It was very exciting.",
+          "id": "Ya. Sangat mendebarkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you prefer team or individual sports?",
+          "id": "Kamu lebih suka olahraga tim atau individual?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I prefer team sports like basketball.",
+          "id": "Saya lebih suka olahraga tim seperti bola basket."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Kosakata Olahraga Inti'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 8 kalimat tentang olahraga yang kamu suka mainkan/tonton dengan kosakata inti. Pelajaran berikutnya kita akan membahas comparative: membandingkan dua hal, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

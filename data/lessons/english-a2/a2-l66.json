@@ -1,0 +1,275 @@
+{
+  "id": "a2-l66",
+  "course_id": "english-a2",
+  "module_title": "Hewan Peliharaan",
+  "level": "A2",
+  "title": "Kosakata Hewan Peliharaan dan Perawatan",
+  "subtitle": "Jenis hewan, kebutuhan, dan tindakan perawatan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menguasai kosakata jenis hewan peliharaan",
+    "Mengenal kebutuhan perawatan dan kata kerja terkait",
+    "Membuat kalimat utuh dengan kosakata baru"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Hari ini kita masuk pelajaran kosakata kunci modul Hewan Peliharaan. Kita sudah belajar 'have got/has got', 'can/can't', dan 'should/shouldn't'. Sekarang waktunya memperkaya kosa kata supaya kalian bisa menceritakan hewan peliharaan dengan lebih detail. Coba sebutkan 3 hewan peliharaan berbahasa Inggris yang kalian tahu. 'Dog'? 'Cat'? Bagus. Hari ini kita akan pelajari 16 kata kunci: nama hewan, bagian tubuh, dan kata kerja perawatan, lengkap dengan cara mengucapkan dan contoh kalimatnya. Rencana: kita pelajari kata per kategori, lalu berlatih memakainya dalam kalimat sendiri.",
+      "instructions": "Sapa murid dan tanyakan 3 hewan peliharaan dalam bahasa Inggris. Catat di papan. Jelaskan fokus hari ini: memperkaya kosakata hewan peliharaan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mengapa Kosakata Hewan Peliharaan Penting?\n\nUntuk menceritakan hewan peliharaan dengan detail, kita perlu kosakata yang tepat untuk **jenis hewan**, **perlengkapan**, dan **tindakan perawatan**. Tanpa kosakata ini, kita hanya bisa bilang 'pet' atau 'thing'. Dengan kosakata yang tepat, kita bisa mendeskripsikan hewan dan cara merawatnya dengan jelas.\n\n## Kategori Kosakata Hewan Peliharaan\n\n### 1. Jenis Hewan\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| pet | hewan peliharaan | Have you got a pet? |\n| dog | anjing | My dog can run very fast. |\n| cat | kucing | The cat can climb trees. |\n| rabbit | kelinci | She has got a white rabbit. |\n| parrot | beo | A parrot can mimic words. |\n| hamster | hamster | The hamster is in the cage. |\n| fish | ikan | Fish can swim but they can't walk. |\n| turtle | kura-kura | A turtle can live for many years. |\n\n### 2. Perlengkapan\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| cage | sangkar | The bird is in the cage. |\n| leash | tali kekang | Use a leash when you walk your dog. |\n| vet | dokter hewan | You should take your pet to the vet. |\n\n### 3. Tindakan Perawatan\n\n| English | Indonesian | Contoh |\n|---|---|---|\n| to feed | memberi makan | You should feed your cat twice a day. |\n| to walk | mengajak jalan | I walk my dog every morning. |\n| to brush | menyikat | You should brush your dog every week. |\n| to train | melatih | You can train a dog to sit. |\n| to take care of | merawat | You should take care of your pet every day. |\n\n## Tips Mengingat Kosakata\n\n- **Sebutkan nama Inggris** setiap hewan yang kalian lihat.\n- **Buat kalimat 'can/can't'** untuk setiap hewan: 'A cat can climb.'\n- **Buat kalimat 'should'** untuk perawatan: 'You should feed your dog.'\n\n> **Hindari:** menghafal terjemahan saja. Selalu buat kalimat lengkap supaya tahu cara memakai kata dalam konteks.\n\n> **Catatan:** Kata kerja perawatan (feed, walk, brush, train) sangat berguna untuk memberi saran memakai 'should'.\n\n## Mini-dialogue\n\nA: Have you got a pet?\nB: Yes, I have got a dog and a fish.\nA: How do you take care of them?\nB: I feed my dog twice a day and I clean the fish tank every week.",
+      "key_points": [
+        "Kosakata hewan peliharaan dikelompokkan: jenis hewan, perlengkapan, tindakan perawatan.",
+        "Jenis hewan: pet, dog, cat, rabbit, parrot, hamster, fish, turtle.",
+        "Perlengkapan: cage, leash, vet.",
+        "Tindakan perawatan: to feed, to walk, to brush, to train, to take care of.",
+        "Selalu buat kalimat lengkap, bukan hanya menghafal terjemahan.",
+        "Pasangkan kosakata dengan 'can/can't' dan 'should/shouldn't'.",
+        "Kelompokkan kata berdasarkan kategori untuk memudahkan mengingat."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "pet",
+          "id": "hewan peliharaan",
+          "phonetic": "/pet/",
+          "example_en": "Have you got a pet?",
+          "example_id": "Apakah kamu punya hewan peliharaan?"
+        },
+        {
+          "en": "dog",
+          "id": "anjing",
+          "phonetic": "/dɒɡ/",
+          "example_en": "My dog can run very fast.",
+          "example_id": "Anjing saya bisa berlari sangat cepat."
+        },
+        {
+          "en": "cat",
+          "id": "kucing",
+          "phonetic": "/kæt/",
+          "example_en": "The cat can climb trees.",
+          "example_id": "Kucing itu bisa memanjat pohon."
+        },
+        {
+          "en": "rabbit",
+          "id": "kelinci",
+          "phonetic": "/ˈræbɪt/",
+          "example_en": "She has got a white rabbit.",
+          "example_id": "Dia punya kelinci putih."
+        },
+        {
+          "en": "parrot",
+          "id": "beo",
+          "phonetic": "/ˈpærət/",
+          "example_en": "A parrot can mimic words.",
+          "example_id": "Beo bisa menirukan kata-kata."
+        },
+        {
+          "en": "hamster",
+          "id": "hamster",
+          "phonetic": "/ˈhæmstər/",
+          "example_en": "The hamster is in the cage.",
+          "example_id": "Hamsternya ada di dalam sangkar."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "Fish can swim but they can't walk.",
+          "example_id": "Ikan bisa berenang tetapi tidak bisa berjalan."
+        },
+        {
+          "en": "turtle",
+          "id": "kura-kura",
+          "phonetic": "/ˈtɜːrtl/",
+          "example_en": "A turtle can live for many years.",
+          "example_id": "Kura-kura bisa hidup bertahun-tahun."
+        },
+        {
+          "en": "cage",
+          "id": "sangkar",
+          "phonetic": "/keɪdʒ/",
+          "example_en": "The bird is in the cage.",
+          "example_id": "Burungnya ada di dalam sangkar."
+        },
+        {
+          "en": "to feed",
+          "id": "memberi makan",
+          "phonetic": "/tuː fiːd/",
+          "example_en": "You should feed your cat twice a day.",
+          "example_id": "Kamu sebaiknya memberi makan kucingmu dua kali sehari."
+        },
+        {
+          "en": "to walk",
+          "id": "mengajak jalan",
+          "phonetic": "/tuː wɔːk/",
+          "example_en": "I walk my dog every morning.",
+          "example_id": "Saya mengajak anjing saya jalan setiap pagi."
+        },
+        {
+          "en": "to brush",
+          "id": "menyikat",
+          "phonetic": "/tuː brʌʃ/",
+          "example_en": "You should brush your dog every week.",
+          "example_id": "Kamu sebaiknya menyikat anjingmu setiap minggu."
+        },
+        {
+          "en": "vet",
+          "id": "dokter hewan",
+          "phonetic": "/vet/",
+          "example_en": "You should take your pet to the vet.",
+          "example_id": "Kamu sebaiknya membawa peliharaanmu ke dokter hewan."
+        },
+        {
+          "en": "leash",
+          "id": "tali kekang",
+          "phonetic": "/liːʃ/",
+          "example_en": "Use a leash when you walk your dog.",
+          "example_id": "Gunakan tali kekang saat mengajak anjingmu jalan."
+        },
+        {
+          "en": "to train",
+          "id": "melatih",
+          "phonetic": "/tuː treɪn/",
+          "example_en": "You can train a dog to sit.",
+          "example_id": "Kamu bisa melatih anjing untuk duduk."
+        },
+        {
+          "en": "to take care of",
+          "id": "merawat",
+          "phonetic": "/tuː teɪk ker əv/",
+          "example_en": "You should take care of your pet every day.",
+          "example_id": "Kamu sebaiknya merawat peliharaanmu setiap hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (5 menit):** Guru menunjuk gambar/kata, murid sebutkan arti. Bergantian.\n2) **Match (4 menit):** Cocokkan 12 kata Inggris dengan arti Indonesianya.\n3) **Fill-in-the-blank (5 menit):** Lengkapi 8 kalimat dengan kosakata yang tepat.\n4) **Pair work (4 menit):** Tanyakan-jawab tentang hewan peliharaan memakai minimal 6 kata baru.\n5) **Role play (2 menit):** Dua murid memeragakan pemilik hewan dan dokter hewan.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's practice vocabulary. What is 'rabbit' in Indonesian?",
+          "id": "Mari berlatih kosakata. Apa arti 'rabbit'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Rabbit' artinya 'kelinci'.",
+          "id": "'Rabbit' artinya 'kelinci'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Use it in a sentence.",
+          "id": "Bagus. Pakai dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She has got a white rabbit.",
+          "id": "Dia punya kelinci putih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is 'leash'?",
+          "id": "Apa arti 'leash'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Leash' artinya 'tali kekang'.",
+          "id": "'Leash' artinya 'tali kekang'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'leash' in a sentence.",
+          "id": "Pakai 'leash' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Use a leash when you walk your dog.",
+          "id": "Gunakan tali kekang saat mengajak anjingmu jalan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. What is 'vet'?",
+          "id": "Bagus. Apa arti 'vet'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Vet' artinya 'dokter hewan'.",
+          "id": "'Vet' artinya 'dokter hewan'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Use 'vet' with 'should'.",
+          "id": "Pakai 'vet' dengan 'should'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You should take your pet to the vet for check-ups.",
+          "id": "Sebaiknya kamu membawa hewan peliharaanmu ke dokter hewan untuk pemeriksaan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Now use 'to feed' in a sentence.",
+          "id": "Bagus. Sekarang pakai 'to feed' dalam kalimat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I feed my cat twice a day.",
+          "id": "Saya memberi makan kucing saya dua kali sehari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. What is 'cage'?",
+          "id": "Sempurna. Apa arti 'cage'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'Cage' artinya 'sangkar'.",
+          "id": "'Cage' artinya 'sangkar'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Last: describe how you take care of a pet using three new words.",
+          "id": "Terakhir: deskripsikan cara merawat hewan peliharaan memakai tiga kata baru."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You should feed your hamster, clean its cage, and take it to the vet.",
+          "id": "Sebaiknya beri makan hamster, bersihkan sangkarnya, dan bawa ke dokter hewan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah mempelajari 16 kata kunci tentang hewan peliharaan dan perawatannya. Mari kita ingat beberapa: 'rabbit' artinya kelinci, 'leash' artinya tali kekang, 'vet' artinya dokter hewan. Coba saya tanya: apa arti 'cage'? Benar, sangkar. Apa arti 'to feed'? Tepat, memberi makan. Untuk PR, tulis 10 kalimat memakai minimal 10 kata baru tentang hewan peliharaan dan perawatannya. Ucapkan kosakata ini berulang-ulang di rumah. Pertemuan berikutnya kita akan belajar membandingkan hewan memakai 'can' dan 'can't'. Sampai jumpa!",
+      "instructions": "Tegaskan kategori kosakata. Berikan PR menulis 10 kalimat. Umumkan topik berikutnya: membandingkan hewan."
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": "a2-l73",
+  "course_id": "english-a2",
+  "module_title": "Berita dan Peristiwa",
+  "level": "A2",
+  "title": "Pengenalan Passive Voice pada Headline",
+  "subtitle": "Mengenal pola be + past participle di berita",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengenal struktur dasar passive voice: be + past participle",
+    "Memahami makna kalimat passive yang sering muncul di headline",
+    "Membedakan kalimat aktif dan pasif sederhana"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar 'Have you heard about...?' Siapa bisa mulai satu percakapan singkat dengan pola itu? Bagus. Hari ini kita akan belajar passive voice, yang sering muncul di headline berita. Coba perhatikan headline berita: 'Three people injured in accident', 'New policy announced by government'. Kenapa pakai pola itu? Karena dalam berita, fokusnya pada peristiwa, bukan siapa yang melakukannya. Itulah yang akan kita pelajari. Rencana: kita pelajari struktur passive voice, lalu berlatih membuat headline berita.",
+      "instructions": "Sapa murid dan minta satu percakapan singkat dengan pola kemarin. Tunjukkan contoh headline berita. Jelaskan tujuan: belajar passive voice."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa Itu Passive Voice?\n\n**Passive voice** adalah pola kalimat di mana **subjek menerima tindakan**, bukan melakukan. Dalam berita, passive voice sering dipakai karena fokusnya pada **peristiwa atau hasil**, bukan pelaku.\n\n## Perbandingan Active vs Passive\n\n- **Active:** subjek melakukan tindakan.\n  - The storm **destroyed** many houses. (Badai menghancurkan rumah)\n- **Passive:** subjek menerima tindakan.\n  - Many houses **were destroyed** by the storm. (Rumah dihancurkan badai)\n\n## Struktur Passive Voice\n\nsubjek + **to be** + **past participle (V3)** + (by + pelaku)\n\n## Bentuk Passive di Berbagai Tense\n\n| Tense | Struktur | Contoh |\n|---|---|---|\n| Present simple | is/are + V3 | The news is broadcast every morning. |\n| Past simple | was/were + V3 | Three people were injured in the accident. |\n| Present perfect | has/have been + V3 | The result has been announced. |\n\n## Contoh Headline Berita (Passive)\n\n- Three people **were injured** in the accident.\n- The election result **has been announced**.\n- Many houses **were destroyed** by the storm.\n- A new policy **has been announced** by the government.\n- Rescue teams **have been sent** to the area.\n\n## Kapan Memakai Passive Voice?\n\n- Saat **pelaku tidak diketahui** atau tidak penting.\n  - Three people were injured. (tidak penting siapa melukai)\n- Saat **fokus pada hasil/peristiwa**.\n  - Many houses were destroyed. (fokus pada rumah, bukan badai)\n- Dalam **headline berita** untuk lebih singkat.\n  - 'New policy announced' (bukan 'Government announces new policy')\n\n> **Hindari:** memakai passive voice bila pelaku jelas dan penting. Active lebih langsung: 'The government announced the policy' (bukan 'The policy was announced by the government') bila pelakunya penting.\n\n> **Catatan:** 'by + pelaku' opsional. Bila pelaku tidak penting, tidak perlu disebut: 'Three people were injured.' (tanpa 'by')\n\n## Mini-dialogue\n\nA: Did you read the news?\nB: Yes. Three people were injured in the accident.\nA: Has the cause been announced?\nB: Not yet. The investigation is still ongoing.",
+      "key_points": [
+        "Passive voice: subjek menerima tindakan, bukan melakukan.",
+        "Struktur: subjek + to be + past participle (V3) + (by + pelaku).",
+        "Passive di berbagai tense: is/are + V3 (present), was/were + V3 (past), has/have been + V3 (present perfect).",
+        "Dipakai saat pelaku tidak diketahui atau fokus pada hasil/peristiwa.",
+        "'by + pelaku' opsional, tidak perlu bila pelaku tidak penting.",
+        "Sering muncul di headline berita: 'Three people injured', 'New policy announced'.",
+        "Hindari passive bila pelaku jelas dan penting (active lebih langsung)."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "news",
+          "id": "berita",
+          "phonetic": "/nuːz/",
+          "example_en": "I read the news every morning.",
+          "example_id": "Saya membaca berita setiap pagi."
+        },
+        {
+          "en": "report",
+          "id": "laporan",
+          "phonetic": "/rɪˈpɔːrt/",
+          "example_en": "A journalist has written a new report.",
+          "example_id": "Seorang wartawan telah menulis laporan baru."
+        },
+        {
+          "en": "headline",
+          "id": "judul berita",
+          "phonetic": "/ˈhedlaɪn/",
+          "example_en": "The headline was very shocking.",
+          "example_id": "Judul beritanya sangat mengejutkan."
+        },
+        {
+          "en": "journalist",
+          "id": "wartawan",
+          "phonetic": "/ˈdʒɜːrnəlɪst/",
+          "example_en": "The journalist has spoken to the public.",
+          "example_id": "Wartawan itu telah berbicara kepada publik."
+        },
+        {
+          "en": "broadcast",
+          "id": "siaran",
+          "phonetic": "/ˈbrɔːdkæst/",
+          "example_en": "The broadcast started at seven.",
+          "example_id": "Siaran dimulai pada pukul tujuh."
+        },
+        {
+          "en": "interview",
+          "id": "wawancara",
+          "phonetic": "/ˈɪntərvjuː/",
+          "example_en": "The president gave an interview.",
+          "example_id": "Presiden memberikan wawancara."
+        },
+        {
+          "en": "article",
+          "id": "artikel",
+          "phonetic": "/ˈɑːrtɪkl/",
+          "example_en": "She has written an article about the storm.",
+          "example_id": "Dia telah menulis artikel tentang badai itu."
+        },
+        {
+          "en": "channel",
+          "id": "saluran",
+          "phonetic": "/ˈtʃænl/",
+          "example_en": "Change the channel, please.",
+          "example_id": "Ganti salurannya, tolong."
+        },
+        {
+          "en": "election",
+          "id": "pemilihan",
+          "phonetic": "/ɪˈlekʃn/",
+          "example_en": "The election result has been announced.",
+          "example_id": "Hasil pemilihan telah diumumkan."
+        },
+        {
+          "en": "policy",
+          "id": "kebijakan",
+          "phonetic": "/ˈpɒlɪsi/",
+          "example_en": "The government has announced a new policy.",
+          "example_id": "Pemerintah telah mengumumkan kebijakan baru."
+        },
+        {
+          "en": "storm",
+          "id": "badai",
+          "phonetic": "/stɔːrm/",
+          "example_en": "The storm has destroyed many houses.",
+          "example_id": "Badai telah menghancurkan banyak rumah."
+        },
+        {
+          "en": "earthquake",
+          "id": "gempa bumi",
+          "phonetic": "/ˈɜːrθkweɪk/",
+          "example_en": "Three earthquakes have hit the region this month.",
+          "example_id": "Tiga gempa bumi telah melanda wilayah itu bulan ini."
+        },
+        {
+          "en": "accident",
+          "id": "kecelakaan",
+          "phonetic": "/ˈæksɪdənt/",
+          "example_en": "Three people were injured in the accident.",
+          "example_id": "Tiga orang terluka dalam kecelakaan itu."
+        },
+        {
+          "en": "victim",
+          "id": "korban",
+          "phonetic": "/ˈvɪktɪm/",
+          "example_en": "They haven't found all the victims yet.",
+          "example_id": "Mereka belum menemukan semua korban."
+        },
+        {
+          "en": "rescue",
+          "id": "penyelamatan",
+          "phonetic": "/ˈreskjuː/",
+          "example_en": "Rescue teams have arrived in the area.",
+          "example_id": "Tim penyelamat telah tiba di daerah itu."
+        },
+        {
+          "en": "to announce",
+          "id": "mengumumkan",
+          "phonetic": "/tuː əˈnaʊns/",
+          "example_en": "The government has announced the result.",
+          "example_id": "Pemerintah telah mengumumkan hasilnya."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1) **Drill (4 menit):** Guru memberi kalimat active, murid ubah jadi passive.\n2) **Fill-in-the-blank (5 menit):** Lengkapi 8 headline berita dengan bentuk passive yang tepat.\n3) **Pair work (5 menit):** Baca headline, diskusikan dengan pasangan memakai passive voice.\n4) **Role play (4 menit):** Dua murid memeragakan presenter berita membaca headline.\n5) **Error correction (2 menit):** Perbaiki 3 kalimat salah (mis. 'Three people were injure' -> 'Three people were injured').",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is passive voice?",
+          "id": "Apa itu passive voice?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "When the subject receives the action, not does it.",
+          "id": "Saat subjek menerima tindakan, bukan melakukannya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Change this to passive: 'The storm destroyed many houses.'",
+          "id": "Bagus. Ubah ini jadi passive: 'The storm destroyed many houses.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Many houses were destroyed by the storm.",
+          "id": "Banyak rumah dihancurkan oleh badai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Make a present perfect passive headline.",
+          "id": "Bagus. Buat headline present perfect passive."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The election result has been announced.",
+          "id": "Hasil pemilihan telah diumumkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now make a past simple passive about an accident.",
+          "id": "Sekarang buat past simple passive tentang kecelakaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Three people were injured in the accident.",
+          "id": "Tiga orang terluka dalam kecelakaan itu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. When do we use passive voice?",
+          "id": "Bagus. Kapan kita pakai passive voice?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "When the actor is unknown or not important, or to focus on the event.",
+          "id": "Saat pelaku tidak diketahui atau tidak penting, atau untuk fokus pada peristiwa."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Correct this: 'Three people were injure.'",
+          "id": "Perbaiki ini: 'Three people were injure.'"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It should be 'Three people were injured.'",
+          "id": "Seharusnya 'Three people were injured.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why?",
+          "id": "Mengapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because passive needs 'to be' + V3, and V3 of 'injure' is 'injured'.",
+          "id": "Karena passive butuh 'to be' + V3, dan V3 dari 'injure' yaitu 'injured'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Make a headline without 'by'.",
+          "id": "Sempurna. Buat headline tanpa 'by'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Rescue teams have been sent to the area.",
+          "id": "Tim penyelamat telah dikirim ke daerah itu."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kalian sudah belajar passive voice untuk headline berita. Mari kita ingat: subjek + to be + V3, dengan 'by + pelaku' opsional. Coba saya tanya: kalau mau bilang 'Hasil telah diumumkan', bagaimana? Benar, 'The result has been announced.' Untuk PR, ubah 8 kalimat active menjadi passive dan tulis 4 headline berita memakai passive voice. Pertemuan berikutnya kita akan fokus mengulang kosakata berita dan media. Sampai jumpa!",
+      "instructions": "Tegaskan struktur passive voice. Berikan 1-2 pertanyaan pemahaman. Beri PR mengubah 8 kalimat dan menulis 4 headline. Umumkan topik kosakata berita."
+    }
+  ]
+}

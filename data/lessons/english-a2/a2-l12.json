@@ -1,0 +1,237 @@
+{
+  "id": "a2-l12",
+  "course_id": "english-a2",
+  "module_title": "Kesehatan dan Dokter",
+  "level": "A2",
+  "title": "Percakapan Dokter dan Pasien: Pola Umum",
+  "subtitle": "Mengungkapkan keluhan kesehatan dan memberi saran medis dalam bahasa Inggris",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengikuti struktur percakapan dokter-pasien",
+    "Menggabungkan sapaan, keluhan, diagnosis, dan saran"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang pertanyaan dengan should? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-12 dengan judul 'Percakapan Dokter dan Pasien: Pola Umum'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Sekarang mari gabungkan semua: bagaimana percakapan lengkap antara dokter dan pasien yang alami? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Percakapan Dokter dan Pasien: Pola Umum\n\nPercakapan medis biasanya mengikuti **alur tetap**: sapaan → keluhan → pertanyaan dokter → pemeriksaan → diagnosa → saran/resep → penutup.\n\n### 1. Alur percakapan\n\n| Tahap | Bahasa Inggris | Contoh |\n|---|---|---|\n| Sapaan | Hello, what's the matter? | Hello! What brings you here today? |\n| Keluhan | I have a... / I feel... | I have a headache and I feel dizzy. |\n| Tanya dokter | How long? Any other? | How long have you had it? |\n| Pemeriksaan | Let me check... | Let me check your temperature. |\n| Diagnosa | You have... | You have a mild fever. |\n| Saran/resep | You should... | You should rest and take this medicine. |\n| Penutup | Thank you, Doctor. | Thank you. Get well soon! |\n\n### 2. Frasa kunci dokter\n\n- What seems to be the problem?\n- How long have you had this?\n- Let me check your throat/temperature.\n- I'll prescribe some medicine.\n- You should come back if you feel worse.\n\n### 3. Frasa kunci pasien\n\n- I'm not feeling well.\n- I have a headache and a sore throat.\n- It started two days ago.\n- Should I take any medicine?\n- How often should I take it?\n- When should I come back?\n\n### 4. Mini-dialogue\n\n> Doctor: Hello! **What's the matter?**\n> Patient: I **have a** fever and I **feel** weak.\n> Doctor: **How long** have you had it?\n> Patient: **Since** yesterday.\n> Doctor: Let me check. You **have** a mild flu. You **should** rest and **drink** a lot of water. **Take** this medicine twice a day.\n> Patient: **Should** I come back?\n> Doctor: Yes, **come back** in three days. **Get well soon!**\n\n### 5. Tip\n\nSaat berlatih, fokus pada **kelancaran alur**, bukan kalimat sempurna. Gunakan frasa kunci di atas sebagai kerangka.",
+      "key_points": [
+        "Alur: sapaan → keluhan → tanya → periksa → diagnosa → saran → penutup",
+        "Dokter: What's the matter? How long...? Let me check...",
+        "Pasien: I have a.../I feel... It started... ago",
+        "Diagnosa: You have a...; Saran: You should...",
+        "Penutup: Thank you, Doctor. / Get well soon!",
+        "Fokus pada kelancaran alur percakapan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "doctor",
+          "id": "dokter",
+          "phonetic": "/ˈdɒktər/",
+          "example_en": "I want to see a doctor.",
+          "example_id": "Saya ingin periksa ke dokter."
+        },
+        {
+          "en": "nurse",
+          "id": "perawat",
+          "phonetic": "/nɜːrs/",
+          "example_en": "The nurse is kind.",
+          "example_id": "Perawatnya ramah."
+        },
+        {
+          "en": "headache",
+          "id": "sakit kepala",
+          "phonetic": "/ˈhedeɪk/",
+          "example_en": "I have a headache.",
+          "example_id": "Saya sakit kepala."
+        },
+        {
+          "en": "fever",
+          "id": "demam",
+          "phonetic": "/ˈfiːvər/",
+          "example_en": "She has a fever.",
+          "example_id": "Dia demam."
+        },
+        {
+          "en": "cough",
+          "id": "batuk",
+          "phonetic": "/kɒf/",
+          "example_en": "I have a bad cough.",
+          "example_id": "Saya batuk parah."
+        },
+        {
+          "en": "sore throat",
+          "id": "sakit tenggorokan",
+          "phonetic": "/sɔːr θroʊt/",
+          "example_en": "He has a sore throat.",
+          "example_id": "Dia sakit tenggorokan."
+        },
+        {
+          "en": "stomachache",
+          "id": "sakit perut",
+          "phonetic": "/ˈstʌməkeɪk/",
+          "example_en": "I have a stomachache.",
+          "example_id": "Saya sakit perut."
+        },
+        {
+          "en": "medicine",
+          "id": "obat",
+          "phonetic": "/ˈmedsn/",
+          "example_en": "Take this medicine twice a day.",
+          "example_id": "Minum obat ini dua kali sehari."
+        },
+        {
+          "en": "prescription",
+          "id": "resep",
+          "phonetic": "/prɪˈskrɪpʃn/",
+          "example_en": "Here is your prescription.",
+          "example_id": "Ini resep Anda."
+        },
+        {
+          "en": "symptom",
+          "id": "gejala",
+          "phonetic": "/ˈsɪmptəm/",
+          "example_en": "What are your symptoms?",
+          "example_id": "Apa gejala Anda?"
+        },
+        {
+          "en": "healthy",
+          "id": "sehat",
+          "phonetic": "/ˈhelθi/",
+          "example_en": "She is very healthy.",
+          "example_id": "Dia sangat sehat."
+        },
+        {
+          "en": "sick",
+          "id": "sakit",
+          "phonetic": "/sɪk/",
+          "example_en": "He is sick today.",
+          "example_id": "Dia sakit hari ini."
+        },
+        {
+          "en": "rest",
+          "id": "istirahat",
+          "phonetic": "/rest/",
+          "example_en": "You should rest at home.",
+          "example_id": "Anda sebaiknya istirahat di rumah."
+        },
+        {
+          "en": "recover",
+          "id": "sembuh",
+          "phonetic": "/rɪˈkʌvər/",
+          "example_en": "I hope you recover soon.",
+          "example_id": "Saya harap Anda segera sembuh."
+        },
+        {
+          "en": "hospital",
+          "id": "rumah sakit",
+          "phonetic": "/ˈhɒspɪtl/",
+          "example_en": "We are going to the hospital.",
+          "example_id": "Kami pergi ke rumah sakit."
+        },
+        {
+          "en": "body",
+          "id": "tubuh",
+          "phonetic": "/ˈbɒdi/",
+          "example_en": "My whole body hurts.",
+          "example_id": "Seluruh tubuh saya sakit."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: hafalkan frasa kunci dokter & pasien dengan pengulangan korus.\n2. Pair work: mainkan percakapan dokter-pasien lengkap (alur 7 tahap) selama 2 menit.\n3. Fill-in-the-blank: lengkapi percakapan dokter-pasien dengan frasa yang hilang.\n4. Error correction: perbaiki 5 kalimat dalam transkrip percakapan yang salah.\n5. Role play final: pertunjukan di depan kelas — satu dokter, satu pasien, dengan keluhan baru.\n\nTugas rumah: Tulis percakapan lengkap dokter-pasien (12 baris) dengan keluhan berbeda dari contoh di kelas.",
+      "dialogue": [
+        {
+          "speaker": "Doctor",
+          "speaker_color": "#2D4A6F",
+          "en": "Hello! What's the matter with you today?",
+          "id": "Halo! Apa keluhanmu hari ini?"
+        },
+        {
+          "speaker": "Patient",
+          "speaker_color": "#d97706",
+          "en": "I'm not feeling well, Doctor. I have a sore throat.",
+          "id": "Saya kurang sehat, Dok. Saya sakit tenggorokan."
+        },
+        {
+          "speaker": "Doctor",
+          "speaker_color": "#2D4A6F",
+          "en": "I'm sorry. How long have you had it?",
+          "id": "Turut prihatin. Sudah berapa lama?"
+        },
+        {
+          "speaker": "Patient",
+          "speaker_color": "#d97706",
+          "en": "It started three days ago.",
+          "id": "Dimulai tiga hari lalu."
+        },
+        {
+          "speaker": "Doctor",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have a fever or a cough?",
+          "id": "Apakah kamu demam atau batuk?"
+        },
+        {
+          "speaker": "Patient",
+          "speaker_color": "#d97706",
+          "en": "I have a cough, but no fever.",
+          "id": "Saya batuk, tapi tidak demam."
+        },
+        {
+          "speaker": "Doctor",
+          "speaker_color": "#2D4A6F",
+          "en": "Let me check your throat. Open your mouth, please.",
+          "id": "Mari saya periksa tenggorokanmu. Buka mulut, tolong."
+        },
+        {
+          "speaker": "Patient",
+          "speaker_color": "#d97706",
+          "en": "Ah... is it serious?",
+          "id": "Ah... apakah serius?"
+        },
+        {
+          "speaker": "Doctor",
+          "speaker_color": "#2D4A6F",
+          "en": "No, it's just a mild infection. I'll prescribe some medicine.",
+          "id": "Tidak, hanya infeksi ringan. Saya akan memberi resep obat."
+        },
+        {
+          "speaker": "Patient",
+          "speaker_color": "#d97706",
+          "en": "How often should I take it?",
+          "id": "Seberapa sering saya harus meminumnya?"
+        },
+        {
+          "speaker": "Doctor",
+          "speaker_color": "#2D4A6F",
+          "en": "Take it three times a day after meals. You should also rest.",
+          "id": "Minum tiga kali sehari setelah makan. Kamu juga harus istirahat."
+        },
+        {
+          "speaker": "Patient",
+          "speaker_color": "#d97706",
+          "en": "Thank you, Doctor. I'll follow your advice.",
+          "id": "Terima kasih, Dok. Saya akan ikuti sarannya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Percakapan Dokter dan Pasien: Pola Umum'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis percakapan lengkap dokter-pasien (12 baris) dengan keluhan berbeda dari contoh di kelas. Pelajaran berikutnya kita akan membahas kosakata medis inti untuk memperkaya percakapan, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

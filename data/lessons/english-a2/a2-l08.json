@@ -1,0 +1,237 @@
+{
+  "id": "a2-l08",
+  "course_id": "english-a2",
+  "module_title": "Kesehatan dan Dokter",
+  "level": "A2",
+  "title": "Pola 'I have a...' untuk Menyampaikan Keluhan",
+  "subtitle": "Mengungkapkan keluhan kesehatan dan memberi saran medis dalam bahasa Inggris",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyampaikan keluhan kesehatan dengan pola 'I have a...'",
+    "Menggunakan alternatif 'My ... hurts'"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang bagian tubuh? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-8 dengan judul 'Pola 'I have a...' untuk Menyampaikan Keluhan'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Saat ke dokter, apa yang biasa kita bilang? 'Saya sakit kepala.' Bagaimana dalam bahasa Inggris? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola 'I have a...' untuk Menyampaikan Keluhan\n\nCara paling umum menyampaikan keluhan kesehatan dalam bahasa Inggris adalah pola **I have a + (nama penyakit/gejala)**.\n\n### 1. Penyakit dengan akhiran -ache\n\n| English | Indonesian |\n|---|---|\n| headache | sakit kepala |\n| stomachache | sakit perut |\n| toothache | sakit gigi |\n| backache | sakit punggung |\n| earache | sakit telinga |\n\nPola: **I have a headache.** (Saya sakit kepala.)\n\n### 2. Gejala lain dengan 'a'\n\n- I have **a fever**. (saya demam)\n- I have **a cough**. (saya batuk)\n- I have **a cold**. (saya pilek)\n- I have **a sore throat**. (saya sakit tenggorokan)\n- I have **a runny nose**. (saya pilek/meler)\n\n### 3. Tanpa 'a' (uncountable)\n\nBeberapa kondisi tidak pakai *a* karena tak terhitung:\n\n- I have **the flu**. (flu — pakai *the*)\n- I have **allergies**. (alergi — jamak)\n- I have **a temperature**. (demam — dengan *a*)\n\n### 4. Bentuk tanya & negatif\n\nPakai *do/does* (present) atau *did* (past):\n\n- **Do** you **have** a fever? — Yes, I do.\n- She **doesn't have** a cough.\n\n### 5. Mini-dialogue\n\n> A: What's the matter?\n> B: I **have a headache** and a **sore throat**.\n> A: **Do** you **have** a fever too?\n> B: Yes, I **have a** mild fever.\n\n> **Hindari:** \"I have headache.\" (salah — *I have a headache.*)\n> **Hindari:** \"I have a flu.\" (salah — *I have the flu.*)\n\n### 6. Tip\n\nAturan praktis: keluhan yang dihitung satu per satu (headache, fever, cough) pakai **a**. Flu pakai **the**. Alergi jamak tanpa artikel.\n\n### 7. Latihan di kepala\n\nBayangkan kamu sedang sakit dan harus menelepon klinik. Ucapkan tiga keluhan berbeda dengan pola *I have a...*, misalnya *I have a headache, a sore throat, and a cough.* Lalu coba satu keluhan dengan *the* (*I have the flu*) dan satu tanpa artikel (*I have allergies*). Latihan ini memperkuat ingatan tentang kapan harus pakai *a*, *the*, atau tanpa artikel di depan nama penyakit dan gejala.",
+      "key_points": [
+        "Pola utama: I have a + nama penyakit/gejala",
+        "Penyakit -ache: headache, stomachache, toothache, backache, earache",
+        "Gejala dengan a: a fever, a cough, a cold, a sore throat",
+        "Flu pakai the: I have the flu",
+        "Alergi jamak tanpa artikel: I have allergies",
+        "Tanya/negatif pakai do/does/did + have"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "doctor",
+          "id": "dokter",
+          "phonetic": "/ˈdɒktər/",
+          "example_en": "I want to see a doctor.",
+          "example_id": "Saya ingin periksa ke dokter."
+        },
+        {
+          "en": "nurse",
+          "id": "perawat",
+          "phonetic": "/nɜːrs/",
+          "example_en": "The nurse is kind.",
+          "example_id": "Perawatnya ramah."
+        },
+        {
+          "en": "headache",
+          "id": "sakit kepala",
+          "phonetic": "/ˈhedeɪk/",
+          "example_en": "I have a headache.",
+          "example_id": "Saya sakit kepala."
+        },
+        {
+          "en": "fever",
+          "id": "demam",
+          "phonetic": "/ˈfiːvər/",
+          "example_en": "She has a fever.",
+          "example_id": "Dia demam."
+        },
+        {
+          "en": "cough",
+          "id": "batuk",
+          "phonetic": "/kɒf/",
+          "example_en": "I have a bad cough.",
+          "example_id": "Saya batuk parah."
+        },
+        {
+          "en": "sore throat",
+          "id": "sakit tenggorokan",
+          "phonetic": "/sɔːr θroʊt/",
+          "example_en": "He has a sore throat.",
+          "example_id": "Dia sakit tenggorokan."
+        },
+        {
+          "en": "stomachache",
+          "id": "sakit perut",
+          "phonetic": "/ˈstʌməkeɪk/",
+          "example_en": "I have a stomachache.",
+          "example_id": "Saya sakit perut."
+        },
+        {
+          "en": "medicine",
+          "id": "obat",
+          "phonetic": "/ˈmedsn/",
+          "example_en": "Take this medicine twice a day.",
+          "example_id": "Minum obat ini dua kali sehari."
+        },
+        {
+          "en": "prescription",
+          "id": "resep",
+          "phonetic": "/prɪˈskrɪpʃn/",
+          "example_en": "Here is your prescription.",
+          "example_id": "Ini resep Anda."
+        },
+        {
+          "en": "symptom",
+          "id": "gejala",
+          "phonetic": "/ˈsɪmptəm/",
+          "example_en": "What are your symptoms?",
+          "example_id": "Apa gejala Anda?"
+        },
+        {
+          "en": "healthy",
+          "id": "sehat",
+          "phonetic": "/ˈhelθi/",
+          "example_en": "She is very healthy.",
+          "example_id": "Dia sangat sehat."
+        },
+        {
+          "en": "sick",
+          "id": "sakit",
+          "phonetic": "/sɪk/",
+          "example_en": "He is sick today.",
+          "example_id": "Dia sakit hari ini."
+        },
+        {
+          "en": "rest",
+          "id": "istirahat",
+          "phonetic": "/rest/",
+          "example_en": "You should rest at home.",
+          "example_id": "Anda sebaiknya istirahat di rumah."
+        },
+        {
+          "en": "recover",
+          "id": "sembuh",
+          "phonetic": "/rɪˈkʌvər/",
+          "example_en": "I hope you recover soon.",
+          "example_id": "Saya harap Anda segera sembuh."
+        },
+        {
+          "en": "hospital",
+          "id": "rumah sakit",
+          "phonetic": "/ˈhɒspɪtl/",
+          "example_en": "We are going to the hospital.",
+          "example_id": "Kami pergi ke rumah sakit."
+        },
+        {
+          "en": "body",
+          "id": "tubuh",
+          "phonetic": "/ˈbɒdi/",
+          "example_en": "My whole body hurts.",
+          "example_id": "Seluruh tubuh saya sakit."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut gejala dalam bahasa Indonesia, murid buat kalimat 'I have a...'.\n2. Pair work: role dokter-pasien, pasien sebut 4 keluhan dengan pola 'I have a...'.\n3. Fill-in-the-blank: 10 kalimat dengan a/the/— yang benar (headache, flu, fever, allergies, cough).\n4. Error correction: perbaiki 5 kalimat (mis. 'I have headache', 'I have a flu').\n5. Matching: cocokkan gejala (kiri) dengan nama penyakit (kanan) di kartu.\n\nTugas rumah: Tulis 6 kalimat keluhan menggunakan pola 'I have a...' dengan gejala berbeda, termasuk 1 dengan 'the flu'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hello! What brings you here today?",
+          "id": "Halo! Apa yang membawa kamu ke sini hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have a headache and a sore throat.",
+          "id": "Saya sakit kepala dan sakit tenggorokan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I'm sorry to hear that. How long?",
+          "id": "Turut prihatin. Sudah berapa lama?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Since yesterday, Doctor.",
+          "id": "Sejak kemarin, Dok."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have a fever too?",
+          "id": "Apakah kamu juga demam?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have a mild fever.",
+          "id": "Ya, saya demam ringan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Any cough or cold?",
+          "id": "Ada batuk atau pilek?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have a cough, but no cold.",
+          "id": "Saya batuk, tapi tidak pilek."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have any allergies?",
+          "id": "Apakah kamu punya alergi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I don't have any allergies.",
+          "id": "Tidak, saya tidak punya alergi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "OK. I'll give you some medicine.",
+          "id": "Baik. Saya akan memberikan obat."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you so much, Doctor.",
+          "id": "Terima kasih banyak, Dok."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Pola 'I have a...' untuk Menyampaikan Keluhan'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat keluhan menggunakan pola 'I have a...' dengan gejala berbeda, termasuk 1 dengan 'the flu'. Pelajaran berikutnya kita akan membahas pola 'I feel...' untuk gejala umum, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

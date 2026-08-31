@@ -1,0 +1,237 @@
+{
+  "id": "a2-l21",
+  "course_id": "english-a2",
+  "module_title": "Lingkungan dan Alam",
+  "level": "A2",
+  "title": "Struktur Present Perfect",
+  "subtitle": "Membahas isu lingkungan dengan present perfect dan kalimat saran",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk present perfect dengan have/has + V3",
+    "Membuat kalimat negatif dan pertanyaan present perfect"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Modul Pekerjaan tentang kosakata karier? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-21 dengan judul 'Struktur Present Perfect'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Lingkungan kita berubah cepat. Bagaimana mengatakan 'Saya sudah daur ulang plastik' dalam bahasa Inggris? Mari belajar present perfect! Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Struktur Present Perfect\n\n**Present perfect** menghubungkan masa lampau dengan masa kini: sesuatu terjadi di lampau dan masih relevan sekarang. Sangat berguna untuk membahas isu lingkungan.\n\n### 1. Rumus\n\n**Subjek + have/has + past participle (V3)**\n\n| Subjek | Have/Has | Contoh |\n|---|---|---|\n| I, you, we, they | have | We have recycled plastic. |\n| he, she, it | has | She has planted a tree. |\n\n### 2. Bentuk negatif & pertanyaan\n\n- Negatif: We **haven't recycled** plastic.\n- Tanya: **Have** you **recycled** plastic? — Yes, I have. / No, I haven't.\n- Tanya: **Has** she **planted** a tree? — Yes, she has.\n\n### 3. Kapan dipakai?\n\n| Kegunaan | Contoh |\n|---|---|\n| Pengalaman hidup | I have visited a recycling plant. |\n| Perubahan sampai sekarang | The climate has changed. |\n| Aksi baru saja selesai | They have just cleaned the river. |\n| Aksi berlanjut ke sekarang | We have reduced waste this year. |\n\n### 4. Konteks lingkungan\n\n- We **have reduced** plastic waste.\n- He **has planted** ten trees this year.\n- They **have cleaned** the beach.\n- Pollution **has increased** in the city.\n\n### 5. Mini-dialogue\n\n> A: **Have** you **recycled** your bottles?\n> B: Yes, I **have**. I **have** put them in the blue bin.\n> A: **Has** your school **started** a green program?\n> B: Yes, it **has**. We **have planted** a garden.\n\n> **Hindari:** \"We have recycle plastic.\" (salah — *We have recycled plastic.* — pakai V3)\n> **Hindari:** \"She have planted a tree.\" (salah — *She has planted a tree.*)\n\n### 6. Tip\n\n*Have/has* sudah menandai lampau, jadi kata kerja utama pakai **V3 (past participle)**. Untuk regular verb, V3 = bentuk +ed.",
+      "key_points": [
+        "Rumus: subjek + have/has + V3 (past participle)",
+        "I/you/we/they = have; he/she/it = has",
+        "Negatif: haven't/hasn't + V3",
+        "Tanya: Have/Has + subjek + V3?",
+        "Untuk pengalaman, perubahan, aksi baru selesai, aksi berlanjut",
+        "V3 regular verb = bentuk dasar + ed (recycled, planted, reduced)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "environment",
+          "id": "lingkungan",
+          "phonetic": "/ɪnˈvaɪrənmənt/",
+          "example_en": "We must protect the environment.",
+          "example_id": "Kita harus melindungi lingkungan."
+        },
+        {
+          "en": "pollution",
+          "id": "polusi",
+          "phonetic": "/pəˈluːʃn/",
+          "example_en": "Air pollution is a big problem.",
+          "example_id": "Polusi udara adalah masalah besar."
+        },
+        {
+          "en": "recycle",
+          "id": "mendaur ulang",
+          "phonetic": "/ˌriːˈsaɪkl/",
+          "example_en": "We should recycle plastic.",
+          "example_id": "Kita sebaiknya mendaur ulang plastik."
+        },
+        {
+          "en": "reduce",
+          "id": "mengurangi",
+          "phonetic": "/rɪˈduːs/",
+          "example_en": "Reduce the use of plastic bags.",
+          "example_id": "Kurangi penggunaan kantong plastik."
+        },
+        {
+          "en": "reuse",
+          "id": "menggunakan kembali",
+          "phonetic": "/ˌriːˈjuːz/",
+          "example_en": "Reuse your old bottles.",
+          "example_id": "Gunakan kembali botol lama Anda."
+        },
+        {
+          "en": "waste",
+          "id": "limbah",
+          "phonetic": "/weɪst/",
+          "example_en": "Factory waste pollutes the river.",
+          "example_id": "Limbah pabrik mencemari sungai."
+        },
+        {
+          "en": "plastic",
+          "id": "plastik",
+          "phonetic": "/ˈplæstɪk/",
+          "example_en": "Plastic takes years to break down.",
+          "example_id": "Plastik butuh bertahun-tahun untuk terurai."
+        },
+        {
+          "en": "trash",
+          "id": "sampah",
+          "phonetic": "/træʃ/",
+          "example_en": "Don't throw trash in the river.",
+          "example_id": "Jangan buang sampah di sungai."
+        },
+        {
+          "en": "forest",
+          "id": "hutan",
+          "phonetic": "/ˈfɒrɪst/",
+          "example_en": "Many forests are disappearing.",
+          "example_id": "Banyak hutan yang hilang."
+        },
+        {
+          "en": "river",
+          "id": "sungai",
+          "phonetic": "/ˈrɪvər/",
+          "example_en": "The river is very dirty now.",
+          "example_id": "Sungainya sangat kotor sekarang."
+        },
+        {
+          "en": "ocean",
+          "id": "laut",
+          "phonetic": "/ˈoʊʃn/",
+          "example_en": "The ocean is full of plastic.",
+          "example_id": "Laut penuh dengan plastik."
+        },
+        {
+          "en": "climate",
+          "id": "iklim",
+          "phonetic": "/ˈklaɪmət/",
+          "example_en": "The climate is changing.",
+          "example_id": "Iklim sedang berubah."
+        },
+        {
+          "en": "to plant",
+          "id": "menanam",
+          "phonetic": "/tuː plænt/",
+          "example_en": "We should plant more trees.",
+          "example_id": "Kita sebaiknya menanam lebih banyak pohon."
+        },
+        {
+          "en": "tree",
+          "id": "pohon",
+          "phonetic": "/triː/",
+          "example_en": "Trees give us clean air.",
+          "example_id": "Pohon memberi kita udara bersih."
+        },
+        {
+          "en": "to protect",
+          "id": "melindungi",
+          "phonetic": "/tuː prəˈtekt/",
+          "example_en": "We must protect nature.",
+          "example_id": "Kita harus melindungi alam."
+        },
+        {
+          "en": "energy",
+          "id": "energi",
+          "phonetic": "/ˈenərdʒi/",
+          "example_en": "Save energy at home.",
+          "example_id": "Hemat energi di rumah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut aksi lingkungan, murid buat kalimat present perfect (have/has + V3).\n2. Pair work: tanya 'Have you ever...?' tentang 6 aksi lingkungan, catat jawaban.\n3. Fill-in-the-blank: 10 kalimat dengan have/has + V3 yang benar.\n4. Error correction: perbaiki 5 kalimat (mis. 'She have planted', 'We has reduced').\n5. Role play: reporter & warga — wawancara tentang aksi lingkungan dengan present perfect.\n\nTugas rumah: Tulis 6 kalimat present perfect tentang aksi lingkungan yang sudah kamu lakukan tahun ini.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you recycled your plastic bottles?",
+          "id": "Apakah kamu sudah mendaur ulang botol plastikmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have. I put them in the blue bin.",
+          "id": "Ya. Saya menaruhnya di tempat biru."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has your school started a green program?",
+          "id": "Apakah sekolahmu sudah memulai program hijau?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it has. We have planted a small garden.",
+          "id": "Ya. Kami sudah menanam kebun kecil."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you reduced plastic waste at home?",
+          "id": "Apakah kamu sudah mengurangi limbah plastik di rumah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We have. We use cloth bags now.",
+          "id": "Sudah. Kami sekarang pakai tas kain."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has the government banned plastic bags?",
+          "id": "Apakah pemerintah sudah melarang kantong plastik?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It has in some cities, but not everywhere.",
+          "id": "Di beberapa kota, tapi tidak di mana-mana."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever joined a beach cleanup?",
+          "id": "Pernahkah kamu ikut pembersihan pantai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have. We collected a lot of trash.",
+          "id": "Ya. Kami mengumpulkan banyak sampah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has pollution increased in your town?",
+          "id": "Apakah polusi meningkat di kotamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it has. The air is not as clean as before.",
+          "id": "Ya. Udara tidak sebersih dulu."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Struktur Present Perfect'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Tulis 6 kalimat present perfect tentang aksi lingkungan yang sudah kamu lakukan tahun ini. Pelajaran berikutnya kita akan membahas past participle regular dan irregular, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}

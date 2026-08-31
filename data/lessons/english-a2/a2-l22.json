@@ -1,0 +1,237 @@
+{
+  "id": "a2-l22",
+  "course_id": "english-a2",
+  "module_title": "Lingkungan dan Alam",
+  "level": "A2",
+  "title": "Past Participle: Regular dan Irregular",
+  "subtitle": "Membahas isu lingkungan dengan present perfect dan kalimat saran",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk past participle kata kerja regular (-ed)",
+    "Menghafal past participle kata kerja irregular"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? (Tunggu jawaban murid.) Sebelum kita mulai, mari ingat pelajaran kemarin. Siapa yang masih ingat materi Pelajaran kemarin tentang struktur present perfect? Coba sebutkan satu hal yang kamu ingat. (Berikan umpan balik singkat.) Bagus sekali. Hari ini kita masuk ke pelajaran ke-22 dengan judul 'Past Participle: Regular dan Irregular'. Tujuan kita hari ini: memahami materi inti, menguasai kosakata baru, dan berlatih dalam percakapan. Pertanyaan untuk dipikirkan: Tapi V3 itu apa? Bagaimana bentuknya untuk kata regular dan irregular? Kita akan mulai dengan teori selama 20 menit, lalu kosakata 10 menit, latihan 20 menit, dan ditutup dengan ringkasan 5 menit. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan hangat. Tanyakan kabar. Ajak mengingat pelajaran sebelumnya dengan satu pertanyaan singkat. Perkenalkan topik hari ini dan tujuan pembelajaran. Tulis judul di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Past Participle: Regular dan Irregular\n\n**Past participle (V3)** adalah bentuk kata kerja ketiga, dipakai di present perfect. Ada dua jenis: **regular** (berakhiran -ed) dan **irregular** (harus dihafal).\n\n### 1. Regular verbs\n\nV3 = bentuk dasar + **-ed** (sama dengan past simple).\n\n| V1 | V2 (past) | V3 (participle) |\n|---|---|---|\n| recycle | recycled | recycled |\n| plant | planted | planted |\n| reduce | reduced | reduced |\n| clean | cleaned | cleaned |\n| protect | protected | protected |\n\n### 2. Irregular verbs (wajib dihafal)\n\n| V1 | V2 (past) | V3 (participle) | Arti |\n|---|---|---|---|\n| go | went | gone | pergi |\n| see | saw | seen | melihat |\n| do | did | done | melakukan |\n| have | had | had | punya |\n| make | made | made | membuat |\n| take | took | taken | mengambil |\n| give | gave | given | memberi |\n| write | wrote | written | menulis |\n| build | built | built | membangun |\n| cut | cut | cut | memotong |\n\n### 3. Pola kalimat\n\n- We **have recycled** plastic. (regular)\n- She **has seen** the pollution. (irregular: see → seen)\n- They **have done** a cleanup. (irregular: do → done)\n\n### 4. Hati-hati: V2 vs V3\n\nDi present perfect selalu pakai **V3**, bukan V2.\n\n> Salah: I have **went** to the beach. (went = V2)\n> Benar: I have **gone** to the beach. (gone = V3)\n\n### 5. Mini-dialogue\n\n> A: **Have** you **done** the cleanup?\n> B: Yes, we **have done** it. We **have collected** ten bags of trash.\n> A: **Has** she **seen** the new forest?\n> B: Yes, she **has seen** it. It **has grown** a lot.\n\n> **Hindari:** \"I have went.\" (salah — *I have gone.*)\n> **Hindari:** \"She have seen.\" (salah — *She has seen.*)\n\n### 6. Tip\n\nHafalkan irregular dalam triple: **go-went-gone, see-saw-seen, do-did-done**. Kelompokkan yang polanya sama (cut-cut-cut, build-built-built).",
+      "key_points": [
+        "Regular V3 = V1 + -ed (recycled, planted, reduced)",
+        "Irregular harus dihafal triple: go-went-gone, see-saw-seen, do-did-done",
+        "Lainnya: have-had-had, make-made-made, take-took-taken, write-wrote-written",
+        "Present perfect selalu pakai V3, bukan V2",
+        "Salah: 'I have went'; Benar: 'I have gone'",
+        "Kelompokkan irregular yang polanya sama untuk hafalan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "environment",
+          "id": "lingkungan",
+          "phonetic": "/ɪnˈvaɪrənmənt/",
+          "example_en": "We must protect the environment.",
+          "example_id": "Kita harus melindungi lingkungan."
+        },
+        {
+          "en": "pollution",
+          "id": "polusi",
+          "phonetic": "/pəˈluːʃn/",
+          "example_en": "Air pollution is a big problem.",
+          "example_id": "Polusi udara adalah masalah besar."
+        },
+        {
+          "en": "recycle",
+          "id": "mendaur ulang",
+          "phonetic": "/ˌriːˈsaɪkl/",
+          "example_en": "We should recycle plastic.",
+          "example_id": "Kita sebaiknya mendaur ulang plastik."
+        },
+        {
+          "en": "reduce",
+          "id": "mengurangi",
+          "phonetic": "/rɪˈduːs/",
+          "example_en": "Reduce the use of plastic bags.",
+          "example_id": "Kurangi penggunaan kantong plastik."
+        },
+        {
+          "en": "reuse",
+          "id": "menggunakan kembali",
+          "phonetic": "/ˌriːˈjuːz/",
+          "example_en": "Reuse your old bottles.",
+          "example_id": "Gunakan kembali botol lama Anda."
+        },
+        {
+          "en": "waste",
+          "id": "limbah",
+          "phonetic": "/weɪst/",
+          "example_en": "Factory waste pollutes the river.",
+          "example_id": "Limbah pabrik mencemari sungai."
+        },
+        {
+          "en": "plastic",
+          "id": "plastik",
+          "phonetic": "/ˈplæstɪk/",
+          "example_en": "Plastic takes years to break down.",
+          "example_id": "Plastik butuh bertahun-tahun untuk terurai."
+        },
+        {
+          "en": "trash",
+          "id": "sampah",
+          "phonetic": "/træʃ/",
+          "example_en": "Don't throw trash in the river.",
+          "example_id": "Jangan buang sampah di sungai."
+        },
+        {
+          "en": "forest",
+          "id": "hutan",
+          "phonetic": "/ˈfɒrɪst/",
+          "example_en": "Many forests are disappearing.",
+          "example_id": "Banyak hutan yang hilang."
+        },
+        {
+          "en": "river",
+          "id": "sungai",
+          "phonetic": "/ˈrɪvər/",
+          "example_en": "The river is very dirty now.",
+          "example_id": "Sungainya sangat kotor sekarang."
+        },
+        {
+          "en": "ocean",
+          "id": "laut",
+          "phonetic": "/ˈoʊʃn/",
+          "example_en": "The ocean is full of plastic.",
+          "example_id": "Laut penuh dengan plastik."
+        },
+        {
+          "en": "climate",
+          "id": "iklim",
+          "phonetic": "/ˈklaɪmət/",
+          "example_en": "The climate is changing.",
+          "example_id": "Iklim sedang berubah."
+        },
+        {
+          "en": "to plant",
+          "id": "menanam",
+          "phonetic": "/tuː plænt/",
+          "example_en": "We should plant more trees.",
+          "example_id": "Kita sebaiknya menanam lebih banyak pohon."
+        },
+        {
+          "en": "tree",
+          "id": "pohon",
+          "phonetic": "/triː/",
+          "example_en": "Trees give us clean air.",
+          "example_id": "Pohon memberi kita udara bersih."
+        },
+        {
+          "en": "to protect",
+          "id": "melindungi",
+          "phonetic": "/tuː prəˈtekt/",
+          "example_en": "We must protect nature.",
+          "example_id": "Kita harus melindungi alam."
+        },
+        {
+          "en": "energy",
+          "id": "energi",
+          "phonetic": "/ˈenərdʒi/",
+          "example_en": "Save energy at home.",
+          "example_id": "Hemat energi di rumah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Latihan terstruktur 20 menit:\n1. Drill: guru menyebut V1, murid jawab V3 (go→gone, see→seen, recycle→recycled).\n2. Pair work: buat 6 kalimat present perfect dengan irregular verbs (done, seen, built, written).\n3. Fill-in-the-blank: 10 kalimat dengan V3 yang benar (regular & irregular).\n4. Error correction: perbaiki 5 kalimat (mis. 'I have went', 'She have done').\n5. Triple memory: tulis 12 irregular verbs dalam bentuk V1-V2-V3 di buku catatan.\n\nTugas rumah: Hafalkan 12 irregular verbs triple, lalu tulis 6 kalimat present perfect dengan irregular V3.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you done the recycling this week?",
+          "id": "Apakah kamu sudah melakukan daur ulang minggu ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have done it every Saturday.",
+          "id": "Ya, saya melakukannya setiap Sabtu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has your class built a compost bin?",
+          "id": "Apakah kelasmu sudah membuat tempat kompos?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we have built one behind the school.",
+          "id": "Ya, kami sudah membuatnya di belakang sekolah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you seen the new recycling ads?",
+          "id": "Apakah kamu sudah melihat iklan daur ulang baru?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have seen them on TV.",
+          "id": "Ya, saya melihatnya di TV."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has the school taken action on waste?",
+          "id": "Apakah sekolah sudah mengambil tindakan soal limbah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it has taken big steps this year.",
+          "id": "Ya, sudah mengambil langkah besar tahun ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you written a report about pollution?",
+          "id": "Apakah kamu sudah menulis laporan tentang polusi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have written one for science class.",
+          "id": "Ya, saya menulisnya untuk pelajaran sains."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Has the river gotten cleaner?",
+          "id": "Apakah sungai menjadi lebih bersih?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it has gotten much cleaner.",
+          "id": "Ya, jauh lebih bersih."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita sudah belajar 'Past Participle: Regular dan Irregular'. Mari kita cek pemahaman: coba sebutkan satu hal penting yang kamu pelajari hari ini. (Tunggu 2-3 murid menjawab, beri umpan balik.) Apakah ada yang masih bingung? (Jawab pertanyaan jika ada.) Untuk PR di rumah: Hafalkan 12 irregular verbs triple, lalu tulis 6 kalimat present perfect dengan irregular V3. Pelajaran berikutnya kita akan membahas penggunaan present perfect dalam konteks, jadi silakan baca sekilas persiapan di rumah. Terima kasih sudah aktif dan antusias hari ini. Sampai jumpa!",
+      "instructions": "Berikan pujian singkat. Cek pemahaman dengan 1-2 pertanyaan. Sampaikan PR dengan jelas. Beritahu topik pertemuan berikutnya. Tutup dengan positif."
+    }
+  ]
+}
