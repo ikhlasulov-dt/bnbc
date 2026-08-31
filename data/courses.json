@@ -1,0 +1,1327 @@
+{
+  "courses": [
+    {
+      "id": "english-a1",
+      "code": "ENG-A1",
+      "level": "A1",
+      "title": "Bahasa Inggris — Tingkat A1",
+      "subtitle": "Bahasa akses pengetahuan",
+      "description": "Tingkat dasar mengikuti kerangka CEFR A1. Mencakup sapaan, informasi pribadi, keluarga, angka, waktu, rutinitas harian, makanan, sekolah, hobi, cuaca, pakaian, belanja, transportasi, serta tata bahasa dasar (to be, simple present, countable/uncountable).",
+      "instructor": "Pengajar B&B Courses",
+      "credits": 6,
+      "modules": [
+        {
+          "title": "Sapaan dan Perkenalan",
+          "lessons": [
+            {
+              "id": "a1-l01",
+              "title": "Sapaan Umum: Hello dan Hi",
+              "module": "Sapaan dan Perkenalan",
+              "duration": 60,
+              "file": "a1-l01"
+            },
+            {
+              "id": "a1-l02",
+              "title": "Sapaan Sesuai Waktu",
+              "module": "Sapaan dan Perkenalan",
+              "duration": 60,
+              "file": "a1-l02"
+            },
+            {
+              "id": "a1-l03",
+              "title": "Menanyakan Kabar",
+              "module": "Sapaan dan Perkenalan",
+              "duration": 60,
+              "file": "a1-l03"
+            },
+            {
+              "id": "a1-l04",
+              "title": "Perkenalan Diri",
+              "module": "Sapaan dan Perkenalan",
+              "duration": 60,
+              "file": "a1-l04"
+            },
+            {
+              "id": "a1-l05",
+              "title": "Menutup Percakapan",
+              "module": "Sapaan dan Perkenalan",
+              "duration": 60,
+              "file": "a1-l05"
+            }
+          ]
+        },
+        {
+          "title": "Data Diri",
+          "lessons": [
+            {
+              "id": "a1-l06",
+              "title": "Pertanyaan Inti tentang Data Diri",
+              "module": "Data Diri",
+              "duration": 60,
+              "file": "a1-l06"
+            },
+            {
+              "id": "a1-l07",
+              "title": "Pola Jawaban Standar",
+              "module": "Data Diri",
+              "duration": 60,
+              "file": "a1-l07"
+            },
+            {
+              "id": "a1-l08",
+              "title": "Kata Kerja To Be: am, is, are",
+              "module": "Data Diri",
+              "duration": 60,
+              "file": "a1-l08"
+            },
+            {
+              "id": "a1-l09",
+              "title": "Kata Ganti Subjek dan Kata Ganti Milik",
+              "module": "Data Diri",
+              "duration": 60,
+              "file": "a1-l09"
+            },
+            {
+              "id": "a1-l10",
+              "title": "Sapaan Formal: Mr., Mrs., Ms., Miss",
+              "module": "Data Diri",
+              "duration": 60,
+              "file": "a1-l10"
+            },
+            {
+              "id": "a1-l11",
+              "title": "Mengeja Nama dan Alamat",
+              "module": "Data Diri",
+              "duration": 60,
+              "file": "a1-l11"
+            }
+          ]
+        },
+        {
+          "title": "Keluarga",
+          "lessons": [
+            {
+              "id": "a1-l12",
+              "title": "Kosakata Keluarga Inti",
+              "module": "Keluarga",
+              "duration": 60,
+              "file": "a1-l12"
+            },
+            {
+              "id": "a1-l13",
+              "title": "Kosakata Keluarga Extended",
+              "module": "Keluarga",
+              "duration": 60,
+              "file": "a1-l13"
+            },
+            {
+              "id": "a1-l14",
+              "title": "Posesif: Dua Pola Utama",
+              "module": "Keluarga",
+              "duration": 60,
+              "file": "a1-l14"
+            },
+            {
+              "id": "a1-l15",
+              "title": "Menyatakan Jumlah Saudara dengan have/has",
+              "module": "Keluarga",
+              "duration": 60,
+              "file": "a1-l15"
+            },
+            {
+              "id": "a1-l16",
+              "title": "Menanyakan Identitas: Who",
+              "module": "Keluarga",
+              "duration": 60,
+              "file": "a1-l16"
+            },
+            {
+              "id": "a1-l17",
+              "title": "Mendeskripsikan Anggota Keluarga",
+              "module": "Keluarga",
+              "duration": 60,
+              "file": "a1-l17"
+            }
+          ]
+        },
+        {
+          "title": "Angka dan Waktu",
+          "lessons": [
+            {
+              "id": "a1-l18",
+              "title": "Bilangan Pokok (Cardinal Numbers)",
+              "module": "Angka dan Waktu",
+              "duration": 60,
+              "file": "a1-l18"
+            },
+            {
+              "id": "a1-l19",
+              "title": "Bilangan Bertingkat (Ordinal Numbers)",
+              "module": "Angka dan Waktu",
+              "duration": 60,
+              "file": "a1-l19"
+            },
+            {
+              "id": "a1-l20",
+              "title": "Menyatakan Pukul",
+              "module": "Angka dan Waktu",
+              "duration": 60,
+              "file": "a1-l20"
+            },
+            {
+              "id": "a1-l21",
+              "title": "Hari dan Bulan",
+              "module": "Angka dan Waktu",
+              "duration": 60,
+              "file": "a1-l21"
+            },
+            {
+              "id": "a1-l22",
+              "title": "Menulis Tanggal",
+              "module": "Angka dan Waktu",
+              "duration": 60,
+              "file": "a1-l22"
+            },
+            {
+              "id": "a1-l23",
+              "title": "Preposisi Waktu: at, on, in",
+              "module": "Angka dan Waktu",
+              "duration": 60,
+              "file": "a1-l23"
+            },
+            {
+              "id": "a1-l24",
+              "title": "Menanyakan Waktu",
+              "module": "Angka dan Waktu",
+              "duration": 60,
+              "file": "a1-l24"
+            },
+            {
+              "id": "a1-l25",
+              "title": "Membaca Angka Besar",
+              "module": "Angka dan Waktu",
+              "duration": 60,
+              "file": "a1-l25"
+            }
+          ]
+        },
+        {
+          "title": "Rutinitas Harian",
+          "lessons": [
+            {
+              "id": "a1-l26",
+              "title": "Rumus Dasar Simple Present",
+              "module": "Rutinitas Harian",
+              "duration": 60,
+              "file": "a1-l26"
+            },
+            {
+              "id": "a1-l27",
+              "title": "Adverbia Frekuensi",
+              "module": "Rutinitas Harian",
+              "duration": 60,
+              "file": "a1-l27"
+            },
+            {
+              "id": "a1-l28",
+              "title": "Bentuk Negatif: do not / does not",
+              "module": "Rutinitas Harian",
+              "duration": 60,
+              "file": "a1-l28"
+            },
+            {
+              "id": "a1-l29",
+              "title": "Bentuk Tanya: Do/Does",
+              "module": "Rutinitas Harian",
+              "duration": 60,
+              "file": "a1-l29"
+            },
+            {
+              "id": "a1-l30",
+              "title": "Penghubung Waktu",
+              "module": "Rutinitas Harian",
+              "duration": 60,
+              "file": "a1-l30"
+            },
+            {
+              "id": "a1-l31",
+              "title": "Kosakata Rutinitas Harian",
+              "module": "Rutinitas Harian",
+              "duration": 60,
+              "file": "a1-l31"
+            },
+            {
+              "id": "a1-l32",
+              "title": "Preposisi Pendukung",
+              "module": "Rutinitas Harian",
+              "duration": 60,
+              "file": "a1-l32"
+            },
+            {
+              "id": "a1-l33",
+              "title": "Contoh Paragraf Rutinitas Lengkap",
+              "module": "Rutinitas Harian",
+              "duration": 60,
+              "file": "a1-l33"
+            }
+          ]
+        },
+        {
+          "title": "Makanan dan Minuman",
+          "lessons": [
+            {
+              "id": "a1-l34",
+              "title": "Kosakata Makanan Utama",
+              "module": "Makanan dan Minuman",
+              "duration": 60,
+              "file": "a1-l34"
+            },
+            {
+              "id": "a1-l35",
+              "title": "Kosakata Minuman Utama",
+              "module": "Makanan dan Minuman",
+              "duration": 60,
+              "file": "a1-l35"
+            },
+            {
+              "id": "a1-l36",
+              "title": "Kata Sifat untuk Mendeskripsikan Rasa",
+              "module": "Makanan dan Minuman",
+              "duration": 60,
+              "file": "a1-l36"
+            },
+            {
+              "id": "a1-l37",
+              "title": "Waktu Makan",
+              "module": "Makanan dan Minuman",
+              "duration": 60,
+              "file": "a1-l37"
+            },
+            {
+              "id": "a1-l38",
+              "title": "Countable dan Uncountable Nouns",
+              "module": "Makanan dan Minuman",
+              "duration": 60,
+              "file": "a1-l38"
+            },
+            {
+              "id": "a1-l39",
+              "title": "Menyatakan Kesukaan",
+              "module": "Makanan dan Minuman",
+              "duration": 60,
+              "file": "a1-l39"
+            },
+            {
+              "id": "a1-l40",
+              "title": "Frasa Pemesanan di Restoran",
+              "module": "Makanan dan Minuman",
+              "duration": 60,
+              "file": "a1-l40"
+            },
+            {
+              "id": "a1-l41",
+              "title": "Menanyakan Bahan dan Rasa",
+              "module": "Makanan dan Minuman",
+              "duration": 60,
+              "file": "a1-l41"
+            }
+          ]
+        },
+        {
+          "title": "Sekolah",
+          "lessons": [
+            {
+              "id": "a1-l42",
+              "title": "Benda di Ruang Kelas",
+              "module": "Sekolah",
+              "duration": 60,
+              "file": "a1-l42"
+            },
+            {
+              "id": "a1-l43",
+              "title": "Preposisi Tempat",
+              "module": "Sekolah",
+              "duration": 60,
+              "file": "a1-l43"
+            },
+            {
+              "id": "a1-l44",
+              "title": "Mata Pelajaran",
+              "module": "Sekolah",
+              "duration": 60,
+              "file": "a1-l44"
+            },
+            {
+              "id": "a1-l45",
+              "title": "Kalimat Imperatif",
+              "module": "Sekolah",
+              "duration": 60,
+              "file": "a1-l45"
+            }
+          ]
+        },
+        {
+          "title": "Hobi",
+          "lessons": [
+            {
+              "id": "a1-l46",
+              "title": "Daftar Hobi dan Olahraga",
+              "module": "Hobi",
+              "duration": 60,
+              "file": "a1-l46"
+            },
+            {
+              "id": "a1-l47",
+              "title": "Pola like, love, prefer + Gerund",
+              "module": "Hobi",
+              "duration": 60,
+              "file": "a1-l47"
+            },
+            {
+              "id": "a1-l48",
+              "title": "Bentuk Negatif dan Pertanyaan",
+              "module": "Hobi",
+              "duration": 60,
+              "file": "a1-l48"
+            },
+            {
+              "id": "a1-l49",
+              "title": "Kata Keterangan Frekuensi",
+              "module": "Hobi",
+              "duration": 60,
+              "file": "a1-l49"
+            },
+            {
+              "id": "a1-l50",
+              "title": "Menanyakan Hobi Orang Lain",
+              "module": "Hobi",
+              "duration": 60,
+              "file": "a1-l50"
+            }
+          ]
+        },
+        {
+          "title": "Cuaca",
+          "lessons": [
+            {
+              "id": "a1-l51",
+              "title": "Kata Sifat Cuaca",
+              "module": "Cuaca",
+              "duration": 60,
+              "file": "a1-l51"
+            },
+            {
+              "id": "a1-l52",
+              "title": "Nama Musim",
+              "module": "Cuaca",
+              "duration": 60,
+              "file": "a1-l52"
+            },
+            {
+              "id": "a1-l53",
+              "title": "Pola It is vs There is",
+              "module": "Cuaca",
+              "duration": 60,
+              "file": "a1-l53"
+            },
+            {
+              "id": "a1-l54",
+              "title": "Rekomendasi Pakaian Sesuai Cuaca",
+              "module": "Cuaca",
+              "duration": 60,
+              "file": "a1-l54"
+            },
+            {
+              "id": "a1-l55",
+              "title": "Menanyakan Cuaca",
+              "module": "Cuaca",
+              "duration": 60,
+              "file": "a1-l55"
+            }
+          ]
+        },
+        {
+          "title": "Pakaian",
+          "lessons": [
+            {
+              "id": "a1-l56",
+              "title": "Kosakata Pakaian",
+              "module": "Pakaian",
+              "duration": 60,
+              "file": "a1-l56"
+            },
+            {
+              "id": "a1-l57",
+              "title": "Kosakata Warna",
+              "module": "Pakaian",
+              "duration": 60,
+              "file": "a1-l57"
+            },
+            {
+              "id": "a1-l58",
+              "title": "Urutan Kata Sifat",
+              "module": "Pakaian",
+              "duration": 60,
+              "file": "a1-l58"
+            },
+            {
+              "id": "a1-l59",
+              "title": "Mendeskripsikan Pakaian Seseorang",
+              "module": "Pakaian",
+              "duration": 60,
+              "file": "a1-l59"
+            },
+            {
+              "id": "a1-l60",
+              "title": "Frasa Belanja Dasar",
+              "module": "Pakaian",
+              "duration": 60,
+              "file": "a1-l60"
+            }
+          ]
+        },
+        {
+          "title": "Belanja",
+          "lessons": [
+            {
+              "id": "a1-l61",
+              "title": "Kosakata Toko dan Uang",
+              "module": "Belanja",
+              "duration": 60,
+              "file": "a1-l61"
+            },
+            {
+              "id": "a1-l62",
+              "title": "Menyebutkan Harga",
+              "module": "Belanja",
+              "duration": 60,
+              "file": "a1-l62"
+            },
+            {
+              "id": "a1-l63",
+              "title": "Menanyakan Harga",
+              "module": "Belanja",
+              "duration": 60,
+              "file": "a1-l63"
+            },
+            {
+              "id": "a1-l64",
+              "title": "Menanyakan Kuantitas",
+              "module": "Belanja",
+              "duration": 60,
+              "file": "a1-l64"
+            },
+            {
+              "id": "a1-l65",
+              "title": "Frasa Permintaan Can I have",
+              "module": "Belanja",
+              "duration": 60,
+              "file": "a1-l65"
+            },
+            {
+              "id": "a1-l66",
+              "title": "Melakukan Transaksi Lengkap",
+              "module": "Belanja",
+              "duration": 60,
+              "file": "a1-l66"
+            }
+          ]
+        },
+        {
+          "title": "Transportasi",
+          "lessons": [
+            {
+              "id": "a1-l67",
+              "title": "Kosakata Moda Transportasi",
+              "module": "Transportasi",
+              "duration": 60,
+              "file": "a1-l67"
+            },
+            {
+              "id": "a1-l68",
+              "title": "Preposisi by untuk Transportasi",
+              "module": "Transportasi",
+              "duration": 60,
+              "file": "a1-l68"
+            },
+            {
+              "id": "a1-l69",
+              "title": "Kosakata Arah",
+              "module": "Transportasi",
+              "duration": 60,
+              "file": "a1-l69"
+            },
+            {
+              "id": "a1-l70",
+              "title": "Menanyakan dan Memberikan Arah",
+              "module": "Transportasi",
+              "duration": 60,
+              "file": "a1-l70"
+            },
+            {
+              "id": "a1-l71",
+              "title": "Percakapan Meminta Arah",
+              "module": "Transportasi",
+              "duration": 60,
+              "file": "a1-l71"
+            },
+            {
+              "id": "a1-l72",
+              "title": "Memilih Moda Transportasi",
+              "module": "Transportasi",
+              "duration": 60,
+              "file": "a1-l72"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "english-a2",
+      "code": "ENG-A2",
+      "level": "A2",
+      "title": "Bahasa Inggris — Tingkat A2",
+      "subtitle": "Bahasa akses pengetahuan",
+      "description": "Tingkat lanjutan mengikuti kerangka CEFR A2. Mencakup perjalanan, kesehatan, arah dan lokasi, pekerjaan, teknologi, lingkungan, emosi, berita, pendidikan, uang, hiburan, hubungan, ekspresi idiomatik, serta perpisahan dan rencana masa depan.",
+      "instructor": "Pengajar B&B Courses",
+      "credits": 8,
+      "modules": [
+        {
+          "title": "Perjalanan",
+          "lessons": [
+            {
+              "id": "a2-l01",
+              "title": "Past Simple dari To Be: was dan were",
+              "module": "Perjalanan",
+              "duration": 60,
+              "file": "a2-l01"
+            },
+            {
+              "id": "a2-l02",
+              "title": "Kata Kerja Regular: Akhiran -ed",
+              "module": "Perjalanan",
+              "duration": 60,
+              "file": "a2-l02"
+            },
+            {
+              "id": "a2-l03",
+              "title": "Kata Kerja Irregular: Wajib Diingat",
+              "module": "Perjalanan",
+              "duration": 60,
+              "file": "a2-l03"
+            },
+            {
+              "id": "a2-l04",
+              "title": "Time Markers Masa Lampau",
+              "module": "Perjalanan",
+              "duration": 60,
+              "file": "a2-l04"
+            },
+            {
+              "id": "a2-l05",
+              "title": "Bentuk Negatif dan Pertanyaan dengan did",
+              "module": "Perjalanan",
+              "duration": 60,
+              "file": "a2-l05"
+            },
+            {
+              "id": "a2-l06",
+              "title": "Membangun Cerita Perjalanan yang Padat",
+              "module": "Perjalanan",
+              "duration": 60,
+              "file": "a2-l06"
+            }
+          ]
+        },
+        {
+          "title": "Kesehatan dan Dokter",
+          "lessons": [
+            {
+              "id": "a2-l07",
+              "title": "Bagian Tubuh yang Wajib Dikenal",
+              "module": "Kesehatan dan Dokter",
+              "duration": 60,
+              "file": "a2-l07"
+            },
+            {
+              "id": "a2-l08",
+              "title": "Pola 'I have a...' untuk Menyampaikan Keluhan",
+              "module": "Kesehatan dan Dokter",
+              "duration": 60,
+              "file": "a2-l08"
+            },
+            {
+              "id": "a2-l09",
+              "title": "Pola 'I feel...' untuk Gejala Umum",
+              "module": "Kesehatan dan Dokter",
+              "duration": 60,
+              "file": "a2-l09"
+            },
+            {
+              "id": "a2-l10",
+              "title": "Modal 'should' untuk Memberi Saran",
+              "module": "Kesehatan dan Dokter",
+              "duration": 60,
+              "file": "a2-l10"
+            },
+            {
+              "id": "a2-l11",
+              "title": "Pertanyaan dengan Should",
+              "module": "Kesehatan dan Dokter",
+              "duration": 60,
+              "file": "a2-l11"
+            },
+            {
+              "id": "a2-l12",
+              "title": "Percakapan Dokter dan Pasien: Pola Umum",
+              "module": "Kesehatan dan Dokter",
+              "duration": 60,
+              "file": "a2-l12"
+            },
+            {
+              "id": "a2-l13",
+              "title": "Kosakata Medis Inti",
+              "module": "Kesehatan dan Dokter",
+              "duration": 60,
+              "file": "a2-l13"
+            }
+          ]
+        },
+        {
+          "title": "Pekerjaan dan Profesi",
+          "lessons": [
+            {
+              "id": "a2-l14",
+              "title": "Daftar Profesi yang Wajib Dikenal",
+              "module": "Pekerjaan dan Profesi",
+              "duration": 60,
+              "file": "a2-l14"
+            },
+            {
+              "id": "a2-l15",
+              "title": "Pola 'I Want to Be...'",
+              "module": "Pekerjaan dan Profesi",
+              "duration": 60,
+              "file": "a2-l15"
+            },
+            {
+              "id": "a2-l16",
+              "title": "Present Continuous untuk Rencana Masa Depan",
+              "module": "Pekerjaan dan Profesi",
+              "duration": 60,
+              "file": "a2-l16"
+            },
+            {
+              "id": "a2-l17",
+              "title": "Pola 'Going to' sebagai Alternatif",
+              "module": "Pekerjaan dan Profesi",
+              "duration": 60,
+              "file": "a2-l17"
+            },
+            {
+              "id": "a2-l18",
+              "title": "Menjelaskan Tugas Suatu Profesi",
+              "module": "Pekerjaan dan Profesi",
+              "duration": 60,
+              "file": "a2-l18"
+            },
+            {
+              "id": "a2-l19",
+              "title": "Pertanyaan tentang Pekerjaan",
+              "module": "Pekerjaan dan Profesi",
+              "duration": 60,
+              "file": "a2-l19"
+            },
+            {
+              "id": "a2-l20",
+              "title": "Kosakata Pendukung Karier",
+              "module": "Pekerjaan dan Profesi",
+              "duration": 60,
+              "file": "a2-l20"
+            }
+          ]
+        },
+        {
+          "title": "Lingkungan dan Alam",
+          "lessons": [
+            {
+              "id": "a2-l21",
+              "title": "Struktur Present Perfect",
+              "module": "Lingkungan dan Alam",
+              "duration": 60,
+              "file": "a2-l21"
+            },
+            {
+              "id": "a2-l22",
+              "title": "Past Participle: Regular dan Irregular",
+              "module": "Lingkungan dan Alam",
+              "duration": 60,
+              "file": "a2-l22"
+            },
+            {
+              "id": "a2-l23",
+              "title": "Penggunaan Present Perfect",
+              "module": "Lingkungan dan Alam",
+              "duration": 60,
+              "file": "a2-l23"
+            },
+            {
+              "id": "a2-l24",
+              "title": "Perbedaan dengan Past Simple",
+              "module": "Lingkungan dan Alam",
+              "duration": 60,
+              "file": "a2-l24"
+            },
+            {
+              "id": "a2-l25",
+              "title": "Time Markers Present Perfect",
+              "module": "Lingkungan dan Alam",
+              "duration": 60,
+              "file": "a2-l25"
+            },
+            {
+              "id": "a2-l26",
+              "title": "Kosakata Lingkungan Inti",
+              "module": "Lingkungan dan Alam",
+              "duration": 60,
+              "file": "a2-l26"
+            },
+            {
+              "id": "a2-l27",
+              "title": "Should untuk Saran Lingkungan",
+              "module": "Lingkungan dan Alam",
+              "duration": 60,
+              "file": "a2-l27"
+            },
+            {
+              "id": "a2-l28",
+              "title": "Membangun Diskusi Lingkungan",
+              "module": "Lingkungan dan Alam",
+              "duration": 60,
+              "file": "a2-l28"
+            }
+          ]
+        },
+        {
+          "title": "Teknologi dan Internet",
+          "lessons": [
+            {
+              "id": "a2-l29",
+              "title": "Present Perfect: Pengalaman dan Perubahan Teknologi",
+              "module": "Teknologi dan Internet",
+              "duration": 60,
+              "file": "a2-l29"
+            },
+            {
+              "id": "a2-l30",
+              "title": "Pertanyaan dengan Ever dan Yet",
+              "module": "Teknologi dan Internet",
+              "duration": 60,
+              "file": "a2-l30"
+            },
+            {
+              "id": "a2-l31",
+              "title": "Time Markers Present Perfect",
+              "module": "Teknologi dan Internet",
+              "duration": 60,
+              "file": "a2-l31"
+            },
+            {
+              "id": "a2-l32",
+              "title": "Pola Used To untuk Kebiasaan Masa Lalu",
+              "module": "Teknologi dan Internet",
+              "duration": 60,
+              "file": "a2-l32"
+            },
+            {
+              "id": "a2-l33",
+              "title": "Kosakata Teknologi Inti",
+              "module": "Teknologi dan Internet",
+              "duration": 60,
+              "file": "a2-l33"
+            },
+            {
+              "id": "a2-l34",
+              "title": "Pola Pertanyaan tentang Teknologi",
+              "module": "Teknologi dan Internet",
+              "duration": 60,
+              "file": "a2-l34"
+            },
+            {
+              "id": "a2-l35",
+              "title": "Membangun Diskusi Teknologi",
+              "module": "Teknologi dan Internet",
+              "duration": 60,
+              "file": "a2-l35"
+            }
+          ]
+        },
+        {
+          "title": "Hiburan dan Film",
+          "lessons": [
+            {
+              "id": "a2-l36",
+              "title": "Genre Film yang Wajib Dikenal",
+              "module": "Hiburan dan Film",
+              "duration": 60,
+              "file": "a2-l36"
+            },
+            {
+              "id": "a2-l37",
+              "title": "Kosakata Hiburan Inti",
+              "module": "Hiburan dan Film",
+              "duration": 60,
+              "file": "a2-l37"
+            },
+            {
+              "id": "a2-l38",
+              "title": "Past Simple untuk Menceritakan Film",
+              "module": "Hiburan dan Film",
+              "duration": 60,
+              "file": "a2-l38"
+            },
+            {
+              "id": "a2-l39",
+              "title": "Ungkapan Opini: I Think dan In My Opinion",
+              "module": "Hiburan dan Film",
+              "duration": 60,
+              "file": "a2-l39"
+            },
+            {
+              "id": "a2-l40",
+              "title": "Kosakata Penilaian Film",
+              "module": "Hiburan dan Film",
+              "duration": 60,
+              "file": "a2-l40"
+            },
+            {
+              "id": "a2-l41",
+              "title": "Merekomendasikan Film",
+              "module": "Hiburan dan Film",
+              "duration": 60,
+              "file": "a2-l41"
+            },
+            {
+              "id": "a2-l42",
+              "title": "Membedakan Fakta dan Opini",
+              "module": "Hiburan dan Film",
+              "duration": 60,
+              "file": "a2-l42"
+            },
+            {
+              "id": "a2-l43",
+              "title": "Membangun Ulasan Singkat",
+              "module": "Hiburan dan Film",
+              "duration": 60,
+              "file": "a2-l43"
+            }
+          ]
+        },
+        {
+          "title": "Olahraga",
+          "lessons": [
+            {
+              "id": "a2-l44",
+              "title": "Kosakata Olahraga Inti",
+              "module": "Olahraga",
+              "duration": 60,
+              "file": "a2-l44"
+            },
+            {
+              "id": "a2-l45",
+              "title": "Comparative: Membandingkan Dua Hal",
+              "module": "Olahraga",
+              "duration": 60,
+              "file": "a2-l45"
+            },
+            {
+              "id": "a2-l46",
+              "title": "Superlative: Tingkat Tertinggi",
+              "module": "Olahraga",
+              "duration": 60,
+              "file": "a2-l46"
+            },
+            {
+              "id": "a2-l47",
+              "title": "Pola Kalimat Perbandingan",
+              "module": "Olahraga",
+              "duration": 60,
+              "file": "a2-l47"
+            },
+            {
+              "id": "a2-l48",
+              "title": "Modifiers untuk Penguatan",
+              "module": "Olahraga",
+              "duration": 60,
+              "file": "a2-l48"
+            },
+            {
+              "id": "a2-l49",
+              "title": "Membangun Diskusi Olahraga",
+              "module": "Olahraga",
+              "duration": 60,
+              "file": "a2-l49"
+            },
+            {
+              "id": "a2-l50",
+              "title": "Tips Mengingat: Pendek vs Panjang",
+              "module": "Olahraga",
+              "duration": 60,
+              "file": "a2-l50"
+            }
+          ]
+        },
+        {
+          "title": "Festival dan Tradisi",
+          "lessons": [
+            {
+              "id": "a2-l51",
+              "title": "Past Simple untuk Recount Festival",
+              "module": "Festival dan Tradisi",
+              "duration": 60,
+              "file": "a2-l51"
+            },
+            {
+              "id": "a2-l52",
+              "title": "Pola Used to untuk Tradisi",
+              "module": "Festival dan Tradisi",
+              "duration": 60,
+              "file": "a2-l52"
+            },
+            {
+              "id": "a2-l53",
+              "title": "Used to vs Past Simple",
+              "module": "Festival dan Tradisi",
+              "duration": 60,
+              "file": "a2-l53"
+            },
+            {
+              "id": "a2-l54",
+              "title": "Time Markers untuk Teks Festival",
+              "module": "Festival dan Tradisi",
+              "duration": 60,
+              "file": "a2-l54"
+            },
+            {
+              "id": "a2-l55",
+              "title": "Kosakata Kunci Festival",
+              "module": "Festival dan Tradisi",
+              "duration": 60,
+              "file": "a2-l55"
+            },
+            {
+              "id": "a2-l56",
+              "title": "Menyusun Recount Festival",
+              "module": "Festival dan Tradisi",
+              "duration": 60,
+              "file": "a2-l56"
+            }
+          ]
+        },
+        {
+          "title": "Rumah dan Perabot",
+          "lessons": [
+            {
+              "id": "a2-l57",
+              "title": "Pola There Is dan There Are",
+              "module": "Rumah dan Perabot",
+              "duration": 60,
+              "file": "a2-l57"
+            },
+            {
+              "id": "a2-l58",
+              "title": "Preposisi Tempat",
+              "module": "Rumah dan Perabot",
+              "duration": 60,
+              "file": "a2-l58"
+            },
+            {
+              "id": "a2-l59",
+              "title": "Kosakata Ruangan dan Perabot",
+              "module": "Rumah dan Perabot",
+              "duration": 60,
+              "file": "a2-l59"
+            },
+            {
+              "id": "a2-l60",
+              "title": "Urutan Deskripsi yang Rapi",
+              "module": "Rumah dan Perabot",
+              "duration": 60,
+              "file": "a2-l60"
+            },
+            {
+              "id": "a2-l61",
+              "title": "Some dan Any untuk Deskripsi Rumah",
+              "module": "Rumah dan Perabot",
+              "duration": 60,
+              "file": "a2-l61"
+            },
+            {
+              "id": "a2-l62",
+              "title": "Menggabungkan Semua Struktur Rumah",
+              "module": "Rumah dan Perabot",
+              "duration": 60,
+              "file": "a2-l62"
+            }
+          ]
+        },
+        {
+          "title": "Hewan Peliharaan",
+          "lessons": [
+            {
+              "id": "a2-l63",
+              "title": "Pola Have Got dan Has Got",
+              "module": "Hewan Peliharaan",
+              "duration": 60,
+              "file": "a2-l63"
+            },
+            {
+              "id": "a2-l64",
+              "title": "Can dan Can't untuk Kemampuan Hewan",
+              "module": "Hewan Peliharaan",
+              "duration": 60,
+              "file": "a2-l64"
+            },
+            {
+              "id": "a2-l65",
+              "title": "Should dan Shouldn't untuk Saran Perawatan",
+              "module": "Hewan Peliharaan",
+              "duration": 60,
+              "file": "a2-l65"
+            },
+            {
+              "id": "a2-l66",
+              "title": "Kosakata Hewan Peliharaan dan Perawatan",
+              "module": "Hewan Peliharaan",
+              "duration": 60,
+              "file": "a2-l66"
+            },
+            {
+              "id": "a2-l67",
+              "title": "Membandingkan Hewan dengan Can dan Can't",
+              "module": "Hewan Peliharaan",
+              "duration": 60,
+              "file": "a2-l67"
+            },
+            {
+              "id": "a2-l68",
+              "title": "Menyusun Paragraf tentang Hewan Peliharaan",
+              "module": "Hewan Peliharaan",
+              "duration": 60,
+              "file": "a2-l68"
+            }
+          ]
+        },
+        {
+          "title": "Berita dan Peristiwa",
+          "lessons": [
+            {
+              "id": "a2-l69",
+              "title": "Struktur Present Perfect",
+              "module": "Berita dan Peristiwa",
+              "duration": 60,
+              "file": "a2-l69"
+            },
+            {
+              "id": "a2-l70",
+              "title": "Past Participle: Regular dan Irregular",
+              "module": "Berita dan Peristiwa",
+              "duration": 60,
+              "file": "a2-l70"
+            },
+            {
+              "id": "a2-l71",
+              "title": "Time Markers Khas Present Perfect",
+              "module": "Berita dan Peristiwa",
+              "duration": 60,
+              "file": "a2-l71"
+            },
+            {
+              "id": "a2-l72",
+              "title": "Pola Have You Heard About...?",
+              "module": "Berita dan Peristiwa",
+              "duration": 60,
+              "file": "a2-l72"
+            },
+            {
+              "id": "a2-l73",
+              "title": "Pengenalan Passive Voice pada Headline",
+              "module": "Berita dan Peristiwa",
+              "duration": 60,
+              "file": "a2-l73"
+            },
+            {
+              "id": "a2-l74",
+              "title": "Kosakata Berita dan Media",
+              "module": "Berita dan Peristiwa",
+              "duration": 60,
+              "file": "a2-l74"
+            },
+            {
+              "id": "a2-l75",
+              "title": "Menyusun Berita Singkat",
+              "module": "Berita dan Peristiwa",
+              "duration": 60,
+              "file": "a2-l75"
+            }
+          ]
+        },
+        {
+          "title": "Persahabatan",
+          "lessons": [
+            {
+              "id": "a2-l76",
+              "title": "Adjektiva Kepribadian",
+              "module": "Persahabatan",
+              "duration": 60,
+              "file": "a2-l76"
+            },
+            {
+              "id": "a2-l77",
+              "title": "Used to untuk Perubahan dalam Persahabatan",
+              "module": "Persahabatan",
+              "duration": 60,
+              "file": "a2-l77"
+            },
+            {
+              "id": "a2-l78",
+              "title": "Present Perfect untuk Durasi: since dan for",
+              "module": "Persahabatan",
+              "duration": 60,
+              "file": "a2-l78"
+            },
+            {
+              "id": "a2-l79",
+              "title": "Kosakata Persahabatan",
+              "module": "Persahabatan",
+              "duration": 60,
+              "file": "a2-l79"
+            },
+            {
+              "id": "a2-l80",
+              "title": "Perbedaan Since dan For",
+              "module": "Persahabatan",
+              "duration": 60,
+              "file": "a2-l80"
+            },
+            {
+              "id": "a2-l81",
+              "title": "Menyusun Paragraf tentang Teman",
+              "module": "Persahabatan",
+              "duration": 60,
+              "file": "a2-l81"
+            }
+          ]
+        },
+        {
+          "title": "Memasak dan Resep",
+          "lessons": [
+            {
+              "id": "a2-l82",
+              "title": "Bentuk Imperative",
+              "module": "Memasak dan Resep",
+              "duration": 60,
+              "file": "a2-l82"
+            },
+            {
+              "id": "a2-l83",
+              "title": "Sequence Words untuk Urutan Langkah",
+              "module": "Memasak dan Resep",
+              "duration": 60,
+              "file": "a2-l83"
+            },
+            {
+              "id": "a2-l84",
+              "title": "Kosakata Tindakan Memasak",
+              "module": "Memasak dan Resep",
+              "duration": 60,
+              "file": "a2-l84"
+            },
+            {
+              "id": "a2-l85",
+              "title": "Menyusun Resep yang Rapi",
+              "module": "Memasak dan Resep",
+              "duration": 60,
+              "file": "a2-l85"
+            },
+            {
+              "id": "a2-l86",
+              "title": "Imperative untuk Saran dan Peringatan",
+              "module": "Memasak dan Resep",
+              "duration": 60,
+              "file": "a2-l86"
+            },
+            {
+              "id": "a2-l87",
+              "title": "Time Expressions untuk Durasi Memasak",
+              "module": "Memasak dan Resep",
+              "duration": 60,
+              "file": "a2-l87"
+            },
+            {
+              "id": "a2-l88",
+              "title": "Menggabungkan Semua Struktur Memasak",
+              "module": "Memasak dan Resep",
+              "duration": 60,
+              "file": "a2-l88"
+            }
+          ]
+        },
+        {
+          "title": "Perpisahan dan Rencana Masa Depan",
+          "lessons": [
+            {
+              "id": "a2-l89",
+              "title": "Pola Will dan Won't",
+              "module": "Perpisahan dan Rencana Masa Depan",
+              "duration": 60,
+              "file": "a2-l89"
+            },
+            {
+              "id": "a2-l90",
+              "title": "Pola Be Going To",
+              "module": "Perpisahan dan Rencana Masa Depan",
+              "duration": 60,
+              "file": "a2-l90"
+            },
+            {
+              "id": "a2-l91",
+              "title": "Perbedaan Will dan Be Going To",
+              "module": "Perpisahan dan Rencana Masa Depan",
+              "duration": 60,
+              "file": "a2-l91"
+            },
+            {
+              "id": "a2-l92",
+              "title": "Ungkapan I'm Looking Forward To",
+              "module": "Perpisahan dan Rencana Masa Depan",
+              "duration": 60,
+              "file": "a2-l92"
+            },
+            {
+              "id": "a2-l93",
+              "title": "Ungkapan Perpisahan",
+              "module": "Perpisahan dan Rencana Masa Depan",
+              "duration": 60,
+              "file": "a2-l93"
+            },
+            {
+              "id": "a2-l94",
+              "title": "Kosakata Masa Depan dan Perpisahan",
+              "module": "Perpisahan dan Rencana Masa Depan",
+              "duration": 60,
+              "file": "a2-l94"
+            },
+            {
+              "id": "a2-l95",
+              "title": "Menyusun Paragraf Perpisahan",
+              "module": "Perpisahan dan Rencana Masa Depan",
+              "duration": 60,
+              "file": "a2-l95"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

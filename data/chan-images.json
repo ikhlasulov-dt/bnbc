@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "src": "assets/images/chan/1.jpg",
+      "board": "self"
+    },
+    {
+      "src": "assets/images/chan/2.jpg",
+      "board": "self"
+    },
+    {
+      "src": "assets/images/chan/3.jpg",
+      "board": "self"
+    },
+    {
+      "src": "assets/images/chan/4.jpg",
+      "board": "self"
+    },
+    {
+      "src": "assets/images/chan/5.jpg",
+      "board": "self"
+    },
+    {
+      "src": "assets/images/chan/6.jpg",
+      "board": "self"
+    },
+    {
+      "src": "assets/images/chan/7.jpg",
+      "board": "self"
+    },
+    {
+      "src": "assets/images/chan/8.jpg",
+      "board": "self"
+    }
+  ]
+}
