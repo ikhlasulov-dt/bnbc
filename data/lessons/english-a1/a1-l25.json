@@ -1,0 +1,228 @@
+{
+  "id": "a1-l25",
+  "course_id": "english-a1",
+  "module_title": "Angka dan Waktu",
+  "level": "A1",
+  "title": "Membaca Angka Besar",
+  "subtitle": "Ratusan, ribuan, jutaan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membaca angka ratusan dan ribuan",
+    "Memahami penggunaan koma sebagai pemisah ribuan",
+    "Menggunakan 'and' pada bilangan besar (BrE)"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Pelajaran terakhir di modul Angka dan Waktu ini kita akan belajar membaca angka besar: ratusan, ribuan, jutaan. Pernahkah kalian bingung membaca 'Rp 1.500.000' atau '2,500 students' dalam bahasa Inggris? Hari ini kita akan selesaikan. Tujuan kita: kalian bisa membaca angka besar sampai jutaan dengan lancar. Kita mulai dari teori pola angka besar, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tulis angka besar di papan: 250, 1,500, 25,000, 1,500,000. Tanyakan: 'How do you read this?'. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Membaca Angka Besar\n\nMembaca angka besar dalam bahasa Inggris mengikuti pola tertentu. Kuncinya adalah membagi angka menjadi grup 3 digit (ribu, juta, dst).\n\n### Angka Ratusan (100-999)\n\nPola: **hundreds + and + tens + ones**\n\n- 100 = one hundred\n- 105 = one hundred and five\n- 125 = one hundred and twenty-five\n- 250 = two hundred and fifty\n- 999 = nine hundred and ninety-nine\n\n**Perhatikan:** Pakai **and** setelah 'hundred' jika ada puluhan/satuan setelahnya (terutama dalam British English). Dalam American English, 'and' sering dihilangkan: *two hundred fifty*.\n\n### Angka Ribuan (1,000-999,999)\n\nPola: **thousands + thousand + (hundreds + and + tens + ones)**\n\n- 1,000 = one thousand\n- 1,500 = one thousand five hundred (atau fifteen hundred)\n- 2,500 = two thousand five hundred\n- 10,000 = ten thousand\n- 25,000 = twenty-five thousand\n- 100,000 = one hundred thousand\n- 999,999 = nine hundred ninety-nine thousand nine hundred ninety-nine\n\n### Angka Jutaan (1,000,000+)\n\n- 1,000,000 = one million\n- 2,500,000 = two million five hundred thousand\n- 1,500,000 = one million five hundred thousand\n- 25,000,000 = twenty-five million\n\n### Membaca Harga / Uang\n\nUntuk uang, sebut jumlah + nama mata uang:\n- *Rp 1,500* = one thousand five hundred rupiah (atau fifteen hundred rupiah)\n- *$5.50* = five dollars fifty (cents)\n- *$25.99* = twenty-five dollars ninety-nine\n- *£100* = one hundred pounds\n\n### Membaca Tahun\n\n- 1999 = nineteen ninety-nine (bagi jadi 2: 19-99)\n- 2000 = two thousand\n- 2010 = twenty ten\n- 2024 = twenty twenty-four\n\n### Membaca Nomor Telepon\n\nNomor telepon dibaca angka per angka:\n- 0812-3456-7890 = zero-eight-one-two-three-four-five-six-seven-eight-nine-zero\n- Bisa juga pakai 'oh' untuk 0: oh-eight-one-two...\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: How many students are in this school?\n- B: There are one thousand two hundred students.\n- A: How many teachers?\n- B: About one hundred.\n\n**Dialog 2:**\n- A: How much is this book?\n- B: It's seventy-five thousand rupiah.\n- A: And that bag?\n- B: One hundred and fifty thousand rupiah.\n\n> **Hindari:** Jangan membaca 1,500 sebagai 'one five zero zero' — harusnya *one thousand five hundred*. Jangan lupa *thousand* dan *hundred* tidak ditambah 's' jika ada angka di depan: *two thousand* (bukan *two thousands*). Jangan membaca nomor telepon sebagai angka utuh — sebut angka per angka.\n\n### Cara Mengucapkan\n\n- **hundred** /ˈhʌndrəd/\n- **thousand** /ˈθaʊznd/\n- **million** /ˈmɪljən/\n- **and** /ænd/ — penghubung dalam British English.\n\n### Tips\n\n1. Bagi angka besar jadi grup 3 digit (ribu, juta).\n2. Sebut thousand/hundred tanpa 's' jika ada angka di depan.\n3. Untuk uang, sebut jumlah + nama mata uang (rupiah, dollar, pound).",
+      "key_points": [
+        "100-999 = hundreds + and + tens + ones (one hundred and twenty-five)",
+        "1,000 = one thousand, 1,500 = one thousand five hundred",
+        "10,000 = ten thousand, 100,000 = one hundred thousand",
+        "1,000,000 = one million",
+        "Pakai 'and' setelah hundred (British): one hundred and twenty-five",
+        "Hundred/thousand/million tanpa 's' jika ada angka di depan",
+        "Uang: jumlah + nama mata uang (one thousand rupiah)",
+        "Nomor telepon dibaca angka per angka (zero-eight-one-two...)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "one",
+          "id": "satu",
+          "phonetic": "/wʌn/",
+          "example_en": "I have one book.",
+          "example_id": "Saya punya satu buku."
+        },
+        {
+          "en": "two",
+          "id": "dua",
+          "phonetic": "/tuː/",
+          "example_en": "Two cats are playing.",
+          "example_id": "Dua kucing sedang bermain."
+        },
+        {
+          "en": "three",
+          "id": "tiga",
+          "phonetic": "/θriː/",
+          "example_en": "Three apples, please.",
+          "example_id": "Tiga apel, tolong."
+        },
+        {
+          "en": "ten",
+          "id": "sepuluh",
+          "phonetic": "/ten/",
+          "example_en": "I am ten years old.",
+          "example_id": "Saya berumur sepuluh tahun."
+        },
+        {
+          "en": "twenty",
+          "id": "dua puluh",
+          "phonetic": "/ˈtwenti/",
+          "example_en": "Twenty students are here.",
+          "example_id": "Dua puluh pelajar di sini."
+        },
+        {
+          "en": "hundred",
+          "id": "seratus",
+          "phonetic": "/ˈhʌndrəd/",
+          "example_en": "One hundred rupiah.",
+          "example_id": "Seratus rupiah."
+        },
+        {
+          "en": "thousand",
+          "id": "ribu",
+          "phonetic": "/ˈθaʊznd/",
+          "example_en": "One thousand rupiah.",
+          "example_id": "Seribu rupiah."
+        },
+        {
+          "en": "million",
+          "id": "juta",
+          "phonetic": "/ˈmɪljən/",
+          "example_en": "One million people.",
+          "example_id": "Satu juta orang."
+        },
+        {
+          "en": "fifty",
+          "id": "lima puluh",
+          "phonetic": "/ˈfɪfti/",
+          "example_en": "Fifty rupiah.",
+          "example_id": "Lima puluh rupiah."
+        },
+        {
+          "en": "thirty",
+          "id": "tiga puluh",
+          "phonetic": "/ˈθɜːrti/",
+          "example_en": "Thirty days.",
+          "example_id": "Tiga puluh hari."
+        },
+        {
+          "en": "forty",
+          "id": "empat puluh",
+          "phonetic": "/ˈfɔːrti/",
+          "example_en": "Forty students.",
+          "example_id": "Empat puluh murid."
+        },
+        {
+          "en": "fifteen",
+          "id": "lima belas",
+          "phonetic": "/ˌfɪfˈtiːn/",
+          "example_en": "Fifteen minutes.",
+          "example_id": "Lima belas menit."
+        },
+        {
+          "en": "thirteen",
+          "id": "tiga belas",
+          "phonetic": "/ˌθɜːrˈtiːn/",
+          "example_en": "Thirteen is unlucky.",
+          "example_id": "Tiga belas angka sial."
+        },
+        {
+          "en": "date",
+          "id": "tanggal",
+          "phonetic": "/deɪt/",
+          "example_en": "What's the date today?",
+          "example_id": "Tanggal berapa hari ini?"
+        },
+        {
+          "en": "year",
+          "id": "tahun",
+          "phonetic": "/jɪr/",
+          "example_en": "I'm twelve years old.",
+          "example_id": "Saya berumur dua belas tahun."
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "Today is Monday.",
+          "example_id": "Hari ini Senin."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid membaca 100, 500, 1,000, 10,000, 100,000, 1,000,000 2x setelah guru. (2) **Konversi:** guru menyebut angka (250, 1,500, 25,000), murid membaca dalam Inggris. (3) **Isian:** '1,500 = one ___ five ___ . Rp 75,000 = seventy-five ___ rupiah.' (4) **Role play belanja:** dua murid berlatih tanya jawab harga menggunakan angka besar. (5) **Koreksi:** tulis di papan 'two thousands five hundreds' (pakai s salah) dan 'one-five-zero-zero' untuk 1500, minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How many students are in this school?",
+          "id": "Berapa murid di sekolah ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There are one thousand two hundred students.",
+          "id": "Ada seribu dua ratus murid."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How much is this book?",
+          "id": "Berapa harga buku ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's seventy-five thousand rupiah.",
+          "id": "Harganya tujuh puluh lima ribu rupiah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And that bag?",
+          "id": "Dan tas itu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "One hundred and fifty thousand rupiah.",
+          "id": "Seratus lima puluh ribu rupiah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Read this number: 25,000.",
+          "id": "Baca angka ini: 25.000."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Twenty-five thousand.",
+          "id": "Twenty-five thousand."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And 1,500,000?",
+          "id": "Dan 1.500.000?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "One million five hundred thousand.",
+          "id": "One million five hundred thousand."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kita belajar membaca angka besar: ratusan, ribuan, dan jutaan. Yang paling penting: bagi angka jadi grup 3 digit, sebut thousand/hundred/million tanpa 's' jika ada angka di depan, dan untuk uang sebut jumlah + nama mata uang. Modul Angka dan Waktu selesai! Pertanyaan untuk kalian: bagaimana membaca 1,500? Dan Rp 75,000? Untuk PR, tulis 10 angka besar (harga, jumlah) dan baca dalam Inggris. Besok kita mulai modul baru: Rutinitas Harian — belajar simple present tense. Sampai jumpa!",
+      "instructions": "Rangkum pola angka besar. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Beritahu modul Angka dan Waktu selesai, besok masuk modul Rutinitas Harian."
+    }
+  ]
+}

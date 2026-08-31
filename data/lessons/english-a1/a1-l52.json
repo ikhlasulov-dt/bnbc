@@ -1,0 +1,270 @@
+{
+  "id": "a1-l52",
+  "course_id": "english-a1",
+  "module_title": "Cuaca",
+  "level": "A1",
+  "title": "Nama Musim",
+  "subtitle": "spring, summer, autumn, winter",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan empat musim dalam bahasa Inggris",
+    "Menyebutkan dua musim di Indonesia: rainy season, dry season",
+    "Mengaitkan musim dengan ciri khasnya"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang kata sifat cuaca. Coba, siapa yang bisa kasih contoh kalimat 'It is ___'? Bagus, *It is sunny today*. Hari ini kita akan belajar nama-nama musim dalam bahasa Inggris. Di Indonesia, kita hanya mengenal dua musim: musim hujan dan musim kemarau. Tapi di negara empat musim, ada spring, summer, autumn, dan winter. Pernahkah kalian melihat film di mana ada daun berjatuhan, atau turun salju, atau bunga mekar? Itulah musim-musim di negara lain. Hari ini kita akan belajar 4 musim ini, kapan terjadi, dan seperti apa cuacanya. Rencana: kita kenal 4 musim, ciri khas tiap musim, dan cara membicarakannya. Ayo mulai!",
+      "instructions": "Gambar papan tulis dengan lingkaran 4 bagian mewakili 4 musim. Tulis nama musim di setiap bagian. Minta siswa menyebut ciri-ciri yang mereka tahu dari film atau buku."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Empat Musim di Negara Beriklim Sedang\n\nNegara seperti Jepang, Korea, Inggris, dan Amerika memiliki 4 musim:\n\n| Inggris | Indonesia | Waktu (Belahan Utara) | Ciri |\n|---|---|---|---|\n| spring | musim semi | Maret - Mei | bunga mekar, hangat |\n| summer | musim panas | Juni - Agustus | panas, cerah |\n| autumn | musim gugur | September - November | daun berjatuhan, sejuk |\n| winter | musim dingin | Desember - Februari | salju, sangat dingin |\n\n## Indonesia: Dua Musim\n\nIndonesia punya dua musim saja:\n\n- **dry season** = musim kemarau (April - Oktober)\n- **rainy season** = musim hujan (Oktober - April)\n\n## Pola Kalimat\n\n- **What is your favorite season?** → Apa musim favoritmu?\n- **My favorite season is ___.** → Musim favoritku ___.\n- **In spring, flowers bloom.** → Di musim semi, bunga mekar.\n- **In winter, it snows.** → Di musim dingin, turun salju.\n- **In autumn, leaves fall.** → Di musim gugur, daun berjatuhan.\n\n## Ciri Khas Tiap Musim\n\n**Spring:**\n- Flowers bloom (bunga mekar)\n- Birds sing (burung bernyanyi)\n- Weather is warm (cuaca hangat)\n\n**Summer:**\n- It is hot and sunny (panas dan cerah)\n- People go to the beach (orang pergi ke pantai)\n- Days are long (hari panjang)\n\n**Autumn:**\n- Leaves fall and change color (daun berjatuhan dan berubah warna)\n- It is cool (sejuk)\n- Harvest time (musim panen)\n\n**Winter:**\n- It snows (turun salju)\n- It is very cold (sangat dingin)\n- Days are short (hari pendek)\n\n## Mini-Dialog\n\n**A:** What is your favorite season?\n\n**B:** My favorite season is spring. I love flowers.\n\n**A:** Why not summer?\n\n**B:** Summer is too hot for me. Spring is warm and beautiful.\n\n**A:** Do you like winter?\n\n**B:** No, I don't like cold weather. But snow is fun to play with.\n\n> **Hindari:** menulis 'spring' atau 'autumn' dengan kapital di tengah kalimat. Kata musim ditulis huruf kecil, kecuali di awal kalimat.",
+      "key_points": [
+        "spring = musim semi (Maret-Mei)",
+        "summer = musim panas (Juni-Agustus)",
+        "autumn = musim gugur (September-November)",
+        "winter = musim dingin (Desember-Februari)",
+        "Indonesia: dry season (kemarau), rainy season (hujan)",
+        "What is your favorite season? = Apa musim favoritmu?",
+        "My favorite season is ___ = Musim favoritku ___",
+        "In winter, it snows = Di musim dingin turun salju"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "season",
+          "id": "musim",
+          "phonetic": "/ˈsiːzn/",
+          "example_en": "What is your favorite season?",
+          "example_id": "Apa musim kesukaanmu?"
+        },
+        {
+          "en": "spring",
+          "id": "musim semi",
+          "phonetic": "/sprɪŋ/",
+          "example_en": "Flowers bloom in spring.",
+          "example_id": "Bunga mekar di musim semi."
+        },
+        {
+          "en": "summer",
+          "id": "musim panas",
+          "phonetic": "/ˈsʌmər/",
+          "example_en": "Summer is very hot.",
+          "example_id": "Musim panas sangat panas."
+        },
+        {
+          "en": "autumn",
+          "id": "musim gugur",
+          "phonetic": "/ˈɔːtəm/",
+          "example_en": "Leaves fall in autumn.",
+          "example_id": "Daun berjatuhan di musim gugur."
+        },
+        {
+          "en": "winter",
+          "id": "musim dingin",
+          "phonetic": "/ˈwɪntər/",
+          "example_en": "It snows in winter.",
+          "example_id": "Pada musim dingin turun salju."
+        },
+        {
+          "en": "sun",
+          "id": "matahari",
+          "phonetic": "/sʌn/",
+          "example_en": "The sun is bright today.",
+          "example_id": "Matahari terang hari ini."
+        },
+        {
+          "en": "rain",
+          "id": "hujan",
+          "phonetic": "/reɪn/",
+          "example_en": "The rain is heavy.",
+          "example_id": "Hujannya deras."
+        },
+        {
+          "en": "snow",
+          "id": "salju",
+          "phonetic": "/snoʊ/",
+          "example_en": "The snow is white.",
+          "example_id": "Saljunya putih."
+        },
+        {
+          "en": "weather",
+          "id": "cuaca",
+          "phonetic": "/ˈweðər/",
+          "example_en": "How is the weather today?",
+          "example_id": "Bagaimana cuaca hari ini?"
+        },
+        {
+          "en": "dry season",
+          "id": "musim kemarau",
+          "phonetic": "/draɪ ˈsiːzn/",
+          "example_en": "Indonesia has a dry season.",
+          "example_id": "Indonesia punya musim kemarau."
+        },
+        {
+          "en": "rainy season",
+          "id": "musim hujan",
+          "phonetic": "/ˈreɪni ˈsiːzn/",
+          "example_en": "The rainy season is from October to April.",
+          "example_id": "Musim hujan dari Oktober sampai April."
+        },
+        {
+          "en": "flower",
+          "id": "bunga",
+          "phonetic": "/ˈflaʊər/",
+          "example_en": "Flowers bloom in spring.",
+          "example_id": "Bunga mekar di musim semi."
+        },
+        {
+          "en": "leaf",
+          "id": "daun",
+          "phonetic": "/liːf/",
+          "example_en": "Leaves fall in autumn.",
+          "example_id": "Daun berjatuhan di musim gugur."
+        },
+        {
+          "en": "snow",
+          "id": "salju",
+          "phonetic": "/snoʊ/",
+          "example_en": "It snows in winter.",
+          "example_id": "Turun salju di musim dingin."
+        },
+        {
+          "en": "bloom",
+          "id": "mekar",
+          "phonetic": "/bluːm/",
+          "example_en": "The flowers bloom.",
+          "example_id": "Bunga-bunga mekar."
+        },
+        {
+          "en": "favorite",
+          "id": "favorit",
+          "phonetic": "/ˈfeɪvərɪt/",
+          "example_en": "My favorite season is summer.",
+          "example_id": "Musim favorit saya musim panas."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill musim**: Guru menyebut musim, siswa menyebut ciri utamanya (spring→bunga, summer→panas, autumn→daun, winter→salju). Lakukan 8 putaran.\n2. **Pair work**: Tanyakan ke pasangan 'What is your favorite season? Why?' — catat jawaban 3 teman.\n3. **Fill-in-the-blank**: Lengkapi — (a) My favorite ___ is spring. (b) In ___, it snows. (c) Leaves fall in ___. (d) Indonesia has ___ and ___ seasons.\n4. **Role play 'Travel agent'**: Siswa A ingin liburan ke luar negeri, siswa B jadi agen travel — rekomendasikan musim yang tepat untuk destinasi yang dipilih.\n5. **Error correction**: Perbaiki — 'My favorite season are summer', 'In winter, it snow', 'Indonesia has four seasons', 'In spring, leaf bloom'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. What is your favorite season?",
+          "id": "Hai, Andi. Apa musim favoritmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite season is summer, teacher.",
+          "id": "Musim favorit saya musim panas, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you like summer?",
+          "id": "Kenapa kamu suka musim panas?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because I can swim and play outside every day.",
+          "id": "Karena saya bisa berenang dan main di luar setiap hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "But summer is very hot. Don't you feel hot?",
+          "id": "Tapi musim panas sangat panas. Kamu tidak kepanasan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, but I love swimming. The pool is the best in summer.",
+          "id": "Ya, tapi saya suka berenang. Kolam paling enak di musim panas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about winter? Do you like snow?",
+          "id": "Kalau musim dingin? Kamu suka salju?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, snow is beautiful. But I don't like cold weather.",
+          "id": "Ya, salju indah. Tapi saya tidak suka cuaca dingin."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever seen snow?",
+          "id": "Pernah lihat salju?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, never. Indonesia doesn't have snow.",
+          "id": "Belum pernah. Indonesia tidak ada salju."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's right. What season do we have in Indonesia?",
+          "id": "Betul. Musim apa yang ada di Indonesia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We have two seasons: dry season and rainy season.",
+          "id": "Kami punya dua musim: kemarau dan hujan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When is the rainy season?",
+          "id": "Kapan musim hujan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The rainy season is from October to April.",
+          "id": "Musim hujan dari Oktober sampai April."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And the dry season?",
+          "id": "Dan musim kemarau?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The dry season is from April to October.",
+          "id": "Musim kemarau dari April sampai Oktober."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect! You know our seasons well.",
+          "id": "Sempurna! Kamu tahu musim kita dengan baik."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar empat musim di negara beriklim sedang: spring (semi), summer (panas), autumn (gugur), dan winter (dingin). Kita juga tahu Indonesia punya dua musim: dry season dan rainy season. Kita bisa bertanya *What is your favorite season?* dan menjawab *My favorite season is ___*. Sebelum tutup, dua pertanyaan: apa musim favoritmu? Kenapa? Untuk pekerjaan rumah, pilih satu musim di negara empat musim dan tulis 5 kalimat tentang ciri-cirinya. Lalu tulis 3 kalimat tentang musim di Indonesia. Besok kita akan belajar perbedaan pola *It is* dan *There is* — keduanya penting untuk membicarakan cuaca. Sampai jumpa!",
+      "instructions": "Rangkum 4 musim di papan dengan tabel. Tanyakan dua pertanyaan pemahaman. Berikan PR 5 kalimat musim + 3 kalimat Indonesia dan sampaikan topik besok."
+    }
+  ]
+}

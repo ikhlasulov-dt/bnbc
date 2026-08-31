@@ -1,0 +1,282 @@
+{
+  "id": "a1-l56",
+  "course_id": "english-a1",
+  "module_title": "Pakaian",
+  "level": "A1",
+  "title": "Kosakata Pakaian",
+  "subtitle": "shirt, pants, dress, shoes, jacket",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan nama pakaian dasar dalam bahasa Inggris",
+    "Mengucapkan kosakata pakaian dengan benar",
+    "Mengenal keterangan tiap jenis pakaian"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Hari ini kita mulai modul baru: Pakaian dan Warna. Sebelum masuk, mari kita ingat modul kemarin tentang Cuaca. Siapa yang masih ingat, 'cerah' bahasa Inggrisnya apa? Bagus, sunny. Sekarang coba lihat pakaian yang kalian pakai sekarang. Apa yang kamu pakai? Baju? Celana? Sepatu? Semua itu punya nama dalam bahasa Inggris. Hari ini kita akan belajar kosakata pakaian: shirt, pants, dress, shoes, jacket, dan lainnya. Rencana: kita kenal 12-15 kata pakaian, pakai dalam kalimat *I am wearing ___*, dan latih pelafalan. Ayo mulai!",
+      "instructions": "Tunjuk pakaian siswa satu per satu, minta siswa menebak bahasa Inggrisnya. Tulis daftar pakaian di papan dengan ilustrasi sederhana."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Pakaian Utama\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| shirt | kemeja | I wear a white shirt. |\n| t-shirt | kaos | He has a blue t-shirt. |\n| pants | celana panjang | My pants are black. |\n| jeans | celana jeans | She wears blue jeans. |\n| shorts | celana pendek | I wear shorts at home. |\n| dress | gaun | She has a red dress. |\n| skirt | rok | Her skirt is long. |\n| shoes | sepatu | My shoes are new. |\n| socks | kaus kaki | I wear white socks. |\n| hat | topi | Wear a hat in the sun. |\n| jacket | jaket | It's cold. Wear a jacket. |\n| coat | mantel | He has a winter coat. |\n| tie | dasi | My father wears a tie. |\n| belt | sabuk | I need a new belt. |\n\n## Pola Kalimat\n\n- **I am wearing ___.** → Saya sedang memakai ___.\n  - I am wearing a blue shirt.\n  - I am wearing black pants.\n- **I wear ___ to school.** → Saya memakai ___ ke sekolah.\n  - I wear a uniform to school.\n- **She has a ___ on.** → Dia memakai ___.\n  - She has a red dress on.\n\n## Tunggal vs Jamak\n\nBeberapa pakaian selalu jamak (terdiri dari dua bagian):\n\n- pants (celana) — selalu jamak\n- jeans, shorts — selalu jamak\n- shoes, socks — selalu jamak\n\nKata *pair* bisa dipakai untuk satu pasang: *a pair of pants*, *a pair of shoes*.\n\n## Mini-Dialog\n\n**A:** What are you wearing today?\n\n**B:** I am wearing a white shirt and blue pants.\n\n**A:** And your shoes?\n\n**B:** I am wearing black shoes.\n\n**A:** Do you wear a hat?\n\n**B:** No, I don't. But I wear a jacket when it's cold.\n\n> **Hindari:** mengatakan 'a pants' atau 'a shoes' (salah karena selalu jamak). Yang benar: *pants* (tanpa *a*) atau *a pair of pants*.",
+      "key_points": [
+        "shirt = kemeja, t-shirt = kaos, pants = celana panjang",
+        "dress = gaun, skirt = rok, jacket = jaket",
+        "shoes = sepatu, socks = kaus kaki, hat = topi",
+        "I am wearing ___ = Saya sedang memakai ___",
+        "Pants, jeans, shorts, shoes, socks selalu jamak",
+        "Jangan 'a pants' — pakai 'pants' atau 'a pair of pants'",
+        "I wear ___ to school = Saya memakai ___ ke sekolah",
+        "She has a ___ on = Dia memakai ___"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "clothes",
+          "id": "pakaian",
+          "phonetic": "/kloʊðz/",
+          "example_en": "I buy new clothes.",
+          "example_id": "Saya membeli pakaian baru."
+        },
+        {
+          "en": "shirt",
+          "id": "kemeja",
+          "phonetic": "/ʃɜːrt/",
+          "example_en": "He is wearing a blue shirt.",
+          "example_id": "Dia memakai kemeja biru."
+        },
+        {
+          "en": "t-shirt",
+          "id": "kaos",
+          "phonetic": "/ˈtiːʃɜːrt/",
+          "example_en": "My t-shirt is white.",
+          "example_id": "Kaos saya berwarna putih."
+        },
+        {
+          "en": "pants",
+          "id": "celana panjang",
+          "phonetic": "/pænts/",
+          "example_en": "These pants are black.",
+          "example_id": "Celana ini hitam."
+        },
+        {
+          "en": "dress",
+          "id": "gaun",
+          "phonetic": "/dres/",
+          "example_en": "She has a red dress.",
+          "example_id": "Dia punya gaun merah."
+        },
+        {
+          "en": "skirt",
+          "id": "rok",
+          "phonetic": "/skɜːrt/",
+          "example_en": "Her skirt is long.",
+          "example_id": "Roknya panjang."
+        },
+        {
+          "en": "shoes",
+          "id": "sepatu",
+          "phonetic": "/ʃuːz/",
+          "example_en": "My shoes are new.",
+          "example_id": "Sepatu saya baru."
+        },
+        {
+          "en": "socks",
+          "id": "kaus kaki",
+          "phonetic": "/sɒks/",
+          "example_en": "I wear white socks.",
+          "example_id": "Saya memakai kaus kaki putih."
+        },
+        {
+          "en": "hat",
+          "id": "topi",
+          "phonetic": "/hæt/",
+          "example_en": "He wears a black hat.",
+          "example_id": "Dia memakai topi hitam."
+        },
+        {
+          "en": "jacket",
+          "id": "jaket",
+          "phonetic": "/ˈdʒækɪt/",
+          "example_en": "It is cold. Wear a jacket.",
+          "example_id": "Dingin. Pakai jaket."
+        },
+        {
+          "en": "jeans",
+          "id": "celana jeans",
+          "phonetic": "/dʒiːnz/",
+          "example_en": "I love blue jeans.",
+          "example_id": "Saya suka celana jeans biru."
+        },
+        {
+          "en": "shorts",
+          "id": "celana pendek",
+          "phonetic": "/ʃɔːrts/",
+          "example_en": "He wears shorts at home.",
+          "example_id": "Dia pakai celana pendek di rumah."
+        },
+        {
+          "en": "coat",
+          "id": "mantel",
+          "phonetic": "/koʊt/",
+          "example_en": "Winter coats are thick.",
+          "example_id": "Mantel musim dingin tebal."
+        },
+        {
+          "en": "tie",
+          "id": "dasi",
+          "phonetic": "/taɪ/",
+          "example_en": "My father wears a tie to work.",
+          "example_id": "Ayah saya pakai dasi ke kantor."
+        },
+        {
+          "en": "belt",
+          "id": "sabuk",
+          "phonetic": "/belt/",
+          "example_en": "I need a new belt.",
+          "example_id": "Saya butuh sabuk baru."
+        },
+        {
+          "en": "uniform",
+          "id": "seragam",
+          "phonetic": "/ˈjuːnɪfɔːrm/",
+          "example_en": "We wear uniforms to school.",
+          "example_id": "Kami pakai seragam ke sekolah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill tunjuk-pakaian**: Guru menunjuk pakaian siswa, siswa menyebut nama Inggrisnya secepat mungkin. Lakukan 15 putaran.\n2. **Pair work**: Tanyakan ke pasangan 'What are you wearing today?' — pasangan menjawab dengan 3-4 item pakaian.\n3. **Fill-in-the-blank**: Lengkapi — (a) I am ___ a blue shirt. (b) She wears ___ to school. (c) My ___ are black (sepatu). (d) He has a ___ on (jaket).\n4. **Role play 'Fashion show'**: Siswa A menjadi komentator, siswa B menjadi model — deskripsikan 4 item pakaian yang dikenakan model.\n5. **Error correction**: Perbaiki — 'a pants', 'a shoes', 'I wearing shirt', 'She have a dress on'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning, Sinta. What are you wearing today?",
+          "id": "Selamat pagi, Sinta. Kamu pakai apa hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am wearing a white shirt and a blue skirt, teacher.",
+          "id": "Saya pakai kemeja putih dan rok biru, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And what about your shoes?",
+          "id": "Kalau sepatumu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am wearing black shoes and white socks.",
+          "id": "Saya pakai sepatu hitam dan kaus kaki putih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you wear a uniform to school?",
+          "id": "Kamu pakai seragam ke sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I wear a red and white uniform every day.",
+          "id": "Ya, saya pakai seragam merah putih setiap hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about on Sunday? What do you wear?",
+          "id": "Kalau hari Minggu? Kamu pakai apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "On Sunday, I usually wear a t-shirt and jeans to the mall.",
+          "id": "Hari Minggu, saya biasanya pakai kaos dan jeans ke mal."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like wearing dresses?",
+          "id": "Kamu suka pakai gaun?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love dresses. I have a pink dress for parties.",
+          "id": "Ya, saya suka gaun. Saya punya gaun pink untuk pesta."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your brother wear a tie?",
+          "id": "Kakakmu pakai dasi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, he wears a tie to work every day.",
+          "id": "Ya, dia pakai dasi ke kantor setiap hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about jackets? Do you have one?",
+          "id": "Kalau jaket? Kamu punya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have a red jacket. I wear it when it's cold.",
+          "id": "Ya, saya punya jaket merah. Saya pakai kalau dingin."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you wear a hat when it's sunny?",
+          "id": "Kamu pakai topi kalau panas?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I wear a hat when I go to the beach.",
+          "id": "Ya, saya pakai topi kalau pergi ke pantai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is your favorite clothes?",
+          "id": "Pakaian favoritmu apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite clothes are my jeans and a yellow t-shirt.",
+          "id": "Pakaian favorit saya jeans dan kaos kuning."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sounds comfortable!",
+          "id": "Terdengar nyaman!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar kosakata pakaian: shirt, t-shirt, pants, jeans, dress, skirt, shoes, socks, hat, jacket, dan lainnya. Kita juga belajar pola *I am wearing ___*. Ingat, beberapa pakaian seperti pants dan shoes selalu jamak — jangan pakai *a pants*. Sebelum tutup, dua pertanyaan: apa yang kamu pakai hari ini? Bagaimana mengatakan 'Saya sedang memakai kemeja biru'? Untuk pekerjaan rumah, gambar dirimu dan labeli 8 pakaian yang kamu pakai dalam bahasa Inggris. Lalu tulis 5 kalimat *I am wearing ___*. Besok kita akan belajar kosakata warna dalam bahasa Inggris. Sampai jumpa!",
+      "instructions": "Rangkum kosakata pakaian di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR gambar + label dan 5 kalimat dan sampaikan topik besok."
+    }
+  ]
+}

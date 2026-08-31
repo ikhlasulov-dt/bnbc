@@ -1,0 +1,221 @@
+{
+  "id": "a1-l31",
+  "course_id": "english-a1",
+  "module_title": "Rutinitas Harian",
+  "level": "A1",
+  "title": "Kosakata Rutinitas Harian",
+  "subtitle": "wake up, get up, brush teeth, take a bath",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengucapkan 10+ kata kerja rutinitas harian",
+    "Membedakan wake up dan get up",
+    "Memahami frasa have breakfast/lunch/dinner"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar penghubung waktu. Hari ini kita akan belajar lebih banyak kosakata rutinitas harian: dari bangun tidur sampai tidur lagi. Pernahkah kalian ingin bercerita detail tentang hari kalian tapi kekurangan kata? Hari ini kita akan tambah kosakatanya. Tujuan kita: kalian bisa menyebut minimal 15 kegiatan rutinitas harian dalam bahasa Inggris. Kita mulai dari teori kosakata rutinitas, latihan, dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'What do you do every day?'. Tulis 15 kata kerja rutinitas di papan dengan gambar ilustrasi. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Rutinitas Harian\n\nBerikut kosakata kata kerja yang sering dipakai untuk membicarakan rutinitas harian, dari pagi sampai malam.\n\n### Kegiatan Pagi\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| wake up | bangun tidur | I wake up at 6. |\n| get up | turun dari tempat tidur | I get up at 6:05. |\n| take a shower | mandi | I take a shower at 6:10. |\n| brush teeth | gosok gigi | I brush my teeth. |\n| wash face | cuci muka | I wash my face. |\n| get dressed | berpakaian | I get dressed. |\n| have breakfast | sarapan | I have breakfast at 6:30. |\n| go to school | pergi ke sekolah | I go to school at 7. |\n| go to work | pergi bekerja | Dad goes to work at 7. |\n\n### Kegiatan Siang\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| study | belajar | I study English. |\n| have lunch | makan siang | I have lunch at noon. |\n| take a break | istirahat | We take a break. |\n| catch a bus | naik bus | I catch a bus. |\n| walk to school | jalan kaki ke sekolah | I walk to school. |\n\n### Kegiatan Sore/Malam\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| go home | pulang | I go home at 3. |\n| do homework | mengerjakan PR | I do my homework. |\n| play | bermain | I play with friends. |\n| have dinner | makan malam | We have dinner at 7. |\n| watch TV | nonton TV | I watch TV at night. |\n| read a book | membaca buku | I read before bed. |\n| listen to music | dengarkan musik | She listens to music. |\n| go to bed / sleep | tidur | I go to bed at 9. |\n\n### Frasa Pendukung\n\n- *have breakfast/lunch/dinner* — sarapan/makan siang/makan malam (pakai **have**, bukan **eat** untuk konteks formal)\n- *go to school/work* — pergi ke sekolah/bekerja (pakai **to**)\n- *go to bed* — tidur (pakai **to bed**)\n- *do homework* — mengerjakan PR (pakai **do**)\n\n### Contoh Paragraf Rutinitas Lengkap\n\n*I wake up at 6 a.m. every day. First, I get up and take a shower. Then, I brush my teeth and wash my face. After that, I have breakfast with my family. I go to school at 7. I study until noon and have lunch. After school, I go home at 3 p.m. I do my homework, then play with my friends. We have dinner at 7 p.m. After dinner, I watch TV or read a book. Finally, I go to bed at 9 p.m.*\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What time do you wake up?\n- B: I wake up at 6 a.m.\n- A: And when do you go to bed?\n- B: I go to bed at 9 p.m.\n\n**Dialog 2:**\n- A: What do you do after school?\n- B: I go home, do my homework, and then play.\n- A: Do you watch TV at night?\n- B: Yes, I watch TV for an hour.\n\n> **Hindari:** Jangan menulis 'take breakfast' (harusnya *have breakfast* atau *eat breakfast*). Jangan 'go to bed sleep' (pilih salah satu: *go to bed* atau *sleep*). Jangan lupa *do* dalam *do homework* (bukan *make homework*).\n\n### Cara Mengucapkan\n\n- **wake up** /weɪk ʌp/\n- **take a shower** /teɪk ə ˈʃaʊər/\n- **brush teeth** /brʌʃ tiːθ/\n- **go to school** /ɡoʊ tuː skuːl/\n- **do homework** /duː ˈhoʊmwɜːrk/\n- **go to bed** /ɡoʊ tuː bed/\n\n### Tips\n\n1. Hafalkan kata kerja rutinitas pagi-siang-malam.\n2. Pakai *have* untuk makan (have breakfast/lunch/dinner).\n3. Pakai *do* untuk homework (do homework).",
+      "key_points": [
+        "Kegiatan pagi: wake up, get up, take a shower, brush teeth, wash face, get dressed, have breakfast",
+        "Kegiatan siang: study, have lunch, take a break, catch a bus, walk to school",
+        "Kegiatan sore/malam: go home, do homework, play, have dinner, watch TV, read, go to bed",
+        "have breakfast/lunch/dinner (bukan take breakfast)",
+        "do homework (bukan make homework)",
+        "go to bed / go to sleep (alternatif untuk tidur)",
+        "Kata kerja rutinitas bisa dikombinasikan dengan always, usually, every day",
+        "Urutan ideal: wake up → shower → breakfast → school → home → dinner → bed"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "wake up",
+          "id": "bangun tidur",
+          "phonetic": "/weɪk ʌp/",
+          "example_en": "I wake up at six.",
+          "example_id": "Saya bangun jam enam."
+        },
+        {
+          "en": "get up",
+          "id": "turun dari tempat tidur",
+          "phonetic": "/ɡet ʌp/",
+          "example_en": "I get up at 6:30.",
+          "example_id": "Saya turun dari tempat tidur jam 6:30."
+        },
+        {
+          "en": "brush teeth",
+          "id": "gosok gigi",
+          "phonetic": "/brʌʃ tiːθ/",
+          "example_en": "I brush my teeth.",
+          "example_id": "Saya gosok gigi."
+        },
+        {
+          "en": "eat breakfast",
+          "id": "makan sarapan",
+          "phonetic": "/iːt ˈbrekfəst/",
+          "example_en": "I eat breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "go to school",
+          "id": "pergi ke sekolah",
+          "phonetic": "/ɡoʊ tuː skuːl/",
+          "example_en": "I go to school by bike.",
+          "example_id": "Saya ke sekolah naik sepeda."
+        },
+        {
+          "en": "study",
+          "id": "belajar",
+          "phonetic": "/ˈstʌdi/",
+          "example_en": "I study English.",
+          "example_id": "Saya belajar bahasa Inggris."
+        },
+        {
+          "en": "play",
+          "id": "bermain",
+          "phonetic": "/pleɪ/",
+          "example_en": "I play with friends.",
+          "example_id": "Saya bermain dengan teman."
+        },
+        {
+          "en": "eat lunch",
+          "id": "makan siang",
+          "phonetic": "/iːt lʌntʃ/",
+          "example_en": "We eat lunch at noon.",
+          "example_id": "Kami makan siang di siang hari."
+        },
+        {
+          "en": "go home",
+          "id": "pulang",
+          "phonetic": "/ɡoʊ hoʊm/",
+          "example_en": "I go home at three.",
+          "example_id": "Saya pulang jam tiga."
+        },
+        {
+          "en": "dinner",
+          "id": "makan malam",
+          "phonetic": "/ˈdɪnər/",
+          "example_en": "We have dinner at seven.",
+          "example_id": "Kami makan malam jam tujuh."
+        },
+        {
+          "en": "sleep",
+          "id": "tidur",
+          "phonetic": "/sliːp/",
+          "example_en": "I sleep at nine.",
+          "example_id": "Saya tidur jam sembilan."
+        },
+        {
+          "en": "always",
+          "id": "selalu",
+          "phonetic": "/ˈɔːlweɪz/",
+          "example_en": "I always brush my teeth.",
+          "example_id": "Saya selalu gosok gigi."
+        },
+        {
+          "en": "usually",
+          "id": "biasanya",
+          "phonetic": "/ˈjuːʒuəli/",
+          "example_en": "I usually wake up early.",
+          "example_id": "Saya biasanya bangun pagi."
+        },
+        {
+          "en": "sometimes",
+          "id": "kadang-kadang",
+          "phonetic": "/ˈsʌmtaɪmz/",
+          "example_en": "I sometimes read at night.",
+          "example_id": "Saya kadang membaca di malam hari."
+        },
+        {
+          "en": "every day",
+          "id": "setiap hari",
+          "phonetic": "/ˈevri deɪ/",
+          "example_en": "I study every day.",
+          "example_id": "Saya belajar setiap hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 15 kata kerja rutinitas 2x setelah guru. (2) **Tebak kata:** guru memperagakan kegiatan, murid menebak kata Inggrisnya. (3) **Isian:** 'I ___ at 6. I ___ my teeth. I ___ breakfast. I ___ to school.' (4) **Role play:** dua murid saling menceritakan rutinitas harinya dengan 8 kata kerja. (5) **Koreksi:** tulis di papan 'I take breakfast. I make homework. I go bed.' (salah preposisi/kata kerja), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What time do you wake up?",
+          "id": "Pukul berapa kamu bangun?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I wake up at 6 a.m.",
+          "id": "Saya bangun pukul 6 pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you do then?",
+          "id": "Lalu apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I take a shower and brush my teeth.",
+          "id": "Saya mandi dan gosok gigi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about breakfast?",
+          "id": "Bagaimana dengan sarapan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have breakfast at 6:30.",
+          "id": "Saya sarapan pukul 6:30."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you do after school?",
+          "id": "Apa yang kamu lakukan setelah sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I go home, do my homework, and play.",
+          "id": "Saya pulang, kerjakan PR, dan bermain."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And at night?",
+          "id": "Dan malam?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have dinner, watch TV, and go to bed at 9.",
+          "id": "Saya makan malam, nonton TV, dan tidur pukul 9."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar 15+ kata kerja rutinitas harian, dari wake up sampai go to bed. Yang paling penting: have breakfast/lunch/dinner (bukan take), do homework (bukan make), dan go to bed (untuk tidur). Pertanyaan untuk kalian: bagaimana menyebut 'sarapan' dalam Inggris? Dan 'mengerjakan PR'? Untuk PR, tulis rutinitas harimu dengan 10 kata kerja berbeda. Besok kita akan belajar preposisi pendukung: at, in, on untuk tempat. Sampai jumpa!",
+      "instructions": "Rangkum kosakata rutinitas. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

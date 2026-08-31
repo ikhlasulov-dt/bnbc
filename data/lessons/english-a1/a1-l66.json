@@ -1,0 +1,277 @@
+{
+  "id": "a1-l66",
+  "course_id": "english-a1",
+  "module_title": "Belanja",
+  "level": "A1",
+  "title": "Melakukan Transaksi Lengkap",
+  "subtitle": "Dari sapaan sampai pembayaran",
+  "duration_minutes": 60,
+  "objectives": [
+    "Melakukan transaksi belanja lengkap dari awal hingga akhir",
+    "Menggabungkan semua frasa belanja dalam satu percakapan",
+    "Menggunakan urutan transaksi yang benar"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Ini pelajaran terakhir modul Belanja. Mari kita rangkai semua yang sudah kita pelajari dalam transaksi lengkap. Selama beberapa pelajaran terakhir, kita belajar kosakata toko, harga, How much, How many, dan Can I have. Hari ini kita gabungkan semua. Coba, coba bayangkan kamu pergi ke toko. Apa yang terjadi? Sapa penjual, minta barang, tanya harga, putuskan beli, bayar, terima kembalian dan struk. Itulah transaksi lengkap yang akan kita pelajari dan berlatih hari ini. Rencana: kita pelajari tahapan transaksi, contoh dialog lengkap, dan berlatih peran pelanggan dan penjual. Ayo mulai!",
+      "instructions": "Tulis di papan 6 tahapan transaksi: 1) Sapa, 2) Minta barang, 3) Tanya harga, 4) Putuskan, 5) Bayar, 6) Terima struk. Minta siswa menyebut frasa untuk setiap tahap."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Enam Tahapan Transaksi Belanja\n\n| Tahap | Frasa |\n|---|---|\n| 1. Sapa | Good morning! Can I help you? |\n| 2. Minta barang | Can I have ___, please? / I'm looking for ___ |\n| 3. Tanya harga | How much is it? / How much are they? |\n| 4. Putuskan | I'll take it. / That's all, thank you. |\n| 5. Bayar | Here is ___ rupiah. / Can I have a receipt? |\n| 6. Tutup | Thank you. You're welcome. Come again! |\n\n## Dialog Transaksi Lengkap\n\n**Seller:** Good morning! Welcome to our shop. Can I help you?\n\n**Customer:** Good morning. Yes, I'm looking for a shirt.\n\n**Seller:** Sure. What color would you like?\n\n**Customer:** Can I have a blue shirt, please?\n\n**Seller:** Of course. Here you are.\n\n**Customer:** How much is it?\n\n**Seller:** It is one hundred thousand rupiah.\n\n**Customer:** That's a bit expensive. Do you have a cheaper one?\n\n**Seller:** Yes, this one is seventy thousand rupiah.\n\n**Customer:** OK, I'll take it. Can I also have two pairs of socks?\n\n**Seller:** Sure. Anything else?\n\n**Customer:** That's all, thank you. How much in total?\n\n**Seller:** Total is ninety thousand rupiah.\n\n**Customer:** Here is one hundred thousand rupiah.\n\n**Seller:** Thank you. Your change is ten thousand rupiah. Here is your receipt.\n\n**Customer:** Thank you. Goodbye!\n\n**Seller:** You're welcome. Come again!\n\n## Frasa untuk Negosiasi\n\n- **That's a bit expensive.** → Itu agak mahal.\n- **Do you have a cheaper one?** → Ada yang lebih murah?\n- **Can you give me a discount?** → Boleh kurang harganya?\n- **How about ___ rupiah?** → Bagaimana kalau ___ rupiah?\n\n## Catatan Penting\n\n- Selalu pakai *please* dan *thank you* untuk sopan.\n- Pakai *Excuse me* untuk memulai percakapan dengan penjual.\n- Konfirmasi total sebelum membayar: *So, the total is ___?*\n\n> **Hindari:** mengabaikan sapaan penjual — balas dengan *Good morning* dulu. Hindari juga meninggalkan toko tanpa mengucapkan terima kasih.",
+      "key_points": [
+        "6 tahapan: Sapa → Minta → Tanya harga → Putuskan → Bayar → Tutup",
+        "Sapa: Good morning! Can I help you?",
+        "Minta: Can I have ___, please?",
+        "Tanya harga: How much is it? / How much are they?",
+        "Putuskan: I'll take it. / That's all, thank you.",
+        "Bayar: Here is ___ rupiah. Can I have a receipt?",
+        "Negosiasi: That's a bit expensive. Do you have a cheaper one?",
+        "Selalu pakai please dan thank you untuk sopan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "shop",
+          "id": "toko",
+          "phonetic": "/ʃɒp/",
+          "example_en": "The shop is open today.",
+          "example_id": "Toko buka hari ini."
+        },
+        {
+          "en": "market",
+          "id": "pasar",
+          "phonetic": "/ˈmɑːrkɪt/",
+          "example_en": "We go to the market.",
+          "example_id": "Kami pergi ke pasar."
+        },
+        {
+          "en": "price",
+          "id": "harga",
+          "phonetic": "/praɪs/",
+          "example_en": "What is the price?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "money",
+          "id": "uang",
+          "phonetic": "/ˈmʌni/",
+          "example_en": "I have some money.",
+          "example_id": "Saya punya uang."
+        },
+        {
+          "en": "dollar",
+          "id": "dolar",
+          "phonetic": "/ˈdɒlər/",
+          "example_en": "It costs five dollars.",
+          "example_id": "Harganya lima dolar."
+        },
+        {
+          "en": "cheap",
+          "id": "murah",
+          "phonetic": "/tʃiːp/",
+          "example_en": "This bag is cheap.",
+          "example_id": "Tas ini murah."
+        },
+        {
+          "en": "expensive",
+          "id": "mahal",
+          "phonetic": "/ɪkˈspensɪv/",
+          "example_en": "The watch is expensive.",
+          "example_id": "Jam itu mahal."
+        },
+        {
+          "en": "buy",
+          "id": "membeli",
+          "phonetic": "/baɪ/",
+          "example_en": "I buy apples at the market.",
+          "example_id": "Saya membeli apel di pasar."
+        },
+        {
+          "en": "sell",
+          "id": "menjual",
+          "phonetic": "/sel/",
+          "example_en": "They sell fresh fruit.",
+          "example_id": "Mereka menjual buah segar."
+        },
+        {
+          "en": "pay",
+          "id": "membayar",
+          "phonetic": "/peɪ/",
+          "example_en": "I pay at the cashier.",
+          "example_id": "Saya membayar di kasir."
+        },
+        {
+          "en": "change",
+          "id": "kembalian",
+          "phonetic": "/tʃeɪndʒ/",
+          "example_en": "Here is your change.",
+          "example_id": "Ini kembalian Anda."
+        },
+        {
+          "en": "receipt",
+          "id": "struk",
+          "phonetic": "/rɪˈsiːt/",
+          "example_en": "Can I have the receipt?",
+          "example_id": "Boleh saya minta struknya?"
+        },
+        {
+          "en": "cashier",
+          "id": "kasir",
+          "phonetic": "/kæˈʃɪr/",
+          "example_en": "The cashier is friendly.",
+          "example_id": "Kasirnya ramah."
+        },
+        {
+          "en": "discount",
+          "id": "diskon",
+          "phonetic": "/ˈdɪskaʊnt/",
+          "example_en": "Can you give me a discount?",
+          "example_id": "Boleh kurang harganya?"
+        },
+        {
+          "en": "total",
+          "id": "total",
+          "phonetic": "/ˈtoʊtl/",
+          "example_en": "What's the total?",
+          "example_id": "Berapa totalnya?"
+        },
+        {
+          "en": "come again",
+          "id": "datang lagi",
+          "phonetic": "/kʌm əˈɡen/",
+          "example_en": "Thank you, come again!",
+          "example_id": "Terima kasih, datang lagi!"
+        },
+        {
+          "en": "welcome",
+          "id": "selamat datang",
+          "phonetic": "/ˈwelkəm/",
+          "example_en": "Welcome to our shop.",
+          "example_id": "Selamat datang di toko kami."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill tahapan**: Guru menyebut nomor tahap (1-6), siswa menyebut frasa untuk tahap tersebut. Lakukan 12 putaran.\n2. **Pair work 'Full transaction'**: Siswa A jadi penjual, B jadi pembeli — lakukan transaksi lengkap untuk 3 item, termasuk negosiasi.\n3. **Fill-in-the-blank**: Lengkapi — (a) Good morning! ___ I help you? (b) Can I ___ a shirt, please? (c) How ___ is it? (d) I'll ___ it.\n4. **Role play 'Shop simulation'**: Skenario belanja 3 item — lakukan semua 6 tahapan dengan minimal 12 baris dialog.\n5. **Error correction**: Perbaiki — 'Give me shirt', 'How much this?', 'I take it' (tanpa will), 'Here are you'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning! Welcome to our shop. Can I help you?",
+          "id": "Selamat pagi! Selamat datang. Bisa bantu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good morning. Yes, I'm looking for a shirt.",
+          "id": "Selamat pagi. Ya, saya cari kemeja."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. What color would you like?",
+          "id": "Tentu. Warna apa yang Anda mau?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Can I have a blue shirt, please?",
+          "id": "Boleh saya minta kemeja biru?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Of course. Here you are. What size?",
+          "id": "Tentu. Ini. Ukuran apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Medium, please. How much is it?",
+          "id": "Sedang. Berapa harganya?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It is one hundred thousand rupiah.",
+          "id": "Seratus ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's a bit expensive. Do you have a cheaper one?",
+          "id": "Itu agak mahal. Ada yang lebih murah?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, this one is seventy thousand rupiah.",
+          "id": "Ya, ini tujuh puluh ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "OK, I'll take it. Can I also have two pairs of socks?",
+          "id": "Baik, saya ambil. Boleh juga dua pasang kaus kaki?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. Anything else?",
+          "id": "Tentu. Ada yang lain?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's all, thank you. How much in total?",
+          "id": "Itu saja. Berapa totalnya?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Total is ninety thousand rupiah.",
+          "id": "Totalnya sembilan puluh ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Here is one hundred thousand rupiah.",
+          "id": "Ini seratus ribu rupiah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you. Your change is ten thousand rupiah. Here is your receipt.",
+          "id": "Terima kasih. Kembalian Anda sepuluh ribu. Ini struknya."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you. Goodbye!",
+          "id": "Terima kasih. Selamat tinggal!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You're welcome. Come again!",
+          "id": "Sama-sama. Datang lagi!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita merangkai semua yang dipelajari dalam transaksi lengkap: sapa, minta barang, tanya harga, putuskan, bayar, dan tutup. Kita juga belajar frasa negosiasi seperti *That's a bit expensive* dan *Do you have a cheaper one?*. Ingat, selalu pakai *please* dan *thank you* untuk sopan. Sebelum tutup, dua pertanyaan: sebutkan 3 tahapan transaksi belanja! Bagaimana cara menanyakan harga dengan sopan? Untuk pekerjaan rumah, buatlah dialog transaksi lengkap minimal 14 baris — beli minimal 3 item, lakukan negosiasi, dan sertakan pembayaran serta kembalian. Ini pelajaran terakhir modul Belanja. Minggu depan kita mulai modul baru: Transportasi dan Arah. Sampai jumpa!",
+      "instructions": "Rangkum 6 tahapan transaksi di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR dialog 14 baris dan umumkan modul baru minggu depan."
+    }
+  ]
+}

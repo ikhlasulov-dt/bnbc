@@ -1,0 +1,290 @@
+{
+  "id": "a1-l47",
+  "course_id": "english-a1",
+  "module_title": "Hobi",
+  "level": "A1",
+  "title": "Pola like, love, prefer + Gerund",
+  "subtitle": "Menyatakan kesukaan dengan benar",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan pola like + gerund untuk menyatakan kesukaan",
+    "Menggunakan love untuk menyatakan kesukaan yang lebih kuat",
+    "Menggunakan prefer untuk membandingkan dua aktivitas"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang kosakata hobi. Coba, siapa yang bisa kasih contoh hobi dengan -ing? Bagus, reading, swimming, dancing. Hari ini kita akan mendalami pola seperti, sangat suka, dan lebih suka ketika dipakai dengan gerund (kata kerja + -ing). Kita sudah belajar like, love, hate, prefer kemarin-kemarin untuk makanan. Sekarang kita pakai untuk hobi: *I like swimming*, *I love playing football*, *I prefer cycling to running*. Pernahkah kalian membandingkan dua hobi? Misalnya, 'Saya lebih suka berenang daripada berlari.' Dalam bahasa Inggris bagaimana? Itu yang akan kita pelajari. Rencana: kita pelajari pola like/love/hate + gerund, pola prefer + gerund + to, dan latih dengan hobi-hobi kalian. Ayo mulai!",
+      "instructions": "Tulis di papan: 'I like + ___ing' dan 'I prefer ___ing to ___ing'. Beri contoh dengan hobi populer. Minta siswa menyebut 2 hobi yang ingin mereka bandingkan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola like / love / hate + Gerund\n\nSetelah kata *like, love, hate*, kita bisa pakai **gerund** (kata kerja + -ing) untuk menyatakan aktivitas yang disukai:\n\n| Pola | Contoh |\n|---|---|\n| I like + ___ing | I like **reading**. |\n| I love + ___ing | I love **swimming**. |\n| I hate + ___ing | I hate **running**. |\n| She likes + ___ing | She likes **dancing**. |\n| They love + ___ing | They love **cooking**. |\n\n## Bentuk Negatif\n\n- I **don't like** swimming.\n- She **doesn't like** running.\n- We **don't love** fishing.\n\n## Pertanyaan\n\n- **Do you like** swimming?\n- **Does she like** dancing?\n- **Do they like** playing football?\n\nJawaban: Yes, I do / No, I don't. Atau Yes, she does / No, she doesn't.\n\n## Pola prefer + Gerund + to + Gerund\n\nUntuk membandingkan dua aktivitas, pakai:\n\n**prefer ___ing to ___ing**\n\n- I prefer **swimming to running**.\n- She prefers **reading to writing**.\n- We prefer **playing football to playing basketball**.\n\n## Contoh Lengkap\n\n- I like **drawing**, but I love **painting** more.\n- They hate **running**, but they love **cycling**.\n- My brother prefers **cooking to cleaning**.\n\n## Mini-Dialog\n\n**A:** Do you like swimming?\n\n**B:** Yes, I love swimming. I swim every weekend.\n\n**A:** Do you prefer swimming to running?\n\n**B:** Yes, I prefer swimming to running. Running is tiring.\n\n**A:** What about your sister?\n\n**B:** She likes dancing. She prefers dancing to singing.\n\n> **Hindari:** mengatakan 'I like to swim' dan 'I like swimming' dianggap sama, tetapi untuk konsistensi di A1 pakai *I like swimming*. Hindari 'I prefer swim than run' — yang benar *I prefer swimming to running*.",
+      "key_points": [
+        "like + gerund: I like reading",
+        "love + gerund: I love swimming",
+        "hate + gerund: I hate running",
+        "Negatif: don't like / doesn't like + gerund",
+        "Pertanyaan: Do you like ___ing? Yes, I do / No, I don't",
+        "prefer ___ing to ___ing (bukan 'than')",
+        "I prefer swimming to running = Saya lebih suka berenang daripada berlari",
+        "Gerund = kata kerja + -ing (reading, swimming, dancing)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "hobby",
+          "id": "hobi",
+          "phonetic": "/ˈhɒbi/",
+          "example_en": "My hobby is reading.",
+          "example_id": "Hobi saya membaca."
+        },
+        {
+          "en": "reading",
+          "id": "membaca",
+          "phonetic": "/ˈriːdɪŋ/",
+          "example_en": "I love reading story books.",
+          "example_id": "Saya suka membaca buku cerita."
+        },
+        {
+          "en": "swimming",
+          "id": "berenang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is fun.",
+          "example_id": "Berenang itu menyenangkan."
+        },
+        {
+          "en": "drawing",
+          "id": "menggambar",
+          "phonetic": "/ˈdrɔːɪŋ/",
+          "example_en": "She likes drawing flowers.",
+          "example_id": "Dia suka menggambar bunga."
+        },
+        {
+          "en": "singing",
+          "id": "bernyanyi",
+          "phonetic": "/ˈsɪŋɪŋ/",
+          "example_en": "Singing makes me happy.",
+          "example_id": "Bernyanyi membuat saya bahagia."
+        },
+        {
+          "en": "dancing",
+          "id": "menari",
+          "phonetic": "/ˈdænsɪŋ/",
+          "example_en": "They are dancing together.",
+          "example_id": "Mereka menari bersama."
+        },
+        {
+          "en": "cooking",
+          "id": "memasak",
+          "phonetic": "/ˈkʊkɪŋ/",
+          "example_en": "Cooking is my hobby.",
+          "example_id": "Memasak adalah hobi saya."
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "We play football on Sunday.",
+          "example_id": "Kami bermain sepak bola pada hari Minggu."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He likes basketball.",
+          "example_id": "Dia suka bola basket."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular here.",
+          "example_id": "Bulu tangkis populer di sini."
+        },
+        {
+          "en": "cycling",
+          "id": "bersepeda",
+          "phonetic": "/ˈsaɪklɪŋ/",
+          "example_en": "Cycling is good exercise.",
+          "example_id": "Bersepeda adalah olahraga yang baik."
+        },
+        {
+          "en": "running",
+          "id": "berlari",
+          "phonetic": "/ˈrʌnɪŋ/",
+          "example_en": "Running is tiring for me.",
+          "example_id": "Berlari melelahkan bagi saya."
+        },
+        {
+          "en": "to like",
+          "id": "menyukai",
+          "phonetic": "/tuː laɪk/",
+          "example_en": "I like swimming.",
+          "example_id": "Saya suka berenang."
+        },
+        {
+          "en": "to love",
+          "id": "sangat menyukai",
+          "phonetic": "/tuː lʌv/",
+          "example_en": "I love playing football.",
+          "example_id": "Saya sangat suka bermain sepak bola."
+        },
+        {
+          "en": "to hate",
+          "id": "benci",
+          "phonetic": "/tuː heɪt/",
+          "example_en": "I hate running in the rain.",
+          "example_id": "Saya benci berlari di hujan."
+        },
+        {
+          "en": "to prefer",
+          "id": "lebih suka",
+          "phonetic": "/tuː prɪˈfɜːr/",
+          "example_en": "I prefer swimming to running.",
+          "example_id": "Saya lebih suka berenang daripada berlari."
+        },
+        {
+          "en": "painting",
+          "id": "melukis",
+          "phonetic": "/ˈpeɪntɪŋ/",
+          "example_en": "Painting is relaxing.",
+          "example_id": "Melukis itu menyenangkan."
+        },
+        {
+          "en": "gardening",
+          "id": "berkebun",
+          "phonetic": "/ˈɡɑːrdnɪŋ/",
+          "example_en": "My mother loves gardening.",
+          "example_id": "Ibu saya suka berkebun."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill preferensi**: Guru menyebut dua hobi (swim/run, draw/sing, cook/dance), siswa membuat kalimat 'I prefer ___ing to ___ing'.\n2. **Pair work survey**: Tanyakan ke pasangan 'Do you like ___ing?' untuk 5 hobi, catat jawaban dengan 'Yes, I do / No, I don't'.\n3. **Fill-in-the-blank**: Lengkapi — (a) I like ___ (swim). (b) She ___ playing football. (c) We prefer ___ to ___. (d) He doesn't like ___.\n4. **Role play 'Hobby interview'**: Wawancarai teman tentang 4 hobi: suka, sangat suka, benci, dan lebih suka daripada apa.\n5. **Error correction**: Perbaiki — 'I like swim', 'She prefer dancing than singing', 'Do you like play football?', 'He don't like running'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Sinta. Do you like dancing?",
+          "id": "Hai, Sinta. Kamu suka menari?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love dancing. I dance every weekend.",
+          "id": "Ya, saya suka menari. Saya menari setiap akhir pekan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you prefer dancing to singing?",
+          "id": "Kamu lebih suka menari daripada bernyanyi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I prefer dancing to singing. I'm shy when I sing.",
+          "id": "Ya, saya lebih suka menari. Saya malu kalau bernyanyi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about cooking? Do you like cooking?",
+          "id": "Kalau memasak? Kamu suka memasak?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I like cooking with my mother on Sunday.",
+          "id": "Ya, saya suka memasak dengan ibu hari Minggu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you prefer cooking to cleaning?",
+          "id": "Kamu lebih suka memasak daripada membersihkan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes! I hate cleaning. It's boring.",
+          "id": "Ya! Saya benci membersihkan. Membosankan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about cycling? Do you like it?",
+          "id": "Kalau bersepeda? Kamu suka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love cycling with my brother in the afternoon.",
+          "id": "Ya, saya suka bersepeda dengan kakak sore hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you prefer cycling to running?",
+          "id": "Kamu lebih suka bersepeda daripada berlari?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hmm... I prefer cycling. Running is too tiring for me.",
+          "id": "Hmm... saya lebih suka bersepeda. Berlari terlalu melelahkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does your brother like?",
+          "id": "Kakakmu suka apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He likes playing football. He prefers football to badminton.",
+          "id": "Dia suka bermain sepak bola. Dia lebih suka sepak bola daripada bulu tangkis."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your mother? What does she love?",
+          "id": "Dan ibumu? Dia suka apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My mother loves gardening. She prefers gardening to cooking.",
+          "id": "Ibu saya suka berkebun. Dia lebih suka berkebun daripada memasak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Your family has many hobbies!",
+          "id": "Keluargamu punya banyak hobi!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we all have different hobbies. It's fun.",
+          "id": "Ya, kami semua punya hobi berbeda. Menyenangkan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita mendalami pola like, love, hate + gerund dan prefer ___ing to ___ing. Kita tahu sekarang bahwa setelah like/love/hate kita pakai gerund (kata kerja + -ing). Dan untuk membandingkan, kita pakai *prefer ___ing to ___ing*, bukan 'than'. Sebelum tutup, dua pertanyaan: apa kamu lebih suka berenang atau berlari? Bagaimana mengatakan 'Saya benci berlari' dalam bahasa Inggris? Untuk pekerjaan rumah, tulislah 6 kalimat: 2 dengan like, 2 dengan love/hate, dan 2 dengan prefer ___ing to ___ing. Besok kita akan belajar bentuk negatif dan pertanyaan untuk like/love: *Don't like*, *Do you like...?*. Sampai jumpa!",
+      "instructions": "Rangkum pola prefer + gerund + to di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 6 kalimat dan sampaikan topik besok."
+    }
+  ]
+}

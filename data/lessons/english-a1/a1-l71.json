@@ -1,0 +1,264 @@
+{
+  "id": "a1-l71",
+  "course_id": "english-a1",
+  "module_title": "Transportasi",
+  "level": "A1",
+  "title": "Percakapan Meminta Arah",
+  "subtitle": "Dialog lengkap meminta dan memberi arah",
+  "duration_minutes": 60,
+  "objectives": [
+    "Melakukan percakapan lengkap meminta arah",
+    "Menggabungkan pertanyaan rute dan instruksi arah",
+    "Menanyakan moda transportasi yang bisa dipakai"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang menanyakan dan memberi arah. Coba, siapa yang bisa kasih contoh 'How do I get to ___?' Bagus. Hari ini kita akan berlatih percakapan lengkap meminta arah. Kita sudah belajar semua frasa yang dibutuhkan — sekarang saatnya merangkainya menjadi dialog utuh. Coba bayangkan kamu di kota baru, tersesat, dan harus tanya jalan. Bagaimana percakapanmu? Itulah yang akan kita latih. Rencana: kita lihat contoh dialog lengkap, pelajari struktur, lalu berlatih peran turis dan lokal. Ayo mulai!",
+      "instructions": "Bagikan peta sederhana ke pasangan siswa. Minta mereka memilih 3 tempat yang ingin mereka tuju. Tulis struktur dialog di papan: Sapa → Tanya arah → Beri arah → Konfirmasi → Ucapkan terima kasih."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Struktur Percakapan Meminta Arah\n\nPercakapan meminta arah biasanya terdiri dari 5 tahap:\n\n| Tahap | Frasa |\n|---|---|\n| 1. Sapa | Excuse me, can you help me? |\n| 2. Tanya arah | How do I get to ___? / Where is ___? |\n| 3. Beri arah | Go straight, turn left, ... |\n| 4. Konfirmasi | So, straight then left? |\n| 5. Tutup | Thank you! / You're welcome. |\n\n## Contoh Dialog Lengkap\n\n**Tourist:** Excuse me, can you help me?\n\n**Local:** Of course! What do you need?\n\n**Tourist:** How do I get to the museum?\n\n**Local:** Sure. Go straight ahead for two blocks.\n\n**Tourist:** Two blocks straight.\n\n**Local:** Then turn left at the crossroads.\n\n**Tourist:** Left at the crossroads.\n\n**Local:** The museum is on your right, next to the park. It's a big building.\n\n**Tourist:** How long does it take to walk there?\n\n**Local:** About 10 minutes on foot.\n\n**Tourist:** Is there a bus I can take?\n\n**Local:** Yes, but walking is faster. The street is too busy for buses now.\n\n**Tourist:** OK, I'll walk. Thank you so much!\n\n**Local:** You're welcome. Have a nice day!\n\n## Frasa untuk Konfirmasi\n\n- **So, straight then left?** → Jadi, lurus lalu kiri?\n- **Let me repeat: ...** → Saya ulangi: ...\n- **Did you say left or right?** → Anda bilang kiri atau kanan?\n- **About how many minutes?** → Sekitar berapa menit?\n\n## Frasa untuk Permintaan Tambahan\n\n- **Can you show me on the map?** → Bisa tunjukkan di peta?\n- **Is it far from here?** → Jauh dari sini?\n- **Can I take a bus?** → Bisa saya naik bus?\n- **Where is the nearest bus stop?** → Di mana halte terdekat?\n\n## Tips Komunikasi\n\n- Berbicara pelan dan jelas.\n- Pakai *Excuse me* di awal.\n- Ucapkan terima kasih di akhir.\n- Konfirmasi arah yang diberi dengan mengulangi.\n\n> **Hindari:** mengabaikan konfirmasi. Selalu ulangi arah yang diberikan untuk memastikan. Hindari juga mengucapkan terima kasih dengan cepat tanpa benar-benar mendengar jawaban.",
+      "key_points": [
+        "Struktur: Sapa → Tanya → Beri arah → Konfirmasi → Tutup",
+        "Sapa: Excuse me, can you help me?",
+        "Tanya: How do I get to ___? / Where is ___?",
+        "Beri arah: Go straight, turn left, ...",
+        "Konfirmasi: So, straight then left?",
+        "Tutup: Thank you! / You're welcome.",
+        "Konfirmasi penting untuk memastikan arah benar",
+        "Can you show me on the map? = Bisa tunjukkan di peta?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "transportation",
+          "id": "transportasi",
+          "phonetic": "/ˌtrænspərˈteɪʃn/",
+          "example_en": "Public transportation is cheap.",
+          "example_id": "Transportasi umum murah."
+        },
+        {
+          "en": "street",
+          "id": "jalan",
+          "phonetic": "/striːt/",
+          "example_en": "This street is busy.",
+          "example_id": "Jalan ini ramai."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "left",
+          "id": "kiri",
+          "phonetic": "/left/",
+          "example_en": "Turn left at the corner.",
+          "example_id": "Belok kiri di pojok."
+        },
+        {
+          "en": "right",
+          "id": "kanan",
+          "phonetic": "/raɪt/",
+          "example_en": "The bank is on your right.",
+          "example_id": "Bank ada di sebelah kanan Anda."
+        },
+        {
+          "en": "straight",
+          "id": "lurus",
+          "phonetic": "/streɪt/",
+          "example_en": "Go straight ahead.",
+          "example_id": "Lurus terus ke depan."
+        },
+        {
+          "en": "turn",
+          "id": "belok",
+          "phonetic": "/tɜːrn/",
+          "example_en": "Turn right at the light.",
+          "example_id": "Belok kanan di lampu."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is near here.",
+          "example_id": "Stasiun dekat dari sini."
+        },
+        {
+          "en": "museum",
+          "id": "museum",
+          "phonetic": "/mjuːˈziːəm/",
+          "example_en": "The museum is big.",
+          "example_id": "Museumnya besar."
+        },
+        {
+          "en": "block",
+          "id": "blok",
+          "phonetic": "/blɒk/",
+          "example_en": "Walk two blocks.",
+          "example_id": "Jalan dua blok."
+        },
+        {
+          "en": "to repeat",
+          "id": "mengulang",
+          "phonetic": "/tuː rɪˈpiːt/",
+          "example_en": "Please repeat.",
+          "example_id": "Tolong ulangi."
+        },
+        {
+          "en": "busy",
+          "id": "ramai/sibuk",
+          "phonetic": "/ˈbɪzi/",
+          "example_en": "The street is busy.",
+          "example_id": "Jalannya ramai."
+        },
+        {
+          "en": "to walk",
+          "id": "berjalan",
+          "phonetic": "/tuː wɔːk/",
+          "example_en": "I walk to school.",
+          "example_id": "Saya jalan ke sekolah."
+        },
+        {
+          "en": "building",
+          "id": "gedung",
+          "phonetic": "/ˈbɪldɪŋ/",
+          "example_en": "It's a big building.",
+          "example_id": "Gedungnya besar."
+        },
+        {
+          "en": "nice day",
+          "id": "hari yang menyenangkan",
+          "phonetic": "/naɪs deɪ/",
+          "example_en": "Have a nice day!",
+          "example_id": "Semoga harimu menyenangkan!"
+        },
+        {
+          "en": "sure",
+          "id": "tentu",
+          "phonetic": "/ʃʊr/",
+          "example_en": "Sure, I can help.",
+          "example_id": "Tentu, saya bisa bantu."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill struktur**: Guru menyebut nomor tahap (1-5), siswa menyebut frasa untuk tahap tersebut. Lakukan 12 putaran.\n2. **Pair work 'Map practice'**: Siswa A bertanya arah ke 3 tempat di peta, siswa B memberi arah dengan struktur lengkap. Tukar peran.\n3. **Fill-in-the-blank**: Lengkapi — (a) ___ me, can you help me? (b) How do I ___ to the museum? (c) So, straight ___ left? (d) ___ you for your help!\n4. **Role play 'Tourist in town'**: Skenario turis di kota baru — tanyakan arah ke 3 tempat dengan dialog minimal 14 baris.\n5. **Error correction**: Perbaiki — 'Where I go?', 'So, straight and then left?' (kurang jelas), 'Thank you for help' (tanpa 'the'), 'Can you help me to find?' (kurang natural).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excuse me, can you help me? I'm a tourist here.",
+          "id": "Permisi, bisa bantu? Saya turis di sini."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Of course! What do you need?",
+          "id": "Tentu! Anda butuh apa?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do I get to the museum?",
+          "id": "Bagaimana saya ke museum?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sure. Go straight ahead for two blocks.",
+          "id": "Tentu. Lurus terus dua blok."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Two blocks straight. Then?",
+          "id": "Dua blok lurus. Terus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Then turn left at the crossroads.",
+          "id": "Lalu belok kiri di persimpangan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Left at the crossroads. And the museum?",
+          "id": "Kiri di persimpangan. Dan museumnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The museum is on your right, next to the park. It's a big building.",
+          "id": "Museum di kanan Anda, di sebelah taman. Gedung besar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long does it take to walk there?",
+          "id": "Berapa lama jalan ke sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "About 10 minutes on foot. Not far.",
+          "id": "Sekitar 10 menit jalan kaki. Tidak jauh."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is there a bus I can take?",
+          "id": "Ada bus yang bisa saya naiki?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, but walking is faster. The street is busy with buses now.",
+          "id": "Ada, tapi jalan kaki lebih cepat. Jalan ramai bus sekarang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "OK, I'll walk. Can you show me on the map?",
+          "id": "Baik, saya jalan. Bisa tunjukkan di peta?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sure. Here, this is the museum. And this is the park next to it.",
+          "id": "Tentu. Ini museumnya. Dan ini taman di sebelahnya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you so much for your help!",
+          "id": "Terima kasih banyak atas bantuannya!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You're welcome. Have a nice day!",
+          "id": "Sama-sama. Semoga harimu menyenangkan!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita berlatih percakapan lengkap meminta arah dengan struktur: sapa, tanya, beri arah, konfirmasi, tutup. Kita tahu sekarang pentingnya konfirmasi — mengulang arah untuk memastikan. Dan jangan lupa ucapan terima kasih di akhir. Sebelum tutup, dua pertanyaan: apa yang kamu katakan untuk memulai menanyakan arah? Bagaimana mengkonfirmasi arah yang diberikan? Untuk pekerjaan rumah, buatlah dialog lengkap minimal 14 baris — kamu menanyakan arah ke 3 tempat dengan struktur yang kita pelajari. Besok kita akan belajar memilih moda transportasi: *I go to school by bus*. Sampai jumpa!",
+      "instructions": "Rangkum struktur percakapan di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR dialog 14 baris dan sampaikan topik besok."
+    }
+  ]
+}

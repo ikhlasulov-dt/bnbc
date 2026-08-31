@@ -1,0 +1,221 @@
+{
+  "id": "a1-l34",
+  "course_id": "english-a1",
+  "module_title": "Makanan dan Minuman",
+  "level": "A1",
+  "title": "Kosakata Makanan Utama",
+  "subtitle": "rice, bread, egg, chicken, fish, fruit, vegetable",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebut 10 kosakata makanan utama",
+    "Mengucapkan kata makanan dengan benar",
+    "Membuat kalimat sederhana tentang makanan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Selamat datang di modul baru: Makanan dan Minuman. Modul sebelumnya kita belajar rutinitas harian. Hari ini kita akan belajar kosakata makanan utama dalam bahasa Inggris. Pernahkah kalian di restoran dan bingung menyebut nama makanan dalam Inggris? Atau ingin bercerita tentang makanan kesukaan? Hari ini kita akan selesaikan. Tujuan kita: kalian bisa menyebut minimal 15 nama makanan dalam bahasa Inggris dengan percaya diri. Kita mulai dari teori kosakata makanan, latihan, dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'What's your favorite food?'. Tampilkan gambar 10 makanan di papan (rice, bread, egg, chicken, fish, meat, noodle, soup, fruit, vegetable). Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Makanan Utama\n\nBahasa Inggris punya banyak kata untuk makanan. Berikut yang paling sering dipakai di tingkat A1.\n\n### Makanan Pokok\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| rice | nasi | I eat rice every day. |\n| bread | roti | I eat bread for breakfast. |\n| noodle | mie | I like noodles. |\n| egg | telur | I eat two eggs. |\n\n### Lauk Hewani\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| chicken | ayam | Fried chicken is delicious. |\n| fish | ikan | I eat fish. |\n| meat | daging | He likes meat. |\n| beef | daging sapi | I eat beef. |\n| pork | daging babi | She doesn't eat pork. |\n\n### Sayur dan Buah\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| vegetable | sayur | Vegetables are healthy. |\n| fruit | buah | I love fruit. |\n| apple | apel | An apple a day. |\n| banana | pisang | I eat a banana. |\n| orange | jeruk | I drink orange juice. |\n\n### Makanan Lain\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| soup | sup | The soup is hot. |\n| cheese | keju | I like cheese. |\n\n### Frasa Penting\n\n- *eat breakfast/lunch/dinner* — makan sarapan/siang/malam\n- *have breakfast/lunch/dinner* — alternatif sopan\n- *cook food* — memasak makanan\n- *favorite food* — makanan kesukaan\n- *healthy food* — makanan sehat\n- *fast food* — makanan cepat saji\n\n### Contoh Kalimat\n\n- *I eat rice every day.* — Saya makan nasi setiap hari.\n- *She likes fish but doesn't like meat.* — Dia suka ikan tapi tidak suka daging.\n- *My favorite food is chicken.* — Makanan kesukaanku ayam.\n- *Vegetables and fruit are healthy.* — Sayur dan buah sehat.\n- *I have bread and eggs for breakfast.* — Saya makan roti dan telur untuk sarapan.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What's your favorite food?\n- B: My favorite food is fried chicken.\n- A: Do you like fish?\n- B: Yes, I love fish.\n\n**Dialog 2:**\n- A: What do you have for breakfast?\n- B: I have bread and eggs.\n- A: And for lunch?\n- B: I usually eat rice and chicken.\n\n> **Hindari:** Jangan menulis 'rice' untuk 'nasi goreng' — pakai *fried rice*. Jangan tertukar *meat* (daging umum) dengan *beef* (daging sapi). Jangan lupa *eat* untuk makanan dan *drink* untuk minuman.\n\n### Cara Mengucapkan\n\n- **rice** /raɪs/ — sama dengan *mice* tanpa M.\n- **bread** /bred/ — bunyi 'e' pendek.\n- **egg** /eɡ/\n- **chicken** /ˈtʃɪkɪn/\n- **fish** /fɪʃ/\n- **vegetable** /ˈvedʒtəbl/ — hanya 3 suku kata.\n- **fruit** /fruːt/\n\n### Tips\n\n1. Hafalkan 15 makanan utama (5 pokok, 5 lauk, 5 sayur/buah).\n2. Pakai *eat* untuk makanan, *drink* untuk minuman.\n3. Untuk makanan kesukaan: *My favorite food is ___.*",
+      "key_points": [
+        "Makanan pokok: rice (nasi), bread (roti), noodle (mie), egg (telur)",
+        "Lauk hewani: chicken (ayam), fish (ikan), meat (daging), beef (daging sapi), pork (daging babi)",
+        "Sayur dan buah: vegetable (sayur), fruit (buah), apple (apel), banana (pisang), orange (jeruk)",
+        "Lainnya: soup (sup), cheese (keju)",
+        "eat untuk makanan, drink untuk minuman",
+        "have breakfast/lunch/dinner = makan sarapan/siang/malam",
+        "My favorite food is ___ = makanan kesukaanku ___",
+        "fried rice = nasi goreng, fried chicken = ayam goreng"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "rice",
+          "id": "nasi",
+          "phonetic": "/raɪs/",
+          "example_en": "I eat rice every day.",
+          "example_id": "Saya makan nasi setiap hari."
+        },
+        {
+          "en": "bread",
+          "id": "roti",
+          "phonetic": "/bred/",
+          "example_en": "I have bread for breakfast.",
+          "example_id": "Saya makan roti untuk sarapan."
+        },
+        {
+          "en": "egg",
+          "id": "telur",
+          "phonetic": "/eɡ/",
+          "example_en": "I eat two eggs.",
+          "example_id": "Saya makan dua telur."
+        },
+        {
+          "en": "chicken",
+          "id": "ayam",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "example_en": "The chicken is delicious.",
+          "example_id": "Ayamnya enak."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "I like grilled fish.",
+          "example_id": "Saya suka ikan bakar."
+        },
+        {
+          "en": "water",
+          "id": "air",
+          "phonetic": "/ˈwɔːtər/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        },
+        {
+          "en": "milk",
+          "id": "susu",
+          "phonetic": "/mɪlk/",
+          "example_en": "I drink milk in the morning.",
+          "example_id": "Saya minum susu di pagi hari."
+        },
+        {
+          "en": "fruit",
+          "id": "buah",
+          "phonetic": "/fruːt/",
+          "example_en": "Fruit is healthy.",
+          "example_id": "Buah itu sehat."
+        },
+        {
+          "en": "vegetable",
+          "id": "sayur",
+          "phonetic": "/ˈvedʒtəbl/",
+          "example_en": "I eat vegetables every day.",
+          "example_id": "Saya makan sayur setiap hari."
+        },
+        {
+          "en": "breakfast",
+          "id": "sarapan",
+          "phonetic": "/ˈbrekfəst/",
+          "example_en": "I have breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "lunch",
+          "id": "makan siang",
+          "phonetic": "/lʌntʃ/",
+          "example_en": "We eat lunch at noon.",
+          "example_id": "Kami makan siang di siang hari."
+        },
+        {
+          "en": "dinner",
+          "id": "makan malam",
+          "phonetic": "/ˈdɪnər/",
+          "example_en": "We have dinner at seven.",
+          "example_id": "Kami makan malam jam tujuh."
+        },
+        {
+          "en": "delicious",
+          "id": "enak",
+          "phonetic": "/dɪˈlɪʃəs/",
+          "example_en": "The fried rice is delicious.",
+          "example_id": "Nasi gorengnya enak."
+        },
+        {
+          "en": "meat",
+          "id": "daging",
+          "phonetic": "/miːt/",
+          "example_en": "He likes meat.",
+          "example_id": "Dia suka daging."
+        },
+        {
+          "en": "noodle",
+          "id": "mie",
+          "phonetic": "/ˈnuːdl/",
+          "example_en": "I eat noodles for lunch.",
+          "example_id": "Saya makan mie untuk makan siang."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 15 kata makanan 2x setelah guru. (2) **Tebak gambar:** guru menunjuk gambar makanan, murid menyebut dalam Inggris. (3) **Isian:** 'I eat ___ (nasi) every day. My favorite food is ___ (ayam). ___ (sayur) are healthy.' (4) **Role play:** dua murid saling bertanya 'What's your favorite food? What do you eat for breakfast?'. (5) **Koreksi:** tulis di papan 'I drink rice. My favorite food are chicken.' (salah kata kerja/plural), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your favorite food?",
+          "id": "Apa makanan kesukaanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite food is fried chicken.",
+          "id": "Makanan kesukaanku ayam goreng."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like fish?",
+          "id": "Apa kamu suka ikan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love fish.",
+          "id": "Ya, saya sangat suka ikan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you have for breakfast?",
+          "id": "Apa yang kamu makan untuk sarapan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have bread and eggs.",
+          "id": "Saya makan roti dan telur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And for lunch?",
+          "id": "Dan untuk makan siang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I usually eat rice and chicken.",
+          "id": "Saya biasanya makan nasi dan ayam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you eat vegetables?",
+          "id": "Apa kamu makan sayur?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I eat vegetables every day. They're healthy!",
+          "id": "Ya, saya makan sayur setiap hari. Sehat!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar kosakata makanan utama: rice, bread, egg, chicken, fish, meat, vegetable, fruit, dan lainnya. Yang paling penting: eat untuk makanan dan drink untuk minuman, dan gunakan My favorite food is ___ untuk makanan kesukaan. Pertanyaan untuk kalian: apa 5 makanan yang kamu tahu dalam Inggris? Dan apa makanan kesukaanmu? Untuk PR, gambar 10 makanan dan beri label dalam Inggris. Besok kita akan belajar kosakata minuman utama. Sampai jumpa!",
+      "instructions": "Rangkum kosakata makanan. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

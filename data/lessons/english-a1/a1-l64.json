@@ -1,0 +1,272 @@
+{
+  "id": "a1-l64",
+  "course_id": "english-a1",
+  "module_title": "Belanja",
+  "level": "A1",
+  "title": "Menanyakan Kuantitas",
+  "subtitle": "How many vs How much",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan How many untuk benda hitung dan How much untuk benda tak hitung",
+    "Menggunakan satuan kuantitas yang umum",
+    "Menanyakan kuantitas dengan benar"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang menanyakan harga. Coba, siapa yang bisa kasih contoh 'How much are these?' Bagus. Hari ini kita akan belajar perbedaan *How many* dan *How much* untuk menanyakan kuantitas. Kita sudah pernah belajar countable dan uncountable nouns di modul Makanan, kan? Ingat, *apple* bisa dihitung, *water* tidak. Nah, *How many* untuk yang bisa dihitung (countable), *How much* untuk yang tidak (uncountable). Rencana: kita pelajari perbedaan dua pertanyaan ini, kapan pakai masing-masing, dan latih dengan benda-benda di sekitar. Ayo mulai!",
+      "instructions": "Tulis di papan dua pertanyaan: 'How many ___?' (countable) dan 'How much ___?' (uncountable). Beri contoh: 'How many apples?' vs 'How much water?'."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Perbedaan How many dan How much\n\n| Pertanyaan | Untuk | Contoh |\n|---|---|---|\n| How many + countable noun (jamak) | benda yang bisa dihitung | How many apples? |\n| How much + uncountable noun | benda yang tidak bisa dihitung | How much water? |\n\n## Pola How many\n\n**How many + plural noun**\n\n- How many **apples** do you have?\n- How many **books** are there?\n- How many **students** are in the class?\n- How many **shirts** do you want?\n\n## Pola How much\n\n**How much + uncountable noun**\n\n- How much **water** do you drink?\n- How much **rice** do you want?\n- How much **money** do you have?\n- How much **sugar** is in the tea?\n\n## Cara Menjawab\n\n**Untuk How many:**\n- I have **three apples**.\n- There are **twenty students**.\n- I want **two shirts**.\n\n**Untuk How much:**\n- I drink **two glasses of water**.\n- I want **a bowl of rice**.\n- I have **fifty thousand rupiah**.\n- Just **a little sugar**, please.\n\n## Measure Words untuk Uncountable\n\nKarena uncountable tidak bisa dihitung langsung, kita pakai ukuran:\n\n- a glass of water → two glasses of water\n- a cup of tea → three cups of tea\n- a kilogram of rice → two kilograms of rice\n- a bottle of milk → one bottle of milk\n\n## How much juga untuk Harga\n\nIngat: *How much is it?* juga berarti 'Berapa harganya?'. Konteks menentukan arti.\n\n## Mini-Dialog\n\n**A:** How many apples do you want?\n\n**B:** I want five apples, please.\n\n**A:** How much rice do you need?\n\n**B:** Two kilograms, please.\n\n**A:** How much water should I bring?\n\n**B:** Two bottles is enough.\n\n> **Hindari:** mengatakan 'How much apples?' (salah — apples countable). Yang benar *How many apples?*. Hindari juga 'How many water?' (salah — water uncountable). Yang benar *How much water?*.",
+      "key_points": [
+        "How many + countable (jamak): How many apples?",
+        "How much + uncountable: How much water?",
+        "How many answer: I have three apples (angka + jamak)",
+        "How much answer: I drink two glasses of water (pakai measure word)",
+        "How much juga untuk harga: How much is it?",
+        "Measure words: glass, cup, kilogram, bottle",
+        "Jangan 'How much apples' — pakai 'How many apples'",
+        "Jangan 'How many water' — pakai 'How much water'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "price",
+          "id": "harga",
+          "phonetic": "/praɪs/",
+          "example_en": "What is the price?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "money",
+          "id": "uang",
+          "phonetic": "/ˈmʌni/",
+          "example_en": "I have some money.",
+          "example_id": "Saya punya uang."
+        },
+        {
+          "en": "cheap",
+          "id": "murah",
+          "phonetic": "/tʃiːp/",
+          "example_en": "This bag is cheap.",
+          "example_id": "Tas ini murah."
+        },
+        {
+          "en": "expensive",
+          "id": "mahal",
+          "phonetic": "/ɪkˈspensɪv/",
+          "example_en": "The watch is expensive.",
+          "example_id": "Jam itu mahal."
+        },
+        {
+          "en": "buy",
+          "id": "membeli",
+          "phonetic": "/baɪ/",
+          "example_en": "I buy apples at the market.",
+          "example_id": "Saya membeli apel di pasar."
+        },
+        {
+          "en": "pay",
+          "id": "membayar",
+          "phonetic": "/peɪ/",
+          "example_en": "I pay at the cashier.",
+          "example_id": "Saya membayar di kasir."
+        },
+        {
+          "en": "cashier",
+          "id": "kasir",
+          "phonetic": "/kæˈʃɪr/",
+          "example_en": "The cashier is friendly.",
+          "example_id": "Kasirnya ramah."
+        },
+        {
+          "en": "kilogram",
+          "id": "kilogram",
+          "phonetic": "/ˈkɪləɡræm/",
+          "example_en": "I want a kilogram of rice.",
+          "example_id": "Saya mau satu kilogram nasi."
+        },
+        {
+          "en": "dozen",
+          "id": "lusin",
+          "phonetic": "/ˈdʌzn/",
+          "example_en": "I buy a dozen eggs.",
+          "example_id": "Saya membeli satu lusin telur."
+        },
+        {
+          "en": "how many",
+          "id": "berapa banyak (countable)",
+          "phonetic": "/haʊ ˈmeni/",
+          "example_en": "How many apples?",
+          "example_id": "Berapa banyak apel?"
+        },
+        {
+          "en": "how much",
+          "id": "berapa banyak (uncountable)",
+          "phonetic": "/haʊ mʌtʃ/",
+          "example_en": "How much water?",
+          "example_id": "Berapa banyak air?"
+        },
+        {
+          "en": "many",
+          "id": "banyak (countable)",
+          "phonetic": "/ˈmeni/",
+          "example_en": "I have many books.",
+          "example_id": "Saya punya banyak buku."
+        },
+        {
+          "en": "much",
+          "id": "banyak (uncountable)",
+          "phonetic": "/mʌtʃ/",
+          "example_en": "I drink much water.",
+          "example_id": "Saya minum banyak air."
+        },
+        {
+          "en": "a little",
+          "id": "sedikit (uncountable)",
+          "phonetic": "/ə ˈlɪtl/",
+          "example_en": "Just a little sugar.",
+          "example_id": "Sedikit gula saja."
+        },
+        {
+          "en": "a few",
+          "id": "sedikit (countable)",
+          "phonetic": "/ə fjuː/",
+          "example_en": "I have a few pencils.",
+          "example_id": "Saya punya beberapa pensil."
+        },
+        {
+          "en": "glass",
+          "id": "gelas",
+          "phonetic": "/ɡlæs/",
+          "example_en": "Two glasses of water.",
+          "example_id": "Dua gelas air."
+        },
+        {
+          "en": "bottle",
+          "id": "botol",
+          "phonetic": "/ˈbɒtl/",
+          "example_en": "One bottle of milk.",
+          "example_id": "Satu botol susu."
+        },
+        {
+          "en": "cup",
+          "id": "cangkir",
+          "phonetic": "/kʌp/",
+          "example_en": "A cup of tea, please.",
+          "example_id": "Secangkir teh, tolong."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill pilih-pertanyaan**: Guru menyebut benda (apple, water, book, rice, pencil, milk), siswa memilih 'How many' atau 'How much'. Lakukan 15 putaran.\n2. **Pair work 'Shopping list'**: Siswa A punya daftar belanja 6 item, B jadi penjual — tanyakan kuantitas dengan 'How many/much ___?'\n3. **Fill-in-the-blank**: Lengkapi — (a) How ___ apples? (b) How ___ water? (c) ___ many books do you have? (d) ___ much rice do you want?\n4. **Role play 'Market'**: Skenario di pasar — tanyakan kuantitas 5 item (3 countable, 2 uncountable) dan jawab dengan ukuran yang tepat.\n5. **Error correction**: Perbaiki — 'How much apples?', 'How many water?', 'I have much books', 'How many sugar?'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, welcome to our shop! Can I help you?",
+          "id": "Hai, selamat datang! Bisa bantu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, please. I want to buy some things.",
+          "id": "Ya, tolong. Saya mau beli beberapa barang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. What do you need?",
+          "id": "Tentu. Kamu butuh apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "How many apples do you have today?",
+          "id": "Berapa banyak apel yang Anda punya hari ini?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "We have many apples. How many do you want?",
+          "id": "Kami punya banyak apel. Mau berapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I want five apples, please. And how much is one kilogram of rice?",
+          "id": "Saya mau lima apel. Dan berapa harga satu kilogram beras?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "One kilogram of rice is fifteen thousand rupiah.",
+          "id": "Satu kilogram beras lima belas ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "OK. How much sugar should I buy for a cake?",
+          "id": "Baik. Saya beli berapa gula untuk kue?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "For one cake, you need about 300 grams of sugar.",
+          "id": "Untuk satu kue, butuh sekitar 300 gram gula."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "How many eggs do I need?",
+          "id": "Berapa banyak telur yang saya butuhkan?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You need four eggs for one cake.",
+          "id": "Kamu butuh empat telur untuk satu kue."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "How much milk do I need?",
+          "id": "Berapa banyak susu yang saya butuhkan?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "One bottle of milk, 500 ml. That's enough.",
+          "id": "Satu botol susu, 500 ml. Itu cukup."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Great. I'll take 5 apples, 1 kg of rice, 300g of sugar, 4 eggs, and 1 bottle of milk.",
+          "id": "Bagus. Saya ambil 5 apel, 1 kg beras, 300g gula, 4 telur, dan 1 botol susu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "All right. The total is ninety-two thousand rupiah.",
+          "id": "Baik. Totalnya sembilan puluh dua ribu rupiah."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar perbedaan *How many* dan *How much*. Kita tahu sekarang: *How many* untuk countable (jamak), *How much* untuk uncountable. Dan *How much* juga bisa untuk harga. Sebelum tutup, dua pertanyaan: bagaimana menanyakan 'Berapa banyak apel?'? Bagaimana menanyakan 'Berapa banyak air?'? Untuk pekerjaan rumah, buatlah 8 pertanyaan — 4 dengan How many (untuk benda countable) dan 4 dengan How much (untuk uncountable). Jawab sendiri dengan kuantitas. Besok kita akan belajar frasa permintaan: *Can I have ___ please?*. Sampai jumpa!",
+      "instructions": "Rangkum perbedaan How many vs How much di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 8 pertanyaan dan sampaikan topik besok."
+    }
+  ]
+}

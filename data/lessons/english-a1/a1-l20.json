@@ -1,0 +1,228 @@
+{
+  "id": "a1-l20",
+  "course_id": "english-a1",
+  "module_title": "Angka dan Waktu",
+  "level": "A1",
+  "title": "Menyatakan Pukul",
+  "subtitle": "Digital dan tradisional (past/to)",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyatakan pukul dengan cara digital (seven thirty)",
+    "Menyatakan pukul dengan cara tradisional (half past seven)",
+    "Membedakan a.m. dan p.m."
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar ordinal numbers untuk tanggal. Hari ini kita akan belajar menyatakan pukul (telling time). Pernahkah kalian ditanya 'What time is it?' dan bingung harus jawab apa? Hari ini kita akan selesaikan. Tujuan kita: kalian bisa menyatakan dan menanyakan waktu dengan tepat menggunakan pola It's + hour + o'clock, It's + hour + past + minutes, dan beberapa pola lain. Kita mulai dari teori pola waktu, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tunjukkan jam dinding: 'What time is it?'. Tulis 'It's ___ o'clock.' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menyatakan Pukul\n\nMenyatakan waktu (telling time) adalah keterampilan dasar. Dalam bahasa Inggris, ada beberapa pola untuk menyatakan pukul.\n\n### Pola 1: Jam Tepat (o'clock)\n\nUntuk jam tepat (tanpa menit), pakai **o'clock**:\n\n- *It's three o'clock.* — Sekarang pukul 3 tepat.\n- *It's ten o'clock.* — Sekarang pukul 10 tepat.\n\n### Pola 2: Jam + Menit (langsung)\n\nCara paling sederhana: sebut jam + menit langsung.\n\n- *It's three ten.* — Pukul 3.10\n- *It's seven twenty-five.* — Pukul 7.25\n- *It's eleven fifty.* — Pukul 11.50\n\n### Pola 3: past / to (lewat / kurang)\n\nUntuk menit 1-30, pakai **past** (lewat). Untuk menit 31-59, pakai **to** (kurang).\n\n| Waktu | Inggris | Arti |\n|---|---|---|\n| 3:05 | five past three | lima lewat tiga |\n| 3:15 | quarter past three | seperempat lewat tiga |\n| 3:30 | half past three | setengah empat |\n| 3:45 | quarter to four | seperempat menuju empat |\n| 3:50 | ten to four | sepuluh kurang empat |\n\n**Perhatikan:**\n- 15 menit = **quarter past** (lewat seperempat)\n- 30 menit = **half past** (lewat setengah)\n- 45 menit = **quarter to** (kurang seperempat)\n\n### Pola 4: a.m. dan p.m.\n\nUntuk membedakan pagi/sore/malam:\n- **a.m.** (ante meridiem) — dari tengah malam (00.00) sampai siang (11.59)\n- **p.m.** (post meridiem) — dari siang (12.00) sampai tengah malam (11.59)\n\n| Waktu | Inggris |\n|---|---|\n| 7:00 a.m. | seven a.m. (pagi) |\n| 12:00 p.m. | twelve p.m. / noon (tengah hari) |\n| 3:00 p.m. | three p.m. (sore) |\n| 12:00 a.m. | twelve a.m. / midnight (tengah malam) |\n\n### Menanyakan Waktu\n\n- *What time is it?* — Pukul berapa sekarang?\n- *What's the time?* — (sama, lebih santai)\n- *Do you have the time?* — (lebih sopan)\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What time is it?\n- B: It's three o'clock.\n- A: Three p.m.?\n- B: Yes, three p.m.\n\n**Dialog 2:**\n- A: Excuse me, what time is it?\n- B: It's half past ten.\n- A: Thank you!\n- B: You're welcome.\n\n> **Hindari:** Jangan menulis 'It's three clock' (harusnya *three o'clock* dengan apostrof). Jangan bilang 'half past twelve' untuk 12:30 — itu benar, tapi jangan tertukar dengan 'half to one'. Jangan lupa *a.m.* untuk pagi, *p.m.* untuk sore/malam.\n\n### Cara Mengucapkan\n\n- **o'clock** /əˈklɒk/\n- **half past** /hæf pæst/\n- **quarter past** /ˈkwɔːrtər pæst/\n- **quarter to** /ˈkwɔːrtər tuː/\n- **a.m.** /eɪ em/ — dibaca huruf per huruf.\n- **p.m.** /piː em/\n\n### Tips\n\n1. Untuk jam tepat, pakai o'clock: *It's three o'clock*.\n2. Untuk menit 1-30, pakai past: *five past three*.\n3. Untuk menit 31-59, pakai to: *ten to four*.\n4. a.m. untuk pagi (00.00-11.59), p.m. untuk sore/malam (12.00-23.59).",
+      "key_points": [
+        "It's three o'clock = pukul 3 tepat (jam tanpa menit)",
+        "It's three ten = pukul 3.10 (jam + menit langsung)",
+        "five past three = 3.05 (lewat lima menit dari jam 3)",
+        "quarter past three = 3.15 (lewat seperempat)",
+        "half past three = 3.30 (lewat setengah)",
+        "quarter to four = 3.45 (kurang seperempat menuju jam 4)",
+        "ten to four = 3.50 (kurang sepuluh menuju jam 4)",
+        "a.m. = pagi (00.00-11.59), p.m. = sore/malam (12.00-23.59)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "time",
+          "id": "waktu",
+          "phonetic": "/taɪm/",
+          "example_en": "What time is it?",
+          "example_id": "Pukul berapa sekarang?"
+        },
+        {
+          "en": "o'clock",
+          "id": "pukul (tepat)",
+          "phonetic": "/əˈklɒk/",
+          "example_en": "It's three o'clock.",
+          "example_id": "Pukul tiga tepat."
+        },
+        {
+          "en": "morning",
+          "id": "pagi",
+          "phonetic": "/ˈmɔːrnɪŋ/",
+          "example_en": "I study in the morning.",
+          "example_id": "Saya belajar di pagi hari."
+        },
+        {
+          "en": "afternoon",
+          "id": "sore",
+          "phonetic": "/ˌæftərˈnuːn/",
+          "example_en": "We play in the afternoon.",
+          "example_id": "Kami bermain di sore hari."
+        },
+        {
+          "en": "evening",
+          "id": "malam (awal)",
+          "phonetic": "/ˈiːvnɪŋ/",
+          "example_en": "I read in the evening.",
+          "example_id": "Saya membaca di malam hari."
+        },
+        {
+          "en": "day",
+          "id": "hari",
+          "phonetic": "/deɪ/",
+          "example_en": "What day is today?",
+          "example_id": "Hari apa hari ini?"
+        },
+        {
+          "en": "week",
+          "id": "minggu",
+          "phonetic": "/wiːk/",
+          "example_en": "See you next week.",
+          "example_id": "Sampai jumpa minggu depan."
+        },
+        {
+          "en": "month",
+          "id": "bulan",
+          "phonetic": "/mʌnθ/",
+          "example_en": "January is the first month.",
+          "example_id": "Januari adalah bulan pertama."
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "Today is Monday.",
+          "example_id": "Hari ini Senin."
+        },
+        {
+          "en": "tomorrow",
+          "id": "besok",
+          "phonetic": "/təˈmɒroʊ/",
+          "example_en": "See you tomorrow!",
+          "example_id": "Sampai jumpa besok!"
+        },
+        {
+          "en": "half past",
+          "id": "lewat setengah",
+          "phonetic": "/hæf pæst/",
+          "example_en": "It's half past three.",
+          "example_id": "Sekarang pukul setengah empat."
+        },
+        {
+          "en": "quarter past",
+          "id": "lewat seperempat",
+          "phonetic": "/ˈkwɔːrtər pæst/",
+          "example_en": "It's quarter past two.",
+          "example_id": "Sekarang pukul dua lewat seperempat."
+        },
+        {
+          "en": "quarter to",
+          "id": "kurang seperempat",
+          "phonetic": "/ˈkwɔːrtər tuː/",
+          "example_en": "It's quarter to nine.",
+          "example_id": "Sekarang pukul kurang seperempat sembilan."
+        },
+        {
+          "en": "What time is it?",
+          "id": "Pukul berapa sekarang?",
+          "phonetic": "/wɒt taɪm ɪz ɪt/",
+          "example_en": "Excuse me, what time is it?",
+          "example_id": "Maaf, pukul berapa sekarang?"
+        },
+        {
+          "en": "at",
+          "id": "pada/pukul",
+          "phonetic": "/æt/",
+          "example_en": "I wake up at 6.",
+          "example_id": "Saya bangun pukul 6."
+        },
+        {
+          "en": "noon",
+          "id": "tengah hari",
+          "phonetic": "/nuːn/",
+          "example_en": "I eat lunch at noon.",
+          "example_id": "Saya makan siang pukul 12 siang."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang pola waktu (o'clock, past, to, half past, quarter) 2x. (2) **Jam dinding:** guru menunjuk jam, murid menyebut waktu dalam Inggris. (3) **Isian:** 'It's ___ o'clock. It's half ___ three. It's quarter ___ four.' (4) **Role play:** dua murid saling bertanya 'What time is it?' dengan jam yang berbeda. (5) **Koreksi:** tulis di papan 'It's three clock' dan 'It's half to four', minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What time is it?",
+          "id": "Pukul berapa sekarang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's three o'clock.",
+          "id": "Pukul tiga tepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Three a.m. or three p.m.?",
+          "id": "Tiga pagi atau tiga sore?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Three p.m., teacher.",
+          "id": "Tiga sore, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What time is it now?",
+          "id": "Sekarang pukul berapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's half past three.",
+          "id": "Pukul setengah empat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And now?",
+          "id": "Dan sekarang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's quarter to four.",
+          "id": "Pukul kurang seperempat empat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When does class start?",
+          "id": "Kapan kelas mulai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Class starts at eight a.m.",
+          "id": "Kelas mulai pukul delapan pagi."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kita belajar menyatakan pukul dengan beberapa pola: o'clock untuk jam tepat, past untuk menit 1-30, to untuk menit 31-59, half past untuk setengah, dan quarter past/to untuk seperempat. Kita juga belajar a.m. untuk pagi dan p.m. untuk sore/malam. Pertanyaan untuk kalian: bagaimana menyatakan pukul 3.30 dan pukul 3.45 dalam Inggris? Untuk PR, amati jam di rumah dan tulis 5 waktu dalam Inggris. Besok kita akan belajar hari dan bulan. Sampai jumpa!",
+      "instructions": "Rangkum pola waktu. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

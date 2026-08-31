@@ -1,0 +1,298 @@
+{
+  "id": "a1-l50",
+  "course_id": "english-a1",
+  "module_title": "Hobi",
+  "level": "A1",
+  "title": "Menanyakan Hobi Orang Lain",
+  "subtitle": "What is your hobby? What do you do in your free time?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan pola pertanyaan untuk menanyakan hobi",
+    "Menjawab pertanyaan hobi dengan kalimat lengkap",
+    "Melakukan percakapan singkat tentang hobi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Sudah siap belajar? Mari kita ingat pelajaran kemarin tentang kata keterangan frekuensi. Coba, siapa yang bisa kasih contoh kalimat dengan 'always'? Bagus, *I always read before sleeping*. Hari ini kita akan belajar cara menanyakan hobi orang lain dengan sopan dan lengkap. Coba, kalau kamu ingin tahu hobi teman baru, apa yang kamu tanyakan? Dalam bahasa Indonesia: 'Hobimu apa?' atau 'Kamu ngapain waktu luang?' Dalam bahasa Inggris, ada dua pertanyaan umum: *What is your hobby?* dan *What do you do in your free time?* Itu yang akan kita pelajari. Rencana: kita pelajari dua pertanyaan utama, beberapa pertanyaan lanjutan, dan cara menjawab dengan lengkap. Ini pelajaran terakhir modul Hobi. Ayo mulai!",
+      "instructions": "Tulis di papan dua pertanyaan: 'What is your hobby?' dan 'What do you do in your free time?'. Minta siswa menyebut satu jawaban untuk masing-masing pertanyaan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Dua Pertanyaan Utama tentang Hobi\n\nAda dua cara umum menanyakan hobi:\n\n| Pertanyaan | Arti | Nuansa |\n|---|---|---|\n| What is your hobby? | Apa hobimu? | spesifik menanyakan hobi |\n| What do you do in your free time? | Apa yang kamu lakukan waktu luang? | lebih luas, mencakup aktivitas rutin |\n\n## Cara Menjawab\n\n**Untuk 'What is your hobby?':**\n- My hobby is **reading**.\n- My hobby is **playing football**.\n- My hobbies are **reading and swimming**.\n\n**Untuk 'What do you do in your free time?':**\n- In my free time, I **read books**.\n- I usually **play football with friends**.\n- I often **watch movies and listen to music**.\n\n## Pertanyaan Lanjutan\n\n- **How often do you ___?** → Seberapa sering kamu ___?\n  - How often do you play football? → I play every Sunday.\n- **Why do you like ___?** → Kenapa kamu suka ___?\n  - Why do you like reading? → Because it's relaxing.\n- **Who do you ___ with?** → Dengan siapa kamu ___?\n  - Who do you play with? → I play with my brother.\n- **When do you ___?** → Kapan kamu ___?\n  - When do you swim? → I swim on Saturday.\n\n## Mini-Dialog Lengkap\n\n**A:** Hi, what is your hobby?\n\n**B:** My hobby is reading. I love story books.\n\n**A:** What do you do in your free time?\n\n**B:** I usually read or play football with friends.\n\n**A:** How often do you play football?\n\n**B:** I play every Sunday morning.\n\n**A:** Who do you play with?\n\n**B:** I play with my classmates.\n\n**A:** Why do you like it?\n\n**B:** Because it's fun and good exercise.\n\n> **Hindari:** menjawab hanya 'Reading' atau 'Football' — lebih lengkap dan sopan kalau pakai *My hobby is reading* atau *I usually play football*. Hindari juga 'My hobby is read' (tanpa -ing) — pakai gerund.",
+      "key_points": [
+        "What is your hobby? = Apa hobimu?",
+        "What do you do in your free time? = Apa yang kamu lakukan waktu luang?",
+        "Jawaban: My hobby is ___ing",
+        "Jawaban: In my free time, I usually ___",
+        "How often do you ___? = Seberapa sering kamu ___?",
+        "Why do you like ___? = Kenapa kamu suka ___?",
+        "Who do you ___ with? = Dengan siapa kamu ___?",
+        "When do you ___? = Kapan kamu ___?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "hobby",
+          "id": "hobi",
+          "phonetic": "/ˈhɒbi/",
+          "example_en": "My hobby is reading.",
+          "example_id": "Hobi saya membaca."
+        },
+        {
+          "en": "reading",
+          "id": "membaca",
+          "phonetic": "/ˈriːdɪŋ/",
+          "example_en": "I love reading story books.",
+          "example_id": "Saya suka membaca buku cerita."
+        },
+        {
+          "en": "swimming",
+          "id": "berenang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is fun.",
+          "example_id": "Berenang itu menyenangkan."
+        },
+        {
+          "en": "drawing",
+          "id": "menggambar",
+          "phonetic": "/ˈdrɔːɪŋ/",
+          "example_en": "She likes drawing flowers.",
+          "example_id": "Dia suka menggambar bunga."
+        },
+        {
+          "en": "singing",
+          "id": "bernyanyi",
+          "phonetic": "/ˈsɪŋɪŋ/",
+          "example_en": "Singing makes me happy.",
+          "example_id": "Bernyanyi membuat saya bahagia."
+        },
+        {
+          "en": "dancing",
+          "id": "menari",
+          "phonetic": "/ˈdænsɪŋ/",
+          "example_en": "They are dancing together.",
+          "example_id": "Mereka menari bersama."
+        },
+        {
+          "en": "cooking",
+          "id": "memasak",
+          "phonetic": "/ˈkʊkɪŋ/",
+          "example_en": "Cooking is my hobby.",
+          "example_id": "Memasak adalah hobi saya."
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "We play football on Sunday.",
+          "example_id": "Kami bermain sepak bola pada hari Minggu."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He likes basketball.",
+          "example_id": "Dia suka bola basket."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular here.",
+          "example_id": "Bulu tangkis populer di sini."
+        },
+        {
+          "en": "cycling",
+          "id": "bersepeda",
+          "phonetic": "/ˈsaɪklɪŋ/",
+          "example_en": "Cycling is good exercise.",
+          "example_id": "Bersepeda adalah olahraga yang baik."
+        },
+        {
+          "en": "running",
+          "id": "berlari",
+          "phonetic": "/ˈrʌnɪŋ/",
+          "example_en": "Running is tiring for me.",
+          "example_id": "Berlari melelahkan bagi saya."
+        },
+        {
+          "en": "music",
+          "id": "musik",
+          "phonetic": "/ˈmjuːzɪk/",
+          "example_en": "I listen to music every day.",
+          "example_id": "Saya mendengarkan musik setiap hari."
+        },
+        {
+          "en": "game",
+          "id": "permainan",
+          "phonetic": "/ɡeɪm/",
+          "example_en": "We play a game together.",
+          "example_id": "Kami bermain permainan bersama."
+        },
+        {
+          "en": "to like",
+          "id": "menyukai",
+          "phonetic": "/tuː laɪk/",
+          "example_en": "I like swimming.",
+          "example_id": "Saya suka berenang."
+        },
+        {
+          "en": "to love",
+          "id": "sangat menyukai",
+          "phonetic": "/tuː lʌv/",
+          "example_en": "I love playing football.",
+          "example_id": "Saya sangat suka bermain sepak bola."
+        },
+        {
+          "en": "free time",
+          "id": "waktu luang",
+          "phonetic": "/friː taɪm/",
+          "example_en": "I read in my free time.",
+          "example_id": "Saya membaca di waktu luang."
+        },
+        {
+          "en": "why",
+          "id": "kenapa",
+          "phonetic": "/waɪ/",
+          "example_en": "Why do you like reading?",
+          "example_id": "Kenapa kamu suka membaca?"
+        },
+        {
+          "en": "how often",
+          "id": "seberapa sering",
+          "phonetic": "/haʊ ˈɒfn/",
+          "example_en": "How often do you swim?",
+          "example_id": "Seberapa sering kamu berenang?"
+        },
+        {
+          "en": "with",
+          "id": "dengan",
+          "phonetic": "/wɪθ/",
+          "example_en": "I play with my friends.",
+          "example_id": "Saya bermain dengan teman."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill pertanyaan**: Guru menyebut situasi (baru kenal, bertanya rutin), siswa memilih pertanyaan yang tepat: 'What is your hobby?' atau 'What do you do in your free time?'.\n2. **Pair work interview**: Wawancarai pasangan dengan 5 pertanyaan: hobi, free time, how often, why, who with. Catat jawabannya.\n3. **Fill-in-the-blank**: Lengkapi — (a) What is your ___? (b) What ___ you do in your free time? (c) ___ often do you play? (d) ___ do you like reading?\n4. **Role play 'New friend'**: Skenario bertemu teman baru di taman — perkenalkan diri dan tanyakan hobi, free time, dan 2 pertanyaan lanjutan.\n5. **Error correction**: Perbaiki — 'What your hobby?', 'What do you on free time?', 'How often you play?', 'Why you like swim?'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, are you a new student? I'm Andi.",
+          "id": "Hai, kamu murid baru? Saya Andi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I'm Sinta. Nice to meet you!",
+          "id": "Ya, saya Sinta. Senang bertemu!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Nice to meet you too. What is your hobby?",
+          "id": "Senang bertemu juga. Apa hobimu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My hobby is drawing. I love drawing flowers.",
+          "id": "Hobi saya menggambar. Saya suka menggambar bunga."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's beautiful. What do you do in your free time?",
+          "id": "Itu indah. Apa yang kamu lakukan di waktu luang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In my free time, I usually draw or read story books.",
+          "id": "Di waktu luang, saya biasanya menggambar atau baca buku cerita."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How often do you draw?",
+          "id": "Seberapa sering kamu menggambar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I draw almost every day, after school.",
+          "id": "Saya menggambar hampir setiap hari, setelah sekolah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you like drawing?",
+          "id": "Kenapa kamu suka menggambar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because it makes me happy and relaxed.",
+          "id": "Karena membuat saya bahagia dan santai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who do you draw with? Do you draw alone?",
+          "id": "Dengan siapa kamu menggambar? Sendiri?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I usually draw alone, but sometimes with my sister.",
+          "id": "Biasanya sendiri, tapi kadang dengan kakak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your sister like drawing too?",
+          "id": "Kakakmu juga suka menggambar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, her hobby is singing. She sings beautifully.",
+          "id": "Tidak, hobinya bernyanyi. Dia bernyanyi indah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about sports? Do you like any sport?",
+          "id": "Kalau olahraga? Kamu suka olahraga apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I like badminton. I play with my father on Sunday.",
+          "id": "Ya, saya suka bulu tangkis. Saya main dengan ayah hari Minggu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! Welcome to our class, Sinta.",
+          "id": "Bagus! Selamat datang di kelas kami, Sinta."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar cara menanyakan hobi orang lain dengan sopan: *What is your hobby?* dan *What do you do in your free time?*. Kita juga belajar pertanyaan lanjutan: *How often do you ___?*, *Why do you like ___?*, *Who do you ___ with?*, dan *When do you ___?*. Sebelum tutup, dua pertanyaan: bagaimana menanyakan hobi seseorang? Bagaimana menanyakan seberapa sering dia melakukan hobi itu? Untuk pekerjaan rumah, wawancarai 3 anggota keluarga dengan minimal 4 pertanyaan, lalu tulis hasilnya dalam bahasa Inggris. Ini pelajaran terakhir modul Hobi. Minggu depan kita mulai modul baru: Cuaca dan Musim. Sampai jumpa!",
+      "instructions": "Rangkum dua pertanyaan utama di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR wawancara 3 keluarga dan umumkan modul baru minggu depan."
+    }
+  ]
+}

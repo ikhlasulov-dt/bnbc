@@ -1,0 +1,235 @@
+{
+  "id": "a1-l18",
+  "course_id": "english-a1",
+  "module_title": "Angka dan Waktu",
+  "level": "A1",
+  "title": "Bilangan Pokok (Cardinal Numbers)",
+  "subtitle": "one, two, three, ... one hundred",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengucapkan bilangan 1-100 dalam bahasa Inggris",
+    "Memahami bentuk tidak beraturan (twelve, fifteen, forty)",
+    "Menggunakan tanda hubung untuk bilangan 21-99"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Selamat datang di modul baru: Angka dan Waktu. Modul sebelumnya kita belajar keluarga. Hari ini kita akan belajar bilangan pokok (cardinal numbers) dalam bahasa Inggris, dari 0 sampai 100. Pernahkah kalian belanja dan bingung menyebut harga dalam Inggris? Atau harus memberitahu nomor telepon dengan cepat? Itu semua butuh angka. Tujuan kita: kalian bisa menyebut dan menulis angka 0-100 dalam bahasa Inggris dengan lancar. Kita mulai dari teori pola angka, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tulis angka 1-20 di papan dengan ejaan Inggris. Tanyakan 'How old are you?' dan minta jawab dengan angka Inggris. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Bilangan Pokok (Cardinal Numbers)\n\nBilangan pokok (cardinal numbers) adalah angka untuk menghitung jumlah: one, two, three, dan seterusnya.\n\n### Angka 0-12 (Harus Dihafal)\n\n| Angka | Inggris | Angka | Inggris |\n|---|---|---|---|\n| 0 | zero | 7 | seven |\n| 1 | one | 8 | eight |\n| 2 | two | 9 | nine |\n| 3 | three | 10 | ten |\n| 4 | four | 11 | eleven |\n| 5 | five | 12 | twelve |\n| 6 | six | | |\n\n### Angka 13-19 (Pola -teen)\n\nSemua angka belas berakhir dengan **-teen** dan tekanan suku kata ada di -teen.\n\n| Angka | Inggris | Angka | Inggris |\n|---|---|---|---|\n| 13 | thirteen | 17 | seventeen |\n| 14 | fourteen | 18 | eighteen |\n| 15 | fifteen | 19 | nineteen |\n| 16 | sixteen | | |\n\n**Perhatikan:**\n- *thirteen* (bukan threeteen)\n- *fifteen* (bukan fiveteen)\n- *eighteen* (hanya satu 't', bukan eightteen)\n\n### Angka 20-90 (Pola -ty)\n\nAngka puluhan berakhir dengan **-ty** dan tekanan suku kata di awal.\n\n| Angka | Inggris | Angka | Inggris |\n|---|---|---|---|\n| 20 | twenty | 60 | sixty |\n| 30 | thirty | 70 | seventy |\n| 40 | forty | 80 | eighty |\n| 50 | fifty | 90 | ninety |\n\n**Perhatikan:**\n- *forty* (tanpa 'u', bukan fourty)\n- *fifty* (bukan fivety)\n- *eighty* (hanya satu 't')\n\n### Angka 21-99 (Pola puluhan + ones)\n\nUntuk angka seperti 21, 35, 47, gabungkan puluhan dan satuan dengan tanda hubung:\n\n- 21 = twenty-one\n- 35 = thirty-five\n- 47 = forty-seven\n- 99 = ninety-nine\n\n### Angka Besar\n\n| Angka | Inggris |\n|---|---|\n| 100 | one hundred |\n| 1,000 | one thousand |\n| 1,000,000 | one million |\n\n### Cara Mengucapkan\n\n- **thirteen** /ˌθɜːrˈtiːn/ vs **thirty** /ˈθɜːrti/ — beda tekanan dan bunyi akhir.\n- **fourteen** /ˌfɔːrˈtiːn/ vs **forty** /ˈfɔːrti/\n- **fifteen** /ˌfɪfˈtiːn/ vs **fifty** /ˈfɪfti/\n\n> **Hindari:** Jangan menulis 'forty' sebagai 'fourty' (salah). Jangan bilang 'two ten' untuk 12 — harusnya *twelve*. Jangan tertukar *thirteen* (13) dan *thirty* (30) — beda tekanan.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: How old are you?\n- B: I'm twelve years old.\n- A: And your brother?\n- B: He's fifteen.\n\n**Dialog 2:**\n- A: How many students are in this class?\n- B: There are twenty-five students.\n- A: What's your phone number?\n- B: Zero-eight-one-two-three-four-five-six-seven-eight.\n\n### Tips\n\n1. Hafalkan 0-12 dulu — ini dasarnya.\n2. Pola 13-19 pakai -teen, pola 20-90 pakai -ty.\n3. Untuk 21-99, gabungkan dengan tanda hubung: twenty-one.",
+      "key_points": [
+        "0-12 harus dihafal: zero, one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve",
+        "13-19 pakai akhiran -teen (thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen)",
+        "20-90 pakai akhiran -ty (twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety)",
+        "forty ditulis tanpa 'u' (bukan fourty)",
+        "21-99 = puluhan + tanda hubung + satuan (twenty-one, thirty-five)",
+        "100 = one hundred, 1,000 = one thousand, 1,000,000 = one million",
+        "thirteen (13) vs thirty (30) — beda tekanan suku kata",
+        "Tekanan -teen di akhir, -ty di awal"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "one",
+          "id": "satu",
+          "phonetic": "/wʌn/",
+          "example_en": "I have one book.",
+          "example_id": "Saya punya satu buku."
+        },
+        {
+          "en": "two",
+          "id": "dua",
+          "phonetic": "/tuː/",
+          "example_en": "Two cats are playing.",
+          "example_id": "Dua kucing sedang bermain."
+        },
+        {
+          "en": "three",
+          "id": "tiga",
+          "phonetic": "/θriː/",
+          "example_en": "Three apples, please.",
+          "example_id": "Tiga apel, tolong."
+        },
+        {
+          "en": "ten",
+          "id": "sepuluh",
+          "phonetic": "/ten/",
+          "example_en": "I am ten years old.",
+          "example_id": "Saya berumur sepuluh tahun."
+        },
+        {
+          "en": "twenty",
+          "id": "dua puluh",
+          "phonetic": "/ˈtwenti/",
+          "example_en": "Twenty students are here.",
+          "example_id": "Dua puluh pelajar di sini."
+        },
+        {
+          "en": "hundred",
+          "id": "seratus",
+          "phonetic": "/ˈhʌndrəd/",
+          "example_en": "One hundred rupiah.",
+          "example_id": "Seratus rupiah."
+        },
+        {
+          "en": "zero",
+          "id": "nol",
+          "phonetic": "/ˈzɪroʊ/",
+          "example_en": "Zero, one, two.",
+          "example_id": "Nol, satu, dua."
+        },
+        {
+          "en": "four",
+          "id": "empat",
+          "phonetic": "/fɔːr/",
+          "example_en": "I have four books.",
+          "example_id": "Saya punya empat buku."
+        },
+        {
+          "en": "five",
+          "id": "lima",
+          "phonetic": "/faɪv/",
+          "example_en": "Five fingers.",
+          "example_id": "Lima jari."
+        },
+        {
+          "en": "six",
+          "id": "enam",
+          "phonetic": "/sɪks/",
+          "example_en": "Six is my lucky number.",
+          "example_id": "Enam angka keberuntungan saya."
+        },
+        {
+          "en": "seven",
+          "id": "tujuh",
+          "phonetic": "/ˈsevn/",
+          "example_en": "Seven days a week.",
+          "example_id": "Tujuh hari seminggu."
+        },
+        {
+          "en": "eight",
+          "id": "delapan",
+          "phonetic": "/eɪt/",
+          "example_en": "Eight apples.",
+          "example_id": "Delapan apel."
+        },
+        {
+          "en": "nine",
+          "id": "sembilan",
+          "phonetic": "/naɪn/",
+          "example_en": "Nine students.",
+          "example_id": "Sembilan murid."
+        },
+        {
+          "en": "eleven",
+          "id": "sebelas",
+          "phonetic": "/ɪˈlevn/",
+          "example_en": "Eleven players.",
+          "example_id": "Sebelas pemain."
+        },
+        {
+          "en": "twelve",
+          "id": "dua belas",
+          "phonetic": "/twelv/",
+          "example_en": "Twelve months a year.",
+          "example_id": "Dua belas bulan setahun."
+        },
+        {
+          "en": "thirty",
+          "id": "tiga puluh",
+          "phonetic": "/ˈθɜːrti/",
+          "example_en": "Thirty days.",
+          "example_id": "Tiga puluh hari."
+        },
+        {
+          "en": "fifty",
+          "id": "lima puluh",
+          "phonetic": "/ˈfɪfti/",
+          "example_en": "Fifty rupiah.",
+          "example_id": "Lima puluh rupiah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid menghitung 1-20 bersama guru 2x. (2) **Angka cepat:** guru menyebut angka Indonesia (mis. 25, 47, 89), murid menjawab dalam Inggris. (3) **Isian:** tulis angka 13-19 dan 20, 30, 40 dalam Inggris. (4) **Role play belanja:** satu murid jadi penjual, satu jadi pembeli; tanyakan dan sebutkan harga dalam Inggris. (5) **Koreksi:** tulis di papan 'fourty' dan 'two ten' (untuk 12), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How old are you?",
+          "id": "Berapa umurmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm twelve years old.",
+          "id": "Saya berumur dua belas tahun."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your brother?",
+          "id": "Dan saudara laki-lakimu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He's fifteen.",
+          "id": "Dia berumur lima belas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How many students are in this class?",
+          "id": "Berapa murid di kelas ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "There are twenty-five students.",
+          "id": "Ada dua puluh lima murid."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Count from one to ten, please.",
+          "id": "Tolong hitung dari satu sampai sepuluh."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "One, two, three, four, five, six, seven, eight, nine, ten.",
+          "id": "Satu, dua, tiga, empat, lima, enam, tujuh, delapan, sembilan, sepuluh."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your phone number?",
+          "id": "Berapa nomor teleponmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Zero-eight-one-two-three-four-five-six-seven-eight.",
+          "id": "Nol-delapan-satu-dua-tiga-empat-lima-enam-tujuh-delapan."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap! Hari ini kita belajar bilangan pokok dari 0 sampai 100. Yang paling penting diingat: 0-12 harus dihafal, 13-19 pakai -teen, 20-90 pakai -ty, dan untuk 21-99 gabungkan dengan tanda hubung. Perhatikan juga pengecualian seperti 'forty' (bukan fourty) dan 'twelve' (bukan two ten). Pertanyaan untuk kalian: bagaimana menulis 25 dalam Inggris? Dan apa beda thirteen dengan thirty? Untuk PR, tulis angka 1-50 dalam Inggris. Besok kita akan belajar bilangan bertingkat (ordinal numbers): first, second, third. Sampai jumpa!",
+      "instructions": "Rangkum pola cardinal numbers. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

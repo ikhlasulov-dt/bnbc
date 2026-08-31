@@ -1,0 +1,271 @@
+{
+  "id": "a1-l41",
+  "course_id": "english-a1",
+  "module_title": "Makanan dan Minuman",
+  "level": "A1",
+  "title": "Menanyakan Bahan dan Rasa",
+  "subtitle": "What is in this soup? Is it spicy?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menanyakan bahan makanan dengan What is in...?",
+    "Menanyakan rasa dengan What does it taste like?",
+    "Menanyakan apakah makanan pedas atau mengandung daging"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Semoga kalian dalam keadaan sehat. Mari kita ingat pelajaran kemarin tentang frasa pemesanan di restoran: Can I have ___?, I'd like ___, dan How much is it?. Coba, siapa yang masih ingat arti 'I'd like'? Betul, artinya 'saya ingin'. Hari ini kita akan belajar cara bertanya tentang makanan itu sendiri: apa bahannya, dan bagaimana rasanya. Pernahkah kalian makan sesuatu dan penasaran, 'Ini isinya apa ya?' atau 'Apa ini pedas?' Dalam bahasa Inggris, kita akan belajar frasa-frasa seperti *What is in this soup?* dan *Is it spicy?*. Rencana: kita pelajari kata tanya 'what', kata sifat rasa, dan kata benda untuk bahan makanan. Ayo mulai!",
+      "instructions": "Tulis di papan pertanyaan: 'What is in this soup?', 'Is it spicy?', 'Is it sweet?'. Minta siswa menyebut satu makanan yang mereka penasaran bahannya, lalu perkenalkan topik hari ini."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Bertanya tentang Bahan\n\nUntuk menanyakan isi atau bahan makanan, kita pakai kata tanya *what*:\n\n- **What is in this soup?** → Apa isi sup ini?\n- **What's in the fried rice?** → Apa isi nasi gorengnya?\n- **What does it have inside?** → Apa isinya di dalam?\n\nUntuk menjawab, kita bisa pakai *It has ___* atau *There is ___ in it*:\n\n- It has chicken and vegetables.\n- There is egg and shrimp in it.\n\n## Bertanya tentang Rasa\n\nKita pakai *Is it + kata sifat*?\n\n| Pertanyaan | Arti |\n|---|---|\n| Is it spicy? | Apa ini pedas? |\n| Is it sweet? | Apa ini manis? |\n| Is it sour? | Apa ini asam? |\n| Is it salty? | Apa ini asin? |\n| Is it bitter? | Apa ini pahit? |\n| Is it hot? | Apa ini panas? |\n\nUntuk menjawab, pakai *Yes, it is* atau *No, it isn't*:\n- Yes, it is very spicy.\n- No, it isn't sweet. It's sour.\n\n## Bertanya tentang Alergi atau Preferensi\n\n- **Does it have nuts?** → Apa ada kacang?\n- **Is there meat in it?** → Apa ada daging?\n- **Can I have it without chili?** → Bisa tanpa cabai?\n- **Does it contain egg?** → Apa mengandung telur?\n- **Is it vegetarian?** → Apa ini vegetarian?\n\n## Lebih Lanjut tentang Rasa\n\nSelain kata sifat dasar, kita bisa memakai kata penguat:\n\n- **very** spicy → sangat pedas\n- **a little** sweet → sedikit manis\n- **too** salty → terlalu asin\n- **not** sour → tidak asam\n\nContoh:\n- The soup is **very** spicy.\n- The cake is **too** sweet.\n- The juice is **a little** sour.\n- The rice is **not** salty.\n\n## Frasa untuk Meminta Penjelasan\n\n- **What does it taste like?** → Rasanya seperti apa?\n- **How does it taste?** → Bagaimana rasanya?\n- **Is it good?** → Apa enak?\n- **Would you recommend it?** → Apa Anda merekomendasikan?\n\n## Contoh Paragraf Pendek\n\nIndonesian food is delicious. Rendang is spicy but very tasty. Soto has chicken, egg, and rice in it. Some people love chili, but I don't. I always ask, 'Is it spicy?' before I order. If it is too spicy, I ask, 'Can I have it without chili, please?' The waiter is always helpful.\n\n## Mini-Dialog\n\n**A:** What is in this soup?\n\n**B:** It has chicken, carrot, and potato.\n\n**A:** Is it spicy?\n\n**B:** A little. But you can ask without chili.\n\n**A:** Great. Can I have it without chili, please?\n\n**B:** Sure. Anything else?\n\n**A:** What does the cake taste like?\n\n**B:** It's very sweet and delicious!\n\n> **Hindari:** mengatakan 'What inside this soup?' (kurang tepat). Yang benar: *What is in this soup?*. Hindari juga 'It is have chicken' — yang benar *It has chicken*.",
+      "key_points": [
+        "What is in this soup? = Apa isi sup ini?",
+        "Jawaban: It has ___ / There is ___ in it",
+        "Is it spicy? = Apa ini pedas?",
+        "Kata sifat rasa: spicy, sweet, sour, salty, bitter, hot",
+        "Jawaban: Yes, it is / No, it isn't",
+        "Does it have nuts? = Apa ada kacang?",
+        "Can I have it without chili? = Bisa tanpa cabai?",
+        "Jangan pakai 'It is have' — yang benar 'It has'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "rice",
+          "id": "nasi",
+          "phonetic": "/raɪs/",
+          "example_en": "I eat rice every day.",
+          "example_id": "Saya makan nasi setiap hari."
+        },
+        {
+          "en": "chicken",
+          "id": "ayam",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "example_en": "The chicken is delicious.",
+          "example_id": "Ayamnya enak."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "I like grilled fish.",
+          "example_id": "Saya suka ikan bakar."
+        },
+        {
+          "en": "egg",
+          "id": "telur",
+          "phonetic": "/eɡ/",
+          "example_en": "I eat two eggs.",
+          "example_id": "Saya makan dua telur."
+        },
+        {
+          "en": "vegetable",
+          "id": "sayur",
+          "phonetic": "/ˈvedʒtəbl/",
+          "example_en": "I eat vegetables every day.",
+          "example_id": "Saya makan sayur setiap hari."
+        },
+        {
+          "en": "fruit",
+          "id": "buah",
+          "phonetic": "/fruːt/",
+          "example_en": "Fruit is healthy.",
+          "example_id": "Buah itu sehat."
+        },
+        {
+          "en": "milk",
+          "id": "susu",
+          "phonetic": "/mɪlk/",
+          "example_en": "I drink milk in the morning.",
+          "example_id": "Saya minum susu di pagi hari."
+        },
+        {
+          "en": "tea",
+          "id": "teh",
+          "phonetic": "/tiː/",
+          "example_en": "Would you like some tea?",
+          "example_id": "Mau teh?"
+        },
+        {
+          "en": "water",
+          "id": "air",
+          "phonetic": "/ˈwɔːtər/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        },
+        {
+          "en": "bread",
+          "id": "roti",
+          "phonetic": "/bred/",
+          "example_en": "I have bread for breakfast.",
+          "example_id": "Saya makan roti untuk sarapan."
+        },
+        {
+          "en": "delicious",
+          "id": "enak",
+          "phonetic": "/dɪˈlɪʃəs/",
+          "example_en": "The fried rice is delicious.",
+          "example_id": "Nasi gorengnya enak."
+        },
+        {
+          "en": "spicy",
+          "id": "pedas",
+          "phonetic": "/ˈspaɪsi/",
+          "example_en": "Is this soup spicy?",
+          "example_id": "Apa sup ini pedas?"
+        },
+        {
+          "en": "sweet",
+          "id": "manis",
+          "phonetic": "/swiːt/",
+          "example_en": "The cake is very sweet.",
+          "example_id": "Kuenya sangat manis."
+        },
+        {
+          "en": "sour",
+          "id": "asam",
+          "phonetic": "/ˈsaʊər/",
+          "example_en": "This lemon is sour.",
+          "example_id": "Lemon ini asam."
+        },
+        {
+          "en": "salty",
+          "id": "asin",
+          "phonetic": "/ˈsɔːlti/",
+          "example_en": "The soup is too salty.",
+          "example_id": "Supnya terlalu asin."
+        },
+        {
+          "en": "ingredient",
+          "id": "bahan",
+          "phonetic": "/ɪnˈɡriːdiənt/",
+          "example_en": "What are the ingredients?",
+          "example_id": "Apa saja bahannya?"
+        },
+        {
+          "en": "chili",
+          "id": "cabai",
+          "phonetic": "/ˈtʃɪli/",
+          "example_en": "I don't eat chili.",
+          "example_id": "Saya tidak makan cabai."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill rasa**: Guru menyebut makanan (gula, garam, lemon, cabai, kopi), siswa meneriakkan sifat rasanya (sweet, salty, sour, spicy, bitter).\n2. **Pair work**: Tanyakan ke pasangan 'Is ___ spicy/sweet/sour?' untuk 5 makanan dan catat jawabannya.\n3. **Fill-in-the-blank**: Lengkapi — (a) What is ___ this soup? (b) Is it ___? Yes, very hot. (c) It ___ chicken and vegetables. (d) Can I have it ___ chili?\n4. **Role play**: Skenario di restoran — tanyakan bahan dan rasa 2 menu sebelum memesan.\n5. **Error correction**: Perbaiki — 'What inside this?', 'It is have egg', 'Is spicy?', 'Can I have no chili?'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Sinta. Do you like Indonesian food?",
+          "id": "Hai, Sinta. Kamu suka masakan Indonesia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love it. But I don't know some dishes.",
+          "id": "Ya, saya suka. Tapi saya tidak tahu beberapa menu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let me ask. What is in this soup?",
+          "id": "Coba saya tanya. Apa isi sup ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It has chicken, carrot, and potato inside.",
+          "id": "Isinya ayam, wortel, dan kentang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it spicy? I can't eat very spicy food.",
+          "id": "Apa pedas? Saya tidak bisa makan yang terlalu pedas."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "A little spicy, but not too much. There is some chili.",
+          "id": "Sedikit pedas, tapi tidak terlalu. Ada sedikit cabai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And what about this fried rice? What's in it?",
+          "id": "Kalau nasi goreng ini bagaimana? Apa isinya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It has egg, chicken, and vegetables. No chili.",
+          "id": "Isinya telur, ayam, dan sayur. Tidak ada cabai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great. Is the tea sweet or sour?",
+          "id": "Bagus. Tehnya manis atau asam?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's sweet. We put sugar in the tea.",
+          "id": "Manis. Kami menaruh gula di tehnya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about this lemon juice? Is it sour?",
+          "id": "Kalau jus lemon ini? Asam?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, very sour! But we add sugar too.",
+          "id": "Ya, sangat asam! Tapi kami tambah gula juga."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does this cake have nuts? I'm allergic.",
+          "id": "Kue ini ada kacangnya? Saya alergi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, it doesn't have nuts. It's safe.",
+          "id": "Tidak, tidak ada kacang. Aman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. Can I have the fried rice without chili, please?",
+          "id": "Bagus. Boleh saya pesan nasi goreng tanpa cabai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Of course. I'll tell the waiter.",
+          "id": "Tentu. Saya akan bilang ke pelayannya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar cara bertanya tentang bahan dan rasa makanan dalam bahasa Inggris. Kita tahu sekarang cara bertanya *What is in this soup?* dan *Is it spicy?*. Kita juga belajar kata sifat rasa: spicy, sweet, sour, salty, bitter. Sebelum tutup, dua pertanyaan: bagaimana cara bertanya 'Apa isi sup ini?' dalam bahasa Inggris? Apa lawan kata dari 'sweet'? Untuk pekerjaan rumah, tulislah 6 pertanyaan dan 6 jawaban tentang makanan — tanyakan bahan dan rasa, lalu jawab sendiri. Ini adalah pelajaran terakhir modul Makanan dan Minuman. Minggu depan kita akan mulai modul baru yaitu Sekolah — kita akan belajar kosakata benda di ruang kelas. Sampai jumpa!",
+      "instructions": "Rangkum pertanyaan bahan dan rasa di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 6 pasang Q&A dan umumkan modul baru minggu depan."
+    }
+  ]
+}

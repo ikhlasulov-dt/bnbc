@@ -1,0 +1,221 @@
+{
+  "id": "a1-l26",
+  "course_id": "english-a1",
+  "module_title": "Rutinitas Harian",
+  "level": "A1",
+  "title": "Rumus Dasar Simple Present",
+  "subtitle": "Pola positif dan aturan -s untuk he/she/it",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat positif simple present untuk I/you/we/they",
+    "Menambahkan -s/-es untuk subjek he/she/it",
+    "Memahami tiga aturan perubahan kata kerja"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Selamat datang di modul baru: Rutinitas Harian. Modul sebelumnya kita belajar angka dan waktu. Hari ini kita akan belajar tata bahasa paling penting untuk membicarakan rutinitas: simple present tense. Pernahkah kalian ingin bercerita 'saya bangun jam 6 setiap hari' dalam Inggris? Itu yang akan kita pelajari. Tujuan kita: kalian bisa membuat kalimat simple present positif dengan subjek dan kata kerja yang tepat. Kita mulai dari teori rumus, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'What do you do every day?'. Tulis 'I wake up at 6. I go to school.' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Rumus Dasar Simple Present\n\nSimple present tense dipakai untuk membicarakan kebiasaan, rutinitas, dan fakta umum.\n\n### Rumus Positif\n\n**Subjek + kata kerja (V1) + objek/keterangan**\n\n| Subjek | Kata kerja | Contoh |\n|---|---|---|\n| I | work | I work every day. |\n| You | work | You work every day. |\n| We | work | We work every day. |\n| They | work | They work every day. |\n| He | works (V1 + s) | He works every day. |\n| She | works (V1 + s) | She works every day. |\n| It | works (V1 + s) | It works every day. |\n\n### Aturan -s pada He/She/It\n\nUntuk subjek **he, she, it** (orang ketiga tunggal), tambahkan **-s** ke kata kerja:\n- *work* → *works* (He works.)\n- *play* → *plays* (She plays.)\n- *read* → *reads* (He reads.)\n\n**Pengecualian:**\n- Kata kerja berakhir **-o, -s, -sh, -ch, -x**: tambah **-es**\n  - *go* → *goes*, *watch* → *watches*, *wash* → *washes*, *fix* → *fixes*\n- Kata kerja berakhir **konsonan + y**: ubah y jadi i, tambah **-es**\n  - *study* → *studies*, *fly* → *flies*, *cry* → *cries*\n- Kata kerja berakhir **vokal + y**: tambah **-s**\n  - *play* → *plays*, *enjoy* → *enjoys*\n\n### Kata Kerja To Be vs Kata Kerja Biasa\n\n- **To be (am, is, are)** = untuk identitas, sifat, lokasi:\n  - *I am a student.* *She is happy.* *We are at school.*\n- **Kata kerja biasa (V1)** = untuk aksi/rutinitas:\n  - *I study English.* *She plays tennis.* *They work hard.*\n\nJangan campur keduanya: *I am study* SALAH. Pilih salah satu: *I am a student* ATAU *I study English*.\n\n### Kata Keterangan Waktu\n\nSimple present sering dipakai dengan:\n- *every day* — setiap hari\n- *every morning* — setiap pagi\n- *on Mondays* — setiap hari Senin\n- *always / usually / often / sometimes / never* — selalu/biasanya/sering/kadang/tidak pernah\n\n### Contoh Kalimat\n\n- *I wake up at 6 every morning.* — Saya bangun pukul 6 setiap pagi.\n- *She goes to school by bus.* — Dia pergi ke sekolah dengan bus.\n- *We study English every day.* — Kami belajar Inggris setiap hari.\n- *He plays football on Sundays.* — Dia bermain sepak bola setiap Minggu.\n- *They work in an office.* — Mereka bekerja di kantor.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What do you do every morning?\n- B: I wake up at 6, take a shower, and have breakfast.\n- A: And then?\n- B: I go to school.\n\n**Dialog 2:**\n- A: What does she do every day?\n- B: She works in a bank.\n- A: And her brother?\n- B: He studies at the university.\n\n> **Hindari:** Jangan lupa *-s* untuk he/she/it: *He works* (bukan *He work*). Jangan campur to be dengan kata kerja: *I am study* SALAH. Jangan lupa kata keterangan waktu untuk konteks rutinitas.\n\n### Cara Mengucapkan\n\n- **works** /wɜːrks/ — dibaca 'werks'.\n- **goes** /ɡoʊz/ — dibaca 'goz'.\n- **watches** /ˈwɒtʃɪz/ — tambahan /ɪz/ setelah -ch.\n- **studies** /ˈstʌdiz/ — y berubah jadi i.\n\n### Tips\n\n1. Untuk I/you/we/they, kata kerja tanpa perubahan.\n2. Untuk he/she/it, tambah -s atau -es.\n3. Jangan campur to be dengan kata kerja biasa dalam satu kalimat.",
+      "key_points": [
+        "Simple present untuk rutinitas, kebiasaan, fakta umum",
+        "Rumus positif: Subjek + V1 (+ s untuk he/she/it)",
+        "I/you/we/they + work (tanpa -s)",
+        "He/she/it + works (dengan -s)",
+        "Pengecualian -es: -o, -s, -sh, -ch, -x (goes, watches, washes, fixes)",
+        "Konsonan + y → ies (study → studies)",
+        "Vokal + y → ys (play → plays)",
+        "Jangan campur to be dengan kata kerja biasa"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "wake up",
+          "id": "bangun tidur",
+          "phonetic": "/weɪk ʌp/",
+          "example_en": "I wake up at six.",
+          "example_id": "Saya bangun jam enam."
+        },
+        {
+          "en": "get up",
+          "id": "turun dari tempat tidur",
+          "phonetic": "/ɡet ʌp/",
+          "example_en": "I get up at 6:30.",
+          "example_id": "Saya turun dari tempat tidur jam 6:30."
+        },
+        {
+          "en": "eat breakfast",
+          "id": "makan sarapan",
+          "phonetic": "/iːt ˈbrekfəst/",
+          "example_en": "I eat breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "go to school",
+          "id": "pergi ke sekolah",
+          "phonetic": "/ɡoʊ tuː skuːl/",
+          "example_en": "I go to school by bike.",
+          "example_id": "Saya ke sekolah naik sepeda."
+        },
+        {
+          "en": "study",
+          "id": "belajar",
+          "phonetic": "/ˈstʌdi/",
+          "example_en": "I study English.",
+          "example_id": "Saya belajar bahasa Inggris."
+        },
+        {
+          "en": "play",
+          "id": "bermain",
+          "phonetic": "/pleɪ/",
+          "example_en": "I play with friends.",
+          "example_id": "Saya bermain dengan teman."
+        },
+        {
+          "en": "go home",
+          "id": "pulang",
+          "phonetic": "/ɡoʊ hoʊm/",
+          "example_en": "I go home at three.",
+          "example_id": "Saya pulang jam tiga."
+        },
+        {
+          "en": "sleep",
+          "id": "tidur",
+          "phonetic": "/sliːp/",
+          "example_en": "I sleep at nine.",
+          "example_id": "Saya tidur jam sembilan."
+        },
+        {
+          "en": "every day",
+          "id": "setiap hari",
+          "phonetic": "/ˈevri deɪ/",
+          "example_en": "I study every day.",
+          "example_id": "Saya belajar setiap hari."
+        },
+        {
+          "en": "always",
+          "id": "selalu",
+          "phonetic": "/ˈɔːlweɪz/",
+          "example_en": "I always brush my teeth.",
+          "example_id": "Saya selalu gosok gigi."
+        },
+        {
+          "en": "usually",
+          "id": "biasanya",
+          "phonetic": "/ˈjuːʒuəli/",
+          "example_en": "I usually wake up early.",
+          "example_id": "Saya biasanya bangun pagi."
+        },
+        {
+          "en": "sometimes",
+          "id": "kadang-kadang",
+          "phonetic": "/ˈsʌmtaɪmz/",
+          "example_en": "I sometimes read at night.",
+          "example_id": "Saya kadang membaca di malam hari."
+        },
+        {
+          "en": "never",
+          "id": "tidak pernah",
+          "phonetic": "/ˈnevər/",
+          "example_en": "I never eat late.",
+          "example_id": "Saya tidak pernah makan larut."
+        },
+        {
+          "en": "work",
+          "id": "bekerja",
+          "phonetic": "/wɜːrk/",
+          "example_en": "I work hard.",
+          "example_id": "Saya bekerja keras."
+        },
+        {
+          "en": "school",
+          "id": "sekolah",
+          "phonetic": "/skuːl/",
+          "example_en": "I go to school.",
+          "example_id": "Saya pergi ke sekolah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang kata kerja rutinitas 2x setelah guru. (2) **Konversi:** guru menyebut subjek + kata kerja (She/work, He/study), murid membuat kalimat dengan -s yang tepat. (3) **Isian:** 'I ___ (work) every day. She ___ (work) in a bank. He ___ (study) at university.' (4) **Role play:** dua murid saling bercerita rutinitas pagi mereka ('I wake up at 6. I take a shower.'). (5) **Koreksi:** tulis di papan 'He work every day. I am study. She studys.', minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you do every morning?",
+          "id": "Apa yang kamu lakukan setiap pagi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I wake up at 6 and take a shower.",
+          "id": "Saya bangun pukul 6 dan mandi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Then what?",
+          "id": "Lalu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have breakfast and go to school.",
+          "id": "Saya sarapan dan pergi ke sekolah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does your mother do?",
+          "id": "Apa yang dilakukan ibumu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She works in a hospital. She is a nurse.",
+          "id": "Dia bekerja di rumah sakit. Dia perawat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your father?",
+          "id": "Dan ayahmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He works in an office. He goes to work at 7.",
+          "id": "Dia bekerja di kantor. Berangkat pukul 7."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you do after school?",
+          "id": "Apa yang kamu lakukan setelah sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I go home, do homework, and play.",
+          "id": "Saya pulang, kerjakan PR, dan bermain."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap! Hari ini kita belajar rumus dasar simple present: subjek + V1, dengan tambahan -s untuk he/she/it. Yang paling penting diingat: -s wajib untuk orang ketiga tunggal, dan jangan campur to be dengan kata kerja biasa. Pertanyaan untuk kalian: bagaimana membuat kalimat 'Dia (perempuan) bekerja di bank'? Dan apa aturan -es? Untuk PR, tulis 10 kalimat tentang rutinitas harianmu menggunakan simple present. Besok kita akan belajar adverbia frekuensi: always, usually, often, sometimes, never. Sampai jumpa!",
+      "instructions": "Rangkum rumus simple present. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "id": "a1-l62",
+  "course_id": "english-a1",
+  "module_title": "Belanja",
+  "level": "A1",
+  "title": "Menyebutkan Harga",
+  "subtitle": "It is twenty thousand rupiah",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan harga dengan pola It is + angka + mata uang",
+    "Menggunakan is untuk tunggal dan are untuk jamak",
+    "Menghindari penambahan -s pada mata uang"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang kosakata toko dan uang. Coba, siapa yang masih ingat, 'murah' bahasa Inggrisnya apa? Bagus, cheap. Dan 'mahal'? expensive. Hari ini kita akan belajar menyebutkan harga dalam bahasa Inggris. Coba, kalau kamu mau bilang 'Harganya dua puluh ribu rupiah', bagaimana dalam bahasa Inggris? Itulah yang akan kita pelajari. Kita akan belajar angka-angka untuk uang, cara mengatakan harga dengan tepat, dan beberapa frasa berguna. Rencana: kita pelajari angka 1-100, frasa 'It is ___ rupiah', dan frasa 'It costs ___'. Ayo mulai!",
+      "instructions": "Tulis di papan angka 1-20 dan kelipatan 10 sampai 100. Tanyakan kepada siswa cara membaca beberapa angka. Lalu perkenalkan frasa 'It is ___ rupiah'."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Angka untuk Harga\n\nUntuk menyebutkan harga, kita perlu hafal angka. Berikut angka penting:\n\n| Angka | Inggris | Angka | Inggris |\n|---|---|---|---|\n| 1 | one | 11 | eleven |\n| 2 | two | 12 | twelve |\n| 3 | three | 13 | thirteen |\n| 4 | four | 14 | fourteen |\n| 5 | five | 15 | fifteen |\n| 6 | six | 20 | twenty |\n| 7 | seven | 30 | thirty |\n| 8 | eight | 50 | fifty |\n| 9 | nine | 100 | one hundred |\n| 10 | ten | 1000 | one thousand |\n\n## Pola untuk Menyebut Harga\n\n**Pola 1: It is + harga + currency**\n- It is **twenty thousand rupiah**.\n- It is **fifty dollars**.\n- It is **one hundred rupiah**.\n\n**Pola 2: It costs + harga**\n- It costs **fifteen thousand rupiah**.\n- It costs **two dollars**.\n\n**Pola 3: Harga + currency**\n- **Twenty thousand rupiah**, please.\n- **Two dollars** only.\n\n## Membaca Angka Besar\n\n| Angka | Cara baca |\n|---|---|\n| 25,000 | twenty-five thousand |\n| 100,000 | one hundred thousand |\n| 1,500 | one thousand five hundred |\n| 50,000 | fifty thousand |\n\n## Contoh Lengkap\n\n- This book is **twenty thousand rupiah**.\n- The shirt costs **one hundred and fifty thousand rupiah**.\n- Those shoes are **three hundred thousand rupiah**.\n- It's only **five thousand rupiah**. Very cheap!\n\n## Mini-Dialog\n\n**A:** How much is this book?\n\n**B:** It is twenty thousand rupiah.\n\n**A:** And that pencil?\n\n**B:** It's only three thousand rupiah. Very cheap.\n\n**A:** I'll take both. How much in total?\n\n**B:** Twenty-three thousand rupiah, please.\n\n> **Hindari:** mengatakan 'twenty thousands rupiah' (jamak salah). Yang benar *twenty thousand rupiah* — *thousand* tidak ditambah *s*. Hindari juga menulis angka saja tanpa mata uang — selalu sebut *rupiah* atau *dollars*.",
+      "key_points": [
+        "It is + harga + currency (It is twenty thousand rupiah)",
+        "It costs + harga (It costs fifty dollars)",
+        "Angka 1-20 harus hafal: one, two, three... twenty",
+        "thousand = ribu, hundred = ratus (tanpa -s)",
+        "20,000 = twenty thousand (bukan 'thousands')",
+        "100,000 = one hundred thousand",
+        "Selalu sebut mata uang: rupiah, dollar",
+        "Very cheap = sangat murah, Very expensive = sangat mahal"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "price",
+          "id": "harga",
+          "phonetic": "/praɪs/",
+          "example_en": "What is the price?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "money",
+          "id": "uang",
+          "phonetic": "/ˈmʌni/",
+          "example_en": "I have some money.",
+          "example_id": "Saya punya uang."
+        },
+        {
+          "en": "dollar",
+          "id": "dolar",
+          "phonetic": "/ˈdɒlər/",
+          "example_en": "It costs five dollars.",
+          "example_id": "Harganya lima dolar."
+        },
+        {
+          "en": "cheap",
+          "id": "murah",
+          "phonetic": "/tʃiːp/",
+          "example_en": "This bag is cheap.",
+          "example_id": "Tas ini murah."
+        },
+        {
+          "en": "expensive",
+          "id": "mahal",
+          "phonetic": "/ɪkˈspensɪv/",
+          "example_en": "The watch is expensive.",
+          "example_id": "Jam itu mahal."
+        },
+        {
+          "en": "buy",
+          "id": "membeli",
+          "phonetic": "/baɪ/",
+          "example_en": "I buy apples at the market.",
+          "example_id": "Saya membeli apel di pasar."
+        },
+        {
+          "en": "pay",
+          "id": "membayar",
+          "phonetic": "/peɪ/",
+          "example_en": "I pay at the cashier.",
+          "example_id": "Saya membayar di kasir."
+        },
+        {
+          "en": "cashier",
+          "id": "kasir",
+          "phonetic": "/kæˈʃɪr/",
+          "example_en": "The cashier is friendly.",
+          "example_id": "Kasirnya ramah."
+        },
+        {
+          "en": "thousand",
+          "id": "ribu",
+          "phonetic": "/ˈθaʊzənd/",
+          "example_en": "It is twenty thousand rupiah.",
+          "example_id": "Harganya dua puluh ribu rupiah."
+        },
+        {
+          "en": "hundred",
+          "id": "ratus",
+          "phonetic": "/ˈhʌndrəd/",
+          "example_en": "One hundred thousand rupiah.",
+          "example_id": "Seratus ribu rupiah."
+        },
+        {
+          "en": "rupiah",
+          "id": "rupiah",
+          "phonetic": "/ˈruːpiɑː/",
+          "example_en": "I pay with rupiah.",
+          "example_id": "Saya bayar dengan rupiah."
+        },
+        {
+          "en": "cost",
+          "id": "biaya/harga",
+          "phonetic": "/kɒst/",
+          "example_en": "How much does it cost?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "total",
+          "id": "total",
+          "phonetic": "/ˈtoʊtl/",
+          "example_en": "The total is 50,000.",
+          "example_id": "Totalnya 50,000."
+        },
+        {
+          "en": "twenty",
+          "id": "dua puluh",
+          "phonetic": "/ˈtwenti/",
+          "example_en": "It costs twenty dollars.",
+          "example_id": "Harganya 20 dolar."
+        },
+        {
+          "en": "fifty",
+          "id": "lima puluh",
+          "phonetic": "/ˈfɪfti/",
+          "example_en": "I have fifty rupiah.",
+          "example_id": "Saya punya 50 rupiah."
+        },
+        {
+          "en": "one hundred",
+          "id": "seratus",
+          "phonetic": "/wʌn ˈhʌndrəd/",
+          "example_en": "It is one hundred rupiah.",
+          "example_id": "Harganya seratus rupiah."
+        },
+        {
+          "en": "currency",
+          "id": "mata uang",
+          "phonetic": "/ˈkʌrənsi/",
+          "example_en": "What currency do you use?",
+          "example_id": "Mata uang apa yang kamu pakai?"
+        },
+        {
+          "en": "only",
+          "id": "hanya",
+          "phonetic": "/ˈoʊnli/",
+          "example_en": "It's only 5,000 rupiah.",
+          "example_id": "Hanya 5,000 rupiah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill angka**: Guru menunjuk angka (1-100), siswa menyebutkan bahasa Inggrisnya secepat mungkin. Lakukan 15 putaran.\n2. **Pair work 'How much?'**: Siswa A menyebut item, siswa B menyebut harga khayalan dengan 'It is ___ rupiah'. Lakukan 8 putaran.\n3. **Fill-in-the-blank**: Lengkapi — (a) It is ___ thousand rupiah (dua puluh). (b) ___ much is it? (c) It ___ 50,000 rupiah. (d) It's only 5,000. Very ___!\n4. **Role play 'Cashier'**: Siswa A jadi kasir, B jadi pelanggan — beli 3 item, kasir sebutkan harga setiap item dan total.\n5. **Error correction**: Perbaiki — 'twenty thousands rupiah', 'It cost 50', 'How much it is?', 'It is fifty thousands'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning. Can I help you?",
+          "id": "Selamat pagi. Bisa saya bantu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, please. How much is this book?",
+          "id": "Ya, tolong. Berapa harga buku ini?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It is twenty thousand rupiah.",
+          "id": "Harganya dua puluh ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "And that pencil?",
+          "id": "Kalau pensil itu?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It's only three thousand rupiah. Very cheap.",
+          "id": "Hanya tiga ribu rupiah. Sangat murah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'll take one book and two pencils.",
+          "id": "Saya ambil satu buku dan dua pensil."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. So, one book is 20,000 and two pencils are 6,000.",
+          "id": "Baik. Satu buku 20,000 dan dua pensil 6,000."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "How much is the total?",
+          "id": "Berapa totalnya?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "The total is twenty-six thousand rupiah.",
+          "id": "Totalnya dua puluh enam ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Here is fifty thousand rupiah.",
+          "id": "Ini lima puluh ribu rupiah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you. Your change is twenty-four thousand rupiah.",
+          "id": "Terima kasih. Kembalian Anda dua puluh empat ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Do you have a receipt, please?",
+          "id": "Boleh minta struk?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Of course. Here is your receipt. Thank you!",
+          "id": "Tentu. Ini struknya. Terima kasih!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You're welcome. The price here is good.",
+          "id": "Sama-sama. Harga di sini bagus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, we try to keep prices cheap. Come again!",
+          "id": "Ya, kami berusaha menjaga harga murah. Datang lagi!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will. Goodbye!",
+          "id": "Pasti. Selamat tinggal!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar menyebutkan harga dalam bahasa Inggris dengan pola *It is ___ rupiah* dan *It costs ___*. Kita juga berlatih membaca angka besar seperti 25,000 (twenty-five thousand). Ingat, *thousand* tidak ditambah *s* — *twenty thousand*, bukan *twenty thousands*. Sebelum tutup, dua pertanyaan: bagaimana mengatakan 'Harganya 50.000 rupiah'? Bagaimana 'Totalnya 25.000 rupiah'? Untuk pekerjaan rumah, survei 5 benda di rumahmu, lalu tulis kalimat *It is ___ rupiah* untuk masing-masing dengan harga perkiraan. Besok kita akan belajar menanyakan harga: *How much is this?* dan *How much are these?*. Sampai jumpa!",
+      "instructions": "Rangkum pola harga di papan dengan angka. Tanyakan dua pertanyaan pemahaman. Berikan PR survei 5 benda dan sampaikan topik besok."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "a1-l01",
+  "course_id": "english-a1",
+  "module_title": "Sapaan dan Perkenalan",
+  "level": "A1",
+  "title": "Sapaan Umum: Hello dan Hi",
+  "subtitle": "Mengucapkan sapaan dasar",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengucapkan sapaan Hello dan Hi dengan benar",
+    "Memahami kapan menggunakan masing-masing sapaan",
+    "Mengucapkan kata Please, Thank you, dan You're welcome"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi semuanya! Selamat datang di kelas Bahasa Inggris tingkat A1. Sebelum kita mulai, apakah ada yang sudah pernah mendengar orang Inggris berkata 'Hello' atau 'Hi' di film atau lagu? Hari ini kita akan belajar dua sapaan paling dasar dalam bahasa Inggris, yaitu 'Hello' dan 'Hi', serta tiga kata sopan yang sangat penting: 'Please', 'Thank you', dan 'You're welcome'. Tujuan kita hari ini adalah kamu bisa menyapa orang dengan percaya diri dan menjawab sapaan dengan sopan. Kita akan mulai dari teori singkat, lalu menghafal kosakata, dan akhirnya berlatih dalam dialog singkat. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan ramah menggunakan 'Good morning' dan tunjukkan ekspresi hangat. Tulis kata 'Hello' dan 'Hi' di papan tulis dengan huruf besar. Tanyakan apakah ada murid yang sudah pernah mendengar kata tersebut. Perkenalkan tujuan hari ini dan susunan 5 tahap kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Sapaan Dasar: Hello dan Hi\n\nDalam bahasa Inggris, dua kata sapaan yang paling sering dipakai adalah **Hello** dan **Hi**. Keduanya berarti 'halo' atau 'hai' dalam bahasa Indonesia, tetapi ada perbedaan nuansa yang penting untuk dipahami.\n\n### Perbedaan Hello dan Hi\n\n| Sapaan | Nuansa | Kapan dipakai | Contoh |\n|---|---|---|---|\n| Hello | Sopan, netral, formal | Situasi resmi, ke orang baru, telepon | Hello, Mr. Smith. |\n| Hi | Santai, akrab | Ke teman, keluarga, situasi informal | Hi, Sarah! |\n\n- **Hello** aman dipakai dalam situasi apa pun, termasuk saat kamu tidak yakin seberapa formal situasinya.\n- **Hi** lebih santai dan lebih akrab; dipakai kepada orang yang sudah dikenal.\n\n### Cara Mengucapkan\n\n- **Hello** dibaca /həˈloʊ/ — tekanan ada di suku kata kedua 'LO'.\n- **Hi** dibaca /haɪ/ — satu suku kata, mirip 'hai' dalam bahasa Indonesia.\n\n### Kata Sopan Pendukung\n\nSelain sapaan, ada tiga kata yang sering muncul bersamaan:\n\n- **Please** — 'tolong' (dipakai saat meminta sesuatu dengan sopan). Contoh: *Please sit down.* (Tolong duduk.)\n- **Thank you** — 'terima kasih'. Contoh: *Thank you very much!* (Terima kasih banyak!)\n- **You're welcome** — 'sama-sama' (jawaban untuk *Thank you*). Contoh: *— Thank you. — You're welcome.*\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (formal):**\n- A: Hello, Mr. Brown. How are you?\n- B: Hello! I'm fine, thank you.\n\n**Dialog 2 (santai):**\n- A: Hi, Anna! Please come in.\n- B: Hi! Thank you.\n- A: You're welcome.\n\n> **Hindari:** Jangan mengucapkan 'Halo' dengan gaya bahasa Indonesia saat berbicara Inggris. Selalu pakai *Hello* atau *Hi* dengan pelafalan Inggris. Jangan campur *Thank you* dengan 'terima kasih' dalam satu kalimat.\n\n### Tips Mengingat\n\n1. *Hello* lebih panjang dan lebih sopan → untuk situasi formal.\n2. *Hi* lebih pendek dan lebih akrab → untuk teman.\n3. Selalu ikuti *Thank you* dengan senyum, dan jawab dengan *You're welcome*.",
+      "key_points": [
+        "Hello = sapaan sopan/netral, aman untuk semua situasi",
+        "Hi = sapaan santai, untuk teman dan situasi informal",
+        "Hello dibaca /həˈloʊ/, Hi dibaca /haɪ/",
+        "Please = tolong (meminta dengan sopan)",
+        "Thank you = terima kasih",
+        "You're welcome = sama-sama (jawaban Thank you)",
+        "Jangan mencampur kata Indonesia dan Inggris dalam satu kalimat",
+        "Telepon selalu dibuka dengan Hello"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "Hello",
+          "id": "Halo",
+          "phonetic": "/həˈloʊ/",
+          "example_en": "Hello, how are you?",
+          "example_id": "Halo, apa kabar?"
+        },
+        {
+          "en": "Hi",
+          "id": "Hai",
+          "phonetic": "/haɪ/",
+          "example_en": "Hi, I'm Sarah.",
+          "example_id": "Hai, saya Sarah."
+        },
+        {
+          "en": "Please",
+          "id": "Tolong",
+          "phonetic": "/pliːz/",
+          "example_en": "Please sit down.",
+          "example_id": "Tolong duduk."
+        },
+        {
+          "en": "Thank you",
+          "id": "Terima kasih",
+          "phonetic": "/ˈθæŋk juː/",
+          "example_en": "Thank you very much!",
+          "example_id": "Terima kasih banyak!"
+        },
+        {
+          "en": "You're welcome",
+          "id": "Sama-sama",
+          "phonetic": "/jʊər ˈwelkəm/",
+          "example_en": "You're welcome!",
+          "example_id": "Sama-sama!"
+        },
+        {
+          "en": "Good morning",
+          "id": "Selamat pagi",
+          "phonetic": "/ɡʊd ˈmɔːrnɪŋ/",
+          "example_en": "Good morning, teacher!",
+          "example_id": "Selamat pagi, Bu!"
+        },
+        {
+          "en": "How are you?",
+          "id": "Apa kabar?",
+          "phonetic": "/haʊ ɑːr juː/",
+          "example_en": "Hello! How are you?",
+          "example_id": "Halo! Apa kabar?"
+        },
+        {
+          "en": "Nice to meet you",
+          "id": "Senang bertemu denganmu",
+          "phonetic": "/naɪs tuː miːt juː/",
+          "example_en": "Nice to meet you, John.",
+          "example_id": "Senang bertemu denganmu, John."
+        },
+        {
+          "en": "My name is",
+          "id": "Nama saya",
+          "phonetic": "/maɪ neɪm ɪz/",
+          "example_en": "My name is Budi.",
+          "example_id": "Nama saya Budi."
+        },
+        {
+          "en": "What's your name?",
+          "id": "Siapa namamu?",
+          "phonetic": "/wɒts jɔːr neɪm/",
+          "example_en": "Hi! What's your name?",
+          "example_id": "Hai! Siapa namamu?"
+        },
+        {
+          "en": "Goodbye",
+          "id": "Selamat tinggal",
+          "phonetic": "/ɡʊdˈbaɪ/",
+          "example_en": "Goodbye! Have a nice day.",
+          "example_id": "Selamat tinggal! Semoga harimu menyenangkan."
+        },
+        {
+          "en": "See you later",
+          "id": "Sampai jumpa lagi",
+          "phonetic": "/siː juː ˈleɪtər/",
+          "example_en": "See you later, bye!",
+          "example_id": "Sampai jumpa lagi, dah!"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Jalankan 4 latihan berikut secara berurutan. (1) **Drill pelafalan:** murid mengulang Hello, Hi, Please, Thank you, You're welcome 3 kali setelah guru. (2) **Pasangan:** murid berdiri berhadapan dan menyapa satu sama lain dengan Hello/Hi lalu menjawab dengan Thank you. (3) **Isian kosong:** guru membacakan kalimat dengan bagian kosong, murid mengisi dengan Please/Thank you/You're welcome. Contoh: 'Sit down, ___.' (4) **Role play:** satu murid jadi tamu, satu jadi tuan rumah; gunakan semua 5 kata dalam dialog 4 baris. (5) **Koreksi kesalahan:** tulis di papan 'Halo, terima kasih' dan minta murid memperbaikinya menjadi 'Hello, thank you'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hello, class! How are you today?",
+          "id": "Halo, kelas! Apa kabar hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hi, teacher! I'm fine, thank you.",
+          "id": "Hai, Bu! Saya baik, terima kasih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Please sit down. You're welcome to ask questions.",
+          "id": "Tolong duduk. Silakan ajukan pertanyaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you, teacher.",
+          "id": "Terima kasih, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi! Please come to the front.",
+          "id": "Hai, Andi! Tolong maju ke depan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hello, teacher! Thank you.",
+          "id": "Halo, Bu! Terima kasih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You're welcome. Now please introduce yourself.",
+          "id": "Sama-sama. Sekarang tolong perkenalkan diri."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hi, everyone. I'm Andi. Nice to meet you!",
+          "id": "Hai semua. Saya Andi. Senang bertemu kalian!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you, Andi. Please go back to your seat.",
+          "id": "Terima kasih, Andi. Tolong kembali ke tempat dudukmu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you. Goodbye, teacher!",
+          "id": "Terima kasih. Selamat tinggal, Bu!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, semuanya! Hari ini kita sudah belajar dua sapaan dasar: Hello untuk situasi sopan/netral dan Hi untuk situasi santai. Kita juga belajar tiga kata sopan: Please untuk meminta, Thank you untuk berterima kasih, dan You're welcome untuk menjawab terima kasih. Sebelum kita tutup, ada dua pertanyaan untuk kalian: pertama, kapan kamu harus memakai Hello daripada Hi? Kedua, apa jawaban untuk 'Thank you'? Coba jawab sendiri. Untuk pekerjaan rumah, tulis 5 kalimat sapaan singkat menggunakan kata-kata tadi dan berlatih mengucapkannya di depan cermin. Besok kita akan lanjut dengan sapaan sesuai waktu: Good morning, Good afternoon, Good evening, dan Good night. Sampai jumpa besok!",
+      "instructions": "Berikan pujian tulus kepada kelas. Tanyakan 2 pertanyaan pemahaman dan tunggu jawaban sukarela. Sampaikan PR secara lisan dan tulis di papan. Tutup dengan 'Goodbye, class!'"
+    }
+  ]
+}

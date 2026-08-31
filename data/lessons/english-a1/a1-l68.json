@@ -1,0 +1,297 @@
+{
+  "id": "a1-l68",
+  "course_id": "english-a1",
+  "module_title": "Transportasi",
+  "level": "A1",
+  "title": "Preposisi by untuk Transportasi",
+  "subtitle": "by bus, by car, on foot",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan preposisi by untuk menyatakan alat transportasi",
+    "Menggunakan on foot untuk berjalan kaki",
+    "Membentuk kalimat I go to + tempat + by + transportasi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang kosakata transportasi. Coba, siapa yang bisa kasih contoh kalimat 'I go by ___'? Bagus, *I go by bus*. Hari ini kita akan fokus ke preposisi *by* untuk transportasi. Kenapa kita bilang *by bus* bukan *with bus*? Itulah aturan yang akan kita pelajari. Kita juga akan belajar pengecualian: *on foot* untuk jalan kaki, dan *on a bicycle* atau *on a motorcycle* dalam beberapa konteks. Rencana: kita pelajari pola *by* untuk moda transportasi, pengecualian, dan latih dengan kalimat. Ayo mulai!",
+      "instructions": "Tulis di papan: 'by bus', 'by car', 'by train', 'by plane'. Lalu tulis: 'on foot'. Tanyakan apa bedanya dan kenapa 'foot' pakai 'on' bukan 'by'."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola by + Transportasi\n\nUntuk menyatakan moda transportasi, kita pakai **by + noun** (tanpa artikel *a/an/the*):\n\n| Pola | Contoh |\n|---|---|\n| by bus | I go by bus. |\n| by car | She goes by car. |\n| by train | We travel by train. |\n| by plane | They fly by plane. |\n| by taxi | I go by taxi. |\n| by ship | We go by ship. |\n| by motorcycle | He goes by motorcycle. |\n\n## Pengecualian Penting\n\n**on foot** → jalan kaki (selalu *on foot*, tidak pakai *a*)\n- I go to school **on foot**. → Saya ke sekolah jalan kaki.\n- We walk. We go **on foot**.\n\n## by vs in/on untuk Kendaraan Spesifik\n\nKalau kita bicara kendaraan spesifik (punya orang tertentu, atau jenis tertentu), kita pakai *in* atau *on*:\n\n- **in** a car (di dalam mobil) → I sit in my father's car.\n- **on** a bus (di atas bus) → I am on the bus now.\n- **on** a train → She is on the train.\n- **on** a plane → They are on the plane.\n- **on** a bicycle/motorcycle → He is on his motorcycle.\n\n## Perbandingan\n\n| Umum (moda) | Spesifik (kendaraan tertentu) |\n|---|---|\n| I go by bus. | I am on the bus now. |\n| I go by car. | I am in my father's car. |\n| I go by train. | She is on the train to Jakarta. |\n\n## Pertanyaan\n\n- **How do you go to ___?** → Kamu ke ___ naik apa?\n  - How do you go to school? → I go by bus.\n- **How does she go to work?** → Dia ke kantor naik apa?\n  - She goes by motorcycle.\n\n## Mini-Dialog\n\n**A:** How do you go to school?\n\n**B:** I go by bus. But sometimes I go on foot.\n\n**A:** How about your father?\n\n**B:** He goes to work by car. He is in his car now.\n\n**A:** And your sister?\n\n**B:** She goes to campus by train. She's on the train now.\n\n> **Hindari:** mengatakan 'I go with bus' atau 'I go with car' (salah). Yang benar *by bus*, *by car*. Hindari juga 'I go by foot' — yang benar *I go on foot*.",
+      "key_points": [
+        "by + transportasi: by bus, by car, by train, by plane",
+        "Tanpa artikel: by bus (bukan 'by a bus')",
+        "on foot = jalan kaki (bukan 'by foot')",
+        "Kendaraan spesifik: in a car, on a bus, on a train",
+        "How do you go to ___? = Kamu ke ___ naik apa?",
+        "How does she go to ___? = Dia ke ___ naik apa?",
+        "I am on the bus now = Saya sedang di bus sekarang",
+        "Jangan 'with bus' — pakai 'by bus'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "transportation",
+          "id": "transportasi",
+          "phonetic": "/ˌtrænspərˈteɪʃn/",
+          "example_en": "Public transportation is cheap.",
+          "example_id": "Transportasi umum murah."
+        },
+        {
+          "en": "car",
+          "id": "mobil",
+          "phonetic": "/kɑːr/",
+          "example_en": "My father has a car.",
+          "example_id": "Ayah saya punya mobil."
+        },
+        {
+          "en": "bus",
+          "id": "bus",
+          "phonetic": "/bʌs/",
+          "example_en": "I go to school by bus.",
+          "example_id": "Saya ke sekolah naik bus."
+        },
+        {
+          "en": "train",
+          "id": "kereta",
+          "phonetic": "/treɪn/",
+          "example_en": "The train is fast.",
+          "example_id": "Keretanya cepat."
+        },
+        {
+          "en": "bicycle",
+          "id": "sepeda",
+          "phonetic": "/ˈbaɪsɪkl/",
+          "example_en": "I ride a bicycle to the park.",
+          "example_id": "Saya naik sepeda ke taman."
+        },
+        {
+          "en": "motorcycle",
+          "id": "sepeda motor",
+          "phonetic": "/ˈmoʊtərsaɪkl/",
+          "example_en": "He rides a motorcycle.",
+          "example_id": "Dia naik sepeda motor."
+        },
+        {
+          "en": "taxi",
+          "id": "taksi",
+          "phonetic": "/ˈtæksi/",
+          "example_en": "We take a taxi to the airport.",
+          "example_id": "Kami naik taksi ke bandara."
+        },
+        {
+          "en": "plane",
+          "id": "pesawat",
+          "phonetic": "/pleɪn/",
+          "example_en": "The plane flies to Bali.",
+          "example_id": "Pesawat terbang ke Bali."
+        },
+        {
+          "en": "ship",
+          "id": "kapal",
+          "phonetic": "/ʃɪp/",
+          "example_en": "The ship is big.",
+          "example_id": "Kapalnya besar."
+        },
+        {
+          "en": "street",
+          "id": "jalan",
+          "phonetic": "/striːt/",
+          "example_en": "This street is busy.",
+          "example_id": "Jalan ini ramai."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "by",
+          "id": "dengan (moda)",
+          "phonetic": "/baɪ/",
+          "example_en": "I go by bus.",
+          "example_id": "Saya pergi dengan bus."
+        },
+        {
+          "en": "on foot",
+          "id": "jalan kaki",
+          "phonetic": "/ɒn fʊt/",
+          "example_en": "I go to school on foot.",
+          "example_id": "Saya ke sekolah jalan kaki."
+        },
+        {
+          "en": "in",
+          "id": "di dalam",
+          "phonetic": "/ɪn/",
+          "example_en": "I sit in the car.",
+          "example_id": "Saya duduk di mobil."
+        },
+        {
+          "en": "on",
+          "id": "di atas",
+          "phonetic": "/ɒn/",
+          "example_en": "I am on the bus.",
+          "example_id": "Saya di atas bus."
+        },
+        {
+          "en": "how",
+          "id": "bagaimana",
+          "phonetic": "/haʊ/",
+          "example_en": "How do you go?",
+          "example_id": "Bagaimana kamu pergi?"
+        },
+        {
+          "en": "walk",
+          "id": "berjalan",
+          "phonetic": "/wɔːk/",
+          "example_en": "I walk to school.",
+          "example_id": "Saya berjalan ke sekolah."
+        },
+        {
+          "en": "fast",
+          "id": "cepat",
+          "phonetic": "/fæst/",
+          "example_en": "The train is fast.",
+          "example_id": "Keretanya cepat."
+        },
+        {
+          "en": "slow",
+          "id": "lambat",
+          "phonetic": "/sloʊ/",
+          "example_en": "The bicycle is slow.",
+          "example_id": "Sepedanya lambat."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill by + transport**: Guru menyebut moda (bus, car, train, plane), siswa membuat kalimat 'I go by ___'. Lakukan 10 putaran.\n2. **Pair work 'How do you go?'**: Siswa A bertanya 'How do you go to ___?' untuk 5 tempat, siswa B menjawab dengan by/on foot.\n3. **Fill-in-the-blank**: Lengkapi — (a) I go to school ___ bus. (b) She goes to work ___ foot. (c) I am ___ the train now. (d) He is ___ his car.\n4. **Role play 'Family transport'**: Deskripsikan cara 5 anggota keluarga bepergian dengan by + transportasi.\n5. **Error correction**: Perbaiki — 'I go with bus', 'I go by foot', 'I go by a car', 'I am in the bus now' (untuk umum).",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Sinta. How do you go to school?",
+          "id": "Hai, Sinta. Kamu ke sekolah naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I go to school by bus, teacher.",
+          "id": "Saya ke sekolah naik bus, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is the bus fast?",
+          "id": "Busnya cepat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, but sometimes slow in traffic. About 30 minutes.",
+          "id": "Ya, tapi kadang lambat di macet. Sekitar 30 menit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How does your brother go to school?",
+          "id": "Kakakmu ke sekolah naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He goes to school on foot. Our house is near.",
+          "id": "Dia jalan kaki. Rumah kami dekat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Lucky him! How does your father go to work?",
+          "id": "Beruntung! Ayahmu ke kantor naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He goes to work by car. He is in his car now.",
+          "id": "Dia naik mobil. Sekarang dia di mobilnya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your mother?",
+          "id": "Ibumu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My mother goes to the market by motorcycle.",
+          "id": "Ibu saya ke pasar naik motor."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does she ride or does someone drive?",
+          "id": "Dia yang naik atau ada yang mengantar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She rides the motorcycle herself. She's on her motorcycle now.",
+          "id": "Dia yang naik sendiri. Sekarang di motor."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you go to your grandmother's house?",
+          "id": "Kamu ke rumah nenek naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We go by car. It takes two hours.",
+          "id": "Kami naik mobil. Dua jam perjalanan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever gone by train?",
+          "id": "Pernah naik kereta?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I went to Bandung by train. It was fast and comfortable.",
+          "id": "Ya, saya ke Bandung naik kereta. Cepat dan nyaman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about by plane? Have you tried?",
+          "id": "Kalau pesawat? Pernah coba?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I went to Bali by plane. The plane was very fast!",
+          "id": "Ya, saya ke Bali naik pesawat. Pesawatnya sangat cepat!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar preposisi *by* untuk transportasi: *by bus*, *by car*, *by train*, *by plane*. Kita juga belajar pengecualian: *on foot* untuk jalan kaki, dan *in/on* untuk kendaraan spesifik. Ingat, jangan *with bus* — selalu *by bus*. Sebelum tutup, dua pertanyaan: bagaimana kamu pergi ke sekolah? Bagaimana mengatakan 'Saya jalan kaki' dalam bahasa Inggris? Untuk pekerjaan rumah, tulislah 10 kalimat tentang cara kamu dan 4 anggota keluarga bepergian ke berbagai tempat. Pakai by dan on foot. Besok kita akan belajar kosakata arah: left, right, straight, turn. Sampai jumpa!",
+      "instructions": "Rangkum pola by dan on foot di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 10 kalimat dan sampaikan topik besok."
+    }
+  ]
+}

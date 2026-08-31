@@ -1,0 +1,265 @@
+{
+  "id": "a1-l63",
+  "course_id": "english-a1",
+  "module_title": "Belanja",
+  "level": "A1",
+  "title": "Menanyakan Harga",
+  "subtitle": "How much is this? How much are these?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menanyakan harga dengan How much is/are",
+    "Menggunakan is untuk benda tunggal dan are untuk jamak",
+    "Merespons pertanyaan harga dengan benar"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang menyebutkan harga. Coba, siapa yang bisa kasih contoh 'It is ___ rupiah'? Bagus, *It is twenty thousand rupiah*. Hari ini kita akan belajar cara menanyakan harga dengan sopan. Coba, kalau kamu di toko dan ingin tahu harga, apa yang kamu katakan? Dalam bahasa Indonesia: 'Berapa harganya?' Dalam bahasa Inggris: *How much is it?* Tapi ada perbedaan untuk tunggal dan jamak. Itulah yang akan kita pelajari. Rencana: kita pelajari *How much is this?* untuk tunggal dan *How much are these?* untuk jamak, serta frasa pelengkap. Ayo mulai!",
+      "instructions": "Tulis di papan dua pertanyaan: 'How much is this?' (tunggal) dan 'How much are these?' (jamak). Tunjuk satu benda dan banyak benda untuk menunjukkan perbedaan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pertanyaan Harga: Tunggal vs Jamak\n\n| Pertanyaan | Arti | Kapan dipakai |\n|---|---|---|\n| How much is this? | Berapa harga ini? | satu benda, dekat |\n| How much is that? | Berapa harga itu? | satu benda, jauh |\n| How much are these? | Berapa harganya? (jamak) | beberapa benda, dekat |\n| How much are those? | Berapa harganya? (jamak) | beberapa benda, jauh |\n\n## Cara Menjawab\n\n**Tunggal:**\n- It is **20,000 rupiah**.\n- It's **fifty thousand rupiah**.\n\n**Jamak:**\n- They are **15,000 rupiah each**.\n- They're **5,000 rupiah each**.\n- They are **30,000 rupiah for all**.\n\n## Frasa Lain untuk Menanyakan Harga\n\n- **How much does it cost?** → Berapa harganya? (lebih formal)\n- **What's the price?** → Berapa harganya? (langsung)\n- **How much do they cost?** → Berapa harganya? (jamak)\n\n## Frasa Toko Berguna\n\n- **Excuse me** — permisi (memanggil penjual)\n- **Can I help you?** — Bisa saya bantu?\n- **I'm just looking, thanks** — Saya hanya lihat-lihat, terima kasih\n- **I'll take it** — Saya akan ambil ini\n- **That's all, thank you** — Itu saja, terima kasih\n- **Can I have a receipt?** — Boleh minta struk?\n\n## Contoh Lengkap\n\n**A:** Excuse me, how much is this shirt?\n\n**B:** It is one hundred thousand rupiah.\n\n**A:** And these pants?\n\n**B:** They are eighty thousand rupiah each.\n\n**A:** I'll take the shirt and the pants.\n\n**B:** OK. Total is one hundred and eighty thousand rupiah.\n\n> **Hindari:** mengatakan 'How much this?' tanpa *is*. Yang benar *How much is this?*. Hindari juga 'How much is these shoes?' — sebab *shoes* jamak, pakai *How much are these shoes?*.",
+      "key_points": [
+        "How much is this/that? = tunggal (satu benda)",
+        "How much are these/those? = jamak (beberapa benda)",
+        "Jawaban tunggal: It is ___ rupiah",
+        "Jawaban jamak: They are ___ rupiah each",
+        "How much does it cost? = Berapa harganya? (formal)",
+        "What's the price? = Berapa harganya? (langsung)",
+        "each = masing-masing (untuk harga satuan jamak)",
+        "I'll take it = Saya akan ambil ini"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "price",
+          "id": "harga",
+          "phonetic": "/praɪs/",
+          "example_en": "What is the price?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "money",
+          "id": "uang",
+          "phonetic": "/ˈmʌni/",
+          "example_en": "I have some money.",
+          "example_id": "Saya punya uang."
+        },
+        {
+          "en": "cheap",
+          "id": "murah",
+          "phonetic": "/tʃiːp/",
+          "example_en": "This bag is cheap.",
+          "example_id": "Tas ini murah."
+        },
+        {
+          "en": "expensive",
+          "id": "mahal",
+          "phonetic": "/ɪkˈspensɪv/",
+          "example_en": "The watch is expensive.",
+          "example_id": "Jam itu mahal."
+        },
+        {
+          "en": "buy",
+          "id": "membeli",
+          "phonetic": "/baɪ/",
+          "example_en": "I buy apples at the market.",
+          "example_id": "Saya membeli apel di pasar."
+        },
+        {
+          "en": "pay",
+          "id": "membayar",
+          "phonetic": "/peɪ/",
+          "example_en": "I pay at the cashier.",
+          "example_id": "Saya membayar di kasir."
+        },
+        {
+          "en": "cashier",
+          "id": "kasir",
+          "phonetic": "/kæˈʃɪr/",
+          "example_en": "The cashier is friendly.",
+          "example_id": "Kasirnya ramah."
+        },
+        {
+          "en": "change",
+          "id": "kembalian",
+          "phonetic": "/tʃeɪndʒ/",
+          "example_en": "Here is your change.",
+          "example_id": "Ini kembalian Anda."
+        },
+        {
+          "en": "receipt",
+          "id": "struk",
+          "phonetic": "/rɪˈsiːt/",
+          "example_en": "Can I have the receipt?",
+          "example_id": "Boleh saya minta struknya?"
+        },
+        {
+          "en": "how much",
+          "id": "berapa (harga)",
+          "phonetic": "/haʊ mʌtʃ/",
+          "example_en": "How much is this?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "this",
+          "id": "ini",
+          "phonetic": "/ðɪs/",
+          "example_en": "How much is this book?",
+          "example_id": "Berapa harga buku ini?"
+        },
+        {
+          "en": "that",
+          "id": "itu",
+          "phonetic": "/ðæt/",
+          "example_en": "How much is that?",
+          "example_id": "Berapa harga itu?"
+        },
+        {
+          "en": "these",
+          "id": "ini (jamak)",
+          "phonetic": "/ðiːz/",
+          "example_en": "How much are these?",
+          "example_id": "Berapa harganya? (jamak)"
+        },
+        {
+          "en": "those",
+          "id": "itu (jamak)",
+          "phonetic": "/ðoʊz/",
+          "example_en": "How much are those?",
+          "example_id": "Berapa harganya? (jamak)"
+        },
+        {
+          "en": "each",
+          "id": "masing-masing",
+          "phonetic": "/iːtʃ/",
+          "example_en": "They are 5,000 each.",
+          "example_id": "Masing-masing 5,000."
+        },
+        {
+          "en": "cost",
+          "id": "biaya",
+          "phonetic": "/kɒst/",
+          "example_en": "How much does it cost?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "total",
+          "id": "total",
+          "phonetic": "/ˈtoʊtl/",
+          "example_en": "What's the total?",
+          "example_id": "Berapa totalnya?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill tunggal/jamak**: Guru menunjuk satu benda atau banyak benda, siswa memilih 'How much is this?' atau 'How much are these?'.\n2. **Pair work 'Customer and seller'**: Siswa A bertanya harga 5 item, B menjawab dengan 'It is ___' atau 'They are ___'.\n3. **Fill-in-the-blank**: Lengkapi — (a) How much ___ this? (b) How much ___ these shoes? (c) ___ does it cost? (d) They are 5,000 ___.\n4. **Role play 'Mini market'**: Skenario belanja — tanyakan harga 4 item, satu tunggal dan tiga jamak, lalu putuskan beli atau tidak.\n5. **Error correction**: Perbaiki — 'How much this?', 'How much is these?', 'They is 5,000', 'How much it costs?'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning! Welcome to our shop. Can I help you?",
+          "id": "Selamat pagi! Selamat datang. Bisa bantu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good morning. Yes, I'm looking for some things.",
+          "id": "Selamat pagi. Ya, saya cari beberapa barang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. What would you like to see?",
+          "id": "Tentu. Mau lihat apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Excuse me, how much is this shirt?",
+          "id": "Permisi, berapa harga kemeja ini?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It is one hundred thousand rupiah.",
+          "id": "Seratus ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "And these pants? How much are they?",
+          "id": "Dan celana ini? Berapa harganya?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "They are eighty thousand rupiah each.",
+          "id": "Masing-masing delapan puluh ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "How much are those shoes over there?",
+          "id": "Sepatu di sana berapa?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Those shoes are two hundred thousand rupiah.",
+          "id": "Sepatu itu dua ratus ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's expensive! Do you have cheaper ones?",
+          "id": "Itu mahal! Ada yang lebih murah?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, these are one hundred and fifty thousand rupiah.",
+          "id": "Ya, ini seratus lima puluh ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "OK. How much does this hat cost?",
+          "id": "Baik. Topi ini berapa?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It costs twenty-five thousand rupiah. Very cheap.",
+          "id": "Harganya dua puluh lima ribu rupiah. Sangat murah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'll take the shirt, the pants, and the hat. What's the total?",
+          "id": "Saya ambil kemeja, celana, dan topi. Berapa total?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Total is two hundred and five thousand rupiah.",
+          "id": "Totalnya dua ratus lima ribu rupiah."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar cara menanyakan harga: *How much is this?* untuk tunggal dan *How much are these?* untuk jamak. Kita juga belajar frasa toko seperti *Excuse me*, *I'll take it*, dan *Can I have a receipt?*. Ingat, untuk jamak selalu pakai *are*. Sebelum tutup, dua pertanyaan: bagaimana menanyakan harga satu buku? Bagaimana menanyakan harga beberapa apel? Untuk pekerjaan rumah, buatlah dialog belanja 10 baris — tanyakan harga minimal 4 item (2 tunggal, 2 jamak) dan putuskan beli atau tidak. Besok kita akan belajar menanyakan kuantitas: *How many* vs *How much*. Sampai jumpa!",
+      "instructions": "Rangkum dua pertanyaan harga di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR dialog 10 baris dan sampaikan topik besok."
+    }
+  ]
+}

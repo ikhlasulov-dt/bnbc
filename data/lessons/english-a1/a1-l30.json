@@ -1,0 +1,221 @@
+{
+  "id": "a1-l30",
+  "course_id": "english-a1",
+  "module_title": "Rutinitas Harian",
+  "level": "A1",
+  "title": "Penghubung Waktu",
+  "subtitle": "first, then, after that, next, finally",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengenal 5 penghubung waktu untuk urutan kegiatan",
+    "Menempatkan penghubung di awal kalimat",
+    "Menceritakan urutan kegiatan pagi dengan runtut"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar bentuk tanya Do/Does. Hari ini kita akan belajar penghubung waktu (time connectors) untuk merangkai kegiatan secara berurutan. Pernahkah kalian ingin bercerita 'pertama saya bangun, lalu saya mandi, setelah itu saya sarapan' dalam Inggris? Itu yang akan kita pelajari. Tujuan kita: kalian bisa merangkai 4-5 kegiatan rutinitas dengan penghubung waktu yang tepat. Kita mulai dari teori penghubung, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'What do you do first in the morning?'. Tulis 'First, ___. Then, ___. After that, ___. Finally, ___.' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Penghubung Waktu\n\nPenghubung waktu (time connectors) menyambungkan kegiatan secara berurutan sehingga cerita terdengar mengalir dan jelas.\n\n### Penghubung Urutan\n\n| Penghubung | Arti | Posisi |\n|---|---|---|\n| First | Pertama | Awal kalimat |\n| Then | Kemudian | Awal atau tengah |\n| After that | Setelah itu | Awal kalimat |\n| Next | Selanjutnya | Awal kalimat |\n| Finally | Akhirnya | Awal kalimat |\n| Before + V-ing | Sebelum ___ | Awal atau tengah |\n| After + V-ing | Setelah ___ | Awal atau tengah |\n\n### Pola Cerita Berurutan\n\n**Struktur ideal cerita rutinitas:**\n1. *First, I wake up at 6.*\n2. *Then, I take a shower.*\n3. *After that, I have breakfast.*\n4. *Next, I go to school.*\n5. *Finally, I come home at 3.*\n\n### Aturan Penggunaan\n\n1. **First/Next/Finally** biasanya di **awal kalimat**, diikuti **koma**.\n   - *First, I wake up at 6.*\n   - *Next, I take a shower.*\n   - *Finally, I go to bed.*\n2. **Then** bisa di awal atau setelah subjek.\n   - Awal: *Then, I eat breakfast.*\n   - Tengah: *I then eat breakfast.*\n3. **After that** di awal kalimat, diikuti koma.\n   - *After that, I go to school.*\n4. **Before/After + V-ing**: sebelum/setelah melakukan sesuatu.\n   - *Before eating, I wash my hands.* — Sebelum makan, saya cuci tangan.\n   - *After studying, I play with friends.* — Setelah belajar, saya bermain dengan teman.\n\n### Contoh Paragraf Rutinitas\n\n*First, I wake up at 6 a.m. Then, I take a shower and brush my teeth. After that, I have breakfast with my family. Next, I go to school at 7. I study until 3 p.m. Finally, I come home and do my homework before dinner.*\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What do you do in the morning?\n- B: First, I wake up at 6. Then, I take a shower. After that, I have breakfast. Finally, I go to school.\n- A: That's a busy morning!\n\n**Dialog 2:**\n- A: What does your mother do every day?\n- B: First, she cooks breakfast. Then, she goes to work. After work, she picks me up. Finally, we have dinner together.\n\n> **Hindari:** Jangan lupa koma setelah First, Next, Then (di awal), After that, Finally. Jangan terlalu banyak penghubung berurutan — variasikan dengan before/after. Jangan mengulang kata kerja yang sama: *Then I wake up. Then I shower.* → lebih baik *Then I take a shower.*\n\n### Cara Mengucapkan\n\n- **First** /fɜːrst/\n- **Then** /ðen/\n- **After that** /ˈæftər ðæt/\n- **Next** /nekst/\n- **Finally** /ˈfaɪnəli/\n- **Before** /bɪˈfɔːr/, **After** /ˈæftər/\n\n### Tips\n\n1. Mulai cerita dengan First, akhiri dengan Finally.\n2. variasikan penghubung: Then, After that, Next.\n3. Untuk sebelum/setelah + kegiatan, pakai Before/After + V-ing.",
+      "key_points": [
+        "Penghubung urutan: First, Then, After that, Next, Finally",
+        "First/Next/Finally di awal kalimat, diikuti koma",
+        "Then bisa di awal atau setelah subjek",
+        "After that di awal kalimat, diikuti koma",
+        "Before/After + V-ing (Before eating, After studying)",
+        "Struktur cerita: First → Then → After that → Next → Finally",
+        "Jangan lupa koma setelah penghubung di awal kalimat",
+        "Variasikan penghubung agar tidak monoton"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "wake up",
+          "id": "bangun tidur",
+          "phonetic": "/weɪk ʌp/",
+          "example_en": "I wake up at six.",
+          "example_id": "Saya bangun jam enam."
+        },
+        {
+          "en": "get up",
+          "id": "turun dari tempat tidur",
+          "phonetic": "/ɡet ʌp/",
+          "example_en": "I get up at 6:30.",
+          "example_id": "Saya turun dari tempat tidur jam 6:30."
+        },
+        {
+          "en": "eat breakfast",
+          "id": "makan sarapan",
+          "phonetic": "/iːt ˈbrekfəst/",
+          "example_en": "I eat breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "go to school",
+          "id": "pergi ke sekolah",
+          "phonetic": "/ɡoʊ tuː skuːl/",
+          "example_en": "I go to school by bike.",
+          "example_id": "Saya ke sekolah naik sepeda."
+        },
+        {
+          "en": "study",
+          "id": "belajar",
+          "phonetic": "/ˈstʌdi/",
+          "example_en": "I study English.",
+          "example_id": "Saya belajar bahasa Inggris."
+        },
+        {
+          "en": "play",
+          "id": "bermain",
+          "phonetic": "/pleɪ/",
+          "example_en": "I play with friends.",
+          "example_id": "Saya bermain dengan teman."
+        },
+        {
+          "en": "go home",
+          "id": "pulang",
+          "phonetic": "/ɡoʊ hoʊm/",
+          "example_en": "I go home at three.",
+          "example_id": "Saya pulang jam tiga."
+        },
+        {
+          "en": "sleep",
+          "id": "tidur",
+          "phonetic": "/sliːp/",
+          "example_en": "I sleep at nine.",
+          "example_id": "Saya tidur jam sembilan."
+        },
+        {
+          "en": "every day",
+          "id": "setiap hari",
+          "phonetic": "/ˈevri deɪ/",
+          "example_en": "I study every day.",
+          "example_id": "Saya belajar setiap hari."
+        },
+        {
+          "en": "always",
+          "id": "selalu",
+          "phonetic": "/ˈɔːlweɪz/",
+          "example_en": "I always brush my teeth.",
+          "example_id": "Saya selalu gosok gigi."
+        },
+        {
+          "en": "usually",
+          "id": "biasanya",
+          "phonetic": "/ˈjuːʒuəli/",
+          "example_en": "I usually wake up early.",
+          "example_id": "Saya biasanya bangun pagi."
+        },
+        {
+          "en": "sometimes",
+          "id": "kadang-kadang",
+          "phonetic": "/ˈsʌmtaɪmz/",
+          "example_en": "I sometimes read at night.",
+          "example_id": "Saya kadang membaca di malam hari."
+        },
+        {
+          "en": "then",
+          "id": "kemudian",
+          "phonetic": "/ðen/",
+          "example_en": "I eat, then I study.",
+          "example_id": "Saya makan, lalu belajar."
+        },
+        {
+          "en": "after that",
+          "id": "setelah itu",
+          "phonetic": "/ˈæftər ðæt/",
+          "example_en": "After that, I go home.",
+          "example_id": "Setelah itu, saya pulang."
+        },
+        {
+          "en": "next",
+          "id": "selanjutnya",
+          "phonetic": "/nekst/",
+          "example_en": "Next, I take a shower.",
+          "example_id": "Selanjutnya, saya mandi."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 5 penghubung waktu 2x setelah guru. (2) **Urutan kegiatan:** guru menyebut 4 kegiatan acak (eat, wake up, go to school, shower), murid menyusun dengan penghubung. (3) **Isian:** '___, I wake up. ___, I take a shower. ___ that, I have breakfast. ___, I go to school.' (4) **Role play:** dua murid saling menceritakan rutinitas pagi dengan penghubung. (5) **Koreksi:** tulis di papan 'I wake up first, shower then, after breakfast, go to school finally' (posisi salah), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you do in the morning?",
+          "id": "Apa yang kamu lakukan di pagi hari?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "First, I wake up at 6.",
+          "id": "Pertama, saya bangun pukul 6."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Then what?",
+          "id": "Lalu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Then, I take a shower. After that, I have breakfast.",
+          "id": "Kemudian, saya mandi. Setelah itu, saya sarapan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And next?",
+          "id": "Dan selanjutnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Next, I go to school at 7.",
+          "id": "Selanjutnya, saya pergi ke sekolah pukul 7."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about after school?",
+          "id": "Bagaimana setelah sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Finally, I come home at 3 and do homework.",
+          "id": "Akhirnya, saya pulang pukul 3 dan kerjakan PR."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about before bed?",
+          "id": "Bagaimana sebelum tidur?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Before sleeping, I read a book.",
+          "id": "Sebelum tidur, saya membaca buku."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kita belajar penghubung waktu: First, Then, After that, Next, Finally, serta Before/After + V-ing. Yang paling penting: gunakan penghubung di awal kalimat dengan koma, dan variasikan agar cerita mengalir. Pertanyaan untuk kalian: bagaimana merangkai 3 kegiatan dengan penghubung? Dan apa pola Before/After + V-ing? Untuk PR, tulis paragraf rutinitas pagimu (5-7 kalimat) dengan penghubung waktu. Besok kita akan belajar kosakata rutinitas harian lebih banyak. Sampai jumpa!",
+      "instructions": "Rangkum penghubung waktu. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

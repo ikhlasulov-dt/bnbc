@@ -1,0 +1,200 @@
+{
+  "id": "a1-l03",
+  "course_id": "english-a1",
+  "module_title": "Sapaan dan Perkenalan",
+  "level": "A1",
+  "title": "Menanyakan Kabar",
+  "subtitle": "How are you? dan jawabannya",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menanyakan kabar dengan How are you?",
+    "Menjawab pertanyaan kabar dengan beberapa variasi jawaban",
+    "Mengenal sapaan informal How's it going? dan What's up?"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Minggu lalu kita belajar sapaan waktu: Good morning, Good afternoon, Good evening, dan Good night. Hari ini kita akan belajar pertanyaan yang paling sering muncul setelah sapaan, yaitu 'How are you?' — 'apa kabar?'. Pernahkah kalian ditanya 'apa kabar?' lalu bingung harus jawab apa dalam bahasa Inggris? Hari ini kita akan menyelesaikan masalah itu. Kita akan belajar bagaimana menanyakan kabar, beberapa cara menjawab (baik, sibuk, lelah), dan ungkapan 'Nice to meet you' saat baru berkenalan. Tujuan kita: di akhir kelas, kalian bisa membuka percakapan 1 menit penuh dengan orang baru dalam bahasa Inggris. Mari kita mulai!",
+      "instructions": "Sapa dengan 'Good morning, how are you?' Tunggu jawaban spontan. Tulis 'How are you?' di papan dengan beberapa pilihan jawaban di bawahnya. Perkenalkan tujuan dan struktur kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menanyakan Kabar\n\nSetelah menyapa dengan Hello atau Good morning, langkah berikutnya dalam percakapan adalah **menanyakan kabar**. Ini adalah bagian penting dari etika sosial berbahasa Inggris.\n\n### Pertanyaan Utama: How are you?\n\n| Pertanyaan | Kapan dipakai | Tingkat formal |\n|---|---|---|\n| How are you? | Umum, formal maupun santai | Netral |\n| How are you doing? | Sedikit lebih santai | Santai |\n| How's it going? | Sangat santai, ke teman | Informal |\n| How do you do? | Sangat formal, perkenalan resmi | Formal |\n\n### Cara Menjawab\n\nJawaban standar untuk *How are you?* biasanya singkat dan diikuti *Thank you*.\n\n| Jawaban | Arti | Nuansa |\n|---|---|---|\n| I'm fine, thank you. | Saya baik, terima kasih. | Netral, aman |\n| I'm good, thanks. | Saya baik, makasih. | Santai |\n| I'm okay. | Saya baik-baik saja. | Netral |\n| Not bad. | Tidak buruk. | Santai, sedikit biasa |\n| I'm great! | Saya hebat! | Sangat positif |\n| I'm a bit tired. | Saya agak lelah. | Jujur, ke orang dekat |\n| I'm busy. | Saya sibuk. | Netral, jujur |\n\nSetelah menjawab, sopan untuk bertanya balik: *And you?* atau *How about you?*\n\n### Nice to Meet You\n\nSaat baru berkenalan dengan seseorang, ungkapan wajib adalah **Nice to meet you** (senang bertemu denganmu). Setelah sapaan dan perkenalan, ucapkan:\n\n- A: Hi, I'm Sarah. Nice to meet you!\n- B: Nice to meet you too!\n\n> **Hindari:** Jangan menjawab 'I'm fine' saja tanpa 'thank you' — terdengar dingin. Jangan menjawab dengan cerita panjang tentang masalahmu kecuali ditanya. Jangan lupa bertanya balik 'And you?' agar percakapan dua arah.\n\n### Cara Mengucapkan\n\n- **How are you?** /haʊ ɑːr juː/ — intonasi naik di akhir.\n- **I'm fine, thank you.** /aɪm faɪn θæŋk juː/ — tekanan di FINE dan THANK.\n- **Nice to meet you.** /naɪs tuː miːt juː/ — tekanan di NICE dan MEET.\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (resmi):**\n- A: Good morning, Mr. Brown. How are you?\n- B: I'm fine, thank you. And you?\n- A: I'm good, thanks.\n\n**Dialog 2 (baru kenal):**\n- A: Hi, I'm Andi. Nice to meet you!\n- B: Nice to meet you too! How are you doing?\n- A: I'm great, thanks.\n\n**Dialog 3 (santai):**\n- A: Hey, how's it going?\n- B: Not bad. You?\n- A: Pretty good, thanks.\n\n### Tips\n\n1. Selalu akhiri jawaban dengan *thank you* atau *thanks*.\n2. Selalu tanya balik dengan *And you?* atau *How about you?*.\n3. *Nice to meet you* dipakai saat baru kenal; jangan dipakai ke orang yang sudah lama dikenal.",
+      "key_points": [
+        "How are you? = pertanyaan kabar paling umum",
+        "How's it going? = versi santai, untuk teman",
+        "Jawaban standar: I'm fine/good/okay, + thank you",
+        "Selalu tanya balik dengan 'And you?' atau 'How about you?'",
+        "Nice to meet you = senang bertemu (saat baru kenal)",
+        "Nice to meet you too = jawaban Nice to meet you",
+        "Intonasi How are you? naik di akhir (tanya)",
+        "Jangan jawab panjang lebar; cukup singkat dan sopan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "How are you?",
+          "id": "Apa kabar?",
+          "phonetic": "/haʊ ɑːr juː/",
+          "example_en": "Hello! How are you?",
+          "example_id": "Halo! Apa kabar?"
+        },
+        {
+          "en": "I'm fine, thank you",
+          "id": "Saya baik-baik saja, terima kasih",
+          "phonetic": "/aɪm faɪn θæŋk juː/",
+          "example_en": "I'm fine, thank you. And you?",
+          "example_id": "Saya baik, terima kasih. Dan Anda?"
+        },
+        {
+          "en": "Nice to meet you",
+          "id": "Senang bertemu denganmu",
+          "phonetic": "/naɪs tuː miːt juː/",
+          "example_en": "Nice to meet you, John.",
+          "example_id": "Senang bertemu denganmu, John."
+        },
+        {
+          "en": "Hello",
+          "id": "Halo",
+          "phonetic": "/həˈloʊ/",
+          "example_en": "Hello, how are you?",
+          "example_id": "Halo, apa kabar?"
+        },
+        {
+          "en": "Hi",
+          "id": "Hai",
+          "phonetic": "/haɪ/",
+          "example_en": "Hi, I'm Sarah.",
+          "example_id": "Hai, saya Sarah."
+        },
+        {
+          "en": "Good morning",
+          "id": "Selamat pagi",
+          "phonetic": "/ɡʊd ˈmɔːrnɪŋ/",
+          "example_en": "Good morning, teacher!",
+          "example_id": "Selamat pagi, Bu!"
+        },
+        {
+          "en": "Good afternoon",
+          "id": "Selamat sore",
+          "phonetic": "/ɡʊd ˌæftərˈnuːn/",
+          "example_en": "Good afternoon, everyone.",
+          "example_id": "Selamat sore, semua."
+        },
+        {
+          "en": "Good evening",
+          "id": "Selamat malam",
+          "phonetic": "/ɡʊd ˈiːvnɪŋ/",
+          "example_en": "Good evening, Mr. Smith.",
+          "example_id": "Selamat malam, Pak Smith."
+        },
+        {
+          "en": "Thank you",
+          "id": "Terima kasih",
+          "phonetic": "/ˈθæŋk juː/",
+          "example_en": "Thank you very much!",
+          "example_id": "Terima kasih banyak!"
+        },
+        {
+          "en": "You're welcome",
+          "id": "Sama-sama",
+          "phonetic": "/jʊər ˈwelkəm/",
+          "example_en": "You're welcome!",
+          "example_id": "Sama-sama!"
+        },
+        {
+          "en": "What's your name?",
+          "id": "Siapa namamu?",
+          "phonetic": "/wɒts jɔːr neɪm/",
+          "example_en": "Hi! What's your name?",
+          "example_id": "Hai! Siapa namamu?"
+        },
+        {
+          "en": "My name is",
+          "id": "Nama saya",
+          "phonetic": "/maɪ neɪm ɪz/",
+          "example_en": "My name is Budi.",
+          "example_id": "Nama saya Budi."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Jalankan 4 latihan berurutan. (1) **Drill:** murid mengulang How are you?, I'm fine thank you, Nice to meet you 3x setelah guru dengan intonasi yang tepat. (2) **Pasangan A-B:** dua murid saling menyapa, bertanya kabar, dan menyebut nama masing-masing. (3) **Isian:** lengkapi 'How are you? — I'm ___, ___.' dengan jawaban yang bervariasi (fine/good/great/okay). (4) **Role play:** satu murid jadi orang baru di pesta, satu jadi tuan rumah; gunakan sapaan, How are you?, dan Nice to meet you dalam dialog 6 baris. (5) **Koreksi:** tulis di papan 'I'm fine' (tanpa thank you) dan 'And you' (tanpa tanda tanya), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning! How are you today?",
+          "id": "Selamat pagi! Apa kabar hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm fine, thank you. And you?",
+          "id": "Saya baik, terima kasih. Dan Anda?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I'm good, thanks. Class, meet our new student, Sarah.",
+          "id": "Saya baik, makasih. Kelas, kenalkan murid baru kita, Sarah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hi! I'm Sarah. Nice to meet you!",
+          "id": "Hai! Saya Sarah. Senang bertemu kalian!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Nice to meet you too! How are you doing?",
+          "id": "Senang bertemu juga! Apa kabar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm great, thanks. How about you?",
+          "id": "Saya hebat, makasih. Bagaimana denganmu?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How's it going, Andi?",
+          "id": "Bagaimana kabarmu, Andi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Not bad, teacher. I'm a bit tired.",
+          "id": "Tidak buruk, Bu. Saya agak lelah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Get some rest after class. Thank you, everyone!",
+          "id": "Istirahatlah setelah kelas. Terima kasih, semua!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You're welcome. Goodbye, teacher!",
+          "id": "Sama-sama. Selamat tinggal, Bu!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kita sudah belajar menanyakan kabar dengan How are you?, beberapa cara menjawab (I'm fine, I'm good, I'm great), dan ungkapan Nice to meet you untuk situasi perkenalan. Yang paling penting diingat: selalu akhiri jawaban dengan thank you, dan selalu tanya balik dengan And you? agar percakapan terasa hangat dan dua arah. Pertanyaan untuk kalian: kalau seseorang bertanya 'How are you?', apa tiga jawaban yang bisa kamu berikan? Dan kapan kamu memakai 'Nice to meet you'? Untuk PR, tulis 2 dialog pendek (masing-masing 4 baris) antara kamu dan orang baru di sekolah. Besok kita akan belajar perkenalan diri lengkap: My name is, What's your name, dan I'm from. Sampai jumpa besok!",
+      "instructions": "Rangkum 3 hal utama: pertanyaan How are you?, jawaban dengan thank you + And you?, dan Nice to meet you. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'Goodbye, see you tomorrow!'"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "a1-l16",
+  "course_id": "english-a1",
+  "module_title": "Keluarga",
+  "level": "A1",
+  "title": "Menanyakan Identitas: Who",
+  "subtitle": "Who is she? Who is that boy?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan kata tanya who untuk menanyakan identitas orang",
+    "Menjawab pertanyaan Who dengan She is / He is / They are",
+    "Menanyakan pekerjaan dengan What does your father do?"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar menyatakan jumlah saudara dengan have/has. Hari ini kita akan belajar menanyakan identitas seseorang menggunakan kata tanya Who. Pernahkah kalian lihat foto keluarga teman dan ingin tanya 'siapa dia'? Dalam bahasa Inggris, itu pakai Who. Tujuan kita: kalian bisa menanyakan dan menjawab identitas seseorang dengan Who is...? dan Who are...?. Kita mulai dari teori pola Who, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tunjukkan foto orang tidak dikenal: 'Who is this?'. Tulis 'Who is he/she?' dan 'Who are they?' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menanyakan Identitas: Who\n\nKata tanya **Who** berarti 'siapa'. Dipakai untuk menanyakan identitas orang.\n\n### Pola Pertanyaan dengan Who\n\n| Pertanyaan | Arti | Untuk siapa |\n|---|---|---|\n| Who is he? | Siapa dia (laki-laki)? | Satu orang laki-laki |\n| Who is she? | Siapa dia (perempuan)? | Satu orang perempuan |\n| Who is it? | Siapa itu? | Orang tidak jelas gender/jarak jauh |\n| Who are they? | Siapa mereka? | Beberapa orang |\n| Who is that? | Siapa itu? | Orang jauh/tidak dikenal |\n| Who am I? | Siapa saya? | Memanggil diri sendiri |\n\n### Pola Jawaban\n\nPertanyaan Who biasanya dijawab dengan kalimat identifikasi:\n\n- *Who is he? — He is my father.*\n- *Who is she? — She is my teacher.*\n- *Who are they? — They are my friends.*\n- *Who is that? — That is my brother.*\n\nBisa juga dijawab singkat dengan nama saja:\n- *Who is he? — Andi.*\n- *Who is she? — Ms. Sarah.*\n\n### Who + To Be\n\nWho selalu diikuti to be (is/are/am):\n\n- *Who* **is** *he?* (tunggal) → jawab *He is...*\n- *Who* **are** *they?* (jamak) → jawab *They are...*\n- *Who* **am** *I?* (subjek I) → jawab *You are...*\n\n### Pertanyaan dengan Whose\n\nSelain Who, ada juga **Whose** = 'milik siapa'.\n\n- *Whose book is this?* — Buku siapa ini?\n- *Whose car is that?* — Mobil siapa itu?\n- Jawab: *It's Andi's.* atau *It's my father's.*\n\n### Contoh Lengkap\n\n- *Who is that boy?* — Siapa anak laki-laki itu?\n- *Who are the people in the photo?* — Siapa orang-orang di foto itu?\n- *Who is your English teacher?* — Siapa guru bahasa Inggrismu?\n- *Whose bag is this?* — Tas siapa ini?\n- *Whose car is that?* — Mobil siapa itu?\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: Who is he?\n- B: He is my father.\n- A: Who is the woman next to him?\n- B: She is my mother.\n\n**Dialog 2:**\n- A: Who are they in this photo?\n- B: They are my cousins.\n- A: Whose bike is that?\n- B: It's Andi's bike.\n\n> **Hindari:** Jangan menulis 'Who he is?' (harusnya *Who is he?*). Jangan tertukar *Who* (siapa) dan *Whose* (milik siapa). Jangan menjawab 'Yes' atau 'No' untuk pertanyaan Who — itu bukan yes/no question.\n\n### Cara Mengucapkan\n\n- **Who** /huː/ — dibaca 'huu', bukan 'wo'.\n- **Whose** /huːz/ — sama dengan *Who* + z.\n- **Who is** sering diucapkan *Who's* /huːz/.\n\n### Tips\n\n1. Who selalu diikuti to be (is/are/am).\n2. Pertanyaan Who bukan yes/no — jawab dengan identitas.\n3. Bedakan Who (siapa) dan Whose (milik siapa).",
+      "key_points": [
+        "Who = siapa (untuk menanyakan identitas orang)",
+        "Who is he/she? = siapa dia (laki-laki/perempuan)?",
+        "Who are they? = siapa mereka? (jamak)",
+        "Who always diikuti to be (is/are/am)",
+        "Whose = milik siapa (untuk menanyakan pemilik)",
+        "Pertanyaan Who bukan yes/no — jawab dengan identitas",
+        "Who dibaca /huː/, Whose dibaca /huːz/",
+        "Who's = contraction dari Who is / Who has"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "family",
+          "id": "keluarga",
+          "phonetic": "/ˈfæməli/",
+          "example_en": "This is my family.",
+          "example_id": "Ini keluarga saya."
+        },
+        {
+          "en": "father",
+          "id": "ayah",
+          "phonetic": "/ˈfɑːðər/",
+          "example_en": "My father is a doctor.",
+          "example_id": "Ayah saya seorang dokter."
+        },
+        {
+          "en": "mother",
+          "id": "ibu",
+          "phonetic": "/ˈmʌðər/",
+          "example_en": "My mother is a teacher.",
+          "example_id": "Ibu saya seorang guru."
+        },
+        {
+          "en": "brother",
+          "id": "saudara laki-laki",
+          "phonetic": "/ˈbrʌðər/",
+          "example_en": "I have one brother.",
+          "example_id": "Saya punya satu saudara laki-laki."
+        },
+        {
+          "en": "sister",
+          "id": "saudara perempuan",
+          "phonetic": "/ˈsɪstər/",
+          "example_en": "My sister is younger.",
+          "example_id": "Kakak perempuan saya lebih muda."
+        },
+        {
+          "en": "uncle",
+          "id": "paman",
+          "phonetic": "/ˈʌŋkl/",
+          "example_en": "My uncle lives in Jakarta.",
+          "example_id": "Paman saya tinggal di Jakarta."
+        },
+        {
+          "en": "aunt",
+          "id": "bibi",
+          "phonetic": "/ænt/",
+          "example_en": "My aunt is funny.",
+          "example_id": "Bibi saya lucu."
+        },
+        {
+          "en": "cousin",
+          "id": "sepupu",
+          "phonetic": "/ˈkʌzn/",
+          "example_en": "My cousin is my age.",
+          "example_id": "Sepupu saya sebaya dengan saya."
+        },
+        {
+          "en": "grandfather",
+          "id": "kakek",
+          "phonetic": "/ˈɡrænfɑːðər/",
+          "example_en": "My grandfather is 70.",
+          "example_id": "Kakek saya berumur 70 tahun."
+        },
+        {
+          "en": "grandmother",
+          "id": "nenek",
+          "phonetic": "/ˈɡrænmʌðər/",
+          "example_en": "My grandmother cooks well.",
+          "example_id": "Nenek saya masak enak."
+        },
+        {
+          "en": "parents",
+          "id": "orang tua",
+          "phonetic": "/ˈperənts/",
+          "example_en": "My parents are kind.",
+          "example_id": "Orang tua saya baik."
+        },
+        {
+          "en": "son",
+          "id": "putra",
+          "phonetic": "/sʌn/",
+          "example_en": "He is my son.",
+          "example_id": "Dia putra saya."
+        },
+        {
+          "en": "daughter",
+          "id": "putri",
+          "phonetic": "/ˈdɔːtər/",
+          "example_en": "She is my daughter.",
+          "example_id": "Dia putri saya."
+        },
+        {
+          "en": "who",
+          "id": "siapa",
+          "phonetic": "/huː/",
+          "example_en": "Who is he?",
+          "example_id": "Siapa dia?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang Who is he/she/it? Who are they? Whose...? 2x setelah guru. (2) **Tanya-jawab foto:** tampilkan foto keluarga, murid menanyakan Who is he/she? secara bergiliran. (3) **Isian:** '___ is he? ___ is my father. ___ bag is this? It's Andi's.' (4) **Role play:** dua murid saling menanyakan identitas orang di foto masing-masing. (5) **Koreksi:** tulis di papan 'Who he is? Yes.' dan minta murid memperbaiki menjadi 'Who is he? He is my father.'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is he in this photo?",
+          "id": "Siapa dia di foto ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is my father.",
+          "id": "Dia ayah saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And who is the woman next to him?",
+          "id": "Dan siapa perempuan di sebelahnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is my mother.",
+          "id": "Dia ibu saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who are the children?",
+          "id": "Siapa anak-anak itu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They are my cousins.",
+          "id": "Mereka sepupu-sepupu saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Whose bike is that?",
+          "id": "Sepeda siapa itu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's Andi's bike.",
+          "id": "Itu sepeda Andi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is your English teacher?",
+          "id": "Siapa guru bahasa Inggrismu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My English teacher is Ms. Sarah.",
+          "id": "Guru bahasa Inggris saya Bu Sarah."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kita belajar menanyakan identitas dengan Who (siapa) dan Whose (milik siapa). Who selalu diikuti to be (is/are/am), dan pertanyaan Who bukan yes/no — jawab dengan identitas. Pertanyaan untuk kalian: apa beda Who dan Whose? Dan bagaimana menanyakan 'siapa mereka'? Untuk PR, ambil foto keluargamu, tulis 5 pertanyaan Who dan jawabannya. Besok kita akan belajar mendeskripsikan anggota keluarga. Sampai jumpa!",
+      "instructions": "Rangkum Who dan Whose. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

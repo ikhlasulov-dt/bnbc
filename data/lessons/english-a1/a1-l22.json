@@ -1,0 +1,228 @@
+{
+  "id": "a1-l22",
+  "course_id": "english-a1",
+  "module_title": "Angka dan Waktu",
+  "level": "A1",
+  "title": "Menulis Tanggal",
+  "subtitle": "Format Amerika vs Britania",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menulis tanggal dengan format Amerika (March 5, 2025)",
+    "Menulis tanggal dengan format Britania (5 March 2025)",
+    "Memahami penggunaan ordinal pada tanggal (May 17th)"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar hari dan bulan. Hari ini kita akan belajar menulis tanggal lengkap dalam bahasa Inggris. Pernahkah kalian mengisi formulir dan bingung format tanggal yang benar? Itu yang akan kita selesaikan. Tujuan kita: kalian bisa menulis tanggal lengkap dengan dua format (American dan British) dan membaca tanggal dengan benar. Kita mulai dari teori format tanggal, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'What's today's date?'. Tulis 'October 10, 2024' dan '10 October 2024' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menulis Tanggal\n\nAda dua format utama untuk menulis tanggal dalam bahasa Inggris: format Amerika (US) dan format Inggris (UK).\n\n### Format Amerika (US)\n\n**Urutan: Bulan – Tanggal – Tahun**\n\n- *October 10, 2024* (paling umum)\n- *October 10th, 2024* (dengan -th)\n- *Oct. 10, 2024* (dengan singkatan)\n\n### Format Inggris (UK)\n\n**Urutan: Tanggal – Bulan – Tahun**\n\n- *10 October 2024* (paling umum)\n- *10th October 2024* (dengan -th)\n- *10 Oct. 2024* (dengan singkatan)\n- *the 10th of October, 2024* (formal)\n\n### Membaca Tanggal\n\nTanggal dibaca dengan ordinal numbers:\n\n- *October 10, 2024* dibaca: *October tenth, twenty twenty-four*\n- *10 October 2024* dibaca: *the tenth of October, twenty twenty-four*\n\n### Membaca Tahun\n\n- 2000 = *two thousand*\n- 2001-2009 = *two thousand and one* … *two thousand and nine*\n- 2010-2019 = *twenty ten* … *twenty nineteen*\n- 2020-2029 = *twenty twenty* … *twenty twenty-nine*\n- 1999 = *nineteen ninety-nine* (bagi jadi dua: 19 + 99)\n- 1985 = *nineteen eighty-five*\n\n### Frasa Penting\n\n- *What's the date today?* — Tanggal berapa hari ini?\n- *Today is October 10, 2024.* — Hari ini 10 Oktober 2024.\n- *When were you born?* — Kapan kamu lahir?\n- *I was born on March 5, 2012.* — Saya lahir pada 5 Maret 2012.\n\n### Format Singkat (Angka)\n\n- Format US: **MM/DD/YYYY** → 10/05/2024 = 5 Oktober 2024\n- Format UK: **DD/MM/YYYY** → 10/05/2024 = 10 Mei 2024\n- Format ISO: **YYYY-MM-DD** → 2024-10-05\n\n> **Hindari:** Hati-hati format angka singkat — 10/05/2024 berbeda artinya di US (5 Oktober) dan UK (10 Mei). Jangan menulis 'October 10' saja tanpa tahun jika konteksnya butuh tahun. Jangan lupa koma setelah tanggal di format Amerika: *October 10, 2024*.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What's the date today?\n- B: Today is October 10, 2024.\n- A: How do you read it?\n- B: October tenth, twenty twenty-four.\n\n**Dialog 2:**\n- A: When were you born?\n- B: I was born on March 5, 2012.\n- A: What day was that?\n- B: It was a Monday.\n\n### Cara Mengucapkan\n\n- **October 10, 2024** /ɒkˈtoʊbər tɛn, twenti twenti-fɔːr/\n- **the 10th of October** /ðə tɛnθ əv ɒkˈtoʊbər/\n- **2024** dibaca /ˈtwenti twenti-fɔːr/ atau /tuː θaʊznd ænd twenti-fɔːr/\n\n### Tips\n\n1. Hafalkan dua format: US (Bulan-Tanggal-Tahun) dan UK (Tanggal-Bulan-Tahun).\n2. Untuk format singkat angka, hati-hati beda US dan UK.\n3. Tanggal dibaca dengan ordinal: *October tenth* (bukan *October ten*).",
+      "key_points": [
+        "Format US: Bulan-Tanggal-Tahun (October 10, 2024)",
+        "Format UK: Tanggal-Bulan-Tahun (10 October 2024)",
+        "Format singkat US: MM/DD/YYYY (10/05/2024 = 5 Oktober)",
+        "Format singkat UK: DD/MM/YYYY (10/05/2024 = 10 Mei)",
+        "Format ISO: YYYY-MM-DD (2024-10-05)",
+        "Tanggal dibaca dengan ordinal: October tenth (bukan October ten)",
+        "2024 dibaca 'twenty twenty-four'",
+        "What's the date today? = Tanggal berapa hari ini?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "day",
+          "id": "hari",
+          "phonetic": "/deɪ/",
+          "example_en": "What day is today?",
+          "example_id": "Hari apa hari ini?"
+        },
+        {
+          "en": "month",
+          "id": "bulan",
+          "phonetic": "/mʌnθ/",
+          "example_en": "January is the first month.",
+          "example_id": "Januari adalah bulan pertama."
+        },
+        {
+          "en": "year",
+          "id": "tahun",
+          "phonetic": "/jɪr/",
+          "example_en": "I'm twelve years old.",
+          "example_id": "Saya berumur dua belas tahun."
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "Today is Monday.",
+          "example_id": "Hari ini Senin."
+        },
+        {
+          "en": "tomorrow",
+          "id": "besok",
+          "phonetic": "/təˈmɒroʊ/",
+          "example_en": "See you tomorrow!",
+          "example_id": "Sampai jumpa besok!"
+        },
+        {
+          "en": "date",
+          "id": "tanggal",
+          "phonetic": "/deɪt/",
+          "example_en": "What's the date today?",
+          "example_id": "Tanggal berapa hari ini?"
+        },
+        {
+          "en": "born",
+          "id": "lahir",
+          "phonetic": "/bɔːrn/",
+          "example_en": "I was born in Jakarta.",
+          "example_id": "Saya lahir di Jakarta."
+        },
+        {
+          "en": "first",
+          "id": "pertama",
+          "phonetic": "/fɜːrst/",
+          "example_en": "January first.",
+          "example_id": "Satu Januari."
+        },
+        {
+          "en": "second",
+          "id": "kedua",
+          "phonetic": "/ˈsekənd/",
+          "example_en": "February second.",
+          "example_id": "Dua Februari."
+        },
+        {
+          "en": "third",
+          "id": "ketiga",
+          "phonetic": "/θɜːrd/",
+          "example_en": "March third.",
+          "example_id": "Tiga Maret."
+        },
+        {
+          "en": "tenth",
+          "id": "kesepuluh",
+          "phonetic": "/tenθ/",
+          "example_en": "October tenth.",
+          "example_id": "Sepuluh Oktober."
+        },
+        {
+          "en": "January",
+          "id": "Januari",
+          "phonetic": "/ˈdʒænjueri/",
+          "example_en": "January is the first month.",
+          "example_id": "Januari bulan pertama."
+        },
+        {
+          "en": "March",
+          "id": "Maret",
+          "phonetic": "/mɑːrtʃ/",
+          "example_en": "March 5th is my birthday.",
+          "example_id": "5 Maret ulang tahun saya."
+        },
+        {
+          "en": "October",
+          "id": "Oktober",
+          "phonetic": "/ɒkˈtoʊbər/",
+          "example_en": "October 10th.",
+          "example_id": "10 Oktober."
+        },
+        {
+          "en": "December",
+          "id": "Desember",
+          "phonetic": "/dɪˈsembər/",
+          "example_en": "December is holiday time.",
+          "example_id": "Desember waktu liburan."
+        },
+        {
+          "en": "on",
+          "id": "pada (hari/tanggal)",
+          "phonetic": "/ɒn/",
+          "example_en": "I have class on Monday.",
+          "example_id": "Saya ada kelas hari Senin."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid membaca beberapa tanggal (October 10, 2024; March 5, 2012) 2x setelah guru. (2) **Konversi format:** guru menyebut '5 Maret 2012', murid menulis dalam format US dan UK. (3) **Isian:** 'Today is ___ (10 Oktober 2024). I was born ___ (5 Maret 2012).' (4) **Role play:** dua murid saling bertanya 'When were you born?' dan jawab dengan tanggal lengkap. (5) **Koreksi:** tulis di papan '10 October, 2024' (koma salah di format UK) dan 'October 10 2024' (tanpa koma di format US), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's the date today?",
+          "id": "Tanggal berapa hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Today is October 10, 2024.",
+          "id": "Hari ini 10 Oktober 2024."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you read it?",
+          "id": "Bagaimana kamu membacanya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "October tenth, twenty twenty-four.",
+          "id": "October tenth, twenty twenty-four."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When were you born?",
+          "id": "Kapan kamu lahir?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I was born on March 5, 2012.",
+          "id": "Saya lahir tanggal 5 Maret 2012."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What day was that?",
+          "id": "Hari apa itu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It was a Monday.",
+          "id": "Hari Senin."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Write it in UK format.",
+          "id": "Tulis dalam format UK."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "5 March 2012.",
+          "id": "5 March 2012."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap! Hari ini kita belajar menulis tanggal dengan dua format: US (Bulan-Tanggal-Tahun) dan UK (Tanggal-Bulan-Tahun). Yang paling penting: tanggal dibaca dengan ordinal (October tenth, bukan October ten), dan hati-hati format singkat angka yang bisa membingungkan antara US dan UK. Pertanyaan untuk kalian: bagaimana menulis '5 Maret 2012' dalam format US? Dan bagaimana membaca tahun 2024? Untuk PR, tulis ulang tahun 5 anggota keluargamu dalam format US. Besok kita akan belajar preposisi waktu: at, on, in. Sampai jumpa!",
+      "instructions": "Rangkum format tanggal. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

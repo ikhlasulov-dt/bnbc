@@ -1,0 +1,222 @@
+{
+  "id": "a1-l32",
+  "course_id": "english-a1",
+  "module_title": "Rutinitas Harian",
+  "level": "A1",
+  "title": "Preposisi Pendukung",
+  "subtitle": "with, in, at, by untuk rutinitas",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan with untuk alat",
+    "Menggunakan in untuk ruang/wadah",
+    "Menggunakan at untuk tempat spesifik",
+    "Menggunakan by untuk transportasi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar kosakata rutinitas harian. Hari ini kita akan belajar preposisi pendukung: at, in, on untuk tempat. Pernahkah kalian bingung apakah harus bilang 'at school' atau 'in school'? Atau 'on the table' atau 'in the table'? Itu yang akan kita selesaikan. Tujuan kita: kalian bisa memilih preposisi tempat yang tepat untuk berbagai konteks. Kita mulai dari teori at/in/on untuk tempat, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'Where are you now?'. Tulis 'I am at school. I am in the classroom. The book is on the table.' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Preposisi Pendukung: at, in, on (Tempat)\n\nPreposisi tempat at, in, dan on punya penggunaan yang berbeda.\n\n### Tabel Ringkas\n\n| Preposisi | Untuk | Contoh |\n|---|---|---|\n| at | titik/tempat spesifik | at school, at home, at the bus stop |\n| in | di dalam (ruang 3D) | in the room, in Jakarta, in the box |\n| on | di atas permukaan | on the table, on the wall, on the floor |\n\n### At — Titik/Tempat Spesifik\n\nPakai **at** untuk:\n- Tempat umum (sebagai titik): *at school, at home, at work, at the airport*\n- Acara: *at a party, at a concert, at a meeting*\n- Alamat spesifik: *at 25 Main Street*\n- Posisi tepat: *at the door, at the bus stop, at the top*\n\nContoh:\n- *I am at school now.* — Saya di sekolah sekarang.\n- *She is at home.* — Dia di rumah.\n- *We met at a party.* — Kami bertemu di pesta.\n\n### In — Di Dalam (Ruang Tertutup/Wilayah)\n\nPakai **in** untuk:\n- Ruang tertutup: *in the room, in the class, in the box, in the car*\n- Kota/negara/wilayah: *in Jakarta, in Indonesia, in Asia*\n- Benda cairan/物质: *in the water, in the coffee*\n- Posisi di dalam sesuatu: *in my pocket, in a book*\n\nContoh:\n- *I live in Jakarta.* — Saya tinggal di Jakarta.\n- *She is in the classroom.* — Dia di dalam kelas.\n- *The book is in my bag.* — Buku itu di dalam tasku.\n\n### On — Di Atas Permukaan\n\nPakai **on** untuk:\n- Permukaan datar: *on the table, on the floor, on the wall*\n- Lantai/tingkat: *on the second floor*\n- Jalan/jalur: *on Main Street, on the bus, on the train*\n- Hari tertentu (untuk hari): *on Monday, on March 5th* (ini waktu, bukan tempat)\n\nContoh:\n- *The book is on the table.* — Buku itu di atas meja.\n- *The picture is on the wall.* — Gambar itu di dinding.\n- *I live on Main Street.* — Saya tinggal di Jl. Main.\n\n### At vs In untuk Tempat\n\n- *at school* = di sekolah (sebagai kegiatan/titik)\n- *in the school* = di dalam gedung sekolah (fisik)\n- *at home* = di rumah\n- *in the house* = di dalam rumah\n\n### On untuk Transportasi\n\n- *on the bus, on the train, on the plane* (transportasi umum)\n- Tetapi: *in the car, in the taxi* (mobil/taksi pakai *in*)\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: Where are you?\n- B: I'm at school. I'm in the classroom.\n- A: Where's your bag?\n- B: It's on the table.\n\n**Dialog 2:**\n- A: Where do you live?\n- B: I live in Jakarta, on Main Street.\n- A: Where's your father?\n- B: He's at work.\n\n> **Hindari:** Jangan menulis 'in school' untuk konteks kegiatan — pakai *at school*. Jangan 'on the table' untuk benda di dalam laci — pakai *in the drawer*. Jangan tertukar *on the bus* dan *in the car*.\n\n### Cara Mengucapkan\n\n- **at** /æt/\n- **in** /ɪn/\n- **on** /ɒn/\n\n### Tips\n\n1. **at** = titik/tempat spesifik (at school, at home).\n2. **in** = di dalam ruang/wilayah (in Jakarta, in the room).\n3. **on** = di permukaan (on the table, on the wall).\n4. Transportasi: *on the bus/train/plane*, tetapi *in the car/taxi*.",
+      "key_points": [
+        "at = titik/tempat spesifik (at school, at home, at work, at the bus stop)",
+        "in = di dalam ruang/wilayah (in Jakarta, in the room, in the box)",
+        "on = di atas permukaan (on the table, on the wall, on the floor)",
+        "at school (kegiatan) vs in the school (gedung fisik)",
+        "on the bus/train/plane (transportasi umum)",
+        "in the car/taxi (mobil/taksi)",
+        "Where are you? I'm at school. I'm in the classroom.",
+        "Where do you live? I live in Jakarta, on Main Street."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "wake up",
+          "id": "bangun tidur",
+          "phonetic": "/weɪk ʌp/",
+          "example_en": "I wake up at six.",
+          "example_id": "Saya bangun jam enam."
+        },
+        {
+          "en": "go to school",
+          "id": "pergi ke sekolah",
+          "phonetic": "/ɡoʊ tuː skuːl/",
+          "example_en": "I go to school by bike.",
+          "example_id": "Saya ke sekolah naik sepeda."
+        },
+        {
+          "en": "study",
+          "id": "belajar",
+          "phonetic": "/ˈstʌdi/",
+          "example_en": "I study English.",
+          "example_id": "Saya belajar bahasa Inggris."
+        },
+        {
+          "en": "go home",
+          "id": "pulang",
+          "phonetic": "/ɡoʊ hoʊm/",
+          "example_en": "I go home at three.",
+          "example_id": "Saya pulang jam tiga."
+        },
+        {
+          "en": "play",
+          "id": "bermain",
+          "phonetic": "/pleɪ/",
+          "example_en": "I play with friends.",
+          "example_id": "Saya bermain dengan teman."
+        },
+        {
+          "en": "sleep",
+          "id": "tidur",
+          "phonetic": "/sliːp/",
+          "example_en": "I sleep at nine.",
+          "example_id": "Saya tidur jam sembilan."
+        },
+        {
+          "en": "every day",
+          "id": "setiap hari",
+          "phonetic": "/ˈevri deɪ/",
+          "example_en": "I study every day.",
+          "example_id": "Saya belajar setiap hari."
+        },
+        {
+          "en": "always",
+          "id": "selalu",
+          "phonetic": "/ˈɔːlweɪz/",
+          "example_en": "I always brush my teeth.",
+          "example_id": "Saya selalu gosok gigi."
+        },
+        {
+          "en": "usually",
+          "id": "biasanya",
+          "phonetic": "/ˈjuːʒuəli/",
+          "example_en": "I usually wake up early.",
+          "example_id": "Saya biasanya bangun pagi."
+        },
+        {
+          "en": "sometimes",
+          "id": "kadang-kadang",
+          "phonetic": "/ˈsʌmtaɪmz/",
+          "example_en": "I sometimes read at night.",
+          "example_id": "Saya kadang membaca di malam hari."
+        },
+        {
+          "en": "never",
+          "id": "tidak pernah",
+          "phonetic": "/ˈnevər/",
+          "example_en": "I never eat late.",
+          "example_id": "Saya tidak pernah makan larut."
+        },
+        {
+          "en": "home",
+          "id": "rumah",
+          "phonetic": "/hoʊm/",
+          "example_en": "I stay at home.",
+          "example_id": "Saya di rumah."
+        },
+        {
+          "en": "school",
+          "id": "sekolah",
+          "phonetic": "/skuːl/",
+          "example_en": "I go to school.",
+          "example_id": "Saya pergi ke sekolah."
+        },
+        {
+          "en": "work",
+          "id": "bekerja",
+          "phonetic": "/wɜːrk/",
+          "example_en": "I work hard.",
+          "example_id": "Saya bekerja keras."
+        },
+        {
+          "en": "often",
+          "id": "sering",
+          "phonetic": "/ˈɒfn/",
+          "example_en": "I often read books.",
+          "example_id": "Saya sering membaca buku."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang at/in/on dengan beberapa contoh 2x. (2) **Pilihan tepat:** guru menyebut situasi (di sekolah, di dalam kelas, di atas meja, di Jakarta), murid memilih at/in/on. (3) **Isian:** 'I am ___ school. The book is ___ the table. I live ___ Jakarta.' (4) **Role play:** dua murid saling bertanya 'Where are you? Where do you live?'. (5) **Koreksi:** tulis di papan 'I am in school. I am on Jakarta. The book is in the table.', minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where are you now?",
+          "id": "Di mana kamu sekarang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm at school. I'm in the classroom.",
+          "id": "Saya di sekolah. Di dalam kelas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where's your bag?",
+          "id": "Di mana tasku?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's on the table.",
+          "id": "Di atas meja."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you live?",
+          "id": "Di mana kamu tinggal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I live in Jakarta, on Main Street.",
+          "id": "Saya tinggal di Jakarta, di Jl. Main."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where's your father?",
+          "id": "Di mana ayahmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He's at work.",
+          "id": "Dia bekerja."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you go to school?",
+          "id": "Bagaimana kamu ke sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I go on the bus.",
+          "id": "Saya naik bus."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar preposisi tempat: at untuk titik spesifik, in untuk di dalam ruang/wilayah, on untuk di permukaan. Yang paling penting: at school vs in the school, dan on the bus vs in the car. Pertanyaan untuk kalian: preposisi apa untuk 'di Jakarta', 'di sekolah', 'di atas meja'? Untuk PR, tulis 10 kalimat dengan preposisi tempat yang berbeda. Besok kita akan merangkai semua dalam contoh paragraf rutinitas lengkap. Sampai jumpa!",
+      "instructions": "Rangkum at/in/on untuk tempat. Tanyakan 2-3 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

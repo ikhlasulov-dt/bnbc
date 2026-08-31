@@ -1,0 +1,310 @@
+{
+  "id": "a1-l57",
+  "course_id": "english-a1",
+  "module_title": "Pakaian",
+  "level": "A1",
+  "title": "Kosakata Warna",
+  "subtitle": "red, blue, green, black, white",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan sebelas warna utama dalam bahasa Inggris",
+    "Mengucapkan warna dengan benar",
+    "Menggabungkan warna dengan kata benda pakaian"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang kosakata pakaian. Coba, siapa yang masih ingat, 'kemeja' bahasa Inggrisnya apa? Bagus, shirt. Dan 'jaket'? jacket. Hari ini kita akan belajar kosakata warna dalam bahasa Inggris. Warna sangat penting karena membantu kita mendeskripsikan pakaian, benda, dan banyak hal. Coba lihat baju yang kamu pakai sekarang. Apa warnanya? Merah? Biru? Hitam? Dalam bahasa Inggris, ada 10-12 warna dasar yang harus kita tahu: red, blue, green, yellow, black, white, dan lainnya. Rencana: kita kenal 12 warna dasar, pakai dalam kalimat *My shirt is ___*, dan latih pelafalan. Ayo mulai!",
+      "instructions": "Bawa krayon atau pensil warna ke kelas. Tunjuk satu warna, minta siswa menyebut nama Inggrisnya. Tulis daftar warna di papan dengan warna yang sesuai."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Warna Dasar\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| red | merah | a red apple |\n| blue | biru | the blue sky |\n| green | hijau | green leaves |\n| yellow | kuning | a yellow sun |\n| orange | oranye | an orange fruit |\n| purple | ungu | a purple flower |\n| pink | pink | a pink dress |\n| brown | cokelat | brown shoes |\n| black | hitam | a black cat |\n| white | putih | a white shirt |\n| gray | abu-abu | gray pants |\n| gold | emas | a gold ring |\n\n## Pola Kalimat\n\n- **My shirt is ___.** → Kemeja saya ___.\n  - My shirt is blue.\n- **I have a ___ book.** → Saya punya buku ___ (warna).\n  - I have a red book.\n- **What color is your ___?** → Warna ___ kamu apa?\n  - What color is your bag?\n  - It is blue.\n\n## Tanya Warna\n\n- **What color is it?** → Warna apa ini?\n- **What color are they?** → Warna apa mereka? (jamak)\n\n## Warna + Kata Benda\n\nDalam bahasa Inggris, warna diletakkan **sebelum** kata benda:\n\n- a **red** shirt (kemeja merah)\n- a **blue** car (mobil biru)\n- **black** shoes (sepatu hitam)\n- a **yellow** hat (topi kuning)\n\n## Warna untuk Mendeskripsikan\n\n- The sky is **blue**.\n- The grass is **green**.\n- The sun is **yellow**.\n- My hair is **black**.\n- Her dress is **pink**.\n\n## Mini-Dialog\n\n**A:** What color is your shirt?\n\n**B:** My shirt is blue. And yours?\n\n**A:** Mine is white. What color are your shoes?\n\n**B:** My shoes are black.\n\n**A:** Do you have a red bag?\n\n**B:** No, I have a green bag.\n\n> **Hindari:** meletakkan warna setelah kata benda seperti 'shirt red' — yang benar *red shirt*. Hindari juga menulis *color* dengan *u* (warna dalam Inggris Amerika: *color*; Inggris British: *colour*). Keduanya benar.",
+      "key_points": [
+        "red = merah, blue = biru, green = hijau",
+        "yellow = kuning, orange = oranye, purple = ungu",
+        "pink = pink, brown = cokelat, black = hitam",
+        "white = putih, gray = abu-abu, gold = emas",
+        "Warna diletakkan SEBELUM kata benda: a red shirt",
+        "What color is it? = Warna apa ini?",
+        "My shirt is blue = Kemeja saya biru",
+        "American: color; British: colour (keduanya benar)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "clothes",
+          "id": "pakaian",
+          "phonetic": "/kloʊðz/",
+          "example_en": "I buy new clothes.",
+          "example_id": "Saya membeli pakaian baru."
+        },
+        {
+          "en": "shirt",
+          "id": "kemeja",
+          "phonetic": "/ʃɜːrt/",
+          "example_en": "He is wearing a blue shirt.",
+          "example_id": "Dia memakai kemeja biru."
+        },
+        {
+          "en": "t-shirt",
+          "id": "kaos",
+          "phonetic": "/ˈtiːʃɜːrt/",
+          "example_en": "My t-shirt is white.",
+          "example_id": "Kaos saya berwarna putih."
+        },
+        {
+          "en": "pants",
+          "id": "celana panjang",
+          "phonetic": "/pænts/",
+          "example_en": "These pants are black.",
+          "example_id": "Celana ini hitam."
+        },
+        {
+          "en": "dress",
+          "id": "gaun",
+          "phonetic": "/dres/",
+          "example_en": "She has a red dress.",
+          "example_id": "Dia punya gaun merah."
+        },
+        {
+          "en": "shoes",
+          "id": "sepatu",
+          "phonetic": "/ʃuːz/",
+          "example_en": "My shoes are new.",
+          "example_id": "Sepatu saya baru."
+        },
+        {
+          "en": "hat",
+          "id": "topi",
+          "phonetic": "/hæt/",
+          "example_en": "He wears a black hat.",
+          "example_id": "Dia memakai topi hitam."
+        },
+        {
+          "en": "jacket",
+          "id": "jaket",
+          "phonetic": "/ˈdʒækɪt/",
+          "example_en": "It is cold. Wear a jacket.",
+          "example_id": "Dingin. Pakai jaket."
+        },
+        {
+          "en": "red",
+          "id": "merah",
+          "phonetic": "/red/",
+          "example_en": "I like the red bag.",
+          "example_id": "Saya suka tas merah."
+        },
+        {
+          "en": "blue",
+          "id": "biru",
+          "phonetic": "/bluː/",
+          "example_en": "The sky is blue.",
+          "example_id": "Langitnya biru."
+        },
+        {
+          "en": "green",
+          "id": "hijau",
+          "phonetic": "/ɡriːn/",
+          "example_en": "Her shirt is green.",
+          "example_id": "Kemejanya hijau."
+        },
+        {
+          "en": "yellow",
+          "id": "kuning",
+          "phonetic": "/ˈjeloʊ/",
+          "example_en": "I have a yellow pencil.",
+          "example_id": "Saya punya pensil kuning."
+        },
+        {
+          "en": "black",
+          "id": "hitam",
+          "phonetic": "/blæk/",
+          "example_en": "My shoes are black.",
+          "example_id": "Sepatu saya hitam."
+        },
+        {
+          "en": "white",
+          "id": "putih",
+          "phonetic": "/waɪt/",
+          "example_en": "She wears a white dress.",
+          "example_id": "Dia memakai gaun putih."
+        },
+        {
+          "en": "orange",
+          "id": "oranye",
+          "phonetic": "/ˈɒrɪndʒ/",
+          "example_en": "An orange is orange.",
+          "example_id": "Jeruk itu oranye."
+        },
+        {
+          "en": "purple",
+          "id": "ungu",
+          "phonetic": "/ˈpɜːrpl/",
+          "example_en": "I have a purple bag.",
+          "example_id": "Saya punya tas ungu."
+        },
+        {
+          "en": "pink",
+          "id": "pink",
+          "phonetic": "/pɪŋk/",
+          "example_en": "Her dress is pink.",
+          "example_id": "Gaunnya pink."
+        },
+        {
+          "en": "brown",
+          "id": "cokelat",
+          "phonetic": "/braʊn/",
+          "example_en": "My shoes are brown.",
+          "example_id": "Sepatu saya cokelat."
+        },
+        {
+          "en": "gray",
+          "id": "abu-abu",
+          "phonetic": "/ɡreɪ/",
+          "example_en": "His pants are gray.",
+          "example_id": "Celananya abu-abu."
+        },
+        {
+          "en": "color",
+          "id": "warna",
+          "phonetic": "/ˈkʌlər/",
+          "example_en": "What color is it?",
+          "example_id": "Warna apa ini?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill warna**: Guru menunjuk benda berwarna di kelas, siswa meneriakkan warna Inggrisnya secepat mungkin. Lakukan 15 putaran.\n2. **Pair work 'Color hunt'**: Siswa A menyebut benda, siswa B menyebut warnanya dalam bahasa Inggris — lakukan 10 putaran.\n3. **Fill-in-the-blank**: Lengkapi — (a) My shirt is ___ (biru). (b) ___ color is your bag? (c) I have a ___ book (merah). (d) Her shoes are ___ (hitam).\n4. **Role play 'Shop assistant'**: Siswa A jadi pembeli, B jadi penjual — tanyakan warna 5 pakaian yang dijual.\n5. **Error correction**: Perbaiki — 'shirt red', 'What color it is?', 'My bag is color blue', 'a apple red'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Sinta. What color is your shirt today?",
+          "id": "Hai, Sinta. Kemejamu warna apa hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My shirt is white today, teacher.",
+          "id": "Kemeja saya putih hari ini, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And what color is your skirt?",
+          "id": "Dan rokmu warna apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My skirt is blue. I love blue.",
+          "id": "Rok saya biru. Saya suka biru."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What color are your shoes?",
+          "id": "Sepatumu warna apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My shoes are black. They are new.",
+          "id": "Sepatu saya hitam. Baru."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have a red bag?",
+          "id": "Kamu punya tas merah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I have a pink bag. My sister has a red one.",
+          "id": "Tidak, saya punya tas pink. Kakak saya punya yang merah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What color is your pencil case?",
+          "id": "Kotak pensilmu warna apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My pencil case is purple. I like purple.",
+          "id": "Kotak pensil saya ungu. Saya suka ungu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What color is the Indonesian flag?",
+          "id": "Bendera Indonesia warna apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The Indonesian flag is red and white.",
+          "id": "Bendera Indonesia merah dan putih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What color is the sky today?",
+          "id": "Langit hari ini warna apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The sky is blue and the sun is yellow.",
+          "id": "Langit biru dan matahari kuning."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What color are the leaves on the tree?",
+          "id": "Daun di pohon warna apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The leaves are green. Some are brown in autumn.",
+          "id": "Daunnya hijau. Beberapa cokelat di musim gugur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is your favorite color?",
+          "id": "Warna favoritmu apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite color is purple. What about you, teacher?",
+          "id": "Warna favorit saya ungu. Kalau Bu?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "My favorite color is green. Like the leaves!",
+          "id": "Warna favorit saya hijau. Seperti daun!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar 12 warna dasar: red, blue, green, yellow, orange, purple, pink, brown, black, white, gray, dan gold. Kita juga belajar pola *My shirt is ___* dan tanya-jawab *What color is it?*. Ingat, warna diletakkan SEBELUM kata benda: *a red shirt*, bukan *a shirt red*. Sebelum tutup, dua pertanyaan: apa warna bajumu hari ini? Bagaimana menanyakan warna tas teman? Untuk pekerjaan rumah, gambar 10 benda di sekitarmu dan warnai, lalu tulis kalimat untuk setiap benda — misalnya 'My bag is blue.' Besok kita akan belajar urutan kata sifat: ukuran + warna + kata benda. Sampai jumpa!",
+      "instructions": "Rangkum 12 warna di papan dengan warna yang sesuai. Tanyakan dua pertanyaan pemahaman. Berikan PR gambar 10 benda + kalimat dan sampaikan topik besok."
+    }
+  ]
+}

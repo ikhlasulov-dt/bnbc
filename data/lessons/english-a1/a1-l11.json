@@ -1,0 +1,200 @@
+{
+  "id": "a1-l11",
+  "course_id": "english-a1",
+  "module_title": "Data Diri",
+  "level": "A1",
+  "title": "Mengeja Nama dan Alamat",
+  "subtitle": "Ejaan dengan pola 'A for Apple'",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengeja nama dengan pola letter + word",
+    "Mengeja alamat dengan jelas",
+    "Menggunakan kata benda yang dikenal untuk ejaan (A for Apple)"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Pelajaran terakhir di modul Data Diri ini kita akan belajar mengeja nama dan alamat dalam bahasa Inggris. Pernahkah kalian harus menyebut nama atau alamat lewat telepon dan orang di seberang tidak mendengarnya dengan jelas? Di situ kita perlu mengeja. Tujuan kita: kalian bisa mengeja nama dan alamat menggunakan alphabet Inggris dan beberapa frasa klarifikasi. Kita akan mulai dari teori alphabet dan frasa, kosakata, latihan mengeja, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dengan 'Good morning' dan tunjukkan alphabet Inggris di papan. Perkenalkan situasi: 'You call a hotel. They ask your name. How do you spell it?'. Tulis 'How do you spell...?' di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mengeja Nama dan Alamat\n\nMengeja (spelling) adalah keterampilan penting saat berkomunikasi lewat telepon atau saat memberikan data penting seperti nama dan alamat.\n\n### Alphabet Inggris (26 huruf)\n\nA /eɪ/ — B /biː/ — C /siː/ — D /diː/ — E /iː/ — F /ɛf/ — G /dʒiː/ — H /eɪtʃ/ — I /aɪ/ — J /dʒeɪ/ — K /keɪ/ — L /ɛl/ — M /ɛm/ — N /ɛn/ — O /oʊ/ — P /piː/ — Q /kjuː/ — R /ɑːr/ — S /ɛs/ — T /tiː/ — U /juː/ — V /viː/ — W /ˈdʌbəl.juː/ — X /ɛks/ — Y /waɪ/ — Z /ziː/ atau /zɛd/\n\n### Frasa Penting Mengeja\n\n| Frasa | Arti | Kapan dipakai |\n|---|---|---|\n| How do you spell...? | Bagaimana mengeja...? | Menanyakan ejaan |\n| It's spelled... | Dieja... | Memberitahu ejaan |\n| Could you repeat that? | Bisakah Anda ulangi? | Tidak mendengar jelas |\n| Sorry? / Pardon? | Maaf? | Meminta ulang |\n| Is that... for...? | Apakah itu... untuk...? | Mengonfirmasi huruf |\n| B for Bravo? | B seperti Bravo? | Memperjelas dengan kata |\n\n### Huruf yang Sering Tertukar\n\nBeberapa huruf terdengar mirip di telepon:\n- **M** /ɛm/ vs **N** /ɛn/ — beda sangat tipis\n- **B** /biː/ vs **P** /piː/ — beda voicing\n- **T** /tiː/ vs **D** /diː/ — beda voicing\n- **S** /ɛs/ vs **X** /ɛks/ — X punya 'k' di awal\n- **I** /aɪ/ vs **E** /iː/ — terdengar mirip saat cepat\n\nUntuk memperjelas, sering dipakai **alphabet NATO** atau kata perumpamaan:\n- A for Apple, B for Boy, C for Cat, D for Dog, E for Elephant, F for Fish, G for Girl, H for House, I for Ice cream, J for Jump, K for King, L for Lion, M for Mother, N for Night, O for Orange, P for Pen, Q for Queen, R for Red, S for Sun, T for Tree, U for Umbrella, V for Van, W for Water, X for X-ray, Y for Yellow, Z for Zoo.\n\n### Pola Menyebut Alamat\n\nUntuk alamat, sebut setiap bagian dengan jelas:\n- *It's Jl. Merdeka number 10.* (Jl. dibaca J-L)\n- *It's 25 Main Street, Jakarta.*\n- *The zip code is 12345.*\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (mengeja nama):**\n- A: What's your name?\n- B: Andi. A-N-D-I.\n- A: Sorry, was that M or N?\n- B: N for Night.\n\n**Dialog 2 (mengeja alamat):**\n- A: What's your address?\n- B: 25 Main Street. M-A-I-N.\n- A: Could you repeat that, please?\n- B: M-A-I-N. Main Street, number 25.\n\n> **Hindari:** Jangan mengucapkan huruf dengan gaya Indonesia (A=ah, B=be, C=ce). Dalam Inggris, A=/eɪ/, B=/biː/, C=/siː/. Jangan menggegas saat mengeja; ucapkan setiap huruf jelas. Jangan ragu meminta ulang kalau tidak jelas — sopan dan wajar.\n\n### Tips\n\n1. Hafalkan pelafalan 26 huruf Inggris — ini dasar dari semua komunikasi.\n2. Untuk huruf mirip (M/N, B/P), pakai kata perumpamaan ('N for Night').\n3. Selalu siap meminta ulang: *Could you repeat that, please?*",
+      "key_points": [
+        "26 huruf alphabet Inggris punya pelafalan berbeda dari Indonesia",
+        "A=/eɪ/, B=/biː/, C=/siː/, D=/diː/ (bukan ah/be/ce/de)",
+        "How do you spell...? = menanyakan ejaan",
+        "It's spelled... = memberitahu ejaan",
+        "Could you repeat that? = minta ulang",
+        "Huruf mirip: M/N, B/P, T/D, S/X, I/E — perjelas dengan kata",
+        "Pakai kata perumpamaan: B for Boy, N for Night, dll.",
+        "Selalu ucapkan setiap huruf jelas dan tidak terburu-buru"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "name",
+          "id": "nama",
+          "phonetic": "/neɪm/",
+          "example_en": "What is your name?",
+          "example_id": "Siapa namamu?"
+        },
+        {
+          "en": "address",
+          "id": "alamat",
+          "phonetic": "/əˈdres/",
+          "example_en": "My address is Jl. Merbau 17.",
+          "example_id": "Alamat saya Jl. Merbau 17."
+        },
+        {
+          "en": "phone number",
+          "id": "nomor telepon",
+          "phonetic": "/foʊn ˈnʌmbər/",
+          "example_en": "What's your phone number?",
+          "example_id": "Berapa nomor teleponmu?"
+        },
+        {
+          "en": "email",
+          "id": "surel",
+          "phonetic": "/ˈiːmeɪl/",
+          "example_en": "My email is budi@test.com.",
+          "example_id": "Email saya budi@test.com."
+        },
+        {
+          "en": "birthday",
+          "id": "tanggal lahir",
+          "phonetic": "/ˈbɜːrθdeɪ/",
+          "example_en": "My birthday is in August.",
+          "example_id": "Ulang tahun saya di bulan Agustus."
+        },
+        {
+          "en": "live",
+          "id": "tinggal",
+          "phonetic": "/lɪv/",
+          "example_en": "I live in Mariana.",
+          "example_id": "Saya tinggal di Mariana."
+        },
+        {
+          "en": "from",
+          "id": "dari",
+          "phonetic": "/frɒm/",
+          "example_en": "I am from Banyuasin.",
+          "example_id": "Saya dari Banyuasin."
+        },
+        {
+          "en": "where",
+          "id": "di mana",
+          "phonetic": "/wer/",
+          "example_en": "Where do you live?",
+          "example_id": "Di mana kamu tinggal?"
+        },
+        {
+          "en": "occupation",
+          "id": "pekerjaan",
+          "phonetic": "/ˌɒkjuˈpeɪʃn/",
+          "example_en": "My occupation is student.",
+          "example_id": "Pekerjaan saya pelajar."
+        },
+        {
+          "en": "student",
+          "id": "pelajar",
+          "phonetic": "/ˈstuːdnt/",
+          "example_en": "I am a student.",
+          "example_id": "Saya seorang pelajar."
+        },
+        {
+          "en": "teacher",
+          "id": "guru",
+          "phonetic": "/ˈtiːtʃər/",
+          "example_en": "She is my teacher.",
+          "example_id": "Dia guru saya."
+        },
+        {
+          "en": "how old",
+          "id": "berapa umur",
+          "phonetic": "/haʊ oʊld/",
+          "example_en": "How old are you?",
+          "example_id": "Berapa umurmu?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill alphabet:** murid mengulang 26 huruf Inggris dengan pelafalan yang tepat. (2) **Mengeja nama:** setiap murid mengeja nama depan mereka satu per satu. (3) **Pasangan klarifikasi:** A mengeja nama, B mengonfirmasi huruf yang mirip ('Was that M or N? N for Night.'). (4) **Role play telepon:** satu murid jadi resepsionis hotel, satu jadi tamu; tanyakan dan eja nama serta alamat. (5) **Koreksi:** tulis di papan 'My name is Andi. A-B-C-D-I' (ejaan salah) dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your name?",
+          "id": "Siapa namamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My name is Andi. A-N-D-I.",
+          "id": "Nama saya Andi. A-N-D-I."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sorry, was that M or N?",
+          "id": "Maaf, itu M atau N?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "N for Night. A-N-D-I.",
+          "id": "N seperti Night. A-N-D-I."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Got it. What's your address?",
+          "id": "Baik. Alamatmu di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "25 Main Street. M-A-I-N.",
+          "id": "Jl. Main nomor 25. M-A-I-N."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Could you repeat that, please?",
+          "id": "Bisakah Anda ulangi, tolong?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "M-A-I-N. M for Mother, A for Apple, I for Ice cream, N for Night.",
+          "id": "M-A-I-N. M seperti Mother, A seperti Apple, I seperti Ice cream, N seperti Night."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. And your phone number?",
+          "id": "Sempurna. Dan nomor teleponmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "0812-3456-7890. Zero-eight-one-two-three-four-five-six-seven-eight-nine-zero.",
+          "id": "0812-3456-7890. Zero-eight-one-two-three-four-five-six-seven-eight-nine-zero."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kita belajar mengeja nama dan alamat menggunakan alphabet Inggris. Yang paling penting diingat: pelafalan huruf Inggris berbeda dari Indonesia (A=/eɪ/, B=/biː/, C=/siː/), dan untuk huruf yang mirip seperti M/N atau B/P, gunakan kata perumpamaan ('N for Night'). Jangan ragu meminta ulang dengan 'Could you repeat that, please?'. Pertanyaan untuk kalian: bagaimana kamu mengeja namamu? Dan apa frasa untuk meminta seseorang mengulang? Untuk PR, hafalkan pelafalan 26 huruf Inggris dan berlatih mengeja nama lengkap keluargamu. Modul Data Diri selesai! Besok kita mulai modul baru: Keluarga — belajar kosakata anggota keluarga inti. Sampai jumpa besok!",
+      "instructions": "Rangkum pelafalan alphabet dan frasa klarifikasi. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Beritahu bahwa modul Data Diri selesai dan besok masuk modul Keluarga."
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "a1-l24",
+  "course_id": "english-a1",
+  "module_title": "Angka dan Waktu",
+  "level": "A1",
+  "title": "Menanyakan Waktu",
+  "subtitle": "What time is it? What day is it today?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menanyakan jam dengan What time is it?",
+    "Menanyakan hari dan tanggal dengan What day/date is it?",
+    "Menanyakan jadwal dengan When"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar preposisi waktu at/on/in. Hari ini kita akan belajar menanyakan waktu. Pernahkah kalian tidak punya jam tangan dan harus bertanya ke orang lain 'pukul berapa?' dalam Inggris? Hari ini kita akan selesaikan. Tujuan kita: kalian bisa menanyakan waktu dengan sopan dan memahami jawabannya. Kita mulai dari teori pola pertanyaan waktu, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'What time is it?'. Tunggu jawaban. Tulis beberapa cara bertanya waktu di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menanyakan Waktu\n\nAda beberapa cara menanyakan waktu dalam bahasa Inggris, dari yang santai hingga formal.\n\n### Pola Pertanyaan Waktu\n\n| Pertanyaan | Tingkat | Kapan dipakai |\n|---|---|---|\n| What time is it? | Netral | Umum, ke siapa saja |\n| What's the time? | Santai | Ke teman, keluarga |\n| Do you have the time? | Sopan | Ke orang asing |\n| Could you tell me the time? | Sangat sopan | Formal, ke orang dewasa |\n| Have you got the time? | Santai (UK) | Ke teman (UK) |\n\n### Pola Pertanyaan dengan When/What Time\n\nUntuk menanyakan jadwal suatu acara:\n- *What time does class start?* — Kelas mulai pukul berapa?\n- *When does the movie begin?* — Kapan filmnya mulai?\n- *What time do you wake up?* — Kamu bangun pukul berapa?\n- *When is your birthday?* — Kapan ulang tahunmu?\n\n### Jawaban Umum\n\n| Pertanyaan | Jawaban |\n|---|---|\n| What time is it? | It's three o'clock. |\n| What time does class start? | It starts at 8 a.m. |\n| When is your birthday? | It's on March 5th. |\n| When do you wake up? | I wake up at 6. |\n\n### Frasa Terkait Waktu\n\n- *Excuse me, ...* — Maaf, ... (sopan sebelum bertanya ke orang asing)\n- *Sorry to bother you, ...* — Maaf mengganggu, ...\n- *Do you know what time it is?* — Apa kamu tahu pukul berapa sekarang?\n- *Is it 3 p.m. yet?* — Sudah pukul 3 sore belum?\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (ke teman):**\n- A: What's the time?\n- B: It's half past three.\n- A: Thanks! I have to go.\n\n**Dialog 2 (ke orang asing):**\n- A: Excuse me, do you have the time?\n- B: Sure, it's quarter to four.\n- A: Thank you!\n- B: You're welcome.\n\n**Dialog 3 (menanyakan jadwal):**\n- A: What time does class start?\n- B: It starts at 8 a.m.\n- A: And when does it end?\n- B: At 10 a.m.\n\n> **Hindari:** Jangan menanyakan 'How much time?' untuk menanyakan jam — itu berarti 'berapa banyak waktu?' (durasi). Jangan lupa pakai *Excuse me* sebelum bertanya ke orang asing. Jangan menanyakan waktu dengan kalimat perintah ('Tell me the time!') — selalu pakai pertanyaan sopan.\n\n### Cara Mengucapkan\n\n- **What time is it?** /wɒt taɪm ɪz ɪt/ — intonasi naik.\n- **Do you have the time?** /duː juː hæv ðə taɪm/\n- **Excuse me** /ɪkˈskjuːz miː/\n\n### Tips\n\n1. Pakai *What time is it?* untuk situasi umum.\n2. Tambahkan *Excuse me* sebelum bertanya ke orang asing.\n3. Untuk jadwal acara, pakai *What time does X start?* atau *When does X begin?*.",
+      "key_points": [
+        "What time is it? = pertanyaan netral untuk pukul berapa",
+        "What's the time? = santai, ke teman",
+        "Do you have the time? = sopan, ke orang asing",
+        "Could you tell me the time? = sangat sopan/formal",
+        "Always pakai Excuse me sebelum bertanya ke orang asing",
+        "What time does X start? = menanyakan jadwal acara",
+        "When is your birthday? = menanyakan kapan ulang tahun",
+        "Jangan pakai 'How much time?' untuk menanyakan jam"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "time",
+          "id": "waktu",
+          "phonetic": "/taɪm/",
+          "example_en": "What time is it?",
+          "example_id": "Pukul berapa sekarang?"
+        },
+        {
+          "en": "o'clock",
+          "id": "pukul (tepat)",
+          "phonetic": "/əˈklɒk/",
+          "example_en": "It's three o'clock.",
+          "example_id": "Pukul tiga tepat."
+        },
+        {
+          "en": "What time is it?",
+          "id": "Pukul berapa sekarang?",
+          "phonetic": "/wɒt taɪm ɪz ɪt/",
+          "example_en": "Excuse me, what time is it?",
+          "example_id": "Maaf, pukul berapa sekarang?"
+        },
+        {
+          "en": "at",
+          "id": "pada/pukul",
+          "phonetic": "/æt/",
+          "example_en": "I wake up at 6.",
+          "example_id": "Saya bangun pukul 6."
+        },
+        {
+          "en": "on",
+          "id": "pada (hari/tanggal)",
+          "phonetic": "/ɒn/",
+          "example_en": "I have class on Monday.",
+          "example_id": "Saya ada kelas hari Senin."
+        },
+        {
+          "en": "in",
+          "id": "di/dalam (bulan/tahun)",
+          "phonetic": "/ɪn/",
+          "example_en": "I was born in March.",
+          "example_id": "Saya lahir bulan Maret."
+        },
+        {
+          "en": "morning",
+          "id": "pagi",
+          "phonetic": "/ˈmɔːrnɪŋ/",
+          "example_en": "I study in the morning.",
+          "example_id": "Saya belajar di pagi hari."
+        },
+        {
+          "en": "afternoon",
+          "id": "sore",
+          "phonetic": "/ˌæftərˈnuːn/",
+          "example_en": "We play in the afternoon.",
+          "example_id": "Kami bermain di sore hari."
+        },
+        {
+          "en": "evening",
+          "id": "malam (awal)",
+          "phonetic": "/ˈiːvnɪŋ/",
+          "example_en": "I read in the evening.",
+          "example_id": "Saya membaca di malam hari."
+        },
+        {
+          "en": "day",
+          "id": "hari",
+          "phonetic": "/deɪ/",
+          "example_en": "What day is today?",
+          "example_id": "Hari apa hari ini?"
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "Today is Monday.",
+          "example_id": "Hari ini Senin."
+        },
+        {
+          "en": "tomorrow",
+          "id": "besok",
+          "phonetic": "/təˈmɒroʊ/",
+          "example_en": "See you tomorrow!",
+          "example_id": "Sampai jumpa besok!"
+        },
+        {
+          "en": "now",
+          "id": "sekarang",
+          "phonetic": "/naʊ/",
+          "example_en": "It's 3 p.m. now.",
+          "example_id": "Sekarang pukul 3 sore."
+        },
+        {
+          "en": "noon",
+          "id": "tengah hari",
+          "phonetic": "/nuːn/",
+          "example_en": "I eat lunch at noon.",
+          "example_id": "Saya makan siang pukul 12 siang."
+        },
+        {
+          "en": "midnight",
+          "id": "tengah malam",
+          "phonetic": "/ˈmɪdnaɪt/",
+          "example_en": "Sleep before midnight.",
+          "example_id": "Tidur sebelum tengah malam."
+        },
+        {
+          "en": "half past",
+          "id": "lewat setengah",
+          "phonetic": "/hæf pæst/",
+          "example_en": "It's half past three.",
+          "example_id": "Sekarang pukul setengah empat."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 4 pertanyaan waktu 2x setelah guru. (2) **Pilihan sopan:** guru menyebut situasi (ke teman, ke orang asing, ke guru), murid memilih pertanyaan yang tepat. (3) **Isian:** '___, do you have the time? Sure, it's ___ (3.30).' (4) **Role play:** dua murid berlatih bertanya waktu secara sopan (Excuse me, do you have the time?). (5) **Koreksi:** tulis di papan 'How much time?' (untuk bertanya jam) dan 'Tell me the time!', minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What time is it?",
+          "id": "Pukul berapa sekarang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's three o'clock.",
+          "id": "Pukul tiga tepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What time does class start?",
+          "id": "Kelas mulai pukul berapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It starts at 8 a.m.",
+          "id": "Kelas mulai pukul 8 pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And when does it end?",
+          "id": "Dan kapan selesai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It ends at 10 a.m.",
+          "id": "Selesai pukul 10 pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excuse me, do you have the time?",
+          "id": "Maaf, ada jam?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sure, it's half past three.",
+          "id": "Tentu, pukul setengah empat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you!",
+          "id": "Terima kasih!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You're welcome!",
+          "id": "Sama-sama!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap! Hari ini kita belajar menanyakan waktu dengan beberapa pola: What time is it?, What's the time?, Do you have the time?, dan Could you tell me the time? Yang paling penting: pakai Excuse me sebelum bertanya ke orang asing, dan jangan pakai 'How much time?' untuk menanyakan jam. Pertanyaan untuk kalian: bagaimana menanyakan waktu ke teman? Dan bagaimana ke orang asing? Untuk PR, berlatihlah bertanya waktu ke 3 orang dengan pola yang berbeda. Besok kita akan belajar membaca angka besar. Sampai jumpa!",
+      "instructions": "Rangkum pola pertanyaan waktu. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

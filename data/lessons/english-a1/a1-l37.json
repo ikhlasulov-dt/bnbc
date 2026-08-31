@@ -1,0 +1,264 @@
+{
+  "id": "a1-l37",
+  "course_id": "english-a1",
+  "module_title": "Makanan dan Minuman",
+  "level": "A1",
+  "title": "Waktu Makan",
+  "subtitle": "breakfast, lunch, dinner, snack",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebut 4 waktu makan dalam bahasa Inggris",
+    "Mengaitkan waktu makan dengan jam",
+    "Membuat kalimat tentang kebiasaan makan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Senang sekali melihat kalian semua hari ini. Sebelum kita mulai, mari kita ingat pelajaran kemarin tentang kosakata makanan seperti rice, bread, egg, dan chicken. Siapa yang masih ingat arti dari 'delicious'? Betul, artinya enak. Hari ini kita akan masuk ke topik baru yang sangat dekat dengan kehidupan sehari-hari kita, yaitu Waktu Makan dalam bahasa Inggris: breakfast, lunch, dinner, dan snack. Pernahkah kalian makan di luar jam makan biasa? Apa kalian menyebutnya camilan atau makan utama? Itulah yang akan kita pelajari hari ini. Rencananya: kita akan mengenal 4 waktu makan, jam berapa masing-masing terjadi, dan cara membuat kalimat sederhana tentang kebiasaan makan kita. Siap? Ayo mulai!",
+      "instructions": "Tulis di papan tulis empat waktu makan: breakfast (pagi), lunch (siang), dinner (malam), snack (kapan saja). Beri rentang jam di samping masing-masing. Minta siswa menirukan pelafalan dua kali bersama-sama."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Empat Waktu Makan Utama\n\nDalam bahasa Inggris, ada empat waktu makan yang paling umum dipakai sehari-hari. Setiap waktu makan punya rentang jam yang berbeda. Perhatikan tabel berikut:\n\n| Inggris | Indonesia | Waktu umum | Contoh jam |\n|---|---|---|---|\n| breakfast | sarapan | pagi hari | 06:00 - 08:00 |\n| lunch | makan siang | siang hari | 12:00 - 13:00 |\n| dinner | makan malam | malam hari | 18:00 - 19:30 |\n| snack | camilan | kapan saja | sore / sela waktu |\n\n## Kata Kerja untuk Makan\n\nUntuk menyatakan kegiatan makan, kita bisa pakai dua kata kerja yang umum:\n\n- **have** + waktu makan → *have breakfast, have lunch, have dinner*\n- **eat** + jenis makanan → *eat rice, eat bread, eat a snack*\n\nKedua pola ini benar, tetapi *have* lebih sering dipakai bersama waktu makan.\n\n## Contoh Kalimat\n\n- I have **breakfast** at 6 a.m.\n- We eat **lunch** at school at 12.\n- My family has **dinner** together at 7 p.m.\n- I eat a **snack** in the afternoon.\n- What time do you have **dinner**?\n\n## Mini-Dialog\n\n**A:** What time do you have breakfast?\n\n**B:** I have breakfast at 6:30.\n\n**A:** And dinner?\n\n**B:** We have dinner at 7 p.m.\n\n## Catatan Penting\n\n- Kata *dinner* bisa juga disebut *supper* di beberapa negara, tetapi *dinner* lebih umum dipakai.\n- *Brunch* = gabungan breakfast + lunch (sekitar jam 10-11), biasanya akhir minggu.\n\n> **Hindari:** mengatakan 'I eat breakfast' secara berulang — lebih alami memakai *have breakfast*. Hindari juga menulis *breakfast* menjadi dua kata 'break fast'.",
+      "key_points": [
+        "breakfast = sarapan (pagi, 06:00-08:00)",
+        "lunch = makan siang (siang, 12:00-13:00)",
+        "dinner = makan malam (malam, 18:00-19:30)",
+        "snack = camilan (kapan saja, biasanya sore)",
+        "Pakai *have* + waktu makan: have breakfast / lunch / dinner",
+        "Pakai *eat* + jenis makanan: eat rice, eat bread, eat a snack",
+        "Jangan pisahkan *breakfast* menjadi dua kata",
+        "Tanya waktu makan: 'What time do you have breakfast?'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "breakfast",
+          "id": "sarapan",
+          "phonetic": "/ˈbrekfəst/",
+          "example_en": "I have breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "lunch",
+          "id": "makan siang",
+          "phonetic": "/lʌntʃ/",
+          "example_en": "We eat lunch at noon.",
+          "example_id": "Kami makan siang di siang hari."
+        },
+        {
+          "en": "dinner",
+          "id": "makan malam",
+          "phonetic": "/ˈdɪnər/",
+          "example_en": "We have dinner at seven.",
+          "example_id": "Kami makan malam jam tujuh."
+        },
+        {
+          "en": "bread",
+          "id": "roti",
+          "phonetic": "/bred/",
+          "example_en": "I have bread for breakfast.",
+          "example_id": "Saya makan roti untuk sarapan."
+        },
+        {
+          "en": "egg",
+          "id": "telur",
+          "phonetic": "/eɡ/",
+          "example_en": "I eat two eggs.",
+          "example_id": "Saya makan dua telur."
+        },
+        {
+          "en": "chicken",
+          "id": "ayam",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "example_en": "The chicken is delicious.",
+          "example_id": "Ayamnya enak."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "I like grilled fish.",
+          "example_id": "Saya suka ikan bakar."
+        },
+        {
+          "en": "water",
+          "id": "air",
+          "phonetic": "/ˈwɔːtər/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        },
+        {
+          "en": "milk",
+          "id": "susu",
+          "phonetic": "/mɪlk/",
+          "example_en": "I drink milk in the morning.",
+          "example_id": "Saya minum susu di pagi hari."
+        },
+        {
+          "en": "tea",
+          "id": "teh",
+          "phonetic": "/tiː/",
+          "example_en": "Would you like some tea?",
+          "example_id": "Mau teh?"
+        },
+        {
+          "en": "coffee",
+          "id": "kopi",
+          "phonetic": "/ˈkɒfi/",
+          "example_en": "My father drinks coffee.",
+          "example_id": "Ayah saya minum kopi."
+        },
+        {
+          "en": "juice",
+          "id": "jus",
+          "phonetic": "/dʒuːs/",
+          "example_en": "I like orange juice.",
+          "example_id": "Saya suka jus jeruk."
+        },
+        {
+          "en": "fruit",
+          "id": "buah",
+          "phonetic": "/fruːt/",
+          "example_en": "Fruit is healthy.",
+          "example_id": "Buah itu sehat."
+        },
+        {
+          "en": "delicious",
+          "id": "enak",
+          "phonetic": "/dɪˈlɪʃəs/",
+          "example_en": "The fried rice is delicious.",
+          "example_id": "Nasi gorengnya enak."
+        },
+        {
+          "en": "snack",
+          "id": "camilan",
+          "phonetic": "/snæk/",
+          "example_en": "I eat a snack in the afternoon.",
+          "example_id": "Saya makan camilan di sore hari."
+        },
+        {
+          "en": "meal",
+          "id": "makanan (waktu makan)",
+          "phonetic": "/miːl/",
+          "example_en": "We have three meals a day.",
+          "example_id": "Kita makan tiga kali sehari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill cepat**: Guru menyebut waktu (pagi/siang/malam/kapan saja), siswa menjawab waktu makannya dalam bahasa Inggris. Lakukan 8 putaran.\n2. **Pair work**: Dalam pasangan, tanyakan jam makan pasangan dengan pola 'What time do you have breakfast/lunch/dinner?'. Catat jawabannya.\n3. **Fill-in-the-blank**: Lengkapi kalimat — (a) I ___ breakfast at 6. (b) We have ___ at noon. (c) She eats a ___ in the afternoon. (d) My family ___ dinner together.\n4. **Role play**: Satu siswa jadi waiter, satu jadi tamu. Tanya jam makan dan pesan makanan sederhana.\n5. **Error correction**: Perbaiki kalimat salah — 'I breakfast at 6', 'We eat dinner at morning', 'He have lunch at noon'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning! What time do you have breakfast?",
+          "id": "Selamat pagi! Jam berapa kamu sarapan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have breakfast at 6 a.m. every day.",
+          "id": "Saya sarapan jam 6 pagi setiap hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And what do you eat for breakfast?",
+          "id": "Dan kamu makan apa untuk sarapan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I eat bread and an egg. I drink milk.",
+          "id": "Saya makan roti dan sebutir telur. Saya minum susu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What time do you have lunch at school?",
+          "id": "Jam berapa kamu makan siang di sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We have lunch at 12 o'clock at the canteen.",
+          "id": "Kami makan siang jam 12 di kantin."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And dinner? Do you eat with your family?",
+          "id": "Dan makan malam? Kamu makan bersama keluarga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we have dinner at 7 p.m. together.",
+          "id": "Ya, kami makan malam jam 7 malam bersama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you eat a snack in the afternoon?",
+          "id": "Kamu makan camilan di sore hari?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sometimes. I eat a banana or a small cake.",
+          "id": "Kadang. Saya makan pisang atau kue kecil."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Nice! What is your favorite meal of the day?",
+          "id": "Bagus! Waktu makan favoritmu mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite meal is dinner because we eat together.",
+          "id": "Favorit saya makan malam karena kami makan bersama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about 'brunch'? Have you heard that word?",
+          "id": "Bagaimana dengan 'brunch'? Pernah dengar kata itu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No. What does it mean?",
+          "id": "Belum. Apa artinya?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It is breakfast and lunch together, around 10 or 11.",
+          "id": "Itu sarapan dan makan siang digabung, sekitar jam 10 atau 11."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Oh, I see! Thank you, teacher.",
+          "id": "Oh, begitu! Terima kasih, Bu."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar empat waktu makan: breakfast, lunch, dinner, dan snack. Kita juga tahu kalau kata kerja yang umum dipakai adalah *have* untuk waktu makan dan *eat* untuk jenis makanan. Sebelum kita tutup, ada dua pertanyaan: pertama, jam berapa biasanya kamu sarapan? Kedua, apa kamu makan camilan di sore hari? Untuk pekerjaan rumah, tulislah jadwal makanmu dalam bahasa Inggris lengkap dengan jam, minimal 5 kalimat. Contoh: 'I have breakfast at 6 a.m.' Besok kita akan bahas topik baru yaitu countable dan uncountable nouns — benda yang bisa dan tidak bisa dihitung, seperti 'an apple' versus 'some water'. Sampai jumpa besok!",
+      "instructions": "Rangkum 4 waktu makan di papan. Tanyakan dua pertanyaan pemahaman kepada 2 siswa. Berikan tugas rumah tertulis dan sampaikan topik pelajaran besok."
+    }
+  ]
+}

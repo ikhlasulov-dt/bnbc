@@ -1,0 +1,264 @@
+{
+  "id": "a1-l42",
+  "course_id": "english-a1",
+  "module_title": "Sekolah",
+  "level": "A1",
+  "title": "Benda di Ruang Kelas",
+  "subtitle": "Kosakata dasar benda di kelas",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan nama benda di ruang kelas dalam bahasa Inggris",
+    "Mengucapkan kosakata kelas dengan benar",
+    "Merespons instruksi sederhana yang menyebut benda kelas"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Hari ini kita mulai modul baru yang sangat dekat dengan kehidupan kalian, yaitu modul Sekolah. Sebelum masuk topik baru, mari kita ingat sejenak modul kemarin tentang makanan dan minuman. Siapa yang masih ingat arti 'delicious'? Bagus. Hari ini kita akan belajar kosakata benda-benda yang ada di ruang kelas. Coba lihat sekeliling kalian sekarang. Apa saja yang kalian lihat? Meja, kursi, buku, papan tulis? Semua itu punya nama dalam bahasa Inggris. Pernahkah kalian kehilangan pensil dan ingin bilang ke guru, 'Bu, saya hilang pensil', tapi tidak tahu kata bahasa Inggrisnya? Nah, hari ini kita akan belajar 12-15 kata benda kelas yang penting. Rencana: kita kenal kosakata, latih pelafalan, dan pakai dalam kalimat sederhana. Ayo mulai!",
+      "instructions": "Tunjuk benda-benda di kelas satu per satu, minta siswa menyebut nama Indonesianya. Lalu katakan: 'Hari ini kita akan belajar nama Inggrisnya.' Tulis daftar di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Benda-Benda di Ruang Kelas\n\nBerikut adalah benda paling umum yang ada di ruang kelas. Pelajari tabel berikut:\n\n| Inggris | Indonesia | Contoh kalimat |\n|---|---|---|\n| school | sekolah | I go to school every day. |\n| classroom | ruang kelas | Our classroom is big. |\n| desk | meja belajar | My desk is near the window. |\n| chair | kursi | Please sit on the chair. |\n| book | buku | Open your book, please. |\n| pencil | pensil | I write with a pencil. |\n| pen | pulpen | This pen is blue. |\n| eraser | penghapus | I need an eraser. |\n| ruler | penggaris | The ruler is on the desk. |\n| bag | tas | My bag is under the chair. |\n| blackboard | papan tulis | The teacher writes on the blackboard. |\n| library | perpustakaan | The library is next to the class. |\n| canteen | kantin | We eat at the canteen. |\n\n## Pola Kalimat Dasar\n\n- **This is a ___.** → Ini adalah ___.\n  - This is a book.\n  - This is a pencil.\n- **That is a ___.** → Itu adalah ___.\n  - That is a desk.\n- **I have a ___.** → Saya punya ___.\n  - I have a new bag.\n- **Where is my ___?** → Di mana ___ saya?\n  - Where is my pen?\n\n## Lokasi Benda\n\nUntuk menyatakan di mana benda berada, kita pakai *on*, *in*, *under*:\n\n- The book is **on** the desk. (di atas)\n- The pen is **in** the bag. (di dalam)\n- The bag is **under** the chair. (di bawah)\n\n## Mini-Dialog\n\n**A:** Where is your book?\n\n**B:** It's on the desk.\n\n**A:** And your pen?\n\n**B:** It's in my bag.\n\n> **Hindari:** mengatakan 'book of me' — yang benar *my book*. Hindari juga *This is book* tanpa artikel — yang benar *This is a book*.",
+      "key_points": [
+        "school = sekolah, classroom = ruang kelas",
+        "desk = meja belajar, chair = kursi",
+        "book = buku, pencil = pensil, pen = pulpen",
+        "eraser = penghapus, ruler = penggaris, bag = tas",
+        "blackboard = papan tulis, library = perpustakaan",
+        "Pola: This is a ___ / That is a ___ / I have a ___",
+        "Where is my ___? = Di mana ___ saya?",
+        "Preposisi lokasi: on (di atas), in (di dalam), under (di bawah)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "school",
+          "id": "sekolah",
+          "phonetic": "/skuːl/",
+          "example_en": "I go to school every day.",
+          "example_id": "Saya pergi ke sekolah setiap hari."
+        },
+        {
+          "en": "classroom",
+          "id": "ruang kelas",
+          "phonetic": "/ˈklæsruːm/",
+          "example_en": "Our classroom is big.",
+          "example_id": "Ruang kelas kami besar."
+        },
+        {
+          "en": "desk",
+          "id": "meja belajar",
+          "phonetic": "/desk/",
+          "example_en": "My desk is near the window.",
+          "example_id": "Meja saya dekat jendela."
+        },
+        {
+          "en": "chair",
+          "id": "kursi",
+          "phonetic": "/tʃer/",
+          "example_en": "Please sit on the chair.",
+          "example_id": "Tolong duduk di kursi."
+        },
+        {
+          "en": "book",
+          "id": "buku",
+          "phonetic": "/bʊk/",
+          "example_en": "Open your book, please.",
+          "example_id": "Buka bukumu, tolong."
+        },
+        {
+          "en": "pencil",
+          "id": "pensil",
+          "phonetic": "/ˈpensl/",
+          "example_en": "I write with a pencil.",
+          "example_id": "Saya menulis dengan pensil."
+        },
+        {
+          "en": "pen",
+          "id": "pulpen",
+          "phonetic": "/pen/",
+          "example_en": "This pen is blue.",
+          "example_id": "Pulpen ini biru."
+        },
+        {
+          "en": "eraser",
+          "id": "penghapus",
+          "phonetic": "/ɪˈreɪsər/",
+          "example_en": "I need an eraser.",
+          "example_id": "Saya butuh penghapus."
+        },
+        {
+          "en": "ruler",
+          "id": "penggaris",
+          "phonetic": "/ˈruːlər/",
+          "example_en": "The ruler is on the desk.",
+          "example_id": "Penggarisnya di atas meja."
+        },
+        {
+          "en": "bag",
+          "id": "tas",
+          "phonetic": "/bæɡ/",
+          "example_en": "My bag is under the chair.",
+          "example_id": "Tas saya di bawah kursi."
+        },
+        {
+          "en": "blackboard",
+          "id": "papan tulis",
+          "phonetic": "/ˈblækbɔːrd/",
+          "example_en": "The teacher writes on the blackboard.",
+          "example_id": "Guru menulis di papan tulis."
+        },
+        {
+          "en": "library",
+          "id": "perpustakaan",
+          "phonetic": "/ˈlaɪbreri/",
+          "example_en": "The library is next to the class.",
+          "example_id": "Perpustakaan di sebelah kelas."
+        },
+        {
+          "en": "canteen",
+          "id": "kantin",
+          "phonetic": "/kænˈtiːn/",
+          "example_en": "We eat at the canteen.",
+          "example_id": "Kami makan di kantin."
+        },
+        {
+          "en": "English",
+          "id": "bahasa Inggris",
+          "phonetic": "/ˈɪŋɡlɪʃ/",
+          "example_en": "I like English class.",
+          "example_id": "Saya suka pelajaran bahasa Inggris."
+        },
+        {
+          "en": "notebook",
+          "id": "buku tulis",
+          "phonetic": "/ˈnoʊtbʊk/",
+          "example_en": "I write in my notebook.",
+          "example_id": "Saya menulis di buku tulis saya."
+        },
+        {
+          "en": "sharpener",
+          "id": "rata pensil",
+          "phonetic": "/ˈʃɑːrpənər/",
+          "example_en": "My sharpener is red.",
+          "example_id": "Rata pensil saya berwarna merah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill tunjuk-benda**: Guru menunjuk benda di kelas, siswa menyebut nama Inggrisnya secepat mungkin. Lakukan 15 putaran.\n2. **Pair work**: Dalam pasangan, tunjuk dan tanyakan 'What is this?' — pasangan menjawab 'It's a ___'. Tukar peran.\n3. **Fill-in-the-blank**: Lengkapi — (a) This is a ___. (b) The book is ___ the desk. (c) Where ___ my pen? (d) I have a new ___.\n4. **Role play 'Lost and Found'**: Siswa A kehilangan benda, siswa B membantu mencari — tanyakan lokasi dengan 'Where is your ___?'.\n5. **Error correction**: Perbaiki — 'This is book', 'book of me', 'The pen is in desk', 'Where my bag?'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning, class. Today we learn about classroom objects.",
+          "id": "Selamat pagi, kelas. Hari ini kita belajar benda di kelas."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good morning, teacher!",
+          "id": "Selamat pagi, Bu!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Look at this. What is this? On your desk.",
+          "id": "Lihat ini. Apa ini? Di mejamu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's a book. My English book.",
+          "id": "Itu buku. Buku bahasa Inggris saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. And what is this? In your hand.",
+          "id": "Bagus. Lalu ini apa? Di tanganmu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "This is a pencil. I write with it.",
+          "id": "Ini pensil. Saya menulis dengannya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Where is your eraser?",
+          "id": "Hebat. Di mana penghapusmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's in my bag, under the chair.",
+          "id": "Di tas saya, di bawah kursi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your ruler? Where is it?",
+          "id": "Dan penggarismu? Di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's on the desk, next to my book.",
+          "id": "Di meja, di sebelah buku saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do we read books at school?",
+          "id": "Di mana kita membaca buku di sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We read books in the library.",
+          "id": "Kami membaca buku di perpustakaan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do we eat at school?",
+          "id": "Di mana kita makan di sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We eat at the canteen.",
+          "id": "Kami makan di kantin."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! Open your notebook, please. Write these words.",
+          "id": "Bagus! Buka buku tulismu, tolong. Tulis kata-kata ini."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "OK, teacher. I'm writing now.",
+          "id": "Baik, Bu. Saya menulis sekarang."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar 12-15 kosakata benda di ruang kelas: school, classroom, desk, chair, book, pencil, pen, eraser, ruler, bag, blackboard, library, dan canteen. Kita juga belajar pola kalimat *This is a ___*, *Where is my ___?*, dan preposisi on, in, under. Sebelum tutup, dua pertanyaan: apa bahasa Inggrisnya 'penghapus'? Bagaimana cara bertanya 'Di mana buku saya?' dalam bahasa Inggris? Untuk pekerjaan rumah, gambarlah 8 benda di kelas, lalu tulis nama Inggrisnya dan satu kalimat untuk setiap benda, misalnya 'This is a pencil. It's on the desk.' Besok kita akan belajar preposisi tempat lebih lengkap: in, on, under, behind, next to, in front of. Sampai jumpa!",
+      "instructions": "Rangkum kosakata di papan dengan gambar sederhana. Tanyakan dua pertanyaan pemahaman. Berikan PR gambar + kalimat dan sampaikan topik besok tentang preposisi tempat."
+    }
+  ]
+}

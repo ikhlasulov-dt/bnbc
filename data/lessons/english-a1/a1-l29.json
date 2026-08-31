@@ -1,0 +1,214 @@
+{
+  "id": "a1-l29",
+  "course_id": "english-a1",
+  "module_title": "Rutinitas Harian",
+  "level": "A1",
+  "title": "Bentuk Tanya: Do/Does",
+  "subtitle": "Pertanyaan yes/no dengan Do/Does",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk pertanyaan dengan Do untuk I/you/we/they",
+    "Membentuk pertanyaan dengan Does untuk he/she/it",
+    "Menjawab pertanyaan yes/no dengan Yes, I do / No, I don't"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar bentuk negatif don't/doesn't. Hari ini kita akan belajar bentuk tanya: Do/Does. Pernahkah kalian ingin bertanya 'apakah kamu suka kopi?' atau 'apakah dia bekerja di sini?' dalam Inggris? Itu yang akan kita selesaikan. Tujuan kita: kalian bisa membuat kalimat tanya dengan Do/Does dan menjawab dengan Yes, I do / No, I don't. Kita mulai dari teori pola tanya, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'Do you like English?'. Tulis 'Do you...? Does she...?' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Bentuk Tanya: Do/Does\n\nUntuk membuat kalimat tanya dalam simple present, pakai bantu **Do** atau **Does** di awal kalimat.\n\n### Tabel Pertanyaan\n\n| Subjek | Bantu tanya | Contoh |\n|---|---|---|\n| I | Do | Do I need this? |\n| You | Do | Do you like tea? |\n| We | Do | Do we have class? |\n| They | Do | Do they work here? |\n| He | Does | Does he like coffee? |\n| She | Does | Does she speak English? |\n| It | Does | Does it work? |\n\n### Aturan Penting\n\n1. **Do** untuk I, you, we, they.\n2. **Does** untuk he, she, it.\n3. **Setelah Do/Does, kata kerja kembali ke V1 (tanpa -s).**\n   - *Does she work?* (bukan *Does she works?*)\n   - *Does he like?* (bukan *Does he likes?*)\n4. **Intonasi naik** di akhir pertanyaan yes/no.\n\n### Jawaban Singkat\n\n| Pertanyaan | Jawaban Positif | Jawaban Negatif |\n|---|---|---|\n| Do you like tea? | Yes, I do. | No, I don't. |\n| Do they work here? | Yes, they do. | No, they don't. |\n| Does she like coffee? | Yes, she does. | No, she doesn't. |\n| Does he speak English? | Yes, he does. | No, he doesn't. |\n\n### Pertanyaan dengan Wh- Words\n\nGabungkan Wh- word dengan Do/Does:\n- *What do you do?* — Apa pekerjaanmu?\n- *Where do you live?* — Di mana kamu tinggal?\n- *When do you wake up?* — Kapan kamu bangun?\n- *How do you go to school?* — Bagaimana kamu ke sekolah?\n- *What does she do?* — Apa pekerjaannya?\n- *Where does he work?* — Di mana dia bekerja?\n\n### Contoh Kalimat Tanya\n\n- *Do you like English?* — Apa kamu suka bahasa Inggris?\n- *Does she play tennis?* — Apa dia bermain tenis?\n- *Do they have children?* — Apa mereka punya anak?\n- *What do you do on weekends?* — Apa yang kamu lakukan di akhir pekan?\n- *Where does your father work?* — Di mana ayahmu bekerja?\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: Do you like English?\n- B: Yes, I do. I love it.\n- A: Does your brother like it too?\n- B: No, he doesn't. He prefers math.\n\n**Dialog 2:**\n- A: Where do you live?\n- B: I live in Bandung.\n- A: How do you go to school?\n- B: I go by bus.\n\n> **Hindari:** Jangan menambah -s setelah Does: *Does she works?* SALAH. Jangan campur Do/Does: *Does you like?* SALAH — harusnya *Do you like?*. Jangan menjawab 'Yes' saja untuk pertanyaan Do/Does — selalu sertakan do/does: *Yes, I do.* atau *No, I don't.*\n\n### Cara Mengucapkan\n\n- **Do** /duː/\n- **Does** /dʌz/\n- **Do you** sering diucapkan /duːjə/ (terhubung).\n- **Does she** /dʌz ʃi/\n\n### Tips\n\n1. Do untuk I/you/we/they, Does untuk he/she/it.\n2. Setelah Do/Does, kata kerja kembali ke V1.\n3. Jawab dengan do/does, bukan 'Yes/No' saja: *Yes, I do.* *No, she doesn't.*",
+      "key_points": [
+        "Do untuk I, you, we, they; Does untuk he, she, it",
+        "Do you like tea? Does she like coffee?",
+        "Setelah Do/Does, kata kerja kembali ke V1 (tanpa -s)",
+        "Does she works? SALAH — Does she work?",
+        "Jawaban: Yes, I do / No, I don't / Yes, she does / No, she doesn't",
+        "Jangan jawab 'Yes' saja — sertakan do/does",
+        "Pertanyaan Wh- + Do/Does: What do you do? Where does she live?",
+        "Intonasi naik di akhir pertanyaan yes/no"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "wake up",
+          "id": "bangun tidur",
+          "phonetic": "/weɪk ʌp/",
+          "example_en": "I wake up at six.",
+          "example_id": "Saya bangun jam enam."
+        },
+        {
+          "en": "study",
+          "id": "belajar",
+          "phonetic": "/ˈstʌdi/",
+          "example_en": "I study English.",
+          "example_id": "Saya belajar bahasa Inggris."
+        },
+        {
+          "en": "play",
+          "id": "bermain",
+          "phonetic": "/pleɪ/",
+          "example_en": "I play with friends.",
+          "example_id": "Saya bermain dengan teman."
+        },
+        {
+          "en": "eat breakfast",
+          "id": "makan sarapan",
+          "phonetic": "/iːt ˈbrekfəst/",
+          "example_en": "I eat breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "go to school",
+          "id": "pergi ke sekolah",
+          "phonetic": "/ɡoʊ tuː skuːl/",
+          "example_en": "I go to school by bike.",
+          "example_id": "Saya ke sekolah naik sepeda."
+        },
+        {
+          "en": "always",
+          "id": "selalu",
+          "phonetic": "/ˈɔːlweɪz/",
+          "example_en": "I always brush my teeth.",
+          "example_id": "Saya selalu gosok gigi."
+        },
+        {
+          "en": "usually",
+          "id": "biasanya",
+          "phonetic": "/ˈjuːʒuəli/",
+          "example_en": "I usually wake up early.",
+          "example_id": "Saya biasanya bangun pagi."
+        },
+        {
+          "en": "sometimes",
+          "id": "kadang-kadang",
+          "phonetic": "/ˈsʌmtaɪmz/",
+          "example_en": "I sometimes read at night.",
+          "example_id": "Saya kadang membaca di malam hari."
+        },
+        {
+          "en": "never",
+          "id": "tidak pernah",
+          "phonetic": "/ˈnevər/",
+          "example_en": "I never eat late.",
+          "example_id": "Saya tidak pernah makan larut."
+        },
+        {
+          "en": "every day",
+          "id": "setiap hari",
+          "phonetic": "/ˈevri deɪ/",
+          "example_en": "I study every day.",
+          "example_id": "Saya belajar setiap hari."
+        },
+        {
+          "en": "work",
+          "id": "bekerja",
+          "phonetic": "/wɜːrk/",
+          "example_en": "I work hard.",
+          "example_id": "Saya bekerja keras."
+        },
+        {
+          "en": "sleep",
+          "id": "tidur",
+          "phonetic": "/sliːp/",
+          "example_en": "I sleep at nine.",
+          "example_id": "Saya tidur jam sembilan."
+        },
+        {
+          "en": "go home",
+          "id": "pulang",
+          "phonetic": "/ɡoʊ hoʊm/",
+          "example_en": "I go home at three.",
+          "example_id": "Saya pulang jam tiga."
+        },
+        {
+          "en": "often",
+          "id": "sering",
+          "phonetic": "/ˈɒfn/",
+          "example_en": "I often read books.",
+          "example_id": "Saya sering membaca buku."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang Do/Does + subjek + V1 dengan beberapa contoh 2x. (2) **Konversi:** guru menyebut kalimat positif (She works), murid membuat pertanyaan (Does she work?). (3) **Isian:** '___ you like tea? ___ she work here? ___ they have children?' (4) **Role play:** dua murid saling bertanya 5 pertanyaan Do/Does dan menjawab singkat. (5) **Koreksi:** tulis di papan 'Does she works? Do you likes coffee? Yes.' (kurang do/does), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like English?",
+          "id": "Apa kamu suka bahasa Inggris?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I do. I love it!",
+          "id": "Ya. Saya menyukainya!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your brother like it too?",
+          "id": "Apa saudara laki-lakimu juga suka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, he doesn't. He prefers math.",
+          "id": "Tidak. Dia lebih suka matematika."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you live?",
+          "id": "Di mana kamu tinggal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I live in Bandung.",
+          "id": "Saya tinggal di Bandung."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you go to school?",
+          "id": "Bagaimana kamu ke sekolah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I go by bus.",
+          "id": "Saya naik bus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your father work near here?",
+          "id": "Apa ayahmu bekerja dekat sini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, he does. He works in an office nearby.",
+          "id": "Ya. Dia bekerja di kantor dekat sini."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar bentuk tanya Do/Does. Yang paling penting: Do untuk I/you/we/they, Does untuk he/she/it, dan setelah Do/Does kata kerja kembali ke V1. Jawab dengan do/does, bukan Yes/No saja. Pertanyaan untuk kalian: bagaimana menanyakan 'apakah dia suka kopi'? Dan bagaimana jawab 'tidak'? Untuk PR, tulis 8 pertanyaan Do/Does dan jawabannya. Besok kita akan belajar penghubung waktu: then, after that, next. Sampai jumpa!",
+      "instructions": "Rangkum pola tanya Do/Does. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

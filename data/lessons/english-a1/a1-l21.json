@@ -1,0 +1,228 @@
+{
+  "id": "a1-l21",
+  "course_id": "english-a1",
+  "module_title": "Angka dan Waktu",
+  "level": "A1",
+  "title": "Hari dan Bulan",
+  "subtitle": "Monday-Sunday, January-December",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebut 7 hari dalam seminggu",
+    "Menyebut 12 bulan dalam setahun",
+    "Memahami bahwa hari dan bulan diawali huruf kapital"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar menyatakan pukul. Hari ini kita akan belajar nama hari dan bulan dalam bahasa Inggris. Pernahkah kalian bingung menyebut 'Senin' atau 'Maret' dalam Inggris? Hari ini kita akan selesaikan. Tujuan kita: kalian bisa menyebut 7 hari dan 12 bulan dengan lancar dan ejaan yang benar. Kita mulai dari teori daftar hari dan bulan, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'What day is today?'. Tulis 7 hari dan 12 bulan di papan dengan urutan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Hari dan Bulan\n\nMenyebut hari dan bulan adalah dasar untuk membicarakan jadwal, ulang tahun, dan acara.\n\n### Tujuh Hari dalam Seminggu\n\n| Hari | Inggris | Singkatan |\n|---|---|---|\n| Senin | Monday | Mon. |\n| Selasa | Tuesday | Tue. |\n| Rabu | Wednesday | Wed. |\n| Kamis | Thursday | Thu. |\n| Jumat | Friday | Fri. |\n| Sabtu | Saturday | Sat. |\n| Minggu | Sunday | Sun. |\n\n**Aturan:**\n- Semua hari ditulis dengan **huruf kapital di awal**.\n- Minggu dimulai dari **Sunday** atau **Monday** tergantung negara. Di Indonesia, biasanya mulai Senin.\n- Weekdays = Monday–Friday (hari kerja). Weekend = Saturday–Sunday (akhir pekan).\n\n### Dua Belas Bulan dalam Setahun\n\n| Bulan | Inggris | Singkatan |\n|---|---|---|\n| Januari | January | Jan. |\n| Februari | February | Feb. |\n| Maret | March | Mar. |\n| April | April | Apr. |\n| Mei | May | May |\n| Juni | June | Jun. |\n| Juli | July | Jul. |\n| Agustus | August | Aug. |\n| September | September | Sep. |\n| Oktober | October | Oct. |\n| November | November | Nov. |\n| Desember | December | Dec. |\n\n**Aturan:**\n- Semua bulan ditulis dengan **huruf kapital di awal**.\n- February punya 28 atau 29 hari (di tahun kabisat).\n- May adalah bulan dengan nama terpendek (3 huruf).\n\n### Preposisi untuk Hari dan Bulan\n\n- **on** + hari: *on Monday*, *on Friday*\n- **in** + bulan: *in January*, *in March*\n- **in** + tahun: *in 2024*\n\n### Frasa Umum\n\n- *What day is today?* — Hari apa hari ini?\n- *Today is Monday.* — Hari ini Senin.\n- *What month is it?* — Bulan apa sekarang?\n- *It's October.* — Sekarang Oktober.\n- *See you on Friday.* — Sampai jumpa hari Jumat.\n- *My birthday is in March.* — Ulang tahun saya bulan Maret.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What day is today?\n- B: Today is Monday.\n- A: And what's the date?\n- B: It's October 7th.\n\n**Dialog 2:**\n- A: When is your birthday?\n- B: It's in March.\n- A: What day?\n- B: March 5th.\n\n> **Hindari:** Jangan menulis hari/bulan dengan huruf kecil (harusnya *Monday*, bukan *monday*). Jangan tertukar preposisi: *on Monday* (bukan *in Monday*), *in March* (bukan *on March*). Jangan menulis 'Februari' (harusnya *February* dengan dua 'r').\n\n### Cara Mengucapkan\n\n- **Monday** /ˈmʌndeɪ/, **Tuesday** /ˈtuːzdeɪ/\n- **Wednesday** /ˈwenzdeɪ/ — 'd' tidak diucapkan!\n- **Thursday** /ˈθɜːrzdeɪ/\n- **January** /ˈdʒænjueri/, **February** /ˈfebrueri/\n- **March** /mɑːrtʃ/, **April** /ˈeɪprəl/\n\n### Tips\n\n1. Hafalkan 7 hari + 12 bulan, semua diawali huruf kapital.\n2. Preposisi: on + hari, in + bulan/tahun.\n3. Perhatikan pelafalan Wednesday (dibaca /ˈwenzdeɪ/, 'd' hening).",
+      "key_points": [
+        "7 hari: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+        "12 bulan: January, February, March, April, May, June, July, August, September, October, November, December",
+        "Semua hari dan bulan diawali huruf kapital",
+        "Weekdays = Monday-Friday, Weekend = Saturday-Sunday",
+        "Preposisi: on + hari (on Monday), in + bulan (in March), in + tahun (in 2024)",
+        "February ditulis dengan dua 'r'",
+        "Wednesday dibaca /ˈwenzdeɪ/ (d hening)",
+        "What day is today? = hari apa hari ini?; What month is it? = bulan apa sekarang?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "day",
+          "id": "hari",
+          "phonetic": "/deɪ/",
+          "example_en": "What day is today?",
+          "example_id": "Hari apa hari ini?"
+        },
+        {
+          "en": "week",
+          "id": "minggu",
+          "phonetic": "/wiːk/",
+          "example_en": "See you next week.",
+          "example_id": "Sampai jumpa minggu depan."
+        },
+        {
+          "en": "month",
+          "id": "bulan",
+          "phonetic": "/mʌnθ/",
+          "example_en": "January is the first month.",
+          "example_id": "Januari adalah bulan pertama."
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "Today is Monday.",
+          "example_id": "Hari ini Senin."
+        },
+        {
+          "en": "tomorrow",
+          "id": "besok",
+          "phonetic": "/təˈmɒroʊ/",
+          "example_en": "See you tomorrow!",
+          "example_id": "Sampai jumpa besok!"
+        },
+        {
+          "en": "Monday",
+          "id": "Senin",
+          "phonetic": "/ˈmʌndeɪ/",
+          "example_en": "Today is Monday.",
+          "example_id": "Hari ini Senin."
+        },
+        {
+          "en": "Tuesday",
+          "id": "Selasa",
+          "phonetic": "/ˈtuːzdeɪ/",
+          "example_en": "See you on Tuesday.",
+          "example_id": "Sampai jumpa Selasa."
+        },
+        {
+          "en": "Wednesday",
+          "id": "Rabu",
+          "phonetic": "/ˈwenzdeɪ/",
+          "example_en": "Wednesday is busy.",
+          "example_id": "Rabu sibuk."
+        },
+        {
+          "en": "Thursday",
+          "id": "Kamis",
+          "phonetic": "/ˈθɜːrzdeɪ/",
+          "example_en": "Thursday morning.",
+          "example_id": "Kamis pagi."
+        },
+        {
+          "en": "Friday",
+          "id": "Jumat",
+          "phonetic": "/ˈfraɪdeɪ/",
+          "example_en": "Friday is fun.",
+          "example_id": "Jumat menyenangkan."
+        },
+        {
+          "en": "Saturday",
+          "id": "Sabtu",
+          "phonetic": "/ˈsætərdeɪ/",
+          "example_en": "Saturday is free.",
+          "example_id": "Sabtu bebas."
+        },
+        {
+          "en": "Sunday",
+          "id": "Minggu",
+          "phonetic": "/ˈsʌndeɪ/",
+          "example_en": "Sunday is family day.",
+          "example_id": "Minggu hari keluarga."
+        },
+        {
+          "en": "January",
+          "id": "Januari",
+          "phonetic": "/ˈdʒænjueri/",
+          "example_en": "January is the first month.",
+          "example_id": "Januari bulan pertama."
+        },
+        {
+          "en": "February",
+          "id": "Februari",
+          "phonetic": "/ˈfebrueri/",
+          "example_en": "February has 28 days.",
+          "example_id": "Februari punya 28 hari."
+        },
+        {
+          "en": "March",
+          "id": "Maret",
+          "phonetic": "/mɑːrtʃ/",
+          "example_en": "March 5th is my birthday.",
+          "example_id": "5 Maret ulang tahun saya."
+        },
+        {
+          "en": "April",
+          "id": "April",
+          "phonetic": "/ˈeɪprəl/",
+          "example_en": "April showers.",
+          "example_id": "Hujan di April."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid menyebut 7 hari dan 12 bulan 2x setelah guru. (2) **Tebak hari:** guru menyebut hari dalam Indonesia, murid menjawab dalam Inggris. (3) **Isian:** 'Today is ___ (Senin). My birthday is in ___ (Maret). See you on ___ (Jumat).' (4) **Role play jadwal:** dua murid saling bertanya 'What day is today? When's your birthday?'. (5) **Koreksi:** tulis di papan 'monday', 'in Monday', 'Februari' dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What day is today?",
+          "id": "Hari apa hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Today is Monday.",
+          "id": "Hari ini Senin."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's the date?",
+          "id": "Tanggal berapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's October 7th.",
+          "id": "Tanggal 7 Oktober."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When is your birthday?",
+          "id": "Kapan ulang tahunmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My birthday is in March.",
+          "id": "Ulang tahun saya bulan Maret."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What day exactly?",
+          "id": "Hari apa tepatnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's on March 5th.",
+          "id": "Tanggal 5 Maret."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "See you on Friday!",
+          "id": "Sampai jumpa hari Jumat!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "See you on Friday, teacher!",
+          "id": "Sampai jumpa hari Jumat, Bu!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar 7 hari (Monday-Sunday) dan 12 bulan (January-December). Yang paling penting: semua diawali huruf kapital, pakai on untuk hari dan in untuk bulan, dan perhatikan pelafalan Wednesday yang 'd'-nya hening. Pertanyaan untuk kalian: apa 7 hari dalam Inggris? Dan kapan memakai on vs in? Untuk PR, tulis jadwal mingguanmu dalam Inggris (7 hari, kegiatan singkat). Besok kita akan belajar menulis tanggal lengkap. Sampai jumpa!",
+      "instructions": "Rangkum 7 hari dan 12 bulan. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

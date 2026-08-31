@@ -1,0 +1,200 @@
+{
+  "id": "a1-l02",
+  "course_id": "english-a1",
+  "module_title": "Sapaan dan Perkenalan",
+  "level": "A1",
+  "title": "Sapaan Sesuai Waktu",
+  "subtitle": "Good morning, Good afternoon, Good evening, Good night",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengucapkan Good morning, Good afternoon, Good evening, Good night dengan benar",
+    "Memahami kapan memakai masing-masing sapaan",
+    "Membedakan Good evening (bertemu) dan Good night (berpisah)"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar Hello dan Hi, serta kata-kata sopan Please, Thank you, dan You're welcome. Siapa yang masih ingat kapan kita memakai Hello dan kapan memakai Hi? Hari ini kita akan naik satu level: belajar sapaan yang lebih spesifik sesuai waktu, yaitu Good morning, Good afternoon, Good evening, dan Good night. Tujuan hari ini adalah kalian bisa memilih sapaan yang tepat berdasarkan jam, dan yang paling penting — membedakan Good evening (saat bertemu) dengan Good night (saat berpisah). Ada satu sapaan di antaranya yang jangan tertukar, jadi perhatikan baik-baik. Kita akan mulai dari teori, kosakata, lalu berlatih dalam dialog. Siap? Mari kita mulai!",
+      "instructions": "Sapa murid dengan 'Good morning'. Tulis 4 sapaan waktu di papan dengan tanda jam di samping masing-masing: Good morning (5-12), Good afternoon (12-18), Good evening (18-), Good night (pisah). Perkenalkan tujuan dan tekankan perbedaan evening vs night."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Sapaan Sesuai Waktu\n\nBahasa Inggris membedakan sapaan berdasarkan waktu. Tidak seperti 'Hello' atau 'Hi' yang bisa kapan saja, sapaan waktu ini lebih spesifik dan sopan.\n\n### Empat Sapaan Waktu\n\n| Inggris | Indonesia | Kapan dipakai | Tujuan |\n|---|---|---|---|\n| Good morning | Selamat pagi | Jam 05.00–12.00 | Bertemu |\n| Good afternoon | Selamat sore | Jam 12.00–18.00 | Bertemu |\n| Good evening | Selamat malam | Setelah jam 18.00 | Bertemu |\n| Good night | Selamat malam | Kapan saja | Berpisah / mau tidur |\n\n### Perbedaan Kunci: Good evening vs Good night\n\nBanyak pemula tertukar antara *Good evening* dan *Good night*. Padahal keduanya berbeda fungsi:\n\n- **Good evening** dipakai saat **bertemu** seseorang di malam hari.\n  - Contoh: *Good evening, Mr. Smith. How are you?*\n- **Good night** dipakai saat **berpisah** atau saat **mau tidur**.\n  - Contoh: *Good night! See you tomorrow.*\n\n> **Hindari:** Jangan mengucapkan 'Good night' saat baru bertemu orang di malam hari. Itu terdengar seperti mau pamit. Sebaliknya, jangan pakai 'Good evening' saat mau pulang — pakai 'Good night' atau 'Goodbye'.\n\n### Cara Mengucapkan\n\n- **Good morning** /ɡʊd ˈmɔːrnɪŋ/ — tekanan di 'MORN'.\n- **Good afternoon** /ɡʊd ˌæftərˈnuːn/ — tekanan di 'afterNOON'.\n- **Good evening** /ɡʊd ˈiːvnɪŋ/ — tekanan di 'EVEN'.\n- **Good night** /ɡʊd naɪt/ — satu tekanan di 'NIGHT'.\n\n### Pola Lengkap Sapaan\n\nSapaan waktu biasanya diikuti nama atau sebutan:\n- Good morning, teacher!\n- Good afternoon, everyone.\n- Good evening, Mrs. Brown.\n- Good night, mom!\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (pagi):**\n- A: Good morning, Sarah!\n- B: Good morning, Mr. Lee! How are you?\n\n**Dialog 2 (sore pulang):**\n- A: Class is over. Good afternoon, everyone!\n- B: Good afternoon, teacher. See you tomorrow.\n\n**Dialog 3 (malam pisah):**\n- A: It's late. Good night, dad!\n- B: Good night, son. Sleep well.\n\n### Tips Mengingat\n\n1. *Morning* = pagi, *afternoon* = sore, *evening* = malam awal (bertemu), *night* = malam (pisah/tidur).\n2. Selalu ikuti sapaan dengan nama atau sebutan sopan (teacher, mom, Mr. ...).\n3. *Good night* BUKAN untuk bertemu, hanya untuk berpisah.",
+      "key_points": [
+        "Good morning = jam 05.00–12.00, untuk bertemu",
+        "Good afternoon = jam 12.00–18.00, untuk bertemu",
+        "Good evening = setelah jam 18.00, untuk BERTEMU",
+        "Good night = kapan saja, untuk BERPISAH atau mau tidur",
+        "Good evening dibaca /ɡʊd ˈiːvnɪŋ/, tekanan di EVEN",
+        "Jangan pakai Good night saat baru bertemu",
+        "Sapaan waktu biasa diikuti nama atau sebutan (teacher, Mr., Mrs.)",
+        "Good night sering diikuti 'See you tomorrow' atau 'Sleep well'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "Good morning",
+          "id": "Selamat pagi",
+          "phonetic": "/ɡʊd ˈmɔːrnɪŋ/",
+          "example_en": "Good morning, teacher!",
+          "example_id": "Selamat pagi, Bu!"
+        },
+        {
+          "en": "Good afternoon",
+          "id": "Selamat sore",
+          "phonetic": "/ɡʊd ˌæftərˈnuːn/",
+          "example_en": "Good afternoon, everyone.",
+          "example_id": "Selamat sore, semua."
+        },
+        {
+          "en": "Good evening",
+          "id": "Selamat malam",
+          "phonetic": "/ɡʊd ˈiːvnɪŋ/",
+          "example_en": "Good evening, Mr. Smith.",
+          "example_id": "Selamat malam, Pak Smith."
+        },
+        {
+          "en": "Good night",
+          "id": "Selamat malam",
+          "phonetic": "/ɡʊd naɪt/",
+          "example_en": "Good night! See you tomorrow.",
+          "example_id": "Selamat malam! Sampai jumpa besok."
+        },
+        {
+          "en": "Hello",
+          "id": "Halo",
+          "phonetic": "/həˈloʊ/",
+          "example_en": "Hello, how are you?",
+          "example_id": "Halo, apa kabar?"
+        },
+        {
+          "en": "Hi",
+          "id": "Hai",
+          "phonetic": "/haɪ/",
+          "example_en": "Hi, I'm Sarah.",
+          "example_id": "Hai, saya Sarah."
+        },
+        {
+          "en": "How are you?",
+          "id": "Apa kabar?",
+          "phonetic": "/haʊ ɑːr juː/",
+          "example_en": "Hello! How are you?",
+          "example_id": "Halo! Apa kabar?"
+        },
+        {
+          "en": "Thank you",
+          "id": "Terima kasih",
+          "phonetic": "/ˈθæŋk juː/",
+          "example_en": "Thank you very much!",
+          "example_id": "Terima kasih banyak!"
+        },
+        {
+          "en": "Please",
+          "id": "Tolong",
+          "phonetic": "/pliːz/",
+          "example_en": "Please sit down.",
+          "example_id": "Tolong duduk."
+        },
+        {
+          "en": "Goodbye",
+          "id": "Selamat tinggal",
+          "phonetic": "/ɡʊdˈbaɪ/",
+          "example_en": "Goodbye! Have a nice day.",
+          "example_id": "Selamat tinggal! Semoga harimu menyenangkan."
+        },
+        {
+          "en": "See you later",
+          "id": "Sampai jumpa lagi",
+          "phonetic": "/siː juː ˈleɪtər/",
+          "example_en": "See you later, bye!",
+          "example_id": "Sampai jumpa lagi, dah!"
+        },
+        {
+          "en": "Nice to meet you",
+          "id": "Senang bertemu denganmu",
+          "phonetic": "/naɪs tuː miːt juː/",
+          "example_en": "Nice to meet you, John.",
+          "example_id": "Senang bertemu denganmu, John."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 4 latihan berurutan. (1) **Drill pelafalan:** murid mengulang keempat sapaan waktu 3x setelah guru, perhatikan tekanan suku kata. (2) **Permainan jam:** guru menyebutkan situasi (mis. 'jam 8 pagi, baru datang ke kelas', 'jam 9 malam mau tidur'), murid memilih sapaan yang tepat. (3) **Isian:** lengkapi kalimat '___, teacher!' dengan sapaan sesuai situasi yang diberikan guru. (4) **Role play pasangan:** satu murid jadi tamu yang datang jam 7 malam, satu jadi tuan rumah; gunakan Good evening untuk menyambut dan Good night untuk pamit. (5) **Koreksi kesalahan:** tulis di papan 'Good evening, see you tomorrow' dan minta murid memperbaikinya menjadi 'Good night'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning, students!",
+          "id": "Selamat pagi, murid-murid!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good morning, teacher!",
+          "id": "Selamat pagi, Bu/Pak!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It's 3 p.m. now. What do you say?",
+          "id": "Sekarang jam 3 sore. Apa yang kamu katakan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good afternoon, teacher!",
+          "id": "Selamat sore, Bu/Pak!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Class is over. Good afternoon, everyone!",
+          "id": "Kelas selesai. Selamat sore, semua!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good afternoon, teacher. See you tomorrow!",
+          "id": "Selamat sore, Bu. Sampai jumpa besok!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It's 8 p.m. You meet Mr. Lee. What do you say?",
+          "id": "Sekarang jam 8 malam. Kamu bertemu Pak Lee. Apa katamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good evening, Mr. Lee!",
+          "id": "Selamat malam, Pak Lee!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now it's 10 p.m. and you go to bed.",
+          "id": "Sekarang jam 10 malam dan kamu mau tidur."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good night, mom!",
+          "id": "Selamat malam, Ma!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat sekali! Hari ini kita belajar empat sapaan sesuai waktu: Good morning untuk pagi, Good afternoon untuk sore, Good evening untuk malam saat bertemu, dan Good night saat berpisah atau mau tidur. Yang paling penting diingat: Good evening untuk bertemu, Good night untuk berpisah — jangan tertukar! Pertanyaan untuk kalian: kalau kamu baru sampai di pesta jam 8 malam, sapaan apa yang kamu ucapkan? Dan kalau kamu pulang dari pesta jam 11 malam, sapaan apa? Untuk PR, amati orang di sekitarmu dan catat 3 situasi di mana kamu bisa memakai salah satu sapaan ini. Besok kita akan belajar menanyakan kabar dengan 'How are you?' dan beberapa cara menjawabnya. Sampai jumpa besok pagi!",
+      "instructions": "Tegaskan kembali perbedaan Good evening vs Good night. Tanyakan 2 pertanyaan pemahaman, beri waktu jawab. Tulis PR di papan. Tutup dengan 'Goodbye, class!'"
+    }
+  ]
+}

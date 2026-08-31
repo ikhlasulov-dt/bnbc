@@ -1,0 +1,277 @@
+{
+  "id": "a1-l69",
+  "course_id": "english-a1",
+  "module_title": "Transportasi",
+  "level": "A1",
+  "title": "Kosakata Arah",
+  "subtitle": "left, right, straight, turn",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan kata arah dasar dalam bahasa Inggris",
+    "Menggunakan frasa turn left, turn right, go straight",
+    "Mengenal preposisi posisi: next to, between, opposite"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang preposisi by untuk transportasi. Coba, siapa yang bisa kasih contoh 'I go by ___'? Bagus. Hari ini kita akan belajar kosakata arah dalam bahasa Inggris. Coba, kalau seseorang bertanya ke kamu, 'Di mana perpustakaan?', bagaimana kamu menjawabnya? Belok kiri? Lurus? Kanan? Dalam bahasa Inggris, kita akan belajar kata-kata arah: left, right, straight, turn. Ini sangat penting untuk memberi petunjuk arah. Rencana: kita pelajari kosakata arah, pakai dalam instruksi, dan latih dengan peta sederhana. Ayo mulai!",
+      "instructions": "Gambar peta sederhana di papan dengan jalan dan beberapa tempat. Tunjukkan arah dengan tanda panah. Tulis kata arah: left, right, straight, turn di samping peta."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Arah\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| left | kiri | Turn left. |\n| right | kanan | Turn right. |\n| straight | lurus | Go straight. |\n| turn | belok | Turn at the corner. |\n| ahead | ke depan | Go straight ahead. |\n| back | kembali | Go back. |\n| around | berputar | Walk around the park. |\n| corner | sudut | The shop is on the corner. |\n| crossroads | persimpangan | Stop at the crossroads. |\n| traffic light | lampu lalu lintas | Turn at the traffic light. |\n\n## Instruksi Arah\n\n| Inggris | Indonesia |\n|---|---|\n| Go straight. | Lurus. |\n| Go straight ahead. | Lurus terus. |\n| Turn left. | Belok kiri. |\n| Turn right. | Belok kanan. |\n| Turn left at the corner. | Belok kiri di sudut. |\n| Turn right at the traffic light. | Belok kanan di lampu merah. |\n| Go back. | Kembali. |\n| Stop here. | Berhenti di sini. |\n\n## Frasa untuk Penjelasan Arah\n\n- **It's on the left.** → Ada di sebelah kiri.\n- **It's on the right.** → Ada di sebelah kanan.\n- **It's next to ___.** → Ada di sebelah ___.\n- **It's between ___ and ___.** → Ada di antara ___ dan ___.\n- **It's in front of ___.** → Ada di depan ___.\n- **It's behind ___.** → Ada di belakang ___.\n\n## Contoh Kalimat\n\n- The school is **on the left**.\n- The library is **next to** the post office.\n- The bank is **between** the market and the hospital.\n- The canteen is **in front of** the classroom.\n\n## Mini-Dialog\n\n**A:** Excuse me, where is the library?\n\n**B:** Go straight, then turn left at the corner.\n\n**A:** Straight, then left?\n\n**B:** Yes. The library is on the right, next to the park.\n\n**A:** Thank you!\n\n**B:** You're welcome.\n\n> **Hindari:** mengatakan 'go to left' — yang benar *turn left* atau *go left*. Hindari juga 'turn to right' — yang benar *turn right* (langsung tanpa *to*).",
+      "key_points": [
+        "left = kiri, right = kanan",
+        "straight = lurus, turn = belok",
+        "Go straight = Lurus, Turn left = Belok kiri",
+        "Go straight ahead = Lurus terus",
+        "Turn left at the corner = Belok kiri di sudut",
+        "It's on the left = Ada di kiri",
+        "next to = di sebelah, between = di antara",
+        "Jangan 'go to left' — pakai 'turn left' atau 'go left'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "transportation",
+          "id": "transportasi",
+          "phonetic": "/ˌtrænspərˈteɪʃn/",
+          "example_en": "Public transportation is cheap.",
+          "example_id": "Transportasi umum murah."
+        },
+        {
+          "en": "street",
+          "id": "jalan",
+          "phonetic": "/striːt/",
+          "example_en": "This street is busy.",
+          "example_id": "Jalan ini ramai."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "left",
+          "id": "kiri",
+          "phonetic": "/left/",
+          "example_en": "Turn left at the corner.",
+          "example_id": "Belok kiri di pojok."
+        },
+        {
+          "en": "right",
+          "id": "kanan",
+          "phonetic": "/raɪt/",
+          "example_en": "The bank is on your right.",
+          "example_id": "Bank ada di sebelah kanan Anda."
+        },
+        {
+          "en": "straight",
+          "id": "lurus",
+          "phonetic": "/streɪt/",
+          "example_en": "Go straight ahead.",
+          "example_id": "Lurus terus ke depan."
+        },
+        {
+          "en": "turn",
+          "id": "belok",
+          "phonetic": "/tɜːrn/",
+          "example_en": "Turn right at the light.",
+          "example_id": "Belok kanan di lampu."
+        },
+        {
+          "en": "ahead",
+          "id": "ke depan",
+          "phonetic": "/əˈhed/",
+          "example_en": "Go straight ahead.",
+          "example_id": "Lurus terus."
+        },
+        {
+          "en": "back",
+          "id": "kembali",
+          "phonetic": "/bæk/",
+          "example_en": "Go back.",
+          "example_id": "Kembali."
+        },
+        {
+          "en": "corner",
+          "id": "sudut",
+          "phonetic": "/ˈkɔːrnər/",
+          "example_en": "The shop is on the corner.",
+          "example_id": "Toko itu di sudut."
+        },
+        {
+          "en": "crossroads",
+          "id": "persimpangan",
+          "phonetic": "/ˈkrɒsroʊdz/",
+          "example_en": "Stop at the crossroads.",
+          "example_id": "Berhenti di persimpangan."
+        },
+        {
+          "en": "traffic light",
+          "id": "lampu lalu lintas",
+          "phonetic": "/ˈtræfɪk laɪt/",
+          "example_en": "Turn at the traffic light.",
+          "example_id": "Belok di lampu lalu lintas."
+        },
+        {
+          "en": "next to",
+          "id": "di sebelah",
+          "phonetic": "/nekst tuː/",
+          "example_en": "The bank is next to the shop.",
+          "example_id": "Bank di sebelah toko."
+        },
+        {
+          "en": "between",
+          "id": "di antara",
+          "phonetic": "/bɪˈtwiːn/",
+          "example_en": "It's between A and B.",
+          "example_id": "Ada di antara A dan B."
+        },
+        {
+          "en": "block",
+          "id": "blok",
+          "phonetic": "/blɒk/",
+          "example_en": "Walk two blocks.",
+          "example_id": "Jalan dua blok."
+        },
+        {
+          "en": "near",
+          "id": "dekat",
+          "phonetic": "/nɪr/",
+          "example_en": "The school is near.",
+          "example_id": "Sekolahnya dekat."
+        },
+        {
+          "en": "far",
+          "id": "jauh",
+          "phonetic": "/fɑːr/",
+          "example_en": "The airport is far.",
+          "example_id": "Bandaranya jauh."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill arah**: Guru menyebut arah (kiri/kanan/lurus), siswa menunjuk dengan tangan dan menyebut bahasa Inggrisnya. Lakukan 15 putaran.\n2. **Pair work 'Follow directions'**: Siswa A memberi 5 instruksi arah (turn left, go straight, dll), siswa B menirukan dengan jari di peta khayalan.\n3. **Fill-in-the-blank**: Lengkapi — (a) Turn ___ at the corner. (b) Go ___ ahead. (c) The shop is on the ___. (d) The bank is ___ to the post office.\n4. **Role play 'Lost tourist'**: Siswa A jadi turis yang tersesat, B jadi lokal yang memberi arah ke 3 tempat.\n5. **Error correction**: Perbaiki — 'go to left', 'turn to right', 'go straightly', 'the shop is in the left'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. Can you help me? I'm looking for the library.",
+          "id": "Hai, Andi. Bisa bantu? Saya cari perpustakaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Of course! Go straight ahead, then turn left at the corner.",
+          "id": "Tentu! Lurus terus, lalu belok kiri di sudut."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Straight, then left. And then?",
+          "id": "Lurus, lalu kiri. Terus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Then go straight again. The library is on the right, next to the park.",
+          "id": "Lalu lurus lagi. Perpustakaan di kanan, di sebelah taman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it far from here?",
+          "id": "Jauh dari sini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, it's near. About 5 minutes on foot.",
+          "id": "Tidak, dekat. Sekitar 5 menit jalan kaki."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great. And where is the post office?",
+          "id": "Bagus. Kalau kantor pos di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The post office is on the left, between the bank and the market.",
+          "id": "Kantor pos di kiri, di antara bank dan pasar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do I get to the hospital?",
+          "id": "Bagaimana ke rumah sakit?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Turn right at the traffic light, then go straight. The hospital is on the left.",
+          "id": "Belok kanan di lampu, lalu lurus. Rumah sakit di kiri."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about the bus stop?",
+          "id": "Kalau halte bus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The bus stop is in front of the school, on the corner.",
+          "id": "Halte bus di depan sekolah, di sudut."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And the train station? Is it near?",
+          "id": "Dan stasiun kereta? Dekat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, the train station is far. Take a taxi or a bus.",
+          "id": "Tidak, stasiun jauh. Naik taksi atau bus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do I go to the airport?",
+          "id": "Bagaimana ke bandara?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Take a taxi. Turn right outside, then go straight to the highway.",
+          "id": "Naik taksi. Belok kanan di luar, lalu lurus ke jalan raya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you so much, Andi! You're very helpful.",
+          "id": "Terima kasih banyak, Andi! Kamu sangat membantu."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar kosakata arah: left, right, straight, turn, ahead, dan frasafrasa seperti *next to*, *between*, *in front of*. Kita tahu sekarang cara memberi instruksi arah: *Go straight*, *Turn left*, *It's on the right*. Ingat, jangan *go to left* — yang benar *turn left*. Sebelum tutup, dua pertanyaan: bagaimana mengatakan 'Belok kanan'? Bagaimana mengatakan 'Lurus terus'? Untuk pekerjaan rumah, gambar peta sederhana lingkunganmu, lalu tulis 8 instruksi arah ke 4 tempat berbeda (misalnya: ke sekolah, ke toko, ke rumah teman, ke masjid). Besok kita akan belajar menanyakan dan memberikan arah lengkap. Sampai jumpa!",
+      "instructions": "Rangkum kosakata arah di papan dengan peta. Tanyakan dua pertanyaan pemahaman. Berikan PR peta + 8 instruksi dan sampaikan topik besok."
+    }
+  ]
+}

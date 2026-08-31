@@ -1,0 +1,265 @@
+{
+  "id": "a1-l65",
+  "course_id": "english-a1",
+  "module_title": "Belanja",
+  "level": "A1",
+  "title": "Frasa Permintaan Can I have",
+  "subtitle": "Can I have ... please?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan pola Can I have untuk meminta barang secara sopan",
+    "Menambahkan please pada permintaan",
+    "Merespons permintaan dengan jawaban penjual"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang How many vs How much. Coba, siapa yang bisa kasih contoh 'How many ___?' Bagus. Hari ini kita akan belajar frasa permintaan yang sopan: *Can I have ___ please?*. Coba, kalau kamu di toko dan ingin minta sesuatu, apa yang kamu katakan? Dalam bahasa Indonesia: 'Boleh ___ tolong?' Dalam bahasa Inggris: *Can I have ___ please?* Ini frasa yang sangat penting untuk belanja dan juga untuk pemesanan di restoran. Rencana: kita pelajari frasa Can I have, variasinya, dan pakai dalam situasi belanja. Ayo mulai!",
+      "instructions": "Tulis di papan: 'Can I have ___, please?' Beri contoh dengan beberapa item. Latih pelafalan frasa lengkap bersama-sama dua kali."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Frasa Utama: Can I have\n\n**Can I have + item + please?**\n\n- Can I have **a bottle of water**, please?\n- Can I have **two apples**, please?\n- Can I have **a kilogram of rice**, please?\n- Can I have **the receipt**, please?\n\n## Variasi Frasa Permintaan\n\n| Frasa | Arti | Nuansa |\n|---|---|---|\n| Can I have ___? | Boleh saya ___? | umum, sopan |\n| Could I have ___? | Boleh saya ___? | lebih sopan |\n| I'd like ___ | Saya ingin ___ | alternatif |\n| I'll take ___ | Saya akan ambil ___ | untuk memutuskan beli |\n| Give me ___ | Beri saya ___ | kurang sopan, hindari |\n\n## Frasa Pelengkap\n\n- **Please** — tolong (selalu di akhir untuk sopan)\n- **Thank you** — terima kasih\n- **Here you are** — ini (saat memberi)\n- **Anything else?** — Ada yang lain?\n- **That's all, thank you** — Itu saja, terima kasih\n- **Excuse me** — permisi (memanggil perhatian)\n\n## Contoh di Toko\n\n**Customer:** Excuse me, can I have a bottle of water, please?\n\n**Seller:** Sure. Here you are.\n\n**Customer:** And can I have two apples too, please?\n\n**Seller:** Of course. Anything else?\n\n**Customer:** That's all, thank you. How much is it?\n\n**Seller:** It's fifteen thousand rupiah.\n\n## Contoh di Restoran\n\n- Can I have the menu, please?\n- Can I have fried rice and a glass of tea, please?\n- Could I have some water, please?\n\n## Mini-Dialog\n\n**A:** Excuse me, can I have a kilogram of sugar, please?\n\n**B:** Sure. Here you are.\n\n**A:** And can I have a bottle of cooking oil?\n\n**B:** Of course. Anything else?\n\n**A:** That's all, thank you. How much in total?\n\n**B:** Twenty-five thousand rupiah, please.\n\n> **Hindari:** mengatakan 'Give me water' (kurang sopan). Yang benar *Can I have a glass of water, please?*. Hindari juga 'Can I have water' tanpa ukuran — untuk uncountable, sebutkan ukuran: *a glass of*, *a bottle of*.",
+      "key_points": [
+        "Can I have ___, please? = Boleh saya ___, tolong?",
+        "Could I have ___? = bentuk lebih sopan",
+        "I'd like ___ = Saya ingin ___",
+        "I'll take ___ = Saya akan ambil ___",
+        "Please selalu di akhir untuk sopan",
+        "Anything else? = Ada yang lain?",
+        "That's all, thank you = Itu saja, terima kasih",
+        "Hindari 'Give me ___' — kurang sopan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "shop",
+          "id": "toko",
+          "phonetic": "/ʃɒp/",
+          "example_en": "The shop is open today.",
+          "example_id": "Toko buka hari ini."
+        },
+        {
+          "en": "price",
+          "id": "harga",
+          "phonetic": "/praɪs/",
+          "example_en": "What is the price?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "money",
+          "id": "uang",
+          "phonetic": "/ˈmʌni/",
+          "example_en": "I have some money.",
+          "example_id": "Saya punya uang."
+        },
+        {
+          "en": "cheap",
+          "id": "murah",
+          "phonetic": "/tʃiːp/",
+          "example_en": "This bag is cheap.",
+          "example_id": "Tas ini murah."
+        },
+        {
+          "en": "expensive",
+          "id": "mahal",
+          "phonetic": "/ɪkˈspensɪv/",
+          "example_en": "The watch is expensive.",
+          "example_id": "Jam itu mahal."
+        },
+        {
+          "en": "buy",
+          "id": "membeli",
+          "phonetic": "/baɪ/",
+          "example_en": "I buy apples at the market.",
+          "example_id": "Saya membeli apel di pasar."
+        },
+        {
+          "en": "pay",
+          "id": "membayar",
+          "phonetic": "/peɪ/",
+          "example_en": "I pay at the cashier.",
+          "example_id": "Saya membayar di kasir."
+        },
+        {
+          "en": "cashier",
+          "id": "kasir",
+          "phonetic": "/kæˈʃɪr/",
+          "example_en": "The cashier is friendly.",
+          "example_id": "Kasirnya ramah."
+        },
+        {
+          "en": "receipt",
+          "id": "struk",
+          "phonetic": "/rɪˈsiːt/",
+          "example_en": "Can I have the receipt?",
+          "example_id": "Boleh saya minta struknya?"
+        },
+        {
+          "en": "can I have",
+          "id": "boleh saya",
+          "phonetic": "/kæn aɪ hæv/",
+          "example_en": "Can I have water, please?",
+          "example_id": "Boleh saya minta air?"
+        },
+        {
+          "en": "please",
+          "id": "tolong",
+          "phonetic": "/pliːz/",
+          "example_en": "A bottle of water, please.",
+          "example_id": "Segelas air, tolong."
+        },
+        {
+          "en": "here you are",
+          "id": "ini",
+          "phonetic": "/hɪr juː ɑːr/",
+          "example_en": "Here you are. Thank you.",
+          "example_id": "Ini. Terima kasih."
+        },
+        {
+          "en": "anything else",
+          "id": "ada yang lain",
+          "phonetic": "/ˈeniθɪŋ els/",
+          "example_en": "Anything else, ma'am?",
+          "example_id": "Ada yang lain, Bu?"
+        },
+        {
+          "en": "that's all",
+          "id": "itu saja",
+          "phonetic": "/ðæts ɔːl/",
+          "example_en": "That's all, thank you.",
+          "example_id": "Itu saja, terima kasih."
+        },
+        {
+          "en": "excuse me",
+          "id": "permisi",
+          "phonetic": "/ɪkˈskjuːz miː/",
+          "example_en": "Excuse me, can I have...?",
+          "example_id": "Permisi, boleh saya...?"
+        },
+        {
+          "en": "sure",
+          "id": "tentu",
+          "phonetic": "/ʃʊr/",
+          "example_en": "Sure, here you are.",
+          "example_id": "Tentu, ini."
+        },
+        {
+          "en": "of course",
+          "id": "tentu saja",
+          "phonetic": "/əv kɔːrs/",
+          "example_en": "Of course, no problem.",
+          "example_id": "Tentu saja, tidak masalah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill frasa**: Guru menyebut item (apple, water, book, rice), siswa membuat kalimat 'Can I have ___, please?' lengkap. Lakukan 10 putaran.\n2. **Pair work 'Customer and seller'**: Siswa A minta 5 item dengan 'Can I have ___?', siswa B menjawab 'Sure, here you are'.\n3. **Fill-in-the-blank**: Lengkapi — (a) Can I ___ a bottle of water, please? (b) ___ else? (c) That's ___, thank you. (d) ___ you are.\n4. **Role play 'Mini market'**: Skenario belanja — sapa penjual, minta 4 item dengan 'Can I have ___ please?', tanya total, bayar.\n5. **Error correction**: Perbaiki — 'Give me water', 'Can I have water please' (tanpa ukuran), 'Anything more?', 'Here are you'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning! Welcome. Can I help you?",
+          "id": "Selamat pagi! Selamat datang. Bisa bantu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good morning. Yes, can I have a bottle of water, please?",
+          "id": "Selamat pagi. Ya, boleh saya minta sebotol air?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. Here you are.",
+          "id": "Tentu. Ini."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "And can I have two apples, please?",
+          "id": "Dan boleh dua apel?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Of course. Anything else?",
+          "id": "Tentu. Ada yang lain?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, can I have a kilogram of rice, please?",
+          "id": "Ya, boleh satu kilogram beras?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. Here is the rice.",
+          "id": "Tentu. Ini berasnya."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "And can I have a bottle of cooking oil?",
+          "id": "Dan boleh satu botol minyak goreng?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Of course. Anything else, ma'am?",
+          "id": "Tentu. Ada yang lain, Bu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's all, thank you. How much in total?",
+          "id": "Itu saja, terima kasih. Berapa totalnya?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "The total is forty-five thousand rupiah.",
+          "id": "Totalnya empat puluh lima ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Here is fifty thousand rupiah.",
+          "id": "Ini lima puluh ribu rupiah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you. Your change is five thousand rupiah.",
+          "id": "Terima kasih. Kembalian Anda lima ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Can I have a receipt, please?",
+          "id": "Boleh minta struk?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Of course. Here is your receipt. Thank you, come again!",
+          "id": "Tentu. Ini struknya. Terima kasih, datang lagi!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar frasa permintaan *Can I have ___, please?* dan variasinya. Kita juga belajar frasa pelengkap seperti *Here you are*, *Anything else?*, dan *That's all, thank you*. Ingat, hindari *Give me* — selalu pakai *Can I have* untuk sopan. Sebelum tutup, dua pertanyaan: bagaimana meminta satu botol air dengan sopan? Apa jawaban penjual setelah kita minta sesuatu? Untuk pekerjaan rumah, buatlah dialog belanja 8 baris — minta 4 item dengan *Can I have ___ please?* dan lengkapi dengan pertanyaan harga dan pembayaran. Besok kita akan merangkai transaksi lengkap dari sapaan sampai pembayaran. Sampai jumpa!",
+      "instructions": "Rangkum frasa Can I have di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR dialog 8 baris dan sampaikan topik besok."
+    }
+  ]
+}

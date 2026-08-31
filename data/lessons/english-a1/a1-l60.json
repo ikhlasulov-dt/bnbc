@@ -1,0 +1,292 @@
+{
+  "id": "a1-l60",
+  "course_id": "english-a1",
+  "module_title": "Pakaian",
+  "level": "A1",
+  "title": "Frasa Belanja Dasar",
+  "subtitle": "I am looking for... / Do you have...?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan frasa I am looking for untuk mencari barang",
+    "Menggunakan Do you have untuk menanyakan ketersediaan",
+    "Melakukan percakapan belanja pakaian sederhana"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Ini pelajaran terakhir modul Pakaian. Mari kita ingat pelajaran kemarin tentang mendeskripsikan pakaian. Coba, siapa yang bisa kasih contoh 'She is wearing ___'? Bagus. Hari ini kita akan belajar frasa belanja pakaian dasar: *I am looking for...* dan *Do you have...?*. Pernahkah kalian pergi ke toko pakaian? Apa yang kalian katakan ketika mencari sesuatu? Dalam bahasa Indonesia: 'Saya cari kemeja putih.' atau 'Ada celana biru?' Dalam bahasa Inggris, kita akan belajar frasa-frasa penting untuk belanja pakaian. Rencana: kita pelajari frasa I am looking for, Do you have, dan frasa pelengkap. Ayo mulai!",
+      "instructions": "Tulis di papan dua frasa: 'I am looking for ___' dan 'Do you have ___?'. Beri contoh dengan pakaian populer. Minta siswa menyebut satu pakaian yang ingin mereka beli."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Frasa Utama Belanja Pakaian\n\nAda dua frasa utama untuk meminta pakaian di toko:\n\n| Frasa | Arti | Nuansa |\n|---|---|---|\n| I am looking for ___ | Saya mencari ___ | umum, sopan |\n| Do you have ___? | Apa Anda punya ___? | tanya ketersediaan |\n\n## Contoh Penggunaan\n\n- I am looking for **a blue shirt**.\n- I am looking for **black pants**.\n- Do you have **red dresses**?\n- Do you have **a small white hat**?\n- Excuse me, do you have **size 38 shoes**?\n\n## Frasa Pelengkap\n\n- **Excuse me** — permisi (memanggil penjual)\n- **I'll take it** — Saya akan ambil ini\n- **Can I try it on?** — Boleh saya mencoba?\n- **Do you have it in blue?** — Apa ada warna biru?\n- **Do you have a bigger size?** — Apa ada ukuran lebih besar?\n- **How much is it?** — Berapa harganya?\n- **That's all, thank you** — Itu saja, terima kasih\n\n## Pola Lengkap Percakapan\n\n**Customer:** Excuse me, I am looking for a shirt.\n\n**Shop assistant:** Sure. What color?\n\n**Customer:** I want a blue shirt. Do you have one?\n\n**Shop assistant:** Yes, we do. What size?\n\n**Customer:** Medium, please. Can I try it on?\n\n**Shop assistant:** Of course. The fitting room is over there.\n\n## Ukuran Pakaian\n\n| Inggris | Indonesia |\n|---|---|\n| small | kecil |\n| medium | sedang |\n| large | besar |\n| extra large (XL) | sangat besar |\n\n## Mini-Dialog\n\n**A:** Excuse me, I am looking for a jacket.\n\n**B:** Sure. What color do you want?\n\n**A:** I want a black jacket. Do you have one?\n\n**B:** Yes, we do. What size?\n\n**A:** Medium, please. Can I try it on?\n\n**B:** Of course. The fitting room is here.\n\n> **Hindari:** mengatakan 'I want blue shirt' tanpa artikel. Yang benar *I am looking for a blue shirt* atau *Do you have a blue shirt?*. Pakai *Excuse me* dulu sebelum bertanya supaya sopan.",
+      "key_points": [
+        "I am looking for ___ = Saya mencari ___",
+        "Do you have ___? = Apa Anda punya ___?",
+        "Excuse me = permisi (memanggil penjual)",
+        "Can I try it on? = Boleh saya mencoba?",
+        "Do you have it in blue? = Apa ada warna biru?",
+        "How much is it? = Berapa harganya?",
+        "Ukuran: small, medium, large, extra large (XL)",
+        "I'll take it = Saya akan ambil ini"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "clothes",
+          "id": "pakaian",
+          "phonetic": "/kloʊðz/",
+          "example_en": "I buy new clothes.",
+          "example_id": "Saya membeli pakaian baru."
+        },
+        {
+          "en": "shirt",
+          "id": "kemeja",
+          "phonetic": "/ʃɜːrt/",
+          "example_en": "He is wearing a blue shirt.",
+          "example_id": "Dia memakai kemeja biru."
+        },
+        {
+          "en": "t-shirt",
+          "id": "kaos",
+          "phonetic": "/ˈtiːʃɜːrt/",
+          "example_en": "My t-shirt is white.",
+          "example_id": "Kaos saya berwarna putih."
+        },
+        {
+          "en": "pants",
+          "id": "celana panjang",
+          "phonetic": "/pænts/",
+          "example_en": "These pants are black.",
+          "example_id": "Celana ini hitam."
+        },
+        {
+          "en": "dress",
+          "id": "gaun",
+          "phonetic": "/dres/",
+          "example_en": "She has a red dress.",
+          "example_id": "Dia punya gaun merah."
+        },
+        {
+          "en": "skirt",
+          "id": "rok",
+          "phonetic": "/skɜːrt/",
+          "example_en": "Her skirt is long.",
+          "example_id": "Roknya panjang."
+        },
+        {
+          "en": "shoes",
+          "id": "sepatu",
+          "phonetic": "/ʃuːz/",
+          "example_en": "My shoes are new.",
+          "example_id": "Sepatu saya baru."
+        },
+        {
+          "en": "hat",
+          "id": "topi",
+          "phonetic": "/hæt/",
+          "example_en": "He wears a black hat.",
+          "example_id": "Dia memakai topi hitam."
+        },
+        {
+          "en": "jacket",
+          "id": "jaket",
+          "phonetic": "/ˈdʒækɪt/",
+          "example_en": "It is cold. Wear a jacket.",
+          "example_id": "Dingin. Pakai jaket."
+        },
+        {
+          "en": "red",
+          "id": "merah",
+          "phonetic": "/red/",
+          "example_en": "I like the red bag.",
+          "example_id": "Saya suka tas merah."
+        },
+        {
+          "en": "blue",
+          "id": "biru",
+          "phonetic": "/bluː/",
+          "example_en": "The sky is blue.",
+          "example_id": "Langitnya biru."
+        },
+        {
+          "en": "black",
+          "id": "hitam",
+          "phonetic": "/blæk/",
+          "example_en": "My shoes are black.",
+          "example_id": "Sepatu saya hitam."
+        },
+        {
+          "en": "white",
+          "id": "putih",
+          "phonetic": "/waɪt/",
+          "example_en": "She wears a white dress.",
+          "example_id": "Dia memakai gaun putih."
+        },
+        {
+          "en": "shop",
+          "id": "toko",
+          "phonetic": "/ʃɒp/",
+          "example_en": "I go to the clothes shop.",
+          "example_id": "Saya pergi ke toko pakaian."
+        },
+        {
+          "en": "size",
+          "id": "ukuran",
+          "phonetic": "/saɪz/",
+          "example_en": "What size do you want?",
+          "example_id": "Ukuran apa yang kamu mau?"
+        },
+        {
+          "en": "small",
+          "id": "kecil",
+          "phonetic": "/smɔːl/",
+          "example_en": "I want a small size.",
+          "example_id": "Saya mau ukuran kecil."
+        },
+        {
+          "en": "medium",
+          "id": "sedang",
+          "phonetic": "/ˈmiːdiəm/",
+          "example_en": "Medium, please.",
+          "example_id": "Sedang, tolong."
+        },
+        {
+          "en": "large",
+          "id": "besar",
+          "phonetic": "/lɑːrdʒ/",
+          "example_en": "Do you have large?",
+          "example_id": "Ada yang besar?"
+        },
+        {
+          "en": "fitting room",
+          "id": "kamar pasang",
+          "phonetic": "/ˈfɪtɪŋ ruːm/",
+          "example_en": "Where is the fitting room?",
+          "example_id": "Di mana kamar pasang?"
+        },
+        {
+          "en": "to try on",
+          "id": "mencoba",
+          "phonetic": "/tuː traɪ ɒn/",
+          "example_en": "Can I try it on?",
+          "example_id": "Boleh saya coba?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill frasa**: Guru menyebut pakaian, siswa membuat kalimat 'I am looking for ___' lengkap dengan artikel dan warna. Lakukan 10 putaran.\n2. **Pair work 'Customer and shop assistant'**: Siswa A jadi pembeli, B jadi penjual — minta 3 pakaian dengan frasa 'Do you have ___?'\n3. **Fill-in-the-blank**: Lengkapi — (a) I am ___ for a blue shirt. (b) ___ you have red dresses? (c) Can I ___ it on? (d) ___ much is it?\n4. **Role play 'Clothes shop'**: Skenario lengkap di toko — sapa, minta pakaian, tanya warna/ukuran, coba, tanya harga, beli. Minimal 10 baris.\n5. **Error correction**: Perbaiki — 'I want blue shirt', 'You have red dress?', 'I try on?', 'How much this?'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning! Welcome to our shop. Can I help you?",
+          "id": "Selamat pagi! Selamat datang di toko kami. Bisa saya bantu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good morning. Yes, I am looking for a shirt.",
+          "id": "Selamat pagi. Ya, saya mencari kemeja."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. What color would you like?",
+          "id": "Tentu. Warna apa yang Anda mau?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I want a blue shirt. Do you have one?",
+          "id": "Saya mau kemeja biru. Ada?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, we do. What size?",
+          "id": "Ada. Ukuran apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Medium, please. Can I try it on?",
+          "id": "Sedang, tolong. Boleh saya coba?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Of course. The fitting room is over there.",
+          "id": "Tentu. Kamar pasang di sana."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you. I'll try it now.",
+          "id": "Terima kasih. Saya coba sekarang."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How is it? Does it fit?",
+          "id": "Bagaimana? Pas?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it fits well. I'll take it. How much is it?",
+          "id": "Ya, pas. Saya ambil. Berapa harganya?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It's one hundred and fifty thousand rupiah.",
+          "id": "Seratus lima puluh ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Do you also have black pants? I am looking for a pair.",
+          "id": "Ada juga celana hitam? Saya cari satu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, we do. What size?",
+          "id": "Ada. Ukuran apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Same size, medium. Can I try them on too?",
+          "id": "Ukuran sama, sedang. Boleh saya coba juga?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. The fitting room is free now.",
+          "id": "Tentu. Kamar pasang sekarang kosong."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you. I'll take both the shirt and the pants.",
+          "id": "Terima kasih. Saya ambil kemeja dan celananya."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar frasa belanja pakaian dasar: *I am looking for ___* dan *Do you have ___?*. Kita juga belajar frasa pelengkap seperti *Excuse me*, *Can I try it on?*, dan *How much is it?*. Ingat, selalu pakai *Excuse me* untuk memanggil penjual. Sebelum tutup, dua pertanyaan: bagaimana kamu mencari kemeja biru di toko? Bagaimana menanyakan ukuran? Untuk pekerjaan rumah, buatlah dialog belanja pakaian minimal 10 baris — minta 2-3 item, tanya warna, ukuran, dan harga. Ini pelajaran terakhir modul Pakaian. Minggu depan kita mulai modul baru: Belanja. Sampai jumpa!",
+      "instructions": "Rangkum dua frasa belanja di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR dialog 10 baris dan umumkan modul baru minggu depan."
+    }
+  ]
+}

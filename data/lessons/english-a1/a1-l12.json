@@ -1,0 +1,200 @@
+{
+  "id": "a1-l12",
+  "course_id": "english-a1",
+  "module_title": "Keluarga",
+  "level": "A1",
+  "title": "Kosakata Keluarga Inti",
+  "subtitle": "father, mother, brother, sister, son, daughter",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebut 8 anggota keluarga inti dalam bahasa Inggris",
+    "Membedakan brother dan sister",
+    "Menggunakan older/younger untuk membedakan kakak dan adik"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Selamat datang di modul baru: Keluarga. Modul sebelumnya kita belajar data diri. Hari ini kita akan belajar kosakata keluarga inti: father, mother, brother, sister, dan beberapa lainnya. Pernahkah kalian ingin bercerita tentang keluarga kalian dalam bahasa Inggris tapi tidak tahu kata yang tepat? Hari ini kita akan menyelesaikan itu. Tujuan kita: kalian bisa menyebut anggota keluarga inti dalam bahasa Inggris dengan percaya diri. Kita mulai dari teori kosakata keluarga inti, latihan kosakata, dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa murid dengan 'Good morning'. Tampilkan foto keluarga di papan (atau gambar pohon keluarga). Tanyakan: 'Who is this?' untuk setiap anggota. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Keluarga Inti\n\nKeluarga inti (nuclear family) terdiri dari orang tua dan anak-anak. Dalam bahasa Inggris, ada beberapa istilah dasar yang harus dihafal.\n\n### Tabel Kosakata Keluarga Inti\n\n| Inggris | Indonesia | Keterangan |\n|---|---|---|\n| father | ayah | orang tua laki-laki |\n| mother | ibu | orang tua perempuan |\n| parents | orang tua | father + mother |\n| brother | saudara laki-laki | bisa kakak atau adik |\n| sister | saudara perempuan | bisa kakak atau adik |\n| sibling | saudara (laki-laki/perempuan) | bentuk netral |\n| son | putra (anak laki-laki) | anak laki-laki dari sudut pandang orang tua |\n| daughter | putri (anak perempuan) | anak perempuan dari sudut pandang orang tua |\n| child | anak | tunggal (jamak: children) |\n| children | anak-anak | jamak dari child |\n| baby | bayi | anak yang sangat kecil |\n\n### Perhatikan\n\n1. **Brother/sister tidak membedakan kakak atau adik.** Untuk spesifik, pakai *older brother* (kakak laki-laki) atau *younger sister* (adik perempuan).\n2. **Son/daughter dipakai dari sudut pandang orang tua.** Anak laki-laki dari sudut pandang orang tua = *son*. Anak laki-laki dari sudut pandang saudara = *brother*.\n3. **Child (tunggal) → children (jamak).** Jangan bilang 'childs'.\n4. **Parents** selalu jamak (orang tua = ayah + ibu). Untuk satu orang tua, pakai *parent*.\n\n### Contoh Kalimat\n\n- *My father is a teacher.* — Ayah saya seorang guru.\n- *My mother is kind.* — Ibu saya baik hati.\n- *I have one brother and one sister.* — Saya punya satu saudara laki-laki dan satu saudara perempuan.\n- *They have two children: a son and a daughter.* — Mereka punya dua anak: putra dan putri.\n- *The baby is cute.* — Bayinya lucu.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: How many people are in your family?\n- B: Four: my father, my mother, my brother, and me.\n- A: Do you have a sister?\n- B: No, I don't. Just one brother.\n\n**Dialog 2:**\n- A: Who is she?\n- B: She is my mother. She is a doctor.\n- A: And who is he?\n- B: He is my father. He is an engineer.\n\n> **Hindari:** Jangan memakai 'papa' atau 'mama' dalam bahasa Inggris (itu Indonesia). Jangan tertukar *son* (anak laki-laki) dan *brother* (saudara laki-laki). Jangan bilang 'childs' — selalu *children*.\n\n### Cara Mengucapkan\n\n- **father** /ˈfɑːðər/ — tekanan di FA.\n- **mother** /ˈmʌðər/ — tekanan di MO.\n- **brother** /ˈbrʌðər/ — tekanan di BRO.\n- **sister** /ˈsɪstər/ — tekanan di SIS.\n- **son** /sʌn/ — sama dengan *sun* (matahari).\n- **daughter** /ˈdɔːtər/ — tekanan di DAU.\n\n### Tips\n\n1. Hafalkan 10 kata inti keluarga di tabel.\n2. Brother/sister bisa kakak atau adik — pakai *older/younger* untuk spesifik.\n3. Child → children, parent → parents (selalu jamak untuk 'orang tua').",
+      "key_points": [
+        "father = ayah, mother = ibu, parents = orang tua (jamak)",
+        "brother = saudara laki-laki (kakak/adik), sister = saudara perempuan",
+        "son = putra, daughter = putri (dari sudut orang tua)",
+        "child = anak (tunggal), children = anak-anak (jamak, BUKAN childs)",
+        "baby = bayi, sibling = saudara (netral, laki-laki/perempuan)",
+        "older brother = kakak laki-laki, younger sister = adik perempuan",
+        "Jangan pakai 'papa/mama' dalam Inggris — pakai father/mother",
+        "Parents selalu jamak (ayah + ibu); parent tunggal untuk satu orang tua"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "family",
+          "id": "keluarga",
+          "phonetic": "/ˈfæməli/",
+          "example_en": "This is my family.",
+          "example_id": "Ini keluarga saya."
+        },
+        {
+          "en": "father",
+          "id": "ayah",
+          "phonetic": "/ˈfɑːðər/",
+          "example_en": "My father is a doctor.",
+          "example_id": "Ayah saya seorang dokter."
+        },
+        {
+          "en": "mother",
+          "id": "ibu",
+          "phonetic": "/ˈmʌðər/",
+          "example_en": "My mother is a teacher.",
+          "example_id": "Ibu saya seorang guru."
+        },
+        {
+          "en": "brother",
+          "id": "saudara laki-laki",
+          "phonetic": "/ˈbrʌðər/",
+          "example_en": "I have one brother.",
+          "example_id": "Saya punya satu saudara laki-laki."
+        },
+        {
+          "en": "sister",
+          "id": "saudara perempuan",
+          "phonetic": "/ˈsɪstər/",
+          "example_en": "My sister is younger.",
+          "example_id": "Kakak perempuan saya lebih muda."
+        },
+        {
+          "en": "parents",
+          "id": "orang tua",
+          "phonetic": "/ˈperənts/",
+          "example_en": "My parents are kind.",
+          "example_id": "Orang tua saya baik."
+        },
+        {
+          "en": "son",
+          "id": "putra",
+          "phonetic": "/sʌn/",
+          "example_en": "He is my son.",
+          "example_id": "Dia putra saya."
+        },
+        {
+          "en": "daughter",
+          "id": "putri",
+          "phonetic": "/ˈdɔːtər/",
+          "example_en": "She is my daughter.",
+          "example_id": "Dia putri saya."
+        },
+        {
+          "en": "child",
+          "id": "anak",
+          "phonetic": "/tʃaɪld/",
+          "example_en": "They have two children.",
+          "example_id": "Mereka punya dua anak."
+        },
+        {
+          "en": "baby",
+          "id": "bayi",
+          "phonetic": "/ˈbeɪbi/",
+          "example_en": "The baby is sleeping.",
+          "example_id": "Bayinya sedang tidur."
+        },
+        {
+          "en": "married",
+          "id": "menikah",
+          "phonetic": "/ˈmærid/",
+          "example_en": "They are married.",
+          "example_id": "Mereka sudah menikah."
+        },
+        {
+          "en": "siblings",
+          "id": "saudara",
+          "phonetic": "/ˈsɪblɪŋz/",
+          "example_en": "I have two siblings.",
+          "example_id": "Saya punya dua saudara."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 10 kata keluarga inti 2x setelah guru dengan pelafalan yang tepat. (2) **Pohon keluarga:** tampilkan gambar pohon keluarga, murid menyebut setiap anggota dalam Inggris. (3) **Isian:** 'My ___ is a teacher. (ayah) I have one ___ and one ___. (saudara laki-laki/perempuan)'. (4) **Role play:** dua murid saling bertanya tentang keluarga masing-masing dalam dialog 6 baris. (5) **Koreksi:** tulis di papan 'I have two childs. My papa is kind.' dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How many people are in your family?",
+          "id": "Berapa orang di keluargamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Four: my father, my mother, my brother, and me.",
+          "id": "Empat: ayah, ibu, saudara laki-laki, dan saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have a sister?",
+          "id": "Apa kamu punya saudara perempuan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I don't. Just one brother.",
+          "id": "Tidak. Hanya satu saudara laki-laki."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is she in this photo?",
+          "id": "Siapa dia di foto ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is my mother. She is a doctor.",
+          "id": "Dia ibu saya. Dia seorang dokter."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And who is he?",
+          "id": "Dan siapa dia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is my father. He is an engineer.",
+          "id": "Dia ayah saya. Dia seorang insinyur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about the baby?",
+          "id": "Bagaimana dengan bayinya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That is my baby brother. He is so cute!",
+          "id": "Itu adik laki-laki saya. Dia sangat lucu!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali! Hari ini kita belajar kosakata keluarga inti: father, mother, brother, sister, son, daughter, child/children, dan baby. Yang paling penting diingat: brother/sister bisa untuk kakak atau adik, child berubah menjadi children (bukan childs), dan jangan pakai 'papa/mama' dalam bahasa Inggris. Pertanyaan untuk kalian: bagaimana menyebut 'anak laki-laki' dari sudut orang tua? Dan apa bentuk jamak dari child? Untuk PR, gambar pohon keluargamu dan beri label setiap anggota dalam bahasa Inggris. Besok kita lanjut dengan kosakata keluarga extended: grandfather, grandmother, uncle, aunt, cousin. Sampai jumpa!",
+      "instructions": "Rangkum 10 kata keluarga inti. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

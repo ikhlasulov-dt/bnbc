@@ -1,0 +1,282 @@
+{
+  "id": "a1-l51",
+  "course_id": "english-a1",
+  "module_title": "Cuaca",
+  "level": "A1",
+  "title": "Kata Sifat Cuaca",
+  "subtitle": "sunny, rainy, cloudy, windy, hot, cold",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan delapan kata sifat cuaca dalam bahasa Inggris",
+    "Menggunakan pola It is + kata sifat untuk menyatakan cuaca",
+    "Mendeskripsikan cuaca hari ini"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Hari ini kita mulai modul baru yang sangat relevan dengan kehidupan sehari-hari kita di Indonesia: Cuaca dan Musim. Sebelum masuk, mari kita ingat modul kemarin tentang Hobi. Siapa yang masih ingat, 'berenang' bahasa Inggrisnya apa? Bagus, swimming. Sekarang coba lihat ke luar jendela. Bagaimana cuaca hari ini? Cerah? Berawan? Hujan? Panas? Di Indonesia, kita sering membicarakan cuaca karena cuaca kita berubah-ubah. Dalam bahasa Inggris, kita akan belajar kata-kata sifat untuk cuaca: sunny, rainy, cloudy, windy, hot, cold. Rencana: kita pelajari 6-10 kata sifat cuaca, pakai dalam kalimat *It is ___*, dan latih pelafalan. Ayo mulai!",
+      "instructions": "Buka jendela atau minta siswa melihat ke luar. Tanyakan: 'Bagaimana cuaca hari ini?' Tulis kata sifat cuaca dalam bahasa Inggris di papan dengan ilustrasi sederhana."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kata Sifat Cuaca Utama\n\nBerikut adalah enam kata sifat cuaca yang paling umum:\n\n| Inggris | Indonesia | Simbol |\n|---|---|---|\n| sunny | cerah | ☀️ |\n| rainy | hujan | 🌧️ |\n| cloudy | berawan | ☁️ |\n| windy | berangin | 💨 |\n| hot | panas | 🥵 |\n| cold | dingin | 🥶 |\n\n## Kata Sifat Tambahan\n\n| Inggris | Indonesia |\n|---|---|\n| warm | hangat |\n| cool | sejuk |\n| stormy | badai |\n| foggy | berkabut |\n| snowy | bersalju |\n\n## Pola Kalimat Dasar\n\nUntuk menyatakan cuaca, kita pakai *It is + kata sifat*:\n\n- **It is sunny** today.\n- **It is rainy** in Bogor.\n- **It is cloudy** this morning.\n- **It is windy** at the beach.\n- **It is hot** at noon.\n- **It is cold** in the morning.\n\nSingkat: *It's sunny. It's hot.*\n\n## Bertanya tentang Cuaca\n\n- **How is the weather?** → Bagaimana cuacanya?\n- **What's the weather like?** → Bagaimana cuacanya? (alternatif)\n- **Is it cold outside?** → Apa dingin di luar?\n\n## Menyebut Cuaca dengan Kata Benda\n\nBeberapa cuaca bisa dinyatakan dengan kata benda + *is*:\n\n- **The sun** is bright. (Matahari terang.)\n- **The rain** is heavy. (Hujannya deras.)\n- **The wind** is strong. (Anginnya kencang.)\n\n## Mini-Dialog\n\n**A:** How is the weather today?\n\n**B:** It's sunny and warm. A beautiful day!\n\n**A:** Is it hot?\n\n**B:** Yes, it's hot at noon. Bring water.\n\n**A:** And tonight?\n\n**B:** Tonight will be cool and cloudy.\n\n> **Hindari:** mengatakan 'Weather is sunny' tanpa *It is*. Yang benar: *It is sunny*. Hindari juga 'Today is rain' — yang benar *It is rainy today* atau *It is raining today*.",
+      "key_points": [
+        "sunny = cerah, rainy = hujan, cloudy = berawan",
+        "windy = berangin, hot = panas, cold = dingin",
+        "warm = hangat, cool = sejuk, stormy = badai",
+        "Pola: It is + kata sifat → It is sunny today",
+        "Singkat: It's sunny. It's hot.",
+        "How is the weather? = Bagaimana cuacanya?",
+        "What's the weather like? = Bagaimana cuacanya?",
+        "Is it cold outside? = Apa dingin di luar?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "weather",
+          "id": "cuaca",
+          "phonetic": "/ˈweðər/",
+          "example_en": "How is the weather today?",
+          "example_id": "Bagaimana cuaca hari ini?"
+        },
+        {
+          "en": "sunny",
+          "id": "cerah",
+          "phonetic": "/ˈsʌni/",
+          "example_en": "It is sunny today.",
+          "example_id": "Hari ini cerah."
+        },
+        {
+          "en": "rainy",
+          "id": "hujan",
+          "phonetic": "/ˈreɪni/",
+          "example_en": "It is rainy in Bogor.",
+          "example_id": "Di Bogor sedang hujan."
+        },
+        {
+          "en": "cloudy",
+          "id": "berawan",
+          "phonetic": "/ˈklaʊdi/",
+          "example_en": "It is cloudy this morning.",
+          "example_id": "Pagi ini berawan."
+        },
+        {
+          "en": "windy",
+          "id": "berangin",
+          "phonetic": "/ˈwɪndi/",
+          "example_en": "It is windy at the beach.",
+          "example_id": "Di pantai berangin."
+        },
+        {
+          "en": "hot",
+          "id": "panas",
+          "phonetic": "/hɒt/",
+          "example_en": "It is hot at noon.",
+          "example_id": "Siang hari panas."
+        },
+        {
+          "en": "cold",
+          "id": "dingin",
+          "phonetic": "/koʊld/",
+          "example_en": "It is cold in winter.",
+          "example_id": "Pada musim dingin cuaca dingin."
+        },
+        {
+          "en": "warm",
+          "id": "hangat",
+          "phonetic": "/wɔːrm/",
+          "example_en": "It is warm inside the house.",
+          "example_id": "Di dalam rumah terasa hangat."
+        },
+        {
+          "en": "sun",
+          "id": "matahari",
+          "phonetic": "/sʌn/",
+          "example_en": "The sun is bright today.",
+          "example_id": "Matahari terang hari ini."
+        },
+        {
+          "en": "rain",
+          "id": "hujan",
+          "phonetic": "/reɪn/",
+          "example_en": "The rain is heavy.",
+          "example_id": "Hujannya deras."
+        },
+        {
+          "en": "stormy",
+          "id": "badai",
+          "phonetic": "/ˈstɔːrmi/",
+          "example_en": "It is stormy tonight.",
+          "example_id": "Malam ini badai."
+        },
+        {
+          "en": "foggy",
+          "id": "berkabut",
+          "phonetic": "/ˈfɒɡi/",
+          "example_en": "It is foggy in the morning.",
+          "example_id": "Pagi ini berkabut."
+        },
+        {
+          "en": "snowy",
+          "id": "bersalju",
+          "phonetic": "/ˈsnoʊi/",
+          "example_en": "It is snowy in winter.",
+          "example_id": "Musim dingin bersalju."
+        },
+        {
+          "en": "cool",
+          "id": "sejuk",
+          "phonetic": "/kuːl/",
+          "example_en": "The morning is cool.",
+          "example_id": "Pagi itu sejuk."
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "Today is sunny.",
+          "example_id": "Hari ini cerah."
+        },
+        {
+          "en": "outside",
+          "id": "di luar",
+          "phonetic": "/ˌaʊtˈsaɪd/",
+          "example_en": "Is it cold outside?",
+          "example_id": "Apa dingin di luar?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill simbol**: Guru menunjuk simbol cuaca (☀️🌧️☁️💨🥵🥶), siswa meneriakkan kata sifat bahasa Inggrisnya secepat mungkin.\n2. **Pair work 'Today's weather'**: Tanyakan ke pasangan 'How is the weather today?' — pasangan menjawab dengan 2 kata sifat. Tukar peran.\n3. **Fill-in-the-blank**: Lengkapi — (a) It is ___ today (cerah). (b) How is the ___? (c) ___ it cold outside? (d) The ___ is heavy (hujan).\n4. **Role play 'Weather reporter'**: Siswa menjadi presenter cuaca TV — lapor cuaca 5 kota Indonesia dengan kata sifat berbeda.\n5. **Error correction**: Perbaiki — 'Weather is sunny', 'Today is rain', 'It is sun', 'How the weather?'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning, class. How is the weather today?",
+          "id": "Selamat pagi, kelas. Bagaimana cuaca hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is sunny today, teacher. A beautiful morning.",
+          "id": "Hari ini cerah, Bu. Pagi yang indah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it hot outside?",
+          "id": "Apa panas di luar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it's hot. We should bring water.",
+          "id": "Ya, panas. Kami harus bawa air."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How was the weather yesterday?",
+          "id": "Bagaimana cuaca kemarin?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yesterday was cloudy and windy in the afternoon.",
+          "id": "Kemarin berawan dan berangin di sore hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Did it rain yesterday?",
+          "id": "Hujan kemarin?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it rained in the evening. It was rainy all night.",
+          "id": "Ya, hujan malam. Hujan sepanjang malam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How is the weather in Bogor usually?",
+          "id": "Bagaimana cuaca di Bogor biasanya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Bogor is often rainy. People call it the rainy city.",
+          "id": "Bogor sering hujan. Orang menyebutnya kota hujan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And in Jakarta? How is it?",
+          "id": "Dan di Jakarta? Bagaimana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Jakarta is usually hot and sunny, but sometimes cloudy.",
+          "id": "Jakarta biasanya panas dan cerah, tapi kadang berawan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it cold in Indonesia?",
+          "id": "Apa dingin di Indonesia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Not really. But in the mountains, it is cool and cold at night.",
+          "id": "Tidak juga. Tapi di pegunungan, sejuk dan dingin malam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where can we find snow in Indonesia?",
+          "id": "Di mana kita bisa lihat salju di Indonesia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Nowhere. Indonesia is tropical. We don't have snow.",
+          "id": "Tidak ada. Indonesia tropis. Tidak ada salju."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's right. What's the weather like in your hometown?",
+          "id": "Betul. Bagaimana cuaca di kampung halamanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My hometown is often sunny in the morning and rainy in the afternoon.",
+          "id": "Kampung saya sering cerah pagi dan hujan sore."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect answer! You know the weather well.",
+          "id": "Jawaban sempurna! Kamu tahu cuaca dengan baik."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar enam kata sifat cuaca utama: sunny, rainy, cloudy, windy, hot, dan cold. Kita juga belajar pola *It is + kata sifat* dan pertanyaan *How is the weather?*. Ingat, jangan bilang 'Weather is sunny' — yang benar *It is sunny*. Sebelum tutup, dua pertanyaan: bagaimana cuaca hari ini? Bagaimana mengatakan 'Berawan' dalam bahasa Inggris? Untuk pekerjaan rumah, amati cuaca di tempatmu selama 5 hari, lalu tulis satu kalimat untuk setiap hari menggunakan kata sifat yang kita pelajari. Besok kita akan belajar nama-nama musim: spring, summer, autumn, winter. Sampai jumpa!",
+      "instructions": "Rangkum kata sifat cuaca di papan dengan simbol. Tanyakan dua pertanyaan pemahaman. Berikan PR jurnal cuaca 5 hari dan sampaikan topik besok."
+    }
+  ]
+}

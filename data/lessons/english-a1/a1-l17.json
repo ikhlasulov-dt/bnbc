@@ -1,0 +1,207 @@
+{
+  "id": "a1-l17",
+  "course_id": "english-a1",
+  "module_title": "Keluarga",
+  "level": "A1",
+  "title": "Mendeskripsikan Anggota Keluarga",
+  "subtitle": "kind, funny, patient, tall — kata sifat untuk keluarga",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan kata sifat umum untuk mendeskripsikan keluarga",
+    "Membuat kalimat sederhana tentang anggota keluarga",
+    "Menggabungkan kosakata keluarga dengan kata sifat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Pelajaran terakhir di modul Keluarga ini kita akan belajar mendeskripsikan anggota keluarga. Pernahkah kalian ingin bercerita tentang ayah atau ibu kalian dalam bahasa Inggris tapi bingung harus bilang apa? Hari ini kita akan belajar pola kalimat untuk mendeskripsikan: nama, umur, pekerjaan, sifat. Tujuan kita: kalian bisa mendeskripsikan minimal 3 anggota keluarga dalam 3 kalimat lengkap. Kita mulai dari teori pola deskripsi, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan minta satu murid mendeskripsikan ayahnya dalam 2 kalimat. Tulis pola 'My father is ___, he is ___ years old, he is a ___.' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Mendeskripsikan Anggota Keluarga\n\nMendeskripsikan anggota keluarga berarti memberi tahu orang lain tentang nama, umur, pekerjaan, sifat, atau penampilan mereka.\n\n### Pola Deskripsi Standar\n\nUntuk setiap anggota keluarga, gunakan pola 4 informasi:\n\n1. **Hubungan:** *My father / My mother / My brother...*\n2. **Nama:** *His/Her name is ___.*\n3. **Umur:** *He/She is ___ years old.*\n4. **Pekerjaan/Sifat:** *He/She is a ___.* atau *He/She is ___.* (sifat)\n\n### Contoh Lengkap\n\n- *My father is Andi Wijaya. He is 45 years old. He is an engineer. He is tall and kind.*\n  — Ayah saya Andi Wijaya. Dia berumur 45 tahun. Dia seorang insinyur. Dia tinggi dan baik hati.\n- *My mother is Sarah Lee. She is 42 years old. She is a doctor. She is smart and patient.*\n  — Ibu saya Sarah Lee. Dia berumur 42 tahun. Dia seorang dokter. Dia pintar dan sabar.\n- *My brother is Budi. He is 15 years old. He is a student. He is funny.*\n  — Saudara laki-laki saya Budi. Dia berumur 15 tahun. Dia pelajar. Dia lucu.\n\n### Kosakata Sifat (Adjectives)\n\n| Sifat | Arti | Sifat | Arti |\n|---|---|---|---|\n| tall | tinggi | short | pendek |\n| kind | baik hati | smart | pintar |\n| funny | lucu | patient | sabar |\n| young | muda | old | tua |\n| friendly | ramah | shy | pemalu |\n| strong | kuat | gentle | lembut |\n| hardworking | pekerja keras | calm | tenang |\n\n### Kosakata Pekerjaan\n\n| Pekerjaan | Arti | Pekerjaan | Arti |\n|---|---|---|---|\n| teacher | guru | doctor | dokter |\n| engineer | insinyur | nurse | perawat |\n| student | pelajar | farmer | petani |\n| driver | pengemudi | cook | koki |\n| businessperson | pebisnis | artist | seniman |\n\n### Menggabungkan Beberapa Kalimat\n\nUntuk deskripsi yang lebih panjang, gabungkan dengan *and* atau *but*:\n\n- *My father is tall and kind.* (kedua sifat)\n- *My brother is young but smart.* (kontras)\n- *My mother is a doctor. She is patient and friendly.*\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: Tell me about your father.\n- B: My father is Andi. He is 45 years old. He is an engineer. He is tall and kind.\n- A: He sounds great!\n\n**Dialog 2:**\n- A: What about your mother?\n- B: My mother is Sarah. She is 42. She is a doctor. She is smart and patient.\n- A: And your brother?\n- B: He is Budi. He is 15. He is a student. He is funny.\n\n> **Hindari:** Jangan lupa ganti subjek: setelah *My father*, pakai *he* (bukan terus *my father*). Jangan tertukar *his* (laki-laki) dan *her* (perempuan). Jangan pakai *He is 45* saja — selalu sertakan *years old* dalam deskripsi formal.\n\n### Cara Mengucapkan\n\n- **tall** /tɔːl/, **short** /ʃɔːrt/\n- **kind** /kaɪnd/, **smart** /smɑːrt/\n- **patient** /ˈpeɪʃnt/, **friendly** /ˈfrendli/\n- **engineer** /ˌendʒɪˈnɪr/, **doctor** /ˈdɒktər/\n\n### Tips\n\n1. Pakai pola 4 informasi: hubungan → nama → umur → pekerjaan/sifat.\n2. Setelah *My father/mother*, ganti subjek dengan *He/She*.\n3. Gabungkan sifat dengan *and* (kedua sifat) atau *but* (kontras).",
+      "key_points": [
+        "Pola deskripsi: hubungan → nama → umur → pekerjaan/sifat",
+        "My father is Andi. He is 45 years old. He is an engineer. He is tall.",
+        "Setelah My father/mother, ganti subjek dengan He/She",
+        "Sifat umum: tall, short, kind, smart, funny, patient, friendly",
+        "Pekerjaan: teacher, doctor, engineer, nurse, student, farmer",
+        "Gabungkan sifat dengan and (kedua) atau but (kontras)",
+        "His = milik laki-laki, Her = milik perempuan",
+        "Selalu sertakan 'years old' dalam deskripsi formal umur"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "family",
+          "id": "keluarga",
+          "phonetic": "/ˈfæməli/",
+          "example_en": "This is my family.",
+          "example_id": "Ini keluarga saya."
+        },
+        {
+          "en": "father",
+          "id": "ayah",
+          "phonetic": "/ˈfɑːðər/",
+          "example_en": "My father is a doctor.",
+          "example_id": "Ayah saya seorang dokter."
+        },
+        {
+          "en": "mother",
+          "id": "ibu",
+          "phonetic": "/ˈmʌðər/",
+          "example_en": "My mother is a teacher.",
+          "example_id": "Ibu saya seorang guru."
+        },
+        {
+          "en": "brother",
+          "id": "saudara laki-laki",
+          "phonetic": "/ˈbrʌðər/",
+          "example_en": "I have one brother.",
+          "example_id": "Saya punya satu saudara laki-laki."
+        },
+        {
+          "en": "sister",
+          "id": "saudara perempuan",
+          "phonetic": "/ˈsɪstər/",
+          "example_en": "My sister is younger.",
+          "example_id": "Kakak perempuan saya lebih muda."
+        },
+        {
+          "en": "grandfather",
+          "id": "kakek",
+          "phonetic": "/ˈɡrænfɑːðər/",
+          "example_en": "My grandfather is 70.",
+          "example_id": "Kakek saya berumur 70 tahun."
+        },
+        {
+          "en": "grandmother",
+          "id": "nenek",
+          "phonetic": "/ˈɡrænmʌðər/",
+          "example_en": "My grandmother cooks well.",
+          "example_id": "Nenek saya masak enak."
+        },
+        {
+          "en": "uncle",
+          "id": "paman",
+          "phonetic": "/ˈʌŋkl/",
+          "example_en": "My uncle lives in Jakarta.",
+          "example_id": "Paman saya tinggal di Jakarta."
+        },
+        {
+          "en": "aunt",
+          "id": "bibi",
+          "phonetic": "/ænt/",
+          "example_en": "My aunt is funny.",
+          "example_id": "Bibi saya lucu."
+        },
+        {
+          "en": "cousin",
+          "id": "sepupu",
+          "phonetic": "/ˈkʌzn/",
+          "example_en": "My cousin is my age.",
+          "example_id": "Sepupu saya sebaya dengan saya."
+        },
+        {
+          "en": "parents",
+          "id": "orang tua",
+          "phonetic": "/ˈperənts/",
+          "example_en": "My parents are kind.",
+          "example_id": "Orang tua saya baik."
+        },
+        {
+          "en": "married",
+          "id": "menikah",
+          "phonetic": "/ˈmærid/",
+          "example_en": "They are married.",
+          "example_id": "Mereka sudah menikah."
+        },
+        {
+          "en": "child",
+          "id": "anak",
+          "phonetic": "/tʃaɪld/",
+          "example_en": "They have two children.",
+          "example_id": "Mereka punya dua anak."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang sifat dan pekerjaan 2x setelah guru. (2) **Round-robin:** setiap murid mendeskripsikan satu anggota keluarga dalam 3 kalimat. (3) **Isian:** 'My father ___ Andi. He ___ 45 years old. He ___ an engineer. He ___ tall and kind.' (4) **Role play:** dua murid saling mewawancarai tentang keluarga ('Tell me about your mother. She is...'). (5) **Koreksi:** tulis di papan 'My father Andi. He 45 years. He engineer.' dan minta murid memperbaiki dengan to be yang benar.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Tell me about your father.",
+          "id": "Ceritakan tentang ayahmu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My father is Andi. He is 45 years old.",
+          "id": "Ayah saya Andi. Dia berumur 45 tahun."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What does he do?",
+          "id": "Apa pekerjaannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is an engineer. He is tall and kind.",
+          "id": "Dia insinyur. Dia tinggi dan baik hati."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your mother?",
+          "id": "Dan ibumu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My mother is Sarah. She is 42. She is a doctor.",
+          "id": "Ibu saya Sarah. Dia berumur 42. Dia dokter."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is she like?",
+          "id": "Seperti apa dia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is smart and patient.",
+          "id": "Dia pintar dan sabar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your brother?",
+          "id": "Dan saudara laki-lakimu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is Budi. He is 15. He is a student. He is funny!",
+          "id": "Dia Budi. Dia berumur 15. Dia pelajar. Dia lucu!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kita belajar mendeskripsikan anggota keluarga dengan pola 4 informasi: hubungan, nama, umur, pekerjaan/sifat. Yang paling penting: setelah My father/mother, ganti subjek dengan He/She, dan gabungkan sifat dengan and atau but. Modul Keluarga selesai! Pertanyaan untuk kalian: bagaimana mendeskripsikan ayahmu dalam 3 kalimat? Untuk PR, tulis deskripsi 3 anggota keluarga masing-masing 3 kalimat. Besok kita mulai modul baru: Angka dan Waktu — belajar bilangan pokok dalam bahasa Inggris. Sampai jumpa!",
+      "instructions": "Rangkum pola deskripsi. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Beritahu modul Keluarga selesai, besok masuk modul Angka dan Waktu."
+    }
+  ]
+}

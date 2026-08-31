@@ -1,0 +1,200 @@
+{
+  "id": "a1-l05",
+  "course_id": "english-a1",
+  "module_title": "Sapaan dan Perkenalan",
+  "level": "A1",
+  "title": "Menutup Percakapan",
+  "subtitle": "Goodbye, Bye, See you later",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menutup percakapan dengan Goodbye dan Bye",
+    "Mengucapkan See you later dan See you tomorrow",
+    "Memilih penutup yang sesuai (formal vs santai)"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Sejauh ini kita sudah belajar menyapa, menanyakan kabar, dan memperkenalkan diri. Tetapi ada satu bagian yang belum kita latih: bagaimana cara menutup percakapan dengan sopan? Hari ini kita akan fokus pada ungkapan penutup: Goodbye, See you later, See you tomorrow, dan beberapa variasi lainnya. Pernahkah kalian bingung bagaimana mengakhiri obrolan tanpa terlihat tidak sopan? Hari ini kita akan menyelesaikan itu. Tujuan kita: di akhir kelas, kalian bisa menutup percakapan dengan alami dan sopan dalam 3 cara berbeda. Kita akan mulai dari teori, kosakata, latihan dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dengan 'Good morning' lalu tanya 'How do you end a conversation in Indonesian?'. Tulis Goodbye, See you later, See you tomorrow di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menutup Percakapan\n\nMenutup percakapan sama pentingnya dengan membukanya. Penutup yang sopan meninggalkan kesan baik dan mempererat hubungan.\n\n### Ungkapan Penutup Utama\n\n| Inggris | Indonesia | Kapan dipakai |\n|---|---|---|\n| Goodbye | Selamat tinggal | Umum, formal/santai |\n| Bye | Dadah | Santai, ke teman |\n| See you later | Sampai jumpa lagi | Akan bertemu lagi hari ini |\n| See you tomorrow | Sampai jumpa besok | Akan bertemu besok |\n| See you soon | Sampai jumpa segera | Akan bertemu dalam waktu dekat |\n| Take care | Jaga diri | Hangat, ke orang dekat |\n| Have a nice day | Semoga harimu menyenangkan | Sopan, siang hari |\n| Good night | Selamat malam | Malam, mau berpisah/tidur |\n\n### Kapan Memakai Apa\n\n- **Goodbye / Bye** — paling umum. *Goodbye* formal, *Bye* santai.\n- **See you later** — yakin akan bertemu lagi hari ini atau sebentar lagi.\n- **See you tomorrow** — pasti akan bertemu besok (mis. ke teman sekelas).\n- **See you soon** — akan bertemu dalam waktu dekat, tapi tidak pasti kapan.\n- **Take care** — ungkapan hangat, menunjukkan kepedulian.\n- **Have a nice day** — sopan, cocok untuk siang hari saat berpisah.\n\n### Pola Penutup Lengkap\n\nUrutan ideal menutup percakapan:\n1. Sinyal penutup: *Well, I have to go now.* atau *It's getting late.*\n2. Ungkapan penutup: *Goodbye* atau *See you tomorrow.*\n3. (Opsional) Salam tambahan: *Take care* atau *Have a nice day.*\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (teman sekelas):**\n- A: It's 3 p.m. Class is over.\n- B: See you tomorrow, Andi!\n- A: See you! Take care.\n\n**Dialog 2 (formal):**\n- A: Thank you for your time, Mr. Lee.\n- B: You're welcome. Goodbye, Ms. Sarah.\n- A: Goodbye. Have a nice day!\n\n**Dialog 3 (santai):**\n- A: I have to go now. Bye!\n- B: Bye! See you later.\n- A: See you!\n\n> **Hindari:** Jangan mengakhiri percakapan mendadak dengan 'Bye' tanpa sinyal penutup — terdengar terburu-buru. Jangan campur 'See you later' dengan 'See you tomorrow' jika belum yakin kapan bertemu. Jangan lupa *Good night* hanya untuk berpisah di malam hari.\n\n### Cara Mengucapkan\n\n- **Goodbye** /ɡʊdˈbaɪ/ — tekanan di BYE.\n- **See you later** /siː juː ˈleɪtər/ — tekanan di SEE dan LATER.\n- **Take care** /teɪk ker/ — tekanan di CARE, intonasi hangat.\n\n### Tips\n\n1. Selalu beri sinyal penutup dulu ('I have to go') sebelum mengucapkan *Goodbye*.\n2. Pilih ungkapan sesuai situasi: *See you tomorrow* ke teman kelas, *Goodbye* ke orang baru.\n3. Tambahkan *Take care* atau *Have a nice day* untuk kesan hangat.",
+      "key_points": [
+        "Goodbye = penutup umum (formal), Bye = santai",
+        "See you later = akan bertemu lagi hari ini/sebentar lagi",
+        "See you tomorrow = pasti bertemu besok",
+        "See you soon = akan bertemu dalam waktu dekat",
+        "Take care = jaga diri (hangat, ke orang dekat)",
+        "Have a nice day = sopan, untuk siang hari",
+        "Good night hanya untuk berpisah di malam hari",
+        "Beri sinyal penutup ('I have to go') sebelum Goodbye"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "Goodbye",
+          "id": "Selamat tinggal",
+          "phonetic": "/ɡʊdˈbaɪ/",
+          "example_en": "Goodbye! Have a nice day.",
+          "example_id": "Selamat tinggal! Semoga harimu menyenangkan."
+        },
+        {
+          "en": "See you later",
+          "id": "Sampai jumpa lagi",
+          "phonetic": "/siː juː ˈleɪtər/",
+          "example_en": "See you later, bye!",
+          "example_id": "Sampai jumpa lagi, dah!"
+        },
+        {
+          "en": "Hello",
+          "id": "Halo",
+          "phonetic": "/həˈloʊ/",
+          "example_en": "Hello, how are you?",
+          "example_id": "Halo, apa kabar?"
+        },
+        {
+          "en": "Hi",
+          "id": "Hai",
+          "phonetic": "/haɪ/",
+          "example_en": "Hi, I'm Sarah.",
+          "example_id": "Hai, saya Sarah."
+        },
+        {
+          "en": "How are you?",
+          "id": "Apa kabar?",
+          "phonetic": "/haʊ ɑːr juː/",
+          "example_en": "Hello! How are you?",
+          "example_id": "Halo! Apa kabar?"
+        },
+        {
+          "en": "I'm fine, thank you",
+          "id": "Saya baik-baik saja, terima kasih",
+          "phonetic": "/aɪm faɪn θæŋk juː/",
+          "example_en": "I'm fine, thank you. And you?",
+          "example_id": "Saya baik, terima kasih. Dan Anda?"
+        },
+        {
+          "en": "Nice to meet you",
+          "id": "Senang bertemu denganmu",
+          "phonetic": "/naɪs tuː miːt juː/",
+          "example_en": "Nice to meet you, John.",
+          "example_id": "Senang bertemu denganmu, John."
+        },
+        {
+          "en": "My name is",
+          "id": "Nama saya",
+          "phonetic": "/maɪ neɪm ɪz/",
+          "example_en": "My name is Budi.",
+          "example_id": "Nama saya Budi."
+        },
+        {
+          "en": "What's your name?",
+          "id": "Siapa namamu?",
+          "phonetic": "/wɒts jɔːr neɪm/",
+          "example_en": "Hi! What's your name?",
+          "example_id": "Hai! Siapa namamu?"
+        },
+        {
+          "en": "Thank you",
+          "id": "Terima kasih",
+          "phonetic": "/ˈθæŋk juː/",
+          "example_en": "Thank you very much!",
+          "example_id": "Terima kasih banyak!"
+        },
+        {
+          "en": "You're welcome",
+          "id": "Sama-sama",
+          "phonetic": "/jʊər ˈwelkəm/",
+          "example_en": "You're welcome!",
+          "example_id": "Sama-sama!"
+        },
+        {
+          "en": "Good night",
+          "id": "Selamat malam",
+          "phonetic": "/ɡʊd naɪt/",
+          "example_en": "Good night! See you tomorrow.",
+          "example_id": "Selamat malam! Sampai jumpa besok."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 4 latihan berurutan. (1) **Drill:** murid mengulang Goodbye, See you later, See you tomorrow, Take care 3x setelah guru dengan intonasi hangat. (2) **Pasangan A-B:** dua murid saling menyapa, mengobrol 1 menit, lalu menutup dengan ungkapan yang sesuai. (3) **Isian:** lengkapi 'I have to go now. ___!' dengan Goodbye/See you tomorrow/Bye sesuai situasi yang diberikan. (4) **Role play:** satu murid jadi tamu yang pulang dari pesta, satu jadi tuan rumah; gunakan sinyal penutup + Goodbye + Take care. (5) **Koreksi:** tulis di papan 'Bye-bye, see you yesterday' dan minta murid memperbaikinya menjadi 'Bye, see you tomorrow'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Class is almost over. Any questions?",
+          "id": "Kelas hampir selesai. Ada pertanyaan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, teacher. Thank you for today.",
+          "id": "Tidak, Bu. Terima kasih untuk hari ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You're welcome. See you tomorrow!",
+          "id": "Sama-sama. Sampai jumpa besok!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "See you tomorrow, teacher. Take care!",
+          "id": "Sampai jumpa besok, Bu. Jaga diri!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have a nice day, everyone!",
+          "id": "Semoga harimu menyenangkan, semua!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you! Goodbye!",
+          "id": "Terima kasih! Selamat tinggal!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hey Andi, I have to go now. Bye!",
+          "id": "Hei Andi, saya harus pergi sekarang. Dadah!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Bye! See you later.",
+          "id": "Dadah! Sampai jumpa lagi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's late. Good night, mom!",
+          "id": "Sudah malam. Selamat malam, Ma!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good night, dear. Sleep well.",
+          "id": "Selamat malam, sayang. Tidur yang nyenyak."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kita belajar menutup percakapan dengan sopan. Kita tahu kapan memakai Goodbye, kapan See you later, kapan See you tomorrow, dan kapan Take care atau Have a nice day. Yang paling penting: selalu beri sinyal penutup dulu sebelum mengucapkan Goodbye, agar terasa natural. Pertanyaan untuk kalian: apa tiga ungkapan penutup yang bisa kamu pakai ke teman sekelas? Dan apa beda See you later dengan See you tomorrow? Untuk PR, amati 2 percakapan nyata (di rumah atau di TV) dan catat bagaimana orang menutup percakapan. Sampai modul ini selesai, kita akan pindah ke modul baru: Data Diri — belajar tentang nama, umur, alamat, dan informasi pribadi. Sampai jumpa besok!",
+      "instructions": "Rangkum 4 ungkapan penutup utama. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Beritahu bahwa modul Sapaan selesai dan besok masuk modul Data Diri."
+    }
+  ]
+}

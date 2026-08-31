@@ -1,0 +1,228 @@
+{
+  "id": "a1-l36",
+  "course_id": "english-a1",
+  "module_title": "Makanan dan Minuman",
+  "level": "A1",
+  "title": "Kata Sifat untuk Mendeskripsikan Rasa",
+  "subtitle": "sweet, sour, salty, spicy, delicious",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan 6 kata sifat rasa",
+    "Mendeskripsikan rasa makanan dengan benar",
+    "Mengenal lawan kata (sweet/bitter, salty/bland)"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Pelajaran terakhir di modul Makanan dan Minuman ini kita akan belajar kata sifat untuk mendeskripsikan rasa. Pernahkah kalian ingin bilang 'makanan ini enak' atau 'kopi ini pahit' dalam Inggris tapi bingung kata yang tepat? Hari ini kita akan selesaikan. Tujuan kita: kalian bisa mendeskripsikan rasa makanan dan minuman dengan 10+ kata sifat. Kita mulai dari teori kata sifat rasa, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tunjukkan makanan: 'How does this taste?'. Tulis 8 kata sifat rasa di papan (sweet, sour, salty, bitter, spicy, bland, savory, delicious). Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kata Sifat untuk Mendeskripsikan Rasa\n\nUntuk mendeskripsikan rasa makanan dan minuman, pakai kata sifat (adjectives).\n\n### Lima Rasa Dasar\n\n| Kata sifat | Arti | Contoh |\n|---|---|---|\n| sweet | manis | The cake is sweet. |\n| sour | asam | The lemon is sour. |\n| salty | asin | The soup is salty. |\n| bitter | pahit | Coffee is bitter. |\n| spicy | pedas | I love spicy food. |\n\n### Kata Sifat Lainnya\n\n| Kata sifat | Arti | Contoh |\n|---|---|---|\n| bland | tawar (kurang rasa) | The soup is bland. |\n| savory | gurih | The fried rice is savory. |\n| crispy | renyah | The fried chicken is crispy. |\n| soft | lembut | The bread is soft. |\n| hard | keras | The bread is hard. |\n| hot | panas | The soup is hot. |\n| cold | dingin | The water is cold. |\n| fresh | segar | The juice is fresh. |\n\n### Kata Sifat Umum (Kesukaan/Tidak)\n\n| Kata sifat | Arti | Contoh |\n|---|---|---|\n| delicious | enak (sopan) | The food is delicious. |\n| tasty | lezat | This is tasty. |\n| yummy | enak (santai) | Yummy! |\n| disgusting | menjijikkan | The food is disgusting. |\n\n### Pola Kalimat\n\n**Subjek + to be + adjective**\n- *The cake is sweet.* — Kuenya manis.\n- *The coffee is bitter.* — Kopinya pahit.\n- *The soup is hot.* — Supnya panas.\n\n**Subjek + taste + adjective**\n- *The cake tastes sweet.* — Kuenya terasa manis.\n- *The soup tastes salty.* — Supnya terasa asin.\n\n### Frasa untuk Kesukaan/Tidak Suka\n\n- *I like ___ .* — Saya suka ___.\n- *I love ___ .* — Saya sangat suka ___.\n- *I don't like ___ .* — Saya tidak suka ___.\n- *I hate ___ .* — Saya benci ___.\n- *I prefer ___ .* — Saya lebih suka ___.\n- *My favorite ___ is ___ .* — ___ kesukaanku adalah ___.\n\n### Contoh Kalimat\n\n- *The cake is sweet and delicious.* — Kuenya manis dan enak.\n- *I love spicy food.* — Saya suka makanan pedas.\n- *The coffee is too bitter.* — Kopinya terlalu pahit.\n- *This soup is too salty.* — Supnya terlalu asin.\n- *Fresh juice is delicious.* — Jus segar enak.\n- *I don't like bland food.* — Saya tidak suka makanan tawar.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: How does the soup taste?\n- B: It's salty but delicious.\n- A: And the cake?\n- B: It's sweet and yummy!\n\n**Dialog 2:**\n- A: Do you like spicy food?\n- B: Yes, I love spicy food. How about you?\n- A: I don't like it. I prefer sweet food.\n- B: What's your favorite dessert?\n- A: Chocolate cake, definitely!\n\n> **Hindari:** Jangan menulis 'The cake is sweetness' (harusnya *sweet*). Jangan tertukar *sour* (asam) dan *bitter* (pahit). Jangan lupa to be: *The soup tastes salty* (tanpa is) SALAH untuk simple present dengan taste — harusnya *The soup is salty* atau *The soup tastes salty* (keduanya benar, tapi jangan campur).\n\n### Cara Mengucapkan\n\n- **sweet** /swiːt/\n- **sour** /ˈsaʊər/\n- **salty** /ˈsɔːlti/\n- **bitter** /ˈbɪtər/\n- **spicy** /ˈspaɪsi/\n- **delicious** /dɪˈlɪʃəs/\n- **crispy** /ˈkrɪspi/\n\n### Tips\n\n1. Hafalkan 5 rasa dasar: sweet, sour, salty, bitter, spicy.\n2. Tambahkan sifat tekstur: crispy, soft, hard.\n3. Untuk kesukaan: *I like/love/prefer ___*.",
+      "key_points": [
+        "5 rasa dasar: sweet (manis), sour (asam), salty (asin), bitter (pahit), spicy (pedas)",
+        "Sifat lain: bland (tawar), savory (gurih), crispy (renyah), soft (lembut), hard (keras)",
+        "Sifat suhu: hot (panas), cold (dingin), fresh (segar)",
+        "Sifat umum: delicious, tasty, yummy (enak); disgusting (menjijikkan)",
+        "Pola: Subjek + is + adjective (The cake is sweet)",
+        "Pola: Subjek + tastes + adjective (The soup tastes salty)",
+        "I like/love/hate/prefer ___ = saya suka/sangat suka/benci/lebih suka",
+        "How does it taste? = bagaimana rasanya?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "delicious",
+          "id": "enak",
+          "phonetic": "/dɪˈlɪʃəs/",
+          "example_en": "The fried rice is delicious.",
+          "example_id": "Nasi gorengnya enak."
+        },
+        {
+          "en": "rice",
+          "id": "nasi",
+          "phonetic": "/raɪs/",
+          "example_en": "I eat rice every day.",
+          "example_id": "Saya makan nasi setiap hari."
+        },
+        {
+          "en": "bread",
+          "id": "roti",
+          "phonetic": "/bred/",
+          "example_en": "I have bread for breakfast.",
+          "example_id": "Saya makan roti untuk sarapan."
+        },
+        {
+          "en": "egg",
+          "id": "telur",
+          "phonetic": "/eɡ/",
+          "example_en": "I eat two eggs.",
+          "example_id": "Saya makan dua telur."
+        },
+        {
+          "en": "chicken",
+          "id": "ayam",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "example_en": "The chicken is delicious.",
+          "example_id": "Ayamnya enak."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "I like grilled fish.",
+          "example_id": "Saya suka ikan bakar."
+        },
+        {
+          "en": "water",
+          "id": "air",
+          "phonetic": "/ˈwɔːtər/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        },
+        {
+          "en": "milk",
+          "id": "susu",
+          "phonetic": "/mɪlk/",
+          "example_en": "I drink milk in the morning.",
+          "example_id": "Saya minum susu di pagi hari."
+        },
+        {
+          "en": "tea",
+          "id": "teh",
+          "phonetic": "/tiː/",
+          "example_en": "Would you like some tea?",
+          "example_id": "Mau teh?"
+        },
+        {
+          "en": "coffee",
+          "id": "kopi",
+          "phonetic": "/ˈkɒfi/",
+          "example_en": "My father drinks coffee.",
+          "example_id": "Ayah saya minum kopi."
+        },
+        {
+          "en": "juice",
+          "id": "jus",
+          "phonetic": "/dʒuːs/",
+          "example_en": "I like orange juice.",
+          "example_id": "Saya suka jus jeruk."
+        },
+        {
+          "en": "fruit",
+          "id": "buah",
+          "phonetic": "/fruːt/",
+          "example_en": "Fruit is healthy.",
+          "example_id": "Buah itu sehat."
+        },
+        {
+          "en": "vegetable",
+          "id": "sayur",
+          "phonetic": "/ˈvedʒtəbl/",
+          "example_en": "I eat vegetables every day.",
+          "example_id": "Saya makan sayur setiap hari."
+        },
+        {
+          "en": "breakfast",
+          "id": "sarapan",
+          "phonetic": "/ˈbrekfəst/",
+          "example_en": "I have breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "lunch",
+          "id": "makan siang",
+          "phonetic": "/lʌntʃ/",
+          "example_en": "We eat lunch at noon.",
+          "example_id": "Kami makan siang di siang hari."
+        },
+        {
+          "en": "dinner",
+          "id": "makan malam",
+          "phonetic": "/ˈdɪnər/",
+          "example_en": "We have dinner at seven.",
+          "example_id": "Kami makan malam jam tujuh."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 10 kata sifat rasa 2x setelah guru. (2) **Cocokkan rasa:** guru menyebut makanan (gula, garam, lemon, cabai, kopi), murid memilih kata sifat yang tepat. (3) **Isian:** 'The cake is ___ (manis). The soup is ___ (asin). The coffee is ___ (pahit).' (4) **Role play:** dua murid berlatih mendeskripsikan makanan ('How does it taste? It's sweet and delicious.'). (5) **Koreksi:** tulis di papan 'The cake is sweetness. The soup taste salty.' (salah), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How does the soup taste?",
+          "id": "Bagaimana rasa supnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's salty but delicious.",
+          "id": "Asin tapi enak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And the cake?",
+          "id": "Dan kuenya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's sweet and yummy!",
+          "id": "Manis dan enak!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like spicy food?",
+          "id": "Apa kamu suka makanan pedas?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love spicy food.",
+          "id": "Ya, saya suka makanan pedas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How about you? Sweet or spicy?",
+          "id": "Bagaimana denganmu? Manis atau pedas?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I prefer sweet food, especially chocolate.",
+          "id": "Saya lebih suka makanan manis, terutama cokelat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your favorite drink?",
+          "id": "Apa minuman kesukaanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Fresh orange juice. It's cold and sweet!",
+          "id": "Jus jeruk segar. Dingin dan manis!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kita belajar kata sifat untuk mendeskripsikan rasa: sweet, sour, salty, bitter, spicy, dan banyak lagi. Modul Makanan dan Minuman (bagian l34-l36) selesai! Kita sudah belajar kosakata makanan, minuman, dan kata sifat rasa. Pertanyaan untuk kalian: apa 5 rasa dasar dalam Inggris? Dan bagaimana mendeskripsikan makanan kesukaanmu? Untuk PR, tulis deskripsi 3 makanan dan 3 minuman kesukaanmu dengan kata sifat rasa. Besok kita akan lanjut dengan waktu makan (meal times) dan countable/uncountable nouns. Sampai jumpa!",
+      "instructions": "Rangkum kata sifat rasa. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Beritahu bahwa l34-l36 selesai, lanjut l37-l41 tentang makanan lebih lanjut."
+    }
+  ]
+}

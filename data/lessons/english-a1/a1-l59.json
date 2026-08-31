@@ -1,0 +1,310 @@
+{
+  "id": "a1-l59",
+  "course_id": "english-a1",
+  "module_title": "Pakaian",
+  "level": "A1",
+  "title": "Mendeskripsikan Pakaian Seseorang",
+  "subtitle": "She is wearing a blue dress",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mendeskripsikan pakaian dengan pola Subject + is wearing",
+    "Menyatakan kepemilikan pakaian dengan possessive",
+    "Menggabungkan warna, ukuran, dan pakaian dalam deskripsi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang urutan kata sifat. Coba, siapa yang bisa kasih contoh 'a big red car'? Bagus. Hari ini kita akan belajar mendeskripsikan pakaian seseorang secara lengkap dengan pola *She is wearing a blue dress*. Coba perhatikan teman di sebelah kalian. Apa yang dia pakai? Baju warna apa? Celana warna apa? Sepatu warna apa? Dalam bahasa Inggris, kita akan belajar pola *She is wearing ___* untuk mendeskripsikan orang lain. Rencana: kita pelajari pola *She/He is wearing ___*, tanya-jawab *What is she wearing?*, dan latih mendeskripsikan. Ayo mulai!",
+      "instructions": "Pilih satu siswa secara sukarela, minta dia berdiri. Tanyakan ke kelas: 'Apa yang dia pakai?' Perkenalkan pola 'He/She is wearing ___' di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola She/He is wearing\n\nUntuk mendeskripsikan pakaian seseorang saat ini, kita pakai *is wearing* (sedang memakai):\n\n| Subjek | Pola | Contoh |\n|---|---|---|\n| I | am wearing | I am wearing a blue shirt. |\n| You | are wearing | You are wearing black shoes. |\n| He | is wearing | He is wearing a red hat. |\n| She | is wearing | She is wearing a yellow dress. |\n| They | are wearing | They are wearing uniforms. |\n\n## Pertanyaan\n\n- **What is she wearing?** → Dia (pr) pakai apa?\n- **What is he wearing?** → Dia (lk) pakai apa?\n- **What are you wearing?** → Kamu pakai apa?\n- **What are they wearing?** → Mereka pakai apa?\n\n## Jawaban\n\n- She is wearing a **blue dress**.\n- He is wearing a **white shirt and black pants**.\n- They are wearing **red uniforms**.\n\n## Mendeskripsikan Lengkap\n\nKita bisa mendeskripsikan beberapa item sekaligus:\n\n- She is wearing a **red dress** and **white shoes**.\n- He is wearing a **blue shirt**, **black pants**, and **brown shoes**.\n- They are wearing **white shirts** and **blue skirts**.\n\n## Menggabungkan dengan Warna dan Ukuran\n\nPakai urutan yang sudah kita pelajari: ukuran + warna + benda.\n\n- She is wearing a **long red dress**.\n- He is wearing a **big blue jacket**.\n- I am wearing a **small green hat**.\n\n## Mini-Dialog\n\n**A:** What is Sinta wearing today?\n\n**B:** She is wearing a white shirt and a blue skirt.\n\n**A:** And her shoes? What color?\n\n**B:** She is wearing black shoes.\n\n**A:** What about Andi? What is he wearing?\n\n**B:** He is wearing a red t-shirt and blue jeans.\n\n> **Hindari:** mengatakan 'She wearing a dress' (tanpa *is*). Yang benar *She is wearing a dress*. Hindari juga 'She is wear a dress' — yang benar *She is wearing*.",
+      "key_points": [
+        "She is wearing = Dia (pr) sedang memakai",
+        "He is wearing = Dia (lk) sedang memakai",
+        "They are wearing = Mereka sedang memakai",
+        "What is she wearing? = Dia (pr) pakai apa?",
+        "She is wearing a blue dress = Dia pakai gaun biru",
+        "Pakai urutan: ukuran + warna + benda",
+        "She is wearing a long red dress (bukan 'red long')",
+        "Jangan 'She wearing' atau 'She is wear' — pakai 'She is wearing'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "clothes",
+          "id": "pakaian",
+          "phonetic": "/kloʊðz/",
+          "example_en": "I buy new clothes.",
+          "example_id": "Saya membeli pakaian baru."
+        },
+        {
+          "en": "shirt",
+          "id": "kemeja",
+          "phonetic": "/ʃɜːrt/",
+          "example_en": "He is wearing a blue shirt.",
+          "example_id": "Dia memakai kemeja biru."
+        },
+        {
+          "en": "t-shirt",
+          "id": "kaos",
+          "phonetic": "/ˈtiːʃɜːrt/",
+          "example_en": "My t-shirt is white.",
+          "example_id": "Kaos saya berwarna putih."
+        },
+        {
+          "en": "pants",
+          "id": "celana panjang",
+          "phonetic": "/pænts/",
+          "example_en": "These pants are black.",
+          "example_id": "Celana ini hitam."
+        },
+        {
+          "en": "dress",
+          "id": "gaun",
+          "phonetic": "/dres/",
+          "example_en": "She has a red dress.",
+          "example_id": "Dia punya gaun merah."
+        },
+        {
+          "en": "skirt",
+          "id": "rok",
+          "phonetic": "/skɜːrt/",
+          "example_en": "Her skirt is long.",
+          "example_id": "Roknya panjang."
+        },
+        {
+          "en": "shoes",
+          "id": "sepatu",
+          "phonetic": "/ʃuːz/",
+          "example_en": "My shoes are new.",
+          "example_id": "Sepatu saya baru."
+        },
+        {
+          "en": "hat",
+          "id": "topi",
+          "phonetic": "/hæt/",
+          "example_en": "He wears a black hat.",
+          "example_id": "Dia memakai topi hitam."
+        },
+        {
+          "en": "jacket",
+          "id": "jaket",
+          "phonetic": "/ˈdʒækɪt/",
+          "example_en": "It is cold. Wear a jacket.",
+          "example_id": "Dingin. Pakai jaket."
+        },
+        {
+          "en": "red",
+          "id": "merah",
+          "phonetic": "/red/",
+          "example_en": "I like the red bag.",
+          "example_id": "Saya suka tas merah."
+        },
+        {
+          "en": "blue",
+          "id": "biru",
+          "phonetic": "/bluː/",
+          "example_en": "The sky is blue.",
+          "example_id": "Langitnya biru."
+        },
+        {
+          "en": "green",
+          "id": "hijau",
+          "phonetic": "/ɡriːn/",
+          "example_en": "Her shirt is green.",
+          "example_id": "Kemejanya hijau."
+        },
+        {
+          "en": "yellow",
+          "id": "kuning",
+          "phonetic": "/ˈjeloʊ/",
+          "example_en": "I have a yellow pencil.",
+          "example_id": "Saya punya pensil kuning."
+        },
+        {
+          "en": "black",
+          "id": "hitam",
+          "phonetic": "/blæk/",
+          "example_en": "My shoes are black.",
+          "example_id": "Sepatu saya hitam."
+        },
+        {
+          "en": "white",
+          "id": "putih",
+          "phonetic": "/waɪt/",
+          "example_en": "She wears a white dress.",
+          "example_id": "Dia memakai gaun putih."
+        },
+        {
+          "en": "wearing",
+          "id": "memakai (sedang)",
+          "phonetic": "/ˈwerɪŋ/",
+          "example_en": "She is wearing a red dress.",
+          "example_id": "Dia sedang memakai gaun merah."
+        },
+        {
+          "en": "long",
+          "id": "panjang",
+          "phonetic": "/lɒŋ/",
+          "example_en": "She is wearing a long skirt.",
+          "example_id": "Dia memakai rok panjang."
+        },
+        {
+          "en": "short",
+          "id": "pendek",
+          "phonetic": "/ʃɔːrt/",
+          "example_en": "He is wearing short pants.",
+          "example_id": "Dia memakai celana pendek."
+        },
+        {
+          "en": "new",
+          "id": "baru",
+          "phonetic": "/nuː/",
+          "example_en": "He is wearing new shoes.",
+          "example_id": "Dia memakai sepatu baru."
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "What is she wearing today?",
+          "example_id": "Dia pakai apa hari ini?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill deskripsi**: Guru menunjuk seorang siswa, siswa lain membuat kalimat 'He/She is wearing ___' dengan 2 item pakaian. Lakukan 8 putaran.\n2. **Pair work 'Describe your partner'**: Siswa A mendeskripsikan 4 item pakaian siswa B dengan 'You are wearing ___'. Tukar peran.\n3. **Fill-in-the-blank**: Lengkapi — (a) She ___ wearing a blue dress. (b) What ___ he wearing? (c) They ___ wearing red uniforms. (d) I ___ wearing a white shirt.\n4. **Role play 'Fashion reporter'**: Siswa A menjadi reporter TV yang mendeskripsikan pakaian 4 'selebritas' (siswa lain) di 'red carpet'.\n5. **Error correction**: Perbaiki — 'She wearing a dress', 'He is wear a hat', 'What she is wearing?', 'They is wearing uniforms'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. What is Sinta wearing today?",
+          "id": "Hai, Andi. Sinta pakai apa hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is wearing a white shirt and a blue skirt, teacher.",
+          "id": "Dia pakai kemeja putih dan rok biru, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about her shoes? What color?",
+          "id": "Kalau sepatunya? Warna apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is wearing black shoes and white socks.",
+          "id": "Dia pakai sepatu hitam dan kaus kaki putih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And Budi? What is he wearing?",
+          "id": "Kalau Budi? Dia pakai apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Budi is wearing a red t-shirt and blue jeans today.",
+          "id": "Budi pakai kaos merah dan celana jeans biru hari ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about his shoes?",
+          "id": "Kalau sepatunya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is wearing new white shoes. They look clean.",
+          "id": "Dia pakai sepatu putih baru. Terlihat bersih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the teacher wearing?",
+          "id": "Guru pakai apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You are wearing a long green dress and brown shoes, teacher.",
+          "id": "Ibu pakai gaun hijau panjang dan sepatu cokelat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Very good! What are your friends wearing?",
+          "id": "Sangat bagus! Teman-temanmu pakai apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They are wearing red and white uniforms. We all wear the same.",
+          "id": "Mereka pakai seragam merah putih. Kami semua sama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is your sister wearing at home?",
+          "id": "Kakakmu pakai apa di rumah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is wearing a pink t-shirt and short pants at home.",
+          "id": "Dia pakai kaos pink dan celana pendek di rumah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is your father wearing to work?",
+          "id": "Ayahmu pakai apa ke kantor?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is wearing a white shirt, black pants, and a blue tie.",
+          "id": "Dia pakai kemeja putih, celana hitam, dan dasi biru."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your mother? What is she wearing?",
+          "id": "Dan ibumu? Dia pakai apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is wearing a yellow dress and a white hat. She looks beautiful.",
+          "id": "Dia pakai gaun kuning dan topi putih. Terlihat cantik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You describe people very well!",
+          "id": "Kamu mendeskripsikan orang dengan baik!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar mendeskripsikan pakaian seseorang dengan pola *She/He is wearing ___*. Kita juga belajar tanya-jawab *What is she wearing?*. Ingat, jangan lupa *is/are* — *She is wearing*, bukan *She wearing*. Sebelum tutup, dua pertanyaan: apa yang dikenakan teman sebelahmu? Bagaimana menanyakan pakaian seseorang? Untuk pekerjaan rumah, amati 5 anggota keluarga di rumah, lalu tulis 5 kalimat *She/He is wearing ___* untuk masing-masing. Besok kita akan belajar frasa belanja dasar: *I am looking for...* dan *Do you have...?*. Sampai jumpa!",
+      "instructions": "Rangkum pola She/He is wearing di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 5 kalimat deskripsi keluarga dan sampaikan topik besok."
+    }
+  ]
+}

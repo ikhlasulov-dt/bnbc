@@ -1,0 +1,278 @@
+{
+  "id": "a1-l39",
+  "course_id": "english-a1",
+  "module_title": "Makanan dan Minuman",
+  "level": "A1",
+  "title": "Menyatakan Kesukaan",
+  "subtitle": "like, love, hate, prefer",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan like, love, hate, prefer untuk menyatakan kesukaan",
+    "Menambahkan -s untuk he/she/it (likes, loves)",
+    "Menggunakan Me too dan Me neither untuk setuju"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apakah kalian sudah makan pagi tadi? Apa yang kalian makan? Mari kita ingat pelajaran kemarin tentang countable dan uncountable nouns. Siapa yang masih ingat, 'water' itu countable atau uncountable? Betul, uncountable. Hari ini kita akan belajar cara menyatakan kesukaan kita tentang makanan dan minuman dalam bahasa Inggris. Kita akan pakai empat kata penting: like (suka), love (sangat suka), hate (benci), dan prefer (lebih suka). Coba angkat tangan, siapa yang suka ayam goreng? Siapa yang tidak suka sayur? Itulah yang akan kita ungkapkan dalam bahasa Inggris hari ini. Rencana pelajaran: kita pelajari empat kata kerja ini, bentuk positif dan negatifnya, dan cara membandingkan dua makanan dengan 'prefer'. Ayo mulai!",
+      "instructions": "Tulis di papan empat kata: like, love, hate, prefer. Beri skala 1-5 (hate=1, like=3, love=5). Minta siswa menyebut satu makanan favorit dan satu makanan yang tidak disukai."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Empat Kata Kerja Kesukaan\n\nUntuk menyatakan suka atau tidak suka terhadap makanan, kita pakai empat kata kerja utama:\n\n| Kata | Arti | Tingkat |\n|---|---|---|\n| hate | benci | sangat tidak suka (-5) |\n| (not) like | (tidak) suka | netral (+/-3) |\n| like | suka | positif (+3) |\n| love | sangat suka | sangat positif (+5) |\n\n## Pola Kalimat\n\n**Positif:**\n- I **like** rice.\n- She **loves** chicken.\n- We **love** fruit.\n\n**Negatif:**\n- I **don't like** coffee.\n- He **doesn't like** fish.\n- They **hate** spicy food.\n\nPerhatikan: setelah like/love/hate kita pakai **kata benda** (rice, chicken) atau **gerund** (eating, drinking).\n\n- I like **eating** noodles.\n- She loves **drinking** tea.\n\n## Membandingkan dengan prefer\n\nUntuk mengatakan 'lebih suka A daripada B', pakai pola:\n\n**prefer A to B**\n\n- I prefer **tea to** coffee.\n- She prefers **fish to** chicken.\n- We prefer **juice to** milk.\n\n## Pertanyaan tentang Kesukaan\n\nUntuk bertanya, kita pakai *Do / Does* + like/love/hate:\n\n- **Do you like** vegetables?\n- **Does she like** fish?\n- **Do they love** spicy food?\n\nJawaban singkat:\n- Yes, I do. / No, I don't.\n- Yes, she does. / No, she doesn't.\n\n## Kata Sifat untuk Makanan\n\nKita bisa menambahkan alasan dengan kata sifat:\n\n| Kata sifat | Indonesia |\n|---|---|\n| delicious | enak |\n| spicy | pedas |\n| sweet | manis |\n| sour | asam |\n| salty | asin |\n| healthy | sehat |\n\nContoh: I love fruit because it is **healthy and sweet**.\n\n## Contoh Paragraf Pendek\n\nI like rice and chicken, but I love fish the most. I hate spicy food because it is too hot for me. My brother loves coffee, but I prefer tea to coffee. For breakfast, I like eating bread and eggs with a glass of milk. My mother cooks delicious vegetables every day. We all love her cooking!\n\n## Mini-Dialog\n\n**A:** Do you like vegetables?\n\n**B:** Yes, I like them. But I prefer fruit.\n\n**A:** What about coffee?\n\n**B:** I don't like coffee. I love tea.\n\n**A:** Why do you prefer tea?\n\n**B:** Because tea is healthy and not too strong.\n\n> **Hindari:** mengatakan 'I am like rice' (salah). Like di sini kata kerja, jadi cukup 'I like rice'. Hindari juga 'I prefer tea than coffee' — yang benar *prefer tea to coffee*.",
+      "key_points": [
+        "hate = benci, like = suka, love = sangat suka",
+        "Bentuk negatif: don't like / doesn't like",
+        "Bentuk positif: like/love + kata benda (I like rice)",
+        "Bisa pakai gerund: I like eating noodles",
+        "prefer A to B = lebih suka A daripada B",
+        "Jangan pakai 'am/are/is' sebelum like: salah 'I am like'",
+        "Jangan pakai 'than' setelah prefer: benar 'prefer A to B'",
+        "Pertanyaan: 'Do you like ...?' / 'Does she like ...?'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "rice",
+          "id": "nasi",
+          "phonetic": "/raɪs/",
+          "example_en": "I eat rice every day.",
+          "example_id": "Saya makan nasi setiap hari."
+        },
+        {
+          "en": "bread",
+          "id": "roti",
+          "phonetic": "/bred/",
+          "example_en": "I have bread for breakfast.",
+          "example_id": "Saya makan roti untuk sarapan."
+        },
+        {
+          "en": "egg",
+          "id": "telur",
+          "phonetic": "/eɡ/",
+          "example_en": "I eat two eggs.",
+          "example_id": "Saya makan dua telur."
+        },
+        {
+          "en": "chicken",
+          "id": "ayam",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "example_en": "The chicken is delicious.",
+          "example_id": "Ayamnya enak."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "I like grilled fish.",
+          "example_id": "Saya suka ikan bakar."
+        },
+        {
+          "en": "water",
+          "id": "air",
+          "phonetic": "/ˈwɔːtər/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        },
+        {
+          "en": "milk",
+          "id": "susu",
+          "phonetic": "/mɪlk/",
+          "example_en": "I drink milk in the morning.",
+          "example_id": "Saya minum susu di pagi hari."
+        },
+        {
+          "en": "tea",
+          "id": "teh",
+          "phonetic": "/tiː/",
+          "example_en": "Would you like some tea?",
+          "example_id": "Mau teh?"
+        },
+        {
+          "en": "coffee",
+          "id": "kopi",
+          "phonetic": "/ˈkɒfi/",
+          "example_en": "My father drinks coffee.",
+          "example_id": "Ayah saya minum kopi."
+        },
+        {
+          "en": "juice",
+          "id": "jus",
+          "phonetic": "/dʒuːs/",
+          "example_en": "I like orange juice.",
+          "example_id": "Saya suka jus jeruk."
+        },
+        {
+          "en": "fruit",
+          "id": "buah",
+          "phonetic": "/fruːt/",
+          "example_en": "Fruit is healthy.",
+          "example_id": "Buah itu sehat."
+        },
+        {
+          "en": "vegetable",
+          "id": "sayur",
+          "phonetic": "/ˈvedʒtəbl/",
+          "example_en": "I eat vegetables every day.",
+          "example_id": "Saya makan sayur setiap hari."
+        },
+        {
+          "en": "delicious",
+          "id": "enak",
+          "phonetic": "/dɪˈlɪʃəs/",
+          "example_en": "The fried rice is delicious.",
+          "example_id": "Nasi gorengnya enak."
+        },
+        {
+          "en": "like",
+          "id": "suka",
+          "phonetic": "/laɪk/",
+          "example_en": "I like rice.",
+          "example_id": "Saya suka nasi."
+        },
+        {
+          "en": "love",
+          "id": "sangat suka",
+          "phonetic": "/lʌv/",
+          "example_en": "I love chicken.",
+          "example_id": "Saya sangat suka ayam."
+        },
+        {
+          "en": "hate",
+          "id": "benci",
+          "phonetic": "/heɪt/",
+          "example_en": "I hate spicy food.",
+          "example_id": "Saya benci makanan pedas."
+        },
+        {
+          "en": "prefer",
+          "id": "lebih suka",
+          "phonetic": "/prɪˈfɜːr/",
+          "example_en": "I prefer tea to coffee.",
+          "example_id": "Saya lebih suka teh daripada kopi."
+        },
+        {
+          "en": "spicy",
+          "id": "pedas",
+          "phonetic": "/ˈspaɪsi/",
+          "example_en": "This soup is spicy.",
+          "example_id": "Sup ini pedas."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill emosi**: Guru menyebut makanan, siswa meneriakkan 'I love it!', 'I like it!', atau 'I hate it!' sesuai perasaan mereka.\n2. **Pair work**: Tanyakan ke pasangan 'Do you like ___?' untuk 6 makanan, catat jawabannya dengan 'Yes, I do' atau 'No, I don't'.\n3. **Fill-in-the-blank**: Lengkapi — (a) I ___ rice. (b) She ___ like fish. (c) We prefer tea ___ coffee. (d) He ___ eating noodles.\n4. **Role play**: Wawancara pendek tentang makanan favorit dan tidak favorit — tanyakan 4 pertanyaan.\n5. **Error correction**: Perbaiki — 'I am like rice', 'She don't love coffee', 'I prefer fish than chicken', 'He hate vegetables'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. Do you like vegetables?",
+          "id": "Hai, Andi. Kamu suka sayur?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I like vegetables. My mother cooks them deliciously.",
+          "id": "Ya, saya suka sayur. Ibu saya masaknya enak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about fish? Do you like fish?",
+          "id": "Kalau ikan? Kamu suka ikan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I love fish! Grilled fish is my favorite.",
+          "id": "Saya sangat suka ikan! Ikan bakar favorit saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like spicy food?",
+          "id": "Kamu suka makanan pedas?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I hate spicy food. It makes my mouth burn.",
+          "id": "Tidak, saya benci makanan pedas. Mulut saya terasa panas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Me too. Do you prefer tea or coffee?",
+          "id": "Saya juga. Kamu lebih suka teh atau kopi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I prefer tea to coffee. I drink tea every morning.",
+          "id": "Saya lebih suka teh daripada kopi. Saya minum teh setiap pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you like for breakfast?",
+          "id": "Kamu suka apa untuk sarapan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I like eating bread and an egg with a glass of milk.",
+          "id": "Saya suka makan roti dan telur dengan segelas susu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like fruit? Which one?",
+          "id": "Kamu suka buah? Yang mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love fruit, especially bananas and apples.",
+          "id": "Ya, saya suka buah, terutama pisang dan apel."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And what about juice? Do you like orange juice?",
+          "id": "Kalau jus? Kamu suka jus jeruk?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love orange juice. It's delicious.",
+          "id": "Ya, saya sangat suka jus jeruk. Enak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! So, what is your favorite food?",
+          "id": "Bagus! Jadi, makanan favoritmu apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite food is fried chicken with rice.",
+          "id": "Makanan favorit saya ayam goreng dengan nasi."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar empat kata untuk menyatakan kesukaan: like, love, hate, dan prefer. Kita tahu sekarang bahwa 'I like rice' benar, tetapi 'I am like rice' salah. Kita juga tahu cara membandingkan: 'I prefer tea to coffee', bukan 'than coffee'. Sebelum tutup, dua pertanyaan: apa kamu suka kopi? Kalau lebih suka teh atau kopi? Untuk pekerjaan rumah, tulislah 8 kalimat tentang makanan dan minuman yang kamu suka, sangat suka, benci, dan yang kamu lebih suka. Pakai like, love, hate, dan prefer. Besok kita akan belajar frasa-frasa pemesanan di restoran seperti 'Can I have...?' dan 'I'd like...'. Sampai jumpa besok!",
+      "instructions": "Rangkum empat kata kerja di papan dengan skala emosi. Tanyakan dua pertanyaan. Berikan PR 8 kalimat dan sampaikan topik besok tentang pemesanan di restoran."
+    }
+  ]
+}

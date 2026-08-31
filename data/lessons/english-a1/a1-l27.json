@@ -1,0 +1,221 @@
+{
+  "id": "a1-l27",
+  "course_id": "english-a1",
+  "module_title": "Rutinitas Harian",
+  "level": "A1",
+  "title": "Adverbia Frekuensi",
+  "subtitle": "always, usually, often, sometimes, never",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengenal 6 adverbia frekuensi dari selalu ke tidak pernah",
+    "Menempatkan adverbia frekuensi di posisi yang benar",
+    "Memahami bahwa never membuat kalimat negatif tanpa don't"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar rumus dasar simple present. Hari ini kita akan belajar adverbia frekuensi (adverbs of frequency): always, usually, often, sometimes, never. Pernahkah kalian ingin bilang 'saya sering membaca' atau 'dia tidak pernah terlambat' dalam Inggris? Hari ini kita akan selesaikan. Tujuan kita: kalian bisa menggunakan adverbia frekuensi dengan posisi yang tepat dalam kalimat. Kita mulai dari teori posisi dan tingkat, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'How often do you read?'. Tulis 5 adverbia frekuensi di papan dengan persentase. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Adverbia Frekuensi\n\nAdverbia frekuensi (adverbs of frequency) menyatakan seberapa sering suatu kegiatan dilakukan.\n\n### Tabel Adverbia Frekuensi\n\n| Adverbia | Arti | Persentase |\n|---|---|---|\n| always | selalu | 100% |\n| usually | biasanya | 80-90% |\n| often | sering | 60-70% |\n| sometimes | kadang-kadang | 40-50% |\n| rarely / seldom | jarang | 10-20% |\n| never | tidak pernah | 0% |\n\n### Posisi dalam Kalimat\n\n**Aturan 1:** Untuk kalimat dengan **kata kerja biasa**, adverbia diletakkan **sebelum kata kerja**:\n- *I always wake up at 6.* (always + wake up)\n- *She usually studies at night.* (usually + studies)\n- *They often play football.* (often + play)\n\n**Aturan 2:** Untuk kalimat dengan **to be (am/is/are)**, adverbia diletakkan **setelah to be**:\n- *I am always happy.* (am + always)\n- *She is usually late.* (is + usually)\n- *They are often busy.* (are + often)\n\n**Aturan 3:** *Sometimes* bisa di awal atau di tengah kalimat:\n- *Sometimes I read at night.* (awal)\n- *I sometimes read at night.* (tengah)\n\n### Contoh Lengkap\n\n- *I always brush my teeth before bed.* — Saya selalu gosok gigi sebelum tidur.\n- *She usually goes to school by bus.* — Dia biasanya pergi ke sekolah dengan bus.\n- *We often eat dinner together.* — Kami sering makan malam bersama.\n- *He sometimes plays tennis.* — Dia kadang-kadang bermain tenis.\n- *They rarely watch TV.* — Mereka jarang nonton TV.\n- *I never drink coffee.* — Saya tidak pernah minum kopi.\n\n### Frasa Frekuensi Lain\n\nSelain adverbia, ada frasa frekuensi yang diletakkan di akhir kalimat:\n- *every day* — setiap hari: *I study every day.*\n- *every morning* — setiap pagi: *She runs every morning.*\n- *once a week* — sekali seminggu: *We swim once a week.*\n- *twice a month* — dua kali sebulan: *He visits twice a month.*\n- *three times a year* — tiga kali setahun\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: How often do you read books?\n- B: I always read before bed.\n- A: And how often do you watch TV?\n- B: I rarely watch TV.\n\n**Dialog 2:**\n- A: Is she always on time?\n- B: Yes, she is usually early.\n- A: And her brother?\n- B: He is sometimes late.\n\n> **Hindari:** Jangan menaruh always/usually/often di akhir kalimat dengan kata kerja: *I wake up always at 6* SALAH — harusnya *I always wake up at 6*. Jangan lupa -s untuk he/she/it walaupun ada adverbia: *She always wakes up at 6* (bukan *wake*).\n\n### Cara Mengucapkan\n\n- **always** /ˈɔːlweɪz/ — tekanan di AL.\n- **usually** /ˈjuːʒuəli/ — tekanan di U.\n- **often** /ˈɒfn/ atau /ˈɒftən/ — dua pelafalan.\n- **sometimes** /ˈsʌmtaɪmz/\n- **rarely** /ˈrerli/\n- **never** /ˈnevər/\n\n### Tips\n\n1. Adverbia sebelum kata kerja biasa, setelah to be.\n2. Sometimes bisa di awal atau tengah kalimat.\n3. Frasa frekuensi (every day, once a week) di akhir kalimat.",
+      "key_points": [
+        "Adverbia frekuensi: always (100%), usually (80-90%), often (60-70%), sometimes (40-50%), rarely/seldom (10-20%), never (0%)",
+        "Posisi: sebelum kata kerja biasa (I always wake up)",
+        "Posisi: setelah to be (I am always happy)",
+        "Sometimes bisa di awal atau tengah kalimat",
+        "Frasa frekuensi di akhir: every day, every morning, once a week, twice a month",
+        "Jangan lupa -s untuk he/she/it (She always wakes up)",
+        "How often...? = pertanyaan untuk menanyakan frekuensi",
+        "Always tidak bisa di akhir: 'I wake up always' SALAH"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "always",
+          "id": "selalu",
+          "phonetic": "/ˈɔːlweɪz/",
+          "example_en": "I always brush my teeth.",
+          "example_id": "Saya selalu gosok gigi."
+        },
+        {
+          "en": "usually",
+          "id": "biasanya",
+          "phonetic": "/ˈjuːʒuəli/",
+          "example_en": "I usually wake up early.",
+          "example_id": "Saya biasanya bangun pagi."
+        },
+        {
+          "en": "sometimes",
+          "id": "kadang-kadang",
+          "phonetic": "/ˈsʌmtaɪmz/",
+          "example_en": "I sometimes read at night.",
+          "example_id": "Saya kadang membaca di malam hari."
+        },
+        {
+          "en": "never",
+          "id": "tidak pernah",
+          "phonetic": "/ˈnevər/",
+          "example_en": "I never eat late.",
+          "example_id": "Saya tidak pernah makan larut."
+        },
+        {
+          "en": "every day",
+          "id": "setiap hari",
+          "phonetic": "/ˈevri deɪ/",
+          "example_en": "I study every day.",
+          "example_id": "Saya belajar setiap hari."
+        },
+        {
+          "en": "wake up",
+          "id": "bangun tidur",
+          "phonetic": "/weɪk ʌp/",
+          "example_en": "I wake up at six.",
+          "example_id": "Saya bangun jam enam."
+        },
+        {
+          "en": "study",
+          "id": "belajar",
+          "phonetic": "/ˈstʌdi/",
+          "example_en": "I study English.",
+          "example_id": "Saya belajar bahasa Inggris."
+        },
+        {
+          "en": "play",
+          "id": "bermain",
+          "phonetic": "/pleɪ/",
+          "example_en": "I play with friends.",
+          "example_id": "Saya bermain dengan teman."
+        },
+        {
+          "en": "go to school",
+          "id": "pergi ke sekolah",
+          "phonetic": "/ɡoʊ tuː skuːl/",
+          "example_en": "I go to school by bike.",
+          "example_id": "Saya ke sekolah naik sepeda."
+        },
+        {
+          "en": "eat breakfast",
+          "id": "makan sarapan",
+          "phonetic": "/iːt ˈbrekfəst/",
+          "example_en": "I eat breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "sleep",
+          "id": "tidur",
+          "phonetic": "/sliːp/",
+          "example_en": "I sleep at nine.",
+          "example_id": "Saya tidur jam sembilan."
+        },
+        {
+          "en": "often",
+          "id": "sering",
+          "phonetic": "/ˈɒfn/",
+          "example_en": "I often read books.",
+          "example_id": "Saya sering membaca buku."
+        },
+        {
+          "en": "rarely",
+          "id": "jarang",
+          "phonetic": "/ˈrerli/",
+          "example_en": "I rarely watch TV.",
+          "example_id": "Saya jarang menonton TV."
+        },
+        {
+          "en": "go home",
+          "id": "pulang",
+          "phonetic": "/ɡoʊ hoʊm/",
+          "example_en": "I go home at three.",
+          "example_id": "Saya pulang jam tiga."
+        },
+        {
+          "en": "work",
+          "id": "bekerja",
+          "phonetic": "/wɜːrk/",
+          "example_en": "I work hard.",
+          "example_id": "Saya bekerja keras."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 6 adverbia frekuensi 2x setelah guru. (2) **Persentase tebak:** guru menyebut persentase (100%, 80%, 50%, 0%), murid menjawab dengan adverbia. (3) **Isian:** 'I ___ (always) wake up at 6. She ___ (usually) is happy. They ___ (never) drink coffee.' (4) **Role play:** dua murid saling bertanya 'How often do you...?' (study, read, watch TV, play). (5) **Koreksi:** tulis di papan 'I wake up always at 6. She always wake up. I am never happy.' (posisi salah), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How often do you read books?",
+          "id": "Seberapa sering kamu membaca buku?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I always read before bed.",
+          "id": "Saya selalu membaca sebelum tidur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How often do you watch TV?",
+          "id": "Seberapa sering kamu nonton TV?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I rarely watch TV.",
+          "id": "Saya jarang nonton TV."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is she always on time?",
+          "id": "Apa dia selalu tepat waktu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, she is usually early.",
+          "id": "Ya, dia biasanya lebih awal."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And her brother?",
+          "id": "Dan saudara laki-lakinya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is sometimes late.",
+          "id": "Dia kadang-kadang terlambat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How often do you exercise?",
+          "id": "Seberapa sering kamu berolahraga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I usually exercise twice a week.",
+          "id": "Saya biasanya berolahraga dua kali seminggu."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar adverbia frekuensi: always, usually, often, sometimes, rarely, never. Yang paling penting: posisi adverbia sebelum kata kerja biasa dan setelah to be. Pertanyaan untuk kalian: bagaimana menulis 'saya selalu bangun jam 6'? Dan apa posisi always dalam 'I am happy'? Untuk PR, tulis 8 kalimat tentang kebiasaanmu menggunakan adverbia frekuensi. Besok kita akan belajar bentuk negatif: do not / does not. Sampai jumpa!",
+      "instructions": "Rangkum adverbia frekuensi. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

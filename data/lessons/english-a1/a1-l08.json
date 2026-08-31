@@ -1,0 +1,200 @@
+{
+  "id": "a1-l08",
+  "course_id": "english-a1",
+  "module_title": "Data Diri",
+  "level": "A1",
+  "title": "Kata Kerja To Be: am, is, are",
+  "subtitle": "Memilih to be yang tepat untuk setiap subjek",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan am untuk subjek I",
+    "Menggunakan is untuk subjek he, she, it",
+    "Menggunakan are untuk subjek you, we, they"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Dua pelajaran terakhir kita pakai kalimat seperti 'I am', 'She is', 'They are'. Hari ini kita akan dalami kata kerja to be: am, is, are. To be ini adalah kata kerja paling dasar dalam bahasa Inggris dan dipakai hampir di setiap kalimat. Tujuan kita: kalian bisa memilih to be yang tepat untuk setiap subjek tanpa ragu. Pernahkah kalian bingung antara 'I is', 'She are', atau 'They is'? Itu kesalahan paling umum di tingkat A1 dan hari ini kita akan menyelesaikannya. Kita mulai dari teori tabel to be, kosakata, lalu latihan. Siap? Mari mulai!",
+      "instructions": "Sapa dengan 'I am your teacher. You are my students.' (tekankan am dan are). Tulis tabel subjek + to be di papan: I-am, You/We/They-are, He/She/It-is. Perkenalkan tujuan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kata Kerja To Be: am, is, are\n\n*To be* adalah kata kerja paling penting dalam bahasa Inggris. Pemilihannya bergantung pada subjek kalimat.\n\n### Tabel To Be\n\n| Subjek | To be | Contraction | Contoh |\n|---|---|---|---|\n| I | am | I'm | I am a student. / I'm a student. |\n| You | are | You're | You are my friend. / You're my friend. |\n| We | are | We're | We are happy. |\n| They | are | They're | They are students. |\n| He | is | He's | He is a teacher. / He's a teacher. |\n| She | is | She's | She is my sister. |\n| It | is | It's | It is a book. / It's a book. |\n\n### Cara Mengingat\n\nMudahnya: **I pakai am, tunggal (he/she/it) pakai is, jamak dan you pakai are.**\n\n- *I am* — selalu untuk subjek 'I', tidak peduli apa konteksnya.\n- *He/She/It is* — semua subjek tunggal orang ketiga.\n- *You/We/They are* — 'you' (tunggal maupun jamak), 'we', dan 'they' semua pakai 'are'.\n\n### Contraction (Pendek)\n\nDalam percakapan sehari-hari, *to be* sering dipendekkan:\n- I am → I'm\n- You are → You're\n- He is → He's\n- She is → She's\n- It is → It's\n- We are → We're\n- They are → They're\n\nContraction wajib dipakai dalam bahasa lisan. Untuk tulisan formal (laporan, esai), pakai bentuk penuh.\n\n### Penggunaan Umum To Be\n\n1. **Identitas**: I'm a student. She's a teacher.\n2. **Sifat**: He is tall. They are happy.\n3. **Lokasi**: We are in class. It is on the table.\n4. **Umur**: I am twelve years old. She is ten.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: Who are you?\n- B: I'm Andi. I'm a student.\n- A: And who is she?\n- B: She is Ms. Sarah. She's a teacher.\n\n**Dialog 2:**\n- A: Are you a new student?\n- B: Yes, I am. We are from Bandung.\n- A: Is he your brother?\n- B: No, he isn't. He is my friend.\n\n> **Hindari:** Jangan tulis 'I is' atau 'I are' — selalu 'I am'. Jangan 'She are' — selalu 'She is'. Jangan 'They is' — selalu 'They are'. Kesalahan ini paling sering muncul di tingkat A1.\n\n### Cara Mengucapkan\n\n- **am** /æm/\n- **is** /ɪz/\n- **are** /ɑːr/\n- **I'm** /aɪm/, **You're** /jʊər/, **He's** /hiːz/, **She's** /ʃiːz/, **It's** /ɪts/\n\n### Tips\n\n1. Hafalkan tabel di atas sampai otomatis.\n2. Contraction (I'm, You're, dll.) wajib dipakai saat berbicara.\n3. To be dipakai untuk identitas, sifat, lokasi, dan umur.",
+      "key_points": [
+        "I → am (contraction: I'm)",
+        "He, she, it → is (He's, She's, It's)",
+        "You, we, they → are (You're, We're, They're)",
+        "Jangan campur am, is, are — pilih sesuai subjek",
+        "Contraction wajib dalam bahasa lisan",
+        "Bentuk penuh (I am, She is) untuk tulisan formal",
+        "To be untuk identitas, sifat, lokasi, dan umur",
+        "Kesalahan paling umum A1: 'I is', 'She are', 'They is'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "student",
+          "id": "pelajar",
+          "phonetic": "/ˈstuːdnt/",
+          "example_en": "I am a student.",
+          "example_id": "Saya seorang pelajar."
+        },
+        {
+          "en": "teacher",
+          "id": "guru",
+          "phonetic": "/ˈtiːtʃər/",
+          "example_en": "She is my teacher.",
+          "example_id": "Dia guru saya."
+        },
+        {
+          "en": "year",
+          "id": "tahun",
+          "phonetic": "/jɪr/",
+          "example_en": "I am ten years old.",
+          "example_id": "Saya berumur sepuluh tahun."
+        },
+        {
+          "en": "name",
+          "id": "nama",
+          "phonetic": "/neɪm/",
+          "example_en": "What is your name?",
+          "example_id": "Siapa namamu?"
+        },
+        {
+          "en": "occupation",
+          "id": "pekerjaan",
+          "phonetic": "/ˌɒkjuˈpeɪʃn/",
+          "example_en": "My occupation is student.",
+          "example_id": "Pekerjaan saya pelajar."
+        },
+        {
+          "en": "live",
+          "id": "tinggal",
+          "phonetic": "/lɪv/",
+          "example_en": "I live in Mariana.",
+          "example_id": "Saya tinggal di Mariana."
+        },
+        {
+          "en": "from",
+          "id": "dari",
+          "phonetic": "/frɒm/",
+          "example_en": "I am from Banyuasin.",
+          "example_id": "Saya dari Banyuasin."
+        },
+        {
+          "en": "old",
+          "id": "tahun (umur)",
+          "phonetic": "/oʊld/",
+          "example_en": "I am 10 years old.",
+          "example_id": "Saya berumur 10 tahun."
+        },
+        {
+          "en": "address",
+          "id": "alamat",
+          "phonetic": "/əˈdres/",
+          "example_en": "My address is Jl. Merbau 17.",
+          "example_id": "Alamat saya Jl. Merbau 17."
+        },
+        {
+          "en": "phone number",
+          "id": "nomor telepon",
+          "phonetic": "/foʊn ˈnʌmbər/",
+          "example_en": "What's your phone number?",
+          "example_id": "Berapa nomor teleponmu?"
+        },
+        {
+          "en": "birthday",
+          "id": "tanggal lahir",
+          "phonetic": "/ˈbɜːrθdeɪ/",
+          "example_en": "My birthday is in August.",
+          "example_id": "Ulang tahun saya di bulan Agustus."
+        },
+        {
+          "en": "nationality",
+          "id": "kewarganegaraan",
+          "phonetic": "/ˌnæʃəˈnæləti/",
+          "example_en": "I am Indonesian.",
+          "example_id": "Saya orang Indonesia."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill cepat:** guru menyebut subjek (I, you, he, she, we, they, it), murid menjawab dengan to be yang tepat dalam 1 detik. (2) **Isian:** lengkapi 'I ___ a student. She ___ my teacher. They ___ my friends. It ___ a book.' (3) **Pasangan:** A menyebut subjek, B membuat kalimat lengkap dengan to be. (4) **Role play:** dua murid saling menebak identitas ('Are you a student? Yes I am. Is she a teacher? No she isn't.'). (5) **Koreksi:** tulis di papan 'I is a student. They is my friends. She are my teacher.' dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I ___ a student. What is the answer?",
+          "id": "I ___ seorang pelajar. Apa jawabannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I am a student. / I'm a student.",
+          "id": "Saya seorang pelajar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "She ___ my teacher.",
+          "id": "She ___ guru saya."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is my teacher. / She's my teacher.",
+          "id": "Dia guru saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "They ___ my friends.",
+          "id": "They ___ teman-teman saya."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They are my friends. / They're my friends.",
+          "id": "Mereka teman-teman saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "We ___ in class.",
+          "id": "We ___ di kelas."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We are in class. / We're in class.",
+          "id": "Kami di kelas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It ___ a book.",
+          "id": "It ___ sebuah buku."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is a book. / It's a book.",
+          "id": "Itu sebuah buku."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap! Hari ini kita dalami kata kerja to be: I am, He/She/It is, You/We/They are. Kita juga belajar contraction (I'm, You're, He's, dll.) yang wajib dipakai dalam bahasa lisan. Yang paling penting diingat: jangan pernah menulis 'I is', 'She are', atau 'They is'. Pertanyaan untuk kalian: to be apa yang dipakai untuk I, untuk He, dan untuk They? Untuk PR, tulis 10 kalimat dengan subjek berbeda menggunakan to be yang benar. Besok kita akan lanjut dengan kata ganti subjek (I, you, he, she, we, they) dan kata ganti milik (my, your, his, her). Sampai jumpa!",
+      "instructions": "Rangkum tabel to be. Tanyakan 2-3 pertanyaan pemahaman (to be untuk I, He, They). Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

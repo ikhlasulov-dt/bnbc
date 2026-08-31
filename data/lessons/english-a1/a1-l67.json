@@ -1,0 +1,296 @@
+{
+  "id": "a1-l67",
+  "course_id": "english-a1",
+  "module_title": "Transportasi",
+  "level": "A1",
+  "title": "Kosakata Moda Transportasi",
+  "subtitle": "car, bus, train, plane, bicycle",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan nama moda transportasi dalam bahasa Inggris",
+    "Mengucapkan kosakata transportasi dengan benar",
+    "Mengenal tempat terkait transportasi: station, airport, port"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Hari ini kita mulai modul terakhir: Transportasi dan Arah. Sebelum masuk, mari kita ingat modul kemarin tentang Belanja. Siapa yang masih ingat, 'murah' bahasa Inggrisnya apa? Bagus, cheap. Sekarang coba, bagaimana kamu pergi ke sekolah? Jalan kaki? Naik sepeda? Naik mobil? Naik bus? Dalam bahasa Inggris, semua moda transportasi itu punya nama: car, bus, train, plane, bicycle. Hari ini kita akan belajar kosakata moda transportasi. Rencana: kita kenal 12-15 kosakata transportasi, pakai dalam kalimat, dan latih pelafalan. Ayo mulai!",
+      "instructions": "Tulis di papan: car, bus, train, plane, bicycle. Tunjukkan gambar atau ilustrasi masing-masing. Minta siswa menyebut satu moda transportasi yang pernah mereka pakai."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Moda Transportasi\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| car | mobil | My father has a car. |\n| bus | bus | I go to school by bus. |\n| train | kereta | The train is fast. |\n| plane | pesawat | We go to Bali by plane. |\n| bicycle | sepeda | I ride a bicycle. |\n| motorcycle | sepeda motor | He rides a motorcycle. |\n| taxi | taksi | Take a taxi to the airport. |\n| ship | kapal | The ship is big. |\n| boat | perahu | We use a small boat. |\n| truck | truk | The truck carries goods. |\n| subway | kereta bawah tanah | Tokyo has a subway. |\n| tricycle (becak) | becak | The tricycle is slow. |\n\n## Tempat Terkait Transportasi\n\n| Inggris | Indonesia |\n|---|---|\n| station | stasiun |\n| airport | bandara |\n| port | pelabuhan |\n| bus stop | halte bus |\n| parking lot | tempat parkir |\n\n## Pola Kalimat\n\n- **I go to ___ by ___.** → Saya pergi ke ___ dengan ___.\n  - I go to school by bus.\n  - I go to Bali by plane.\n- **I ride a ___.** → Saya menaiki ___.\n  - I ride a bicycle.\n  - He rides a motorcycle.\n- **I take a ___ to ___.** → Saya naik ___ ke ___.\n  - I take a taxi to the airport.\n\n## Mini-Dialog\n\n**A:** How do you go to school?\n\n**B:** I go to school by bus.\n\n**A:** And your father? How does he go to work?\n\n**B:** He goes to work by motorcycle.\n\n**A:** Do you ever take a plane?\n\n**B:** Yes, I went to Bali by plane last year.\n\n> **Hindari:** mengatakan 'I go with bus' — yang benar *I go by bus*. Hindari juga 'I ride bus' tanpa artikel — yang benar *I ride a bus* atau *I take a bus*.",
+      "key_points": [
+        "car = mobil, bus = bus, train = kereta, plane = pesawat",
+        "bicycle = sepeda, motorcycle = sepeda motor, taxi = taksi",
+        "ship = kapal, boat = perahu, truck = truk",
+        "I go to ___ by ___ = Saya pergi ke ___ dengan ___",
+        "I ride a bicycle = Saya menaiki sepeda",
+        "I take a taxi to ___ = Saya naik taksi ke ___",
+        "Pakai 'by' untuk moda: by bus, by car, by plane",
+        "station = stasiun, airport = bandara, bus stop = halte"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "transportation",
+          "id": "transportasi",
+          "phonetic": "/ˌtrænspərˈteɪʃn/",
+          "example_en": "Public transportation is cheap.",
+          "example_id": "Transportasi umum murah."
+        },
+        {
+          "en": "car",
+          "id": "mobil",
+          "phonetic": "/kɑːr/",
+          "example_en": "My father has a car.",
+          "example_id": "Ayah saya punya mobil."
+        },
+        {
+          "en": "bus",
+          "id": "bus",
+          "phonetic": "/bʌs/",
+          "example_en": "I go to school by bus.",
+          "example_id": "Saya ke sekolah naik bus."
+        },
+        {
+          "en": "train",
+          "id": "kereta",
+          "phonetic": "/treɪn/",
+          "example_en": "The train is fast.",
+          "example_id": "Keretanya cepat."
+        },
+        {
+          "en": "bicycle",
+          "id": "sepeda",
+          "phonetic": "/ˈbaɪsɪkl/",
+          "example_en": "I ride a bicycle to the park.",
+          "example_id": "Saya naik sepeda ke taman."
+        },
+        {
+          "en": "motorcycle",
+          "id": "sepeda motor",
+          "phonetic": "/ˈmoʊtərsaɪkl/",
+          "example_en": "He rides a motorcycle.",
+          "example_id": "Dia naik sepeda motor."
+        },
+        {
+          "en": "taxi",
+          "id": "taksi",
+          "phonetic": "/ˈtæksi/",
+          "example_en": "We take a taxi to the airport.",
+          "example_id": "Kami naik taksi ke bandara."
+        },
+        {
+          "en": "plane",
+          "id": "pesawat",
+          "phonetic": "/pleɪn/",
+          "example_en": "The plane flies to Bali.",
+          "example_id": "Pesawat terbang ke Bali."
+        },
+        {
+          "en": "ship",
+          "id": "kapal",
+          "phonetic": "/ʃɪp/",
+          "example_en": "The ship is big.",
+          "example_id": "Kapalnya besar."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is near here.",
+          "example_id": "Stasiun dekat dari sini."
+        },
+        {
+          "en": "street",
+          "id": "jalan",
+          "phonetic": "/striːt/",
+          "example_en": "This street is busy.",
+          "example_id": "Jalan ini ramai."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "truck",
+          "id": "truk",
+          "phonetic": "/trʌk/",
+          "example_en": "The truck is big.",
+          "example_id": "Truknya besar."
+        },
+        {
+          "en": "boat",
+          "id": "perahu",
+          "phonetic": "/boʊt/",
+          "example_en": "We use a small boat.",
+          "example_id": "Kami pakai perahu kecil."
+        },
+        {
+          "en": "subway",
+          "id": "kereta bawah tanah",
+          "phonetic": "/ˈsʌbweɪ/",
+          "example_en": "Tokyo has a subway.",
+          "example_id": "Tokyo punya kereta bawah tanah."
+        },
+        {
+          "en": "airport",
+          "id": "bandara",
+          "phonetic": "/ˈerpɔːrt/",
+          "example_en": "The airport is far.",
+          "example_id": "Bandaranya jauh."
+        },
+        {
+          "en": "by",
+          "id": "dengan (moda)",
+          "phonetic": "/baɪ/",
+          "example_en": "I go by bus.",
+          "example_id": "Saya pergi dengan bus."
+        },
+        {
+          "en": "to ride",
+          "id": "menaiki",
+          "phonetic": "/tuː raɪd/",
+          "example_en": "I ride a bicycle.",
+          "example_id": "Saya naik sepeda."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill gambar**: Guru menunjuk gambar moda transportasi, siswa menyebut nama Inggrisnya secepat mungkin. Lakukan 15 putaran.\n2. **Pair work 'How do you go to ___?'**: Tanyakan ke pasangan 5 tempat (sekolah, pasar, bandara, dll) — pasangan menjawab dengan 'I go by ___'.\n3. **Fill-in-the-blank**: Lengkapi — (a) I go to school ___ bus. (b) He rides a ___ (sepeda motor). (c) We take a ___ to Bali (pesawat). (d) The ___ is fast (kereta).\n4. **Role play 'Travel planner'**: Siswa A merencanakan perjalanan, B jadi agen — rekomendasikan 4 moda transportasi untuk 4 destinasi.\n5. **Error correction**: Perbaiki — 'I go with bus', 'I ride bus', 'He go by car', 'We take plane to Bali'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. How do you go to school?",
+          "id": "Hai, Andi. Kamu ke sekolah naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I go to school by bus, teacher.",
+          "id": "Saya ke sekolah naik bus, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long does it take?",
+          "id": "Berapa lama perjalanannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It takes about 30 minutes by bus.",
+          "id": "Sekitar 30 menit naik bus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How does your father go to work?",
+          "id": "Ayahmu ke kantor naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He goes to work by motorcycle. It's faster.",
+          "id": "Dia ke kantor naik motor. Lebih cepat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your mother drive a car?",
+          "id": "Ibumu naik mobil?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, she drives a car to the market.",
+          "id": "Ya, dia naik mobil ke pasar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you go to your grandmother's house?",
+          "id": "Kamu ke rumah nenek naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We go by car. It's about two hours from here.",
+          "id": "Kami naik mobil. Sekitar dua jam dari sini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever taken a plane?",
+          "id": "Pernah naik pesawat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I went to Bali by plane last year. It was fun!",
+          "id": "Ya, saya ke Bali naik pesawat tahun lalu. Seru!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Have you ever been on a train?",
+          "id": "Pernah naik kereta?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, the train is comfortable. I like it.",
+          "id": "Ya, keretanya nyaman. Saya suka."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about a ship? Have you been on a ship?",
+          "id": "Kalau kapal? Pernah naik kapal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, never. But I have been on a small boat.",
+          "id": "Belum pernah. Tapi pernah naik perahu kecil."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you ride a bicycle?",
+          "id": "Kamu naik sepeda?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I ride a bicycle in the park on Sunday.",
+          "id": "Ya, saya naik sepeda di taman hari Minggu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's good exercise. Thank you, Andi!",
+          "id": "Itu olahraga bagus. Terima kasih, Andi!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar kosakata moda transportasi: car, bus, train, plane, bicycle, motorcycle, taxi, ship, dan lainnya. Kita juga belajar pola *I go to ___ by ___*. Ingat, pakai *by* untuk moda transportasi: *by bus*, *by car*, *by plane*. Sebelum tutup, dua pertanyaan: bagaimana kamu pergi ke sekolah? Bagaimana mengatakan 'Saya pergi ke Bali dengan pesawat'? Untuk pekerjaan rumah, tulislah 8 kalimat tentang cara kamu dan keluarga bepergian ke berbagai tempat. Pakai pola *I/He/She go/goes by ___*. Besok kita akan belajar preposisi *by* untuk transportasi lebih dalam. Sampai jumpa!",
+      "instructions": "Rangkum kosakata transportasi di papan dengan gambar. Tanyakan dua pertanyaan pemahaman. Berikan PR 8 kalimat dan sampaikan topik besok."
+    }
+  ]
+}

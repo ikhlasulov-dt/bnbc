@@ -1,0 +1,214 @@
+{
+  "id": "a1-l28",
+  "course_id": "english-a1",
+  "module_title": "Rutinitas Harian",
+  "level": "A1",
+  "title": "Bentuk Negatif: do not / does not",
+  "subtitle": "don't dan doesn't dalam kalimat negatif",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat negatif dengan don't untuk I/you/we/they",
+    "Membentuk kalimat negatif dengan doesn't untuk he/she/it",
+    "Memahami bahwa kata kerja kembali ke bentuk asal setelah doesn't"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar adverbia frekuensi. Hari ini kita akan belajar bentuk negatif simple present: do not / does not. Pernahkah kalian ingin bilang 'saya tidak suka kopi' atau 'dia tidak bekerja hari ini' dalam Inggris? Itu yang akan kita selesaikan. Tujuan kita: kalian bisa membuat kalimat negatif simple present dengan don't/doesn't + V1. Kita mulai dari teori pola negatif, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'Do you like coffee?'. Tulis 'I don't like coffee. She doesn't like tea.' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Bentuk Negatif: do not / does not\n\nUntuk membuat kalimat negatif dalam simple present, pakai bantu **do not** atau **does not** diikuti kata kerja bentuk dasar (V1).\n\n### Tabel Negatif\n\n| Subjek | Bantu negatif | Contraction | Contoh |\n|---|---|---|---|\n| I | do not | don't | I don't like coffee. |\n| You | do not | don't | You don't work here. |\n| We | do not | don't | We don't eat meat. |\n| They | do not | don't | They don't play tennis. |\n| He | does not | doesn't | He doesn't like tea. |\n| She | does not | doesn't | She doesn't work today. |\n| It | does not | doesn't | It doesn't work. |\n\n### Aturan Penting\n\n1. **do not / don't** untuk I, you, we, they.\n2. **does not / doesn't** untuk he, she, it.\n3. **Setelah don't/doesn't, kata kerja kembali ke V1 (tanpa -s).**\n   - *She doesn't work* (bukan *She doesn't works*)\n   - *He doesn't like* (bukan *He doesn't likes*)\n4. **Contraction** (don't, doesn't) lebih natural dalam bahasa lisan.\n\n### To Be Negatif\n\nUntuk to be (am/is/are), bentuk negatif berbeda:\n- *am* → *am not* (tidak ada contraction standar)\n- *is* → *is not* / **isn't**\n- *are* → *are not* / **aren't**\n\nContoh:\n- *I am not a teacher.* — Saya bukan guru.\n- *She isn't here.* — Dia tidak di sini.\n- *They aren't students.* — Mereka bukan pelajar.\n\n### Pola Lengkap\n\n**Kata kerja biasa:**\n- Positif: *I work.* *She works.*\n- Negatif: *I don't work.* *She doesn't work.*\n\n**To be:**\n- Positif: *I am a student.* *She is happy.*\n- Negatif: *I am not a student.* *She isn't happy.*\n\n### Contoh Kalimat Negatif\n\n- *I don't drink coffee in the morning.* — Saya tidak minum kopi di pagi hari.\n- *She doesn't eat meat.* — Dia tidak makan daging.\n- *We don't watch TV on weekdays.* — Kami tidak nonton TV hari kerja.\n- *He doesn't work on Sundays.* — Dia tidak bekerja hari Minggu.\n- *They don't live in Jakarta.* — Mereka tidak tinggal di Jakarta.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: Do you like coffee?\n- B: No, I don't like coffee. I prefer tea.\n- A: Does your brother like tea?\n- B: No, he doesn't. He likes juice.\n\n**Dialog 2:**\n- A: Where does she work?\n- B: She doesn't work. She's a student.\n- A: Oh, what does she study?\n- B: She studies English.\n\n> **Hindari:** Jangan menambah -s setelah doesn't: *She doesn't works* SALAH. Jangan campur do/does: *He don't* SALAH — harusnya *He doesn't*. Jangan lupa contraction (don't, doesn't) lebih natural dalam bahasa lisan.\n\n### Cara Mengucapkan\n\n- **don't** /doʊnt/\n- **doesn't** /ˈdʌznt/\n- **isn't** /ˈɪznt/\n- **aren't** /ɑːrnt/\n\n### Tips\n\n1. don't untuk I/you/we/they, doesn't untuk he/she/it.\n2. Setelah don't/doesn't, kata kerja kembali ke V1 (tanpa -s).\n3. Untuk to be, pakai isn't/aren't (am not tidak punya contraction standar).",
+      "key_points": [
+        "do not / don't untuk I, you, we, they",
+        "does not / doesn't untuk he, she, it",
+        "Setelah don't/doesn't, kata kerja kembali ke V1 (tanpa -s)",
+        "She doesn't work (bukan She doesn't works)",
+        "To be negatif: am not, isn't, aren't",
+        "Contraction (don't, doesn't, isn't, aren't) lebih natural",
+        "He don't SALAH — harusnya He doesn't",
+        "I don't like coffee = saya tidak suka kopi"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "wake up",
+          "id": "bangun tidur",
+          "phonetic": "/weɪk ʌp/",
+          "example_en": "I wake up at six.",
+          "example_id": "Saya bangun jam enam."
+        },
+        {
+          "en": "study",
+          "id": "belajar",
+          "phonetic": "/ˈstʌdi/",
+          "example_en": "I study English.",
+          "example_id": "Saya belajar bahasa Inggris."
+        },
+        {
+          "en": "play",
+          "id": "bermain",
+          "phonetic": "/pleɪ/",
+          "example_en": "I play with friends.",
+          "example_id": "Saya bermain dengan teman."
+        },
+        {
+          "en": "eat breakfast",
+          "id": "makan sarapan",
+          "phonetic": "/iːt ˈbrekfəst/",
+          "example_en": "I eat breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "go to school",
+          "id": "pergi ke sekolah",
+          "phonetic": "/ɡoʊ tuː skuːl/",
+          "example_en": "I go to school by bike.",
+          "example_id": "Saya ke sekolah naik sepeda."
+        },
+        {
+          "en": "always",
+          "id": "selalu",
+          "phonetic": "/ˈɔːlweɪz/",
+          "example_en": "I always brush my teeth.",
+          "example_id": "Saya selalu gosok gigi."
+        },
+        {
+          "en": "usually",
+          "id": "biasanya",
+          "phonetic": "/ˈjuːʒuəli/",
+          "example_en": "I usually wake up early.",
+          "example_id": "Saya biasanya bangun pagi."
+        },
+        {
+          "en": "sometimes",
+          "id": "kadang-kadang",
+          "phonetic": "/ˈsʌmtaɪmz/",
+          "example_en": "I sometimes read at night.",
+          "example_id": "Saya kadang membaca di malam hari."
+        },
+        {
+          "en": "never",
+          "id": "tidak pernah",
+          "phonetic": "/ˈnevər/",
+          "example_en": "I never eat late.",
+          "example_id": "Saya tidak pernah makan larut."
+        },
+        {
+          "en": "every day",
+          "id": "setiap hari",
+          "phonetic": "/ˈevri deɪ/",
+          "example_en": "I study every day.",
+          "example_id": "Saya belajar setiap hari."
+        },
+        {
+          "en": "work",
+          "id": "bekerja",
+          "phonetic": "/wɜːrk/",
+          "example_en": "I work hard.",
+          "example_id": "Saya bekerja keras."
+        },
+        {
+          "en": "sleep",
+          "id": "tidur",
+          "phonetic": "/sliːp/",
+          "example_en": "I sleep at nine.",
+          "example_id": "Saya tidur jam sembilan."
+        },
+        {
+          "en": "go home",
+          "id": "pulang",
+          "phonetic": "/ɡoʊ hoʊm/",
+          "example_en": "I go home at three.",
+          "example_id": "Saya pulang jam tiga."
+        },
+        {
+          "en": "often",
+          "id": "sering",
+          "phonetic": "/ˈɒfn/",
+          "example_en": "I often read books.",
+          "example_id": "Saya sering membaca buku."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang don't/doesn't + V1 dengan beberapa contoh 2x. (2) **Konversi positif ke negatif:** guru menyebut 'She works', murid membuat 'She doesn't work'. (3) **Isian:** 'I ___ (not) like coffee. She ___ (not) eat meat. They ___ (not) work today.' (4) **Role play:** dua murid saling bertanya 'Do you like...?' dengan jawaban negatif. (5) **Koreksi:** tulis di papan 'She doesn't works. He don't like tea. I amn't a teacher.', minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like coffee?",
+          "id": "Apa kamu suka kopi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I don't like coffee. I prefer tea.",
+          "id": "Tidak, saya tidak suka kopi. Saya lebih suka teh."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your brother like tea?",
+          "id": "Apa saudara laki-lakimu suka teh?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, he doesn't. He likes juice.",
+          "id": "Tidak. Dia suka jus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where does she work?",
+          "id": "Di mana dia bekerja?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She doesn't work. She's a student.",
+          "id": "Dia tidak bekerja. Dia pelajar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you do on Sundays?",
+          "id": "Apa yang kamu lakukan hari Minggu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I don't go to school. I rest at home.",
+          "id": "Saya tidak pergi ke sekolah. Saya istirahat di rumah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do they live in Jakarta?",
+          "id": "Apakah mereka tinggal di Jakarta?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, they don't. They live in Bandung.",
+          "id": "Tidak. Mereka tinggal di Bandung."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap! Hari ini kita belajar bentuk negatif simple present: don't untuk I/you/we/they dan doesn't untuk he/she/it. Yang paling penting: setelah don't/doesn't, kata kerja kembali ke V1 (tanpa -s). Untuk to be, pakai am not/isn't/aren't. Pertanyaan untuk kalian: bagaimana membuat 'Dia tidak bekerja hari ini'? Dan apa bentuk negatif dari 'She is happy'? Untuk PR, tulis 10 kalimat negatif tentang kebiasaanmu. Besok kita akan belajar bentuk tanya: Do/Does. Sampai jumpa!",
+      "instructions": "Rangkum pola negatif. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

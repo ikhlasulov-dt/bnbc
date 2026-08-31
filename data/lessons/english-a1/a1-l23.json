@@ -1,0 +1,221 @@
+{
+  "id": "a1-l23",
+  "course_id": "english-a1",
+  "module_title": "Angka dan Waktu",
+  "level": "A1",
+  "title": "Preposisi Waktu: at, on, in",
+  "subtitle": "at untuk jam, on untuk hari, in untuk bulan/tahun",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan at untuk jam spesifik",
+    "Menggunakan on untuk hari dan tanggal",
+    "Menggunakan in untuk bulan, tahun, musim"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar menulis tanggal. Hari ini kita akan belajar preposisi waktu: at, on, in. Pernahkah kalian bingung kapan memakai at, kapan on, kapan in untuk menyatakan waktu? Itu yang akan kita selesaikan hari ini. Tujuan kita: kalian bisa memilih preposisi waktu yang tepat untuk jam, hari, tanggal, bulan, tahun, dan periode lain. Kita mulai dari teori at/on/in, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'I wake up ___ 6 a.m. I have class ___ Monday. I was born ___ 2012.'. Tulis at, on, in di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Preposisi Waktu: at, on, in\n\nTiga preposisi waktu utama: **at**, **on**, dan **in**. Pemilihannya bergantung pada jenis waktu yang dibicarakan.\n\n### Tabel Ringkas\n\n| Preposisi | Untuk | Contoh |\n|---|---|---|\n| at | jam tepat, waktu spesifik | at 6 o'clock, at noon, at midnight |\n| on | hari, tanggal | on Monday, on March 5th |\n| in | bulan, tahun, musim, periode panjang | in March, in 2024, in summer, in the morning |\n\n### At — Jam Tepat / Waktu Spesifik\n\nPakai **at** untuk:\n- Jam spesifik: *at 6 o'clock*, *at 3 p.m.*\n- Waktu spesifik: *at noon* (tengah hari), *at midnight* (tengah malam)\n- Idiom waktu: *at the moment*, *at the same time*, *at night*\n\nContoh:\n- *I wake up at 6 a.m.* — Saya bangun pukul 6 pagi.\n- *Class starts at 8.* — Kelas mulai pukul 8.\n- *See you at noon.* — Sampai jumpa pukul 12 siang.\n\n### On — Hari / Tanggal\n\nPakai **on** untuk:\n- Hari: *on Monday*, *on Friday*, *on Sunday*\n- Tanggal: *on March 5th*, *on October 10th*\n- Hari + tanggal: *on Monday, October 7th*\n- Hari tertentu: *on my birthday*, *on New Year's Day*\n\nContoh:\n- *I have English class on Monday.* — Saya ada kelas Inggris hari Senin.\n- *She was born on March 5th.* — Dia lahir tanggal 5 Maret.\n- *See you on Friday.* — Sampai jumpa hari Jumat.\n\n### In — Bulan / Tahun / Musim / Periode Panjang\n\nPakai **in** untuk:\n- Bulan: *in January*, *in March*, *in December*\n- Tahun: *in 2024*, *in 2012*\n- Musim: *in summer*, *in winter*, *in the rainy season*\n- Periode hari: *in the morning*, *in the afternoon*, *in the evening*\n- Abad/era: *in the 21st century*\n- Durasi: *in two hours*, *in five minutes*\n\nContoh:\n- *My birthday is in March.* — Ulang tahun saya bulan Maret.\n- *I was born in 2012.* — Saya lahir tahun 2012.\n- *I study in the morning.* — Saya belajar di pagi hari.\n- *I'll finish in ten minutes.* — Saya akan selesai dalam 10 menit.\n\n### Pengecualian Penting: at night\n\nWalaupun *in the morning/afternoon/evening*, tetapi **at night** (tanpa 'the'):\n- *I sleep at night.* — Saya tidur di malam hari.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: When do you wake up?\n- B: I wake up at 6 a.m.\n- A: And when do you have English class?\n- B: On Monday and Wednesday.\n\n**Dialog 2:**\n- A: When were you born?\n- B: I was born in 2012.\n- A: What month?\n- B: In March, on March 5th.\n\n> **Hindari:** Jangan menulis 'in Monday' (harusnya *on Monday*). Jangan 'on March' (harusnya *in March*). Jangan 'on 6 o'clock' (harusnya *at 6 o'clock*). Jangan lupa: *at night* (bukan *in the night* untuk malam biasa).\n\n### Cara Mengucapkan\n\n- **at** /æt/\n- **on** /ɒn/\n- **in** /ɪn/\n\n### Tips\n\n1. **at** = jam spesifik (at 6), waktu spesifik (at noon, at night).\n2. **on** = hari (on Monday), tanggal (on March 5th).\n3. **in** = bulan (in March), tahun (in 2024), periode hari (in the morning).\n4. Pengecualian: *at night* (bukan *in the night*).",
+      "key_points": [
+        "at = jam spesifik (at 6, at noon, at midnight, at night)",
+        "on = hari (on Monday), tanggal (on March 5th)",
+        "in = bulan (in March), tahun (in 2024), musim (in summer)",
+        "in = periode hari (in the morning/afternoon/evening)",
+        "Pengecualian: at night (bukan in the night)",
+        "in juga untuk durasi (in 10 minutes)",
+        "Jangan: in Monday, on March, on 6 o'clock",
+        "I wake up at 6. Class is on Monday. Born in 2012."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "time",
+          "id": "waktu",
+          "phonetic": "/taɪm/",
+          "example_en": "What time is it?",
+          "example_id": "Pukul berapa sekarang?"
+        },
+        {
+          "en": "day",
+          "id": "hari",
+          "phonetic": "/deɪ/",
+          "example_en": "What day is today?",
+          "example_id": "Hari apa hari ini?"
+        },
+        {
+          "en": "week",
+          "id": "minggu",
+          "phonetic": "/wiːk/",
+          "example_en": "See you next week.",
+          "example_id": "Sampai jumpa minggu depan."
+        },
+        {
+          "en": "month",
+          "id": "bulan",
+          "phonetic": "/mʌnθ/",
+          "example_en": "January is the first month.",
+          "example_id": "Januari adalah bulan pertama."
+        },
+        {
+          "en": "year",
+          "id": "tahun",
+          "phonetic": "/jɪr/",
+          "example_en": "I'm twelve years old.",
+          "example_id": "Saya berumur dua belas tahun."
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "Today is Monday.",
+          "example_id": "Hari ini Senin."
+        },
+        {
+          "en": "tomorrow",
+          "id": "besok",
+          "phonetic": "/təˈmɒroʊ/",
+          "example_en": "See you tomorrow!",
+          "example_id": "Sampai jumpa besok!"
+        },
+        {
+          "en": "morning",
+          "id": "pagi",
+          "phonetic": "/ˈmɔːrnɪŋ/",
+          "example_en": "I study in the morning.",
+          "example_id": "Saya belajar di pagi hari."
+        },
+        {
+          "en": "afternoon",
+          "id": "sore",
+          "phonetic": "/ˌæftərˈnuːn/",
+          "example_en": "We play in the afternoon.",
+          "example_id": "Kami bermain di sore hari."
+        },
+        {
+          "en": "evening",
+          "id": "malam (awal)",
+          "phonetic": "/ˈiːvnɪŋ/",
+          "example_en": "I read in the evening.",
+          "example_id": "Saya membaca di malam hari."
+        },
+        {
+          "en": "at",
+          "id": "pada/pukul",
+          "phonetic": "/æt/",
+          "example_en": "I wake up at 6.",
+          "example_id": "Saya bangun pukul 6."
+        },
+        {
+          "en": "on",
+          "id": "pada (hari/tanggal)",
+          "phonetic": "/ɒn/",
+          "example_en": "I have class on Monday.",
+          "example_id": "Saya ada kelas hari Senin."
+        },
+        {
+          "en": "in",
+          "id": "di/dalam (bulan/tahun)",
+          "phonetic": "/ɪn/",
+          "example_en": "I was born in March.",
+          "example_id": "Saya lahir bulan Maret."
+        },
+        {
+          "en": "noon",
+          "id": "tengah hari",
+          "phonetic": "/nuːn/",
+          "example_en": "I eat lunch at noon.",
+          "example_id": "Saya makan siang pukul 12 siang."
+        },
+        {
+          "en": "midnight",
+          "id": "tengah malam",
+          "phonetic": "/ˈmɪdnaɪt/",
+          "example_en": "Sleep before midnight.",
+          "example_id": "Tidur sebelum tengah malam."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill cepat:** guru menyebut waktu (jam 6, Senin, Maret, 2024, pagi, malam), murid memilih at/on/in. (2) **Isian:** 'I wake up ___ 6. Class is ___ Monday. Born ___ March ___ 2012. I study ___ the morning.' (3) **Pasangan:** A menanyakan jadwal, B menjawab dengan at/on/in. (4) **Role play:** dua murid saling mewawancarai tentang rutinitas ('When do you wake up? At 6. When do you study? On Monday.'). (5) **Koreksi:** tulis di papan 'in Monday', 'on 6 o'clock', 'in night' dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When do you wake up?",
+          "id": "Kapan kamu bangun?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I wake up at 6 a.m.",
+          "id": "Saya bangun pukul 6 pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When do you have English class?",
+          "id": "Kapan kamu ada kelas Inggris?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have English class on Monday.",
+          "id": "Saya ada kelas Inggris hari Senin."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When were you born?",
+          "id": "Kapan kamu lahir?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I was born in March 2012.",
+          "id": "Saya lahir bulan Maret 2012."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And the date?",
+          "id": "Dan tanggalnya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "On March 5th.",
+          "id": "Tanggal 5 Maret."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When do you study?",
+          "id": "Kapan kamu belajar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I study in the morning and at night.",
+          "id": "Saya belajar pagi dan malam hari."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kita belajar preposisi waktu: at untuk jam spesifik, on untuk hari/tanggal, dan in untuk bulan/tahun/periode. Yang paling penting diingat: at night adalah pengecualian (bukan in the night). Pertanyaan untuk kalian: preposisi apa untuk 'jam 6', 'Senin', dan 'Maret'? Untuk PR, tulis 10 kalimat tentang rutinitasmu menggunakan at, on, dan in. Besok kita akan belajar menanyakan waktu. Sampai jumpa!",
+      "instructions": "Rangkum at/on/in. Tanyakan 2-3 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

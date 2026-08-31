@@ -1,0 +1,207 @@
+{
+  "id": "a1-l10",
+  "course_id": "english-a1",
+  "module_title": "Data Diri",
+  "level": "A1",
+  "title": "Sapaan Formal: Mr., Mrs., Ms., Miss",
+  "subtitle": "Menyapa orang dewasa dengan sopan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan Mr. untuk pria dewasa",
+    "Membedakan Mrs., Ms., dan Miss untuk wanita",
+    "Memahami bahwa sapaan formal diikuti nama keluarga"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Modul ini kita sudah belajar pertanyaan data diri, pola jawaban, to be, dan kata ganti. Hari ini kita akan belajar sapaan formal yang dipakai ke orang dewasa: Mr., Mrs., Ms., dan Miss. Pernahkah kalian bingung kapan memanggil guru laki-laki 'Mr.' dan kapan 'Mrs.' atau 'Ms.' untuk perempuan? Itu yang akan kita selesaikan hari ini. Tujuan kita: kalian bisa memilih sapaan formal yang tepat berdasarkan gender dan status pernikahan. Kita mulai dari teori empat sapaan, kosakata, latihan dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dengan 'Good morning, class' dan tulis Mr., Mrs., Ms., Miss di papan dengan arti masing-masing. Tanyakan: 'How do you call your male teacher? Female teacher?'. Perkenalkan tujuan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Sapaan Formal: Mr., Mrs., Ms., Miss\n\nDalam bahasa Inggris, sapaan formal dipakai di depan nama belakang atau nama lengkap orang dewasa. Pemilihan sapaan bergantung pada gender dan status pernikahan.\n\n### Empat Sapaan Formal\n\n| Sapaan | Singkatan dari | Untuk siapa | Contoh |\n|---|---|---|---|\n| Mr. | Mister | Laki-laki dewasa (apapun statusnya) | Mr. Smith |\n| Mrs. | Missus | Perempuan menikah | Mrs. Brown |\n| Ms. | Miss (alternatif) | Perempuan, status tidak disebut | Ms. Lee |\n| Miss | — | Perempuan belum menikah (muda) | Miss Davis |\n\n### Kapan Memakai Apa\n\n- **Mr.** (Mister) — untuk laki-laki dewasa, baik sudah menikah maupun belum. Aman dipakai untuk semua laki-laki dewasa.\n- **Mrs.** (Missus) — khusus perempuan yang sudah menikah. Pakai dengan nama belakang suami atau nama belakangnya sendiri.\n- **Ms.** (Mizz) — untuk perempuan tanpa menyebut status pernikahan. Ini pilihan paling aman jika kamu tidak tahu statusnya.\n- **Miss** — untuk perempuan muda yang belum menikah, terutama anak-anak perempuan atau remaja.\n\n### Aturan Penggunaan\n\n1. Sapaan formal selalu diikuti nama belakang atau nama lengkap.\n   - *Mr. Smith*, *Mrs. Brown*, *Ms. Lee*, *Miss Davis*\n2. JANGAN pakai hanya nama depan setelah sapaan formal.\n   - Salah: *Mr. John*, *Mrs. Sarah*\n   - Benar: *Mr. John Smith* atau *Mr. Smith*\n3. Untuk guru, panggil *Mr. + nama belakang* atau *Ms./Mrs. + nama belakang*.\n\n### Cara Mengucapkan\n\n- **Mr.** /ˈmɪstər/ — dibaca 'mister'.\n- **Mrs.** /ˈmɪsɪz/ — dibaca 'missus'.\n- **Ms.** /mɪz/ — dibaca 'mizz' (dengan Z, bukan S).\n- **Miss** /mɪs/ — dibaca 'miss'.\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (ke guru laki-laki):**\n- A: Good morning, Mr. Smith!\n- B: Good morning, Andi. How are you?\n- A: I'm fine, thank you.\n\n**Dialog 2 (ke guru perempuan, status tidak diketahui):**\n- A: Hello, Ms. Lee. May I ask a question?\n- B: Of course, Sarah. What is it?\n- A: Thank you, Ms. Lee.\n\n**Dialog 3 (ke perempuan muda belum menikah):**\n- A: Hi, Miss Davis! Is this your book?\n- B: Yes, it is. Thank you.\n\n> **Hindari:** Jangan panggil 'Mr. John' (nama depan) — pakai 'Mr. Smith' (nama belakang) atau 'Mr. John Smith' (lengkap). Jangan pakai 'Mrs.' ke perempuan yang belum diketahui statusnya — gunakan 'Ms.' agar aman. Jangan menulis 'Mr' tanpa titik (selalu 'Mr.').\n\n### Tips\n\n1. Jika ragu tentang status pernikahan perempuan, pakai **Ms.** — selalu aman.\n2. Sapaan formal selalu diikuti nama belakang, bukan nama depan saja.\n3. Untuk guru, selalu pakai Mr./Ms./Mrs. + nama belakang sampai diizinkan pakai nama depan.\n\n### Konteks Indonesia\n\nDi Indonesia, kita sering pakai 'Pak' dan 'Bu'. Padanannya dalam Inggris: Pak = Mr., Bu = Mrs. atau Ms. (pilih Ms. jika ragu).",
+      "key_points": [
+        "Mr. (Mister) = laki-laki dewasa, apapun statusnya",
+        "Mrs. (Missus) = perempuan menikah",
+        "Ms. (Mizz) = perempuan, status tidak disebut — paling aman",
+        "Miss = perempuan muda belum menikah",
+        "Sapaan formal selalu diikuti nama belakang, bukan nama depan",
+        "Mr. Smith benar, Mr. John salah (kecuali Mr. John Smith)",
+        "Jika ragu status perempuan, pakai Ms.",
+        "Mr. dibaca 'mister', Mrs. 'missus', Ms. 'mizz', Miss 'miss'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "name",
+          "id": "nama",
+          "phonetic": "/neɪm/",
+          "example_en": "What is your name?",
+          "example_id": "Siapa namamu?"
+        },
+        {
+          "en": "teacher",
+          "id": "guru",
+          "phonetic": "/ˈtiːtʃər/",
+          "example_en": "She is my teacher.",
+          "example_id": "Dia guru saya."
+        },
+        {
+          "en": "student",
+          "id": "pelajar",
+          "phonetic": "/ˈstuːdnt/",
+          "example_en": "I am a student.",
+          "example_id": "Saya seorang pelajar."
+        },
+        {
+          "en": "occupation",
+          "id": "pekerjaan",
+          "phonetic": "/ˌɒkjuˈpeɪʃn/",
+          "example_en": "My occupation is student.",
+          "example_id": "Pekerjaan saya pelajar."
+        },
+        {
+          "en": "Mr.",
+          "id": "Tuan (laki-laki dewasa)",
+          "phonetic": "/ˈmɪstər/",
+          "example_en": "Good morning, Mr. Smith.",
+          "example_id": "Selamat pagi, Pak Smith."
+        },
+        {
+          "en": "Mrs.",
+          "id": "Nyonya (perempuan menikah)",
+          "phonetic": "/ˈmɪsɪz/",
+          "example_en": "Hello, Mrs. Brown.",
+          "example_id": "Halo, Bu Brown."
+        },
+        {
+          "en": "Ms.",
+          "id": "Nyonya/Nona (status tidak disebut)",
+          "phonetic": "/mɪz/",
+          "example_en": "Hi, Ms. Lee.",
+          "example_id": "Hai, Bu Lee."
+        },
+        {
+          "en": "Miss",
+          "id": "Nona (belum menikah)",
+          "phonetic": "/mɪs/",
+          "example_en": "Good morning, Miss Davis.",
+          "example_id": "Selamat pagi, Miss Davis."
+        },
+        {
+          "en": "Hello",
+          "id": "Halo",
+          "phonetic": "/həˈloʊ/",
+          "example_en": "Hello, how are you?",
+          "example_id": "Halo, apa kabar?"
+        },
+        {
+          "en": "Hi",
+          "id": "Hai",
+          "phonetic": "/haɪ/",
+          "example_en": "Hi, I'm Sarah.",
+          "example_id": "Hai, saya Sarah."
+        },
+        {
+          "en": "How are you?",
+          "id": "Apa kabar?",
+          "phonetic": "/haʊ ɑːr juː/",
+          "example_en": "Hello! How are you?",
+          "example_id": "Halo! Apa kabar?"
+        },
+        {
+          "en": "Thank you",
+          "id": "Terima kasih",
+          "phonetic": "/ˈθæŋk juː/",
+          "example_en": "Thank you very much!",
+          "example_id": "Terima kasih banyak!"
+        },
+        {
+          "en": "Goodbye",
+          "id": "Selamat tinggal",
+          "phonetic": "/ɡʊdˈbaɪ/",
+          "example_en": "Goodbye, see you tomorrow!",
+          "example_id": "Selamat tinggal, sampai jumpa besok!"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang Mr., Mrs., Ms., Miss 3x dengan pelafalan yang tepat. (2) **Pilihan tepat:** guru menyebut situasi (laki-laki dewasa, perempuan menikah, perempuan status tidak diketahui, perempuan muda belum menikah), murid memilih sapaan. (3) **Isian:** 'Good morning, ___ Smith! (laki-laki). Hello, ___ Lee! (perempuan, tidak tahu status).' (4) **Role play:** satu murid jadi siswa baru, satu jadi guru (Mr./Ms. + nama belakang); gunakan sapaan formal dalam dialog 6 baris. (5) **Koreksi:** tulis di papan 'Mr. John' dan 'Mrs. Sarah' (nama depan), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning, class! I'm Mr. Smith.",
+          "id": "Selamat pagi, kelas! Saya Pak Smith."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good morning, Mr. Smith!",
+          "id": "Selamat pagi, Pak Smith!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And this is Ms. Lee, your English teacher.",
+          "id": "Dan ini Bu Lee, guru bahasa Inggris kalian."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hello, Ms. Lee! Nice to meet you.",
+          "id": "Halo, Bu Lee! Senang bertemu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, I'm Miss Davis. I'm a student teacher.",
+          "id": "Hai, saya Miss Davis. Saya guru magang."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hi, Miss Davis! Welcome to our class.",
+          "id": "Hai, Miss Davis! Selamat datang di kelas kami."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is Mrs. Brown here today?",
+          "id": "Apakah Bu Brown ada hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, Mrs. Brown is in the office.",
+          "id": "Ya, Bu Brown di kantor."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you, Andi. Goodbye, class!",
+          "id": "Terima kasih, Andi. Selamat tinggal, kelas!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Goodbye, Mr. Smith! See you tomorrow.",
+          "id": "Selamat tinggal, Pak Smith! Sampai jumpa besok."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kita belajar empat sapaan formal: Mr. untuk laki-laki dewasa, Mrs. untuk perempuan menikah, Ms. untuk perempuan tanpa menyebut status (paling aman), dan Miss untuk perempuan muda belum menikah. Yang paling penting: sapaan formal selalu diikuti nama belakang, bukan nama depan. Jika ragu status perempuan, pakai Ms. Pertanyaan untuk kalian: apa sapaan untuk laki-laki dewasa? Dan apa sapaan aman untuk perempuan yang statusnya tidak diketahui? Untuk PR, amati 5 orang dewasa di sekitarmu dan tulis sapaan formal yang tepat untuk masing-masing. Besok kita akan belajar mengeja nama dan alamat dalam bahasa Inggris. Sampai jumpa!",
+      "instructions": "Rangkum 4 sapaan formal. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'Goodbye, class!'"
+    }
+  ]
+}

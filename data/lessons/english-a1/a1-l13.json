@@ -1,0 +1,214 @@
+{
+  "id": "a1-l13",
+  "course_id": "english-a1",
+  "module_title": "Keluarga",
+  "level": "A1",
+  "title": "Kosakata Keluarga Extended",
+  "subtitle": "grandfather, grandmother, uncle, aunt, cousin",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebut 6 anggota keluarga extended dalam bahasa Inggris",
+    "Memahami bahwa cousin tidak membedakan gender",
+    "Mengenal nephew dan niece untuk keponakan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar kosakata keluarga inti: father, mother, brother, sister. Siapa yang masih ingat kata Inggris untuk 'kakek'? Hari ini kita akan belajar kosakata keluarga extended (luas): grandfather, grandmother, uncle, aunt, cousin, dan beberapa lainnya. Pernahkah kalian bingung menyebut 'paman' dalam Inggris — apakah itu uncle atau ada kata lain? Hari ini kita akan selesaikan. Tujuan kita: kalian bisa menyebut anggota keluarga extended dengan benar. Kita mulai dari teori kosakata, latihan, dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tampilkan pohon keluarga extended di papan (kakek, nenek, paman, bibi, sepupu). Tanyakan: 'Who is your grandfather's brother?'. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Keluarga Extended\n\nKeluarga extended (extended family) mencakup kakek, nenek, paman, bibi, sepupu, dan kerabat lain di luar keluarga inti.\n\n### Tabel Kosakata Keluarga Extended\n\n| Inggris | Indonesia | Keterangan |\n|---|---|---|\n| grandfather | kakek | ayah dari father/mother |\n| grandmother | nenek | ibu dari father/mother |\n| grandparents | kakek-nenek | grandfather + grandmother |\n| uncle | paman/om | saudara laki-laki dari father/mother |\n| aunt | bibi/tante | saudara perempuan dari father/mother |\n| cousin | sepupu | anak dari uncle/aunt |\n| nephew | keponakan laki-laki | anak laki-laki dari sibling |\n| niece | keponakan perempuan | anak perempuan dari sibling |\n| grandchildren | cucu-cucu | jamak dari grandchild |\n| grandson | cucu laki-laki | — |\n| granddaughter | cucu perempuan | — |\n| wife | istri | — |\n| husband | suami | — |\n\n### Yang Perlu Diperhatikan\n\n1. **Uncle/aunt tidak dibedakan dari pihak ayah atau ibu.** Paman dari pihak ayah atau ibu sama-sama *uncle*. Bibi dari pihak ayah atau ibu sama-sama *aunt*.\n2. **Cousin tidak dibedakan gender atau usia.** Sepupu laki-laki/perempuan, lebih tua/muda — semua *cousin*.\n3. **Nephew = keponakan laki-laki, niece = keponakan perempuan.** Hafalkan bedanya.\n4. **Grandparents selalu jamak.** Untuk satu orang, pakai *grandfather* atau *grandmother*.\n5. **Wife/husband** = pasangan resmi (sudah menikah).\n\n### Contoh Kalimat\n\n- *My grandfather is 70 years old.* — Kakek saya berumur 70 tahun.\n- *My grandmother lives in Bandung.* — Nenek saya tinggal di Bandung.\n- *My uncle is a doctor.* — Paman saya seorang dokter.\n- *I have three cousins.* — Saya punya tiga sepupu.\n- *Her nephew is five years old.* — Keponakan laki-lakinya berumur lima tahun.\n- *My wife is a teacher.* — Istri saya seorang guru.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: Who is this old man?\n- B: He is my grandfather. He is 75.\n- A: And this woman?\n- B: She is my grandmother.\n\n**Dialog 2:**\n- A: Do you have any cousins?\n- B: Yes, I have three cousins: two boys and one girl.\n- A: Who is your aunt?\n- B: My aunt is my father's sister. Her name is Dewi.\n\n> **Hindari:** Jangan membedakan 'paman dari pihak ayah' dan 'paman dari pihak ibu' dalam Inggris — keduanya *uncle*. Jangan tertukar *nephew* (laki-laki) dan *niece* (perempuan). Jangan bilang 'cousin brother' atau 'cousin sister' — cukup *cousin*.\n\n### Cara Mengucapkan\n\n- **grandfather** /ˈɡrænfɑːðər/\n- **grandmother** /ˈɡrænmʌðər/\n- **uncle** /ˈʌŋkl/\n- **aunt** /ænt/ atau /ɑːnt/\n- **cousin** /ˈkʌzn/\n- **nephew** /ˈnefjuː/\n- **niece** /niːs/\n\n### Tips\n\n1. Hafalkan pasangan: uncle-aunt, nephew-niece, grandson-granddaughter.\n2. Cousin tidak dibedakan gender — pakai saja *cousin*.\n3. Uncle/aunt bisa dari pihak ayah atau ibu — sama saja di Inggris.",
+      "key_points": [
+        "grandfather = kakek, grandmother = nenek, grandparents = kakek-nenek (jamak)",
+        "uncle = paman/om (dari pihak ayah atau ibu, sama)",
+        "aunt = bibi/tante (dari pihak ayah atau ibu, sama)",
+        "cousin = sepupu (tidak dibedakan gender atau usia)",
+        "nephew = keponakan laki-laki, niece = keponakan perempuan",
+        "grandson = cucu laki-laki, granddaughter = cucu perempuan",
+        "wife = istri, husband = suami",
+        "Jangan bilang 'cousin brother/sister' — cukup 'cousin'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "family",
+          "id": "keluarga",
+          "phonetic": "/ˈfæməli/",
+          "example_en": "This is my family.",
+          "example_id": "Ini keluarga saya."
+        },
+        {
+          "en": "grandfather",
+          "id": "kakek",
+          "phonetic": "/ˈɡrænfɑːðər/",
+          "example_en": "My grandfather is 70.",
+          "example_id": "Kakek saya berumur 70 tahun."
+        },
+        {
+          "en": "grandmother",
+          "id": "nenek",
+          "phonetic": "/ˈɡrænmʌðər/",
+          "example_en": "My grandmother cooks well.",
+          "example_id": "Nenek saya masak enak."
+        },
+        {
+          "en": "uncle",
+          "id": "paman",
+          "phonetic": "/ˈʌŋkl/",
+          "example_en": "My uncle lives in Jakarta.",
+          "example_id": "Paman saya tinggal di Jakarta."
+        },
+        {
+          "en": "aunt",
+          "id": "bibi",
+          "phonetic": "/ænt/",
+          "example_en": "My aunt is funny.",
+          "example_id": "Bibi saya lucu."
+        },
+        {
+          "en": "cousin",
+          "id": "sepupu",
+          "phonetic": "/ˈkʌzn/",
+          "example_en": "My cousin is my age.",
+          "example_id": "Sepupu saya sebaya dengan saya."
+        },
+        {
+          "en": "father",
+          "id": "ayah",
+          "phonetic": "/ˈfɑːðər/",
+          "example_en": "My father is a doctor.",
+          "example_id": "Ayah saya seorang dokter."
+        },
+        {
+          "en": "mother",
+          "id": "ibu",
+          "phonetic": "/ˈmʌðər/",
+          "example_en": "My mother is a teacher.",
+          "example_id": "Ibu saya seorang guru."
+        },
+        {
+          "en": "brother",
+          "id": "saudara laki-laki",
+          "phonetic": "/ˈbrʌðər/",
+          "example_en": "I have one brother.",
+          "example_id": "Saya punya satu saudara laki-laki."
+        },
+        {
+          "en": "sister",
+          "id": "saudara perempuan",
+          "phonetic": "/ˈsɪstər/",
+          "example_en": "My sister is younger.",
+          "example_id": "Kakak perempuan saya lebih muda."
+        },
+        {
+          "en": "married",
+          "id": "menikah",
+          "phonetic": "/ˈmærid/",
+          "example_en": "They are married.",
+          "example_id": "Mereka sudah menikah."
+        },
+        {
+          "en": "child",
+          "id": "anak",
+          "phonetic": "/tʃaɪld/",
+          "example_en": "They have two children.",
+          "example_id": "Mereka punya dua anak."
+        },
+        {
+          "en": "nephew",
+          "id": "keponakan laki-laki",
+          "phonetic": "/ˈnefjuː/",
+          "example_en": "My nephew is five years old.",
+          "example_id": "Keponakan laki-laki saya berumur lima tahun."
+        },
+        {
+          "en": "niece",
+          "id": "keponakan perempuan",
+          "phonetic": "/niːs/",
+          "example_en": "My niece is cute.",
+          "example_id": "Keponakan perempuan saya lucu."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang kata extended family 2x setelah guru. (2) **Pohon keluarga:** tampilkan gambar pohon keluarga besar, murid menyebut setiap anggota dalam Inggris. (3) **Isian:** 'My ___ is 70 years old. (kakek) My ___ is my father's sister. (bibi)'. (4) **Role play:** dua murid saling bertanya tentang keluarga besarnya. (5) **Koreksi:** tulis di papan 'My cousin brother is a doctor.' dan minta murid memperbaiki menjadi 'My cousin is a doctor.'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is this old man?",
+          "id": "Siapa lelaki tua ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He is my grandfather. He is 75.",
+          "id": "Dia kakek saya. Dia berumur 75."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And who is this woman?",
+          "id": "Dan siapa perempuan ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is my grandmother. She is 70.",
+          "id": "Dia nenek saya. Dia berumur 70."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have any uncles or aunts?",
+          "id": "Apa kamu punya paman atau bibi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I have one uncle and two aunts.",
+          "id": "Ya, saya punya satu paman dan dua bibi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How about cousins?",
+          "id": "Bagaimana dengan sepupu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have three cousins: two boys and one girl.",
+          "id": "Saya punya tiga sepupu: dua laki-laki dan satu perempuan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's a big family!",
+          "id": "Itu keluarga besar!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love my big family!",
+          "id": "Ya, saya menyayangi keluarga besar saya!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kita belajar kosakata keluarga extended: grandfather, grandmother, uncle, aunt, cousin, nephew, niece, dan beberapa lainnya. Yang paling penting diingat: uncle/aunt tidak dibedakan dari pihak ayah atau ibu, cousin tidak dibedakan gender, dan jangan bilang 'cousin brother/sister' — cukup 'cousin'. Pertanyaan untuk kalian: apa beda nephew dan niece? Dan siapa yang dimaksud dengan cousin? Untuk PR, gambar pohon keluarga besarmu sampai ke kakek-nenek dan sepupu, beri label dalam Inggris. Besok kita akan belajar posesif: dua pola utama untuk menyatakan milik. Sampai jumpa!",
+      "instructions": "Rangkum kosakata extended family. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

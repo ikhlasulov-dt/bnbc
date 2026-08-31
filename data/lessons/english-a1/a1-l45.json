@@ -1,0 +1,285 @@
+{
+  "id": "a1-l45",
+  "course_id": "english-a1",
+  "module_title": "Sekolah",
+  "level": "A1",
+  "title": "Kalimat Imperatif",
+  "subtitle": "Perintah dan larangan di kelas",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat perintah positif dan sopan",
+    "Membentuk larangan dengan Don't + kata kerja",
+    "Menggunakan please untuk situasi formal"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Semoga kalian siap belajar. Mari kita ingat pelajaran kemarin tentang mata pelajaran. Coba, siapa yang bisa kasih contoh kalimat 'My favorite subject is ___'? Bagus. Hari ini kita akan belajar jenis kalimat yang sering kita dengar di kelas: kalimat imperatif — yaitu kalimat perintah dan larangan. Coba perhatikan, hampir setiap hari guru kalian mengatakan: 'Buka buku!', 'Dengarkan saya!', 'Jangan terlambat!' Itu semua kalimat imperatif. Bagaimana dalam bahasa Inggris? Hari ini kita akan belajar pola kalimat perintah positif dan negatif, dan kapan kita pakai 'please' supaya lebih sopan. Rencana: kita pelajari pola imperatif, latih dengan instruksi kelas, dan berlatih memberi perintah sopan. Ayo mulai!",
+      "instructions": "Berikan beberapa perintah singkat dalam bahasa Indonesia: 'Berdiri!', 'Duduk!', 'Buka buku!'. Lalu katakan: 'Hari ini kita belajar kalimat ini dalam bahasa Inggris.'"
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Apa itu Kalimat Imperatif?\n\nKalimat imperatif adalah kalimat **perintah, permintaan, atau larangan**. Ciri khasnya: **tidak ada subjek** (kata ganti seperti I, you, we) di awal kalimat — subjeknya dipahami sebagai 'you'.\n\n## Pola Positif (Perintah)\n\n**Verb + object/complement**\n\n- **Open** your book.\n- **Listen** to me.\n- **Stand** up.\n- **Sit** down.\n- **Read** page 12.\n- **Write** your name.\n- **Look** at the blackboard.\n\n## Pola Negatif (Larangan)\n\n**Don't + verb + ...**\n\n- **Don't** be late.\n- **Don't** talk in class.\n- **Don't** run in the hallway.\n- **Don't** open the window.\n- **Don't** eat in the library.\n\n## Menambahkan 'please' untuk Sopan\n\nTambahkan *please* di awal atau akhir kalimat untuk membuatnya lebih sopan:\n\n- **Please** open your book.\n- Open your book, **please**.\n- **Please** don't be late.\n\n## Instruksi Umum di Kelas\n\n| Inggris | Indonesia |\n|---|---|\n| Stand up. | Berdiri. |\n| Sit down. | Duduk. |\n| Be quiet. | Diam. |\n| Raise your hand. | Angkat tanganmu. |\n| Listen carefully. | Dengarkan baik-baik. |\n| Work in pairs. | Kerja berpasangan. |\n| Repeat after me. | Ulangi setelah saya. |\n| Do your homework. | Kerjakan PR-mu. |\n\n## Mini-Dialog\n\n**Teacher:** Please open your book to page 10.\n\n**Students:** OK, teacher.\n\n**Teacher:** Read the first paragraph.\n\n**Student:** Can you repeat, please?\n\n**Teacher:** Sure. Read the first paragraph. Don't skip any line.\n\n> **Hindari:** menambahkan subjek 'you' di awal — *'You open your book'* terdengar seperti tuduhan, bukan perintah. Pakai langsung *Open your book*.",
+      "key_points": [
+        "Imperatif = kalimat perintah/permintaan/larangan",
+        "Tidak ada subjek di awal: 'Open your book' (bukan 'You open')",
+        "Pola positif: Verb + ... → Open your book.",
+        "Pola negatif: Don't + verb → Don't run.",
+        "please di awal/akhir membuat lebih sopan",
+        "Stand up = berdiri, Sit down = duduk",
+        "Be quiet = diam, Raise your hand = angkat tangan",
+        "Don't be late = Jangan terlambat"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "book",
+          "id": "buku",
+          "phonetic": "/bʊk/",
+          "example_en": "Open your book, please.",
+          "example_id": "Buka bukumu, tolong."
+        },
+        {
+          "en": "pencil",
+          "id": "pensil",
+          "phonetic": "/ˈpensl/",
+          "example_en": "I write with a pencil.",
+          "example_id": "Saya menulis dengan pensil."
+        },
+        {
+          "en": "pen",
+          "id": "pulpen",
+          "phonetic": "/pen/",
+          "example_en": "This pen is blue.",
+          "example_id": "Pulpen ini biru."
+        },
+        {
+          "en": "eraser",
+          "id": "penghapus",
+          "phonetic": "/ɪˈreɪsər/",
+          "example_en": "I need an eraser.",
+          "example_id": "Saya butuh penghapus."
+        },
+        {
+          "en": "ruler",
+          "id": "penggaris",
+          "phonetic": "/ˈruːlər/",
+          "example_en": "The ruler is on the desk.",
+          "example_id": "Penggarisnya di atas meja."
+        },
+        {
+          "en": "bag",
+          "id": "tas",
+          "phonetic": "/bæɡ/",
+          "example_en": "My bag is under the chair.",
+          "example_id": "Tas saya di bawah kursi."
+        },
+        {
+          "en": "blackboard",
+          "id": "papan tulis",
+          "phonetic": "/ˈblækbɔːrd/",
+          "example_en": "The teacher writes on the blackboard.",
+          "example_id": "Guru menulis di papan tulis."
+        },
+        {
+          "en": "classroom",
+          "id": "ruang kelas",
+          "phonetic": "/ˈklæsruːm/",
+          "example_en": "Our classroom is big.",
+          "example_id": "Ruang kelas kami besar."
+        },
+        {
+          "en": "desk",
+          "id": "meja belajar",
+          "phonetic": "/desk/",
+          "example_en": "My desk is near the window.",
+          "example_id": "Meja saya dekat jendela."
+        },
+        {
+          "en": "chair",
+          "id": "kursi",
+          "phonetic": "/tʃer/",
+          "example_en": "Please sit on the chair.",
+          "example_id": "Tolong duduk di kursi."
+        },
+        {
+          "en": "open",
+          "id": "buka",
+          "phonetic": "/ˈoʊpən/",
+          "example_en": "Open your book, please.",
+          "example_id": "Buka bukumu, tolong."
+        },
+        {
+          "en": "close",
+          "id": "tutup",
+          "phonetic": "/kloʊz/",
+          "example_en": "Close the door, please.",
+          "example_id": "Tutup pintunya, tolong."
+        },
+        {
+          "en": "stand up",
+          "id": "berdiri",
+          "phonetic": "/stænd ʌp/",
+          "example_en": "Stand up, everyone.",
+          "example_id": "Berdiri, semua."
+        },
+        {
+          "en": "sit down",
+          "id": "duduk",
+          "phonetic": "/sɪt daʊn/",
+          "example_en": "Sit down, please.",
+          "example_id": "Duduk, tolong."
+        },
+        {
+          "en": "listen",
+          "id": "dengarkan",
+          "phonetic": "/ˈlɪsn/",
+          "example_en": "Listen to the teacher.",
+          "example_id": "Dengarkan guru."
+        },
+        {
+          "en": "repeat",
+          "id": "ulangi",
+          "phonetic": "/rɪˈpiːt/",
+          "example_en": "Please repeat after me.",
+          "example_id": "Tolong ulangi setelah saya."
+        },
+        {
+          "en": "raise",
+          "id": "angkat",
+          "phonetic": "/reɪz/",
+          "example_en": "Raise your hand.",
+          "example_id": "Angkat tanganmu."
+        },
+        {
+          "en": "quiet",
+          "id": "diam",
+          "phonetic": "/ˈkwaɪət/",
+          "example_en": "Be quiet, please.",
+          "example_id": "Diam, tolong."
+        },
+        {
+          "en": "don't",
+          "id": "jangan",
+          "phonetic": "/doʊnt/",
+          "example_en": "Don't be late.",
+          "example_id": "Jangan terlambat."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill TPR (perintah fisik)**: Guru memberi perintah 'Stand up / Sit down / Open your book / Close your book / Raise your hand' — siswa melakukan aksi secepat mungkin.\n2. **Pair work 'Teacher and student'**: Satu siswa jadi guru, satu jadi siswa. Beri 5 perintah, lalu tukar peran.\n3. **Fill-in-the-blank**: Lengkapi — (a) ___ your book. (b) ___ run in the class. (c) Please ___ to me. (d) ___ your hand if you want to speak.\n4. **Role play 'Class captain'**: Satu siswa jadi ketua kelas, memberi 6 instruksi kepada kelas tentang tugas harian (buku, papan tulis, sampah, dll).\n5. **Error correction**: Perbaiki — 'You open the door', 'No run!', 'Please you listen', 'Don't to be late'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning, class. Please stand up.",
+          "id": "Selamat pagi, kelas. Tolong berdiri."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good morning, teacher!",
+          "id": "Selamat pagi, Bu!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Please sit down. Open your book to page 15.",
+          "id": "Tolong duduk. Buka buku halaman 15."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "OK, teacher. Page 15.",
+          "id": "Baik, Bu. Halaman 15."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Listen carefully. Don't talk to your friend.",
+          "id": "Dengarkan baik-baik. Jangan ngobrol dengan teman."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sorry, teacher. We will listen.",
+          "id": "Maaf, Bu. Kami akan mendengarkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Read the first sentence, Andi.",
+          "id": "Baca kalimat pertama, Andi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "'My favorite subject is Math.'",
+          "id": "'Mata pelajaran favorit saya Matematika.'"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Very good. Please repeat after me: 'subject'.",
+          "id": "Sangat bagus. Tolong ulangi setelah saya: 'subject'."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Subject!",
+          "id": "Subject!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now, please write this word in your notebook.",
+          "id": "Sekarang, tolong tulis kata ini di buku tulismu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We are writing, teacher.",
+          "id": "Kami sedang menulis, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Don't forget to raise your hand if you have a question.",
+          "id": "Jangan lupa angkat tangan kalau ada pertanyaan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, teacher. Excuse me, can I go to the toilet?",
+          "id": "Ya, Bu. Permisi, boleh saya ke toilet?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Yes, you may. Don't be long, please.",
+          "id": "Boleh. Jangan lama, tolong."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you, teacher. I'll be quick.",
+          "id": "Terima kasih, Bu. Saya akan cepat."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar kalimat imperatif — kalimat perintah dan larangan. Kita tahu sekarang bahwa kalimat perintah tidak punya subjek di awal: *Open your book*, bukan *You open your book*. Kita juga belajar pola negatif dengan *Don't*: *Don't be late*, *Don't run in the class*. Ingat, pakai *please* untuk membuat perintah lebih sopan. Sebelum tutup, dua pertanyaan: bagaimana mengatakan 'Jangan berisik!' dalam bahasa Inggris? Bagaimana meminta seseorang duduk dengan sopan? Untuk pekerjaan rumah, buatlah daftar 10 instruksi yang sering kamu dengar di kelas dalam bahasa Inggris — 5 positif dan 5 negatif (dengan Don't). Ini pelajaran terakhir modul Sekolah. Minggu depan kita mulai modul baru: Hobi dan Olahraga. Sampai jumpa!",
+      "instructions": "Rangkum pola imperatif positif dan negatif di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR daftar 10 instruksi dan umumkan modul baru minggu depan."
+    }
+  ]
+}

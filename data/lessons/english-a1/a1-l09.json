@@ -1,0 +1,207 @@
+{
+  "id": "a1-l09",
+  "course_id": "english-a1",
+  "module_title": "Data Diri",
+  "level": "A1",
+  "title": "Kata Ganti Subjek dan Kata Ganti Milik",
+  "subtitle": "my, your, his, her, our, their",
+  "duration_minutes": 60,
+  "objectives": [
+    "Memasangkan kata ganti subjek dengan kata ganti milik",
+    "Menggunakan my, your, his, her, our, their dengan benar",
+    "Membedakan kata ganti milik sebelum benda vs posesif independen"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita dalami to be: am, is, are. Hari ini kita akan belajar kata ganti subjek (subject pronouns) dan kata ganti milik (possessive adjectives). Pernahkah kalian bingung kapan memakai 'I' dan kapan 'my'? Atau 'he' dan 'his'? Itu yang akan kita selesaikan hari ini. Tujuan kita: kalian bisa membedakan kata ganti subjek (I, you, he, she, we, they) dari kata ganti milik (my, your, his, her, our, their). Kita mulai dari teori tabel, kosakata, latihan dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tunjukkan jari ke diri sendiri: 'I am your teacher. My name is Sarah.' (tekankan I dan My). Tulis dua kolom di papan: Subject Pronouns (I, you, he, she, we, they) dan Possessive Adjectives (my, your, his, her, our, their)."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kata Ganti Subjek dan Kata Ganti Milik\n\nBahasa Inggris membedakan dua konsep yang sering tertukar: **kata ganti subjek** (yang melakukan aksi) dan **kata ganti milik** (yang menunjukkan kepemilikan).\n\n### Tabel Lengkap\n\n| Subjek | Possessive | Contoh Subjek | Contoh Milik |\n|---|---|---|---|\n| I | my | I am a student. | My name is Andi. |\n| You | your | You are kind. | Your book is new. |\n| He | his | He is tall. | His bag is blue. |\n| She | her | She is smart. | Her sister is here. |\n| We | our | We are happy. | Our class is big. |\n| They | their | They are friends. | Their teacher is kind. |\n| It | its | It is a cat. | Its tail is long. |\n\n### Perbedaan Kunci\n\n- **Subject pronoun** = pengganti subjek yang melakukan aksi atau menjadi topik.\n  - *I am a student.* → 'I' adalah subjek.\n- **Possessive adjective** = kata sifat yang menunjukkan milik, selalu diikuti benda.\n  - *My book is new.* → 'My' menunjukkan pemilik, 'book' adalah bendanya.\n\n> **Hindari:** Jangan menulis 'I name is Andi' (harusnya 'My name is Andi'). Jangan 'He book is blue' (harusnya 'His book'). Jangan tertukar *his* (milik laki-laki) dan *her* (milik perempuan).\n\n### Cara Mengingat\n\n1. Subject pronoun berdiri sendiri sebagai subjek: **I, You, He, She, We, They, It**.\n2. Possessive adjective SELALU diikuti benda: **my book, your name, his bag, her sister, our class, their teacher**.\n3. Kalimat possessive sering diikuti kata benda + is/are.\n\n### Perhatikan Perbedaan He vs His, She vs Her\n\n- *He* = dia (laki-laki) sebagai subjek → *He is my friend.*\n- *His* = miliknya (laki-laki) → *His name is Andi.*\n- *She* = dia (perempuan) sebagai subjek → *She is my teacher.*\n- *Her* = miliknya (perempuan) → *Her name is Sarah.*\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What's your name?\n- B: My name is Andi. And you?\n- A: I'm Sarah. This is my friend, Rina.\n- B: Hi Rina! Her name is familiar.\n\n**Dialog 2:**\n- A: Is he your brother?\n- B: Yes, his name is Budi.\n- A: And who is she?\n- B: She is my sister. Her name is Dewi.\n\n### Cara Mengucapkan\n\n- **I** /aɪ/, **my** /maɪ/\n- **You** /juː/, **your** /jɔːr/\n- **He** /hiː/, **his** /hɪz/\n- **She** /ʃiː/, **her** /hɜːr/\n- **We** /wiː/, **our** /aʊər/\n- **They** /ðeɪ/, **their** /ðer/\n\n### Tips\n\n1. Hafalkan tabel pasangan: I-my, You-your, He-his, She-her, We-our, They-their.\n2. Possessive adjective selalu diikuti benda (my book, your name).\n3. Perhatikan perbedaan he/his dan she/her — ini sering tertukar.",
+      "key_points": [
+        "I → my (I am a student / My name is Andi)",
+        "You → your (You are kind / Your book is new)",
+        "He → his (He is tall / His name is Andi)",
+        "She → her (She is smart / Her sister is here)",
+        "We → our (We are happy / Our class is big)",
+        "They → their (They are friends / Their teacher is kind)",
+        "It → its (It is a cat / Its tail is long)",
+        "Possessive adjective selalu diikuti benda (my book, your name)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "name",
+          "id": "nama",
+          "phonetic": "/neɪm/",
+          "example_en": "What is your name?",
+          "example_id": "Siapa namamu?"
+        },
+        {
+          "en": "age",
+          "id": "umur",
+          "phonetic": "/eɪdʒ/",
+          "example_en": "What is your age?",
+          "example_id": "Berapa umurmu?"
+        },
+        {
+          "en": "address",
+          "id": "alamat",
+          "phonetic": "/əˈdres/",
+          "example_en": "My address is Jl. Merbau 17.",
+          "example_id": "Alamat saya Jl. Merbau 17."
+        },
+        {
+          "en": "phone number",
+          "id": "nomor telepon",
+          "phonetic": "/foʊn ˈnʌmbər/",
+          "example_en": "What's your phone number?",
+          "example_id": "Berapa nomor teleponmu?"
+        },
+        {
+          "en": "birthday",
+          "id": "tanggal lahir",
+          "phonetic": "/ˈbɜːrθdeɪ/",
+          "example_en": "My birthday is in August.",
+          "example_id": "Ulang tahun saya di bulan Agustus."
+        },
+        {
+          "en": "nationality",
+          "id": "kewarganegaraan",
+          "phonetic": "/ˌnæʃəˈnæləti/",
+          "example_en": "I am Indonesian.",
+          "example_id": "Saya orang Indonesia."
+        },
+        {
+          "en": "occupation",
+          "id": "pekerjaan",
+          "phonetic": "/ˌɒkjuˈpeɪʃn/",
+          "example_en": "My occupation is student.",
+          "example_id": "Pekerjaan saya pelajar."
+        },
+        {
+          "en": "student",
+          "id": "pelajar",
+          "phonetic": "/ˈstuːdnt/",
+          "example_en": "I am a student.",
+          "example_id": "Saya seorang pelajar."
+        },
+        {
+          "en": "teacher",
+          "id": "guru",
+          "phonetic": "/ˈtiːtʃər/",
+          "example_en": "She is my teacher.",
+          "example_id": "Dia guru saya."
+        },
+        {
+          "en": "live",
+          "id": "tinggal",
+          "phonetic": "/lɪv/",
+          "example_en": "I live in Mariana.",
+          "example_id": "Saya tinggal di Mariana."
+        },
+        {
+          "en": "from",
+          "id": "dari",
+          "phonetic": "/frɒm/",
+          "example_en": "I am from Banyuasin.",
+          "example_id": "Saya dari Banyuasin."
+        },
+        {
+          "en": "how old",
+          "id": "berapa umur",
+          "phonetic": "/haʊ oʊld/",
+          "example_en": "How old are you?",
+          "example_id": "Berapa umurmu?"
+        },
+        {
+          "en": "where",
+          "id": "di mana",
+          "phonetic": "/wer/",
+          "example_en": "Where do you live?",
+          "example_id": "Di mana kamu tinggal?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** guru menyebut subjek (I, you, he, she, we, they), murid menjawab dengan possessive yang tepat (my, your, his, her, our, their). (2) **Isian:** '___ name is Andi. (I) ___ sister is here. (she) ___ book is new. (he)' (3) **Pasangan:** A menyebut subjek, B membuat dua kalimat — satu pakai subject pronoun, satu pakai possessive. (4) **Role play:** dua murid saling menanyakan nama dan milik ('What's your name? My name is Andi. Is this your book? Yes, it's my book.'). (5) **Koreksi:** tulis di papan 'I name is Andi. She bag is blue.' dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your name?",
+          "id": "Siapa namamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My name is Andi. And you?",
+          "id": "Nama saya Andi. Dan Anda?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I'm Ms. Sarah. Is he your friend?",
+          "id": "Saya Bu Sarah. Apa dia temanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, his name is Budi.",
+          "id": "Ya, namanya Budi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Who is she?",
+          "id": "Siapa dia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She is my sister. Her name is Dewi.",
+          "id": "Dia adik saya. Namanya Dewi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where are they from?",
+          "id": "Dari mana mereka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They are from Bali. Their teacher is kind.",
+          "id": "Mereka dari Bali. Guru mereka baik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And our class?",
+          "id": "Dan kelas kita?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Our class is big and happy!",
+          "id": "Kelas kita besar dan bahagia!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Luar biasa! Hari ini kita belajar membedakan kata ganti subjek (I, you, he, she, we, they) dari kata ganti milik (my, your, his, her, our, their). Yang paling penting diingat: subject pronoun berdiri sendiri sebagai subjek, sedangkan possessive adjective selalu diikuti benda (my book, your name). Perhatikan juga pasangan he-his dan she-her yang sering tertukar. Pertanyaan untuk kalian: apa possessive untuk I, untuk He, dan untuk They? Untuk PR, tulis 8 kalimat: 4 dengan subject pronoun dan 4 dengan possessive adjective. Besok kita akan belajar sapaan formal: Mr., Mrs., Ms., Miss. Sampai jumpa!",
+      "instructions": "Rangkum pasangan subject-possessive. Tanyakan 2-3 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

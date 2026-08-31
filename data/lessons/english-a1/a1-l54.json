@@ -1,0 +1,270 @@
+{
+  "id": "a1-l54",
+  "course_id": "english-a1",
+  "module_title": "Cuaca",
+  "level": "A1",
+  "title": "Rekomendasi Pakaian Sesuai Cuaca",
+  "subtitle": "You should... / Wear...",
+  "duration_minutes": 60,
+  "objectives": [
+    "Memberikan rekomendasi pakaian dengan You should + kata kerja",
+    "Memberikan rekomendasi dengan Wear + kata benda",
+    "Mengaitkan cuaca dengan pakaian yang tepat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang perbedaan *It is* dan *There is*. Coba, siapa yang bisa kasih contoh 'It is ___'? Bagus, *It is sunny*. Dan 'There is ___'? *There is a cloud*. Hari ini kita akan belajar memberi rekomendasi pakaian sesuai cuaca. Coba, kalau hari ini hujan, apa yang kamu pakai? Jas hujan, kan? Kalau panas? Topi dan baju tipis. Dalam bahasa Inggris, kita akan belajar frasa *You should...* untuk memberi saran dan *Wear...* untuk menyarankan pakaian. Rencana: kita pelajari frasa You should dan Wear, hubungannya dengan cuaca, dan latih memberi rekomendasi pakaian. Ayo mulai!",
+      "instructions": "Tulis di papan dua frasa: 'You should ___' dan 'Wear ___'. Beri contoh dengan cuaca hujan dan panas. Minta siswa menyebut pakaian yang mereka pakai untuk hujan dan untuk panas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Frasa untuk Memberi Rekomendasi\n\nAda dua frasa utama untuk menyarankan pakaian:\n\n| Frasa | Arti | Contoh |\n|---|---|---|\n| You should ___ | Kamu sebaiknya ___ | You should wear a jacket. |\n| Wear ___. | Pakai ___. (langsung) | Wear a hat. |\n\n## Rekomendasi Berdasarkan Cuaca\n\n| Cuaca | Rekomendasi |\n|---|---|\n| rainy | You should bring an umbrella. Wear a raincoat. |\n| sunny and hot | You should wear a hat. Wear a t-shirt. |\n| cold | You should wear a jacket. Wear warm clothes. |\n| windy | You should wear a jacket. Wear long pants. |\n| snowy | You should wear boots and gloves. Wear a thick coat. |\n\n## Pola Lengkap\n\n**You should + verb**\n- You should **wear** a jacket. (Kamu sebaiknya pakai jaket.)\n- You should **bring** an umbrella. (Kamu sebaiknya bawa payung.)\n- You should **stay** at home. (Kamu sebaiknya tetap di rumah.)\n\n**Wear + noun** (perintah langsung)\n- Wear **a hat**. (Pakai topi.)\n- Wear **warm clothes**. (Pakai pakaian hangat.)\n- Wear **boots**. (Pakai sepatu boot.)\n\n## Negatif: You shouldn't\n\n- You **shouldn't** play outside in the rain.\n- You **shouldn't** wear a t-shirt in winter.\n- You **shouldn't** forget your umbrella.\n\n## Menggabungkan Cuaca + Saran\n\n- It is raining. **You should bring an umbrella.**\n- It is very hot. **Wear a hat and a t-shirt.**\n- It is cold outside. **You should wear a jacket.**\n- It is snowing. **You shouldn't go outside.**\n\n## Mini-Dialog\n\n**A:** It is raining outside.\n\n**B:** You should bring an umbrella.\n\n**A:** And what should I wear?\n\n**B:** Wear a raincoat and boots. Don't forget your hat.\n\n**A:** Is it cold too?\n\n**B:** Yes, you should wear warm clothes under the raincoat.\n\n> **Hindari:** mengatakan 'Wear you a jacket' (salah). Yang benar *Wear a jacket* atau *You should wear a jacket*. Hindari juga 'You should to wear' — *should* langsung diikuti kata kerja tanpa *to*.",
+      "key_points": [
+        "You should + verb = Kamu sebaiknya ___",
+        "Wear + noun = Pakai ___ (perintah langsung)",
+        "You should wear a jacket = Kamu sebaiknya pakai jaket",
+        "Negatif: You shouldn't + verb = Kamu sebaiknya tidak ___",
+        "should + verb (tanpa 'to'): You should wear (bukan 'to wear')",
+        "rainy → You should bring an umbrella. Wear a raincoat.",
+        "cold → You should wear a jacket. Wear warm clothes.",
+        "hot → Wear a hat and a t-shirt. You should drink water."
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "weather",
+          "id": "cuaca",
+          "phonetic": "/ˈweðər/",
+          "example_en": "How is the weather today?",
+          "example_id": "Bagaimana cuaca hari ini?"
+        },
+        {
+          "en": "sunny",
+          "id": "cerah",
+          "phonetic": "/ˈsʌni/",
+          "example_en": "It is sunny today.",
+          "example_id": "Hari ini cerah."
+        },
+        {
+          "en": "rainy",
+          "id": "hujan",
+          "phonetic": "/ˈreɪni/",
+          "example_en": "It is rainy in Bogor.",
+          "example_id": "Di Bogor sedang hujan."
+        },
+        {
+          "en": "cloudy",
+          "id": "berawan",
+          "phonetic": "/ˈklaʊdi/",
+          "example_en": "It is cloudy this morning.",
+          "example_id": "Pagi ini berawan."
+        },
+        {
+          "en": "windy",
+          "id": "berangin",
+          "phonetic": "/ˈwɪndi/",
+          "example_en": "It is windy at the beach.",
+          "example_id": "Di pantai berangin."
+        },
+        {
+          "en": "hot",
+          "id": "panas",
+          "phonetic": "/hɒt/",
+          "example_en": "It is hot at noon.",
+          "example_id": "Siang hari panas."
+        },
+        {
+          "en": "cold",
+          "id": "dingin",
+          "phonetic": "/koʊld/",
+          "example_en": "It is cold in winter.",
+          "example_id": "Pada musim dingin cuaca dingin."
+        },
+        {
+          "en": "warm",
+          "id": "hangat",
+          "phonetic": "/wɔːrm/",
+          "example_en": "It is warm inside the house.",
+          "example_id": "Di dalam rumah terasa hangat."
+        },
+        {
+          "en": "umbrella",
+          "id": "payung",
+          "phonetic": "/ʌmˈbrelə/",
+          "example_en": "Bring an umbrella today.",
+          "example_id": "Bawa payung hari ini."
+        },
+        {
+          "en": "raincoat",
+          "id": "jas hujan",
+          "phonetic": "/ˈreɪnkoʊt/",
+          "example_en": "Wear a raincoat in the rain.",
+          "example_id": "Pakai jas hujan di hujan."
+        },
+        {
+          "en": "jacket",
+          "id": "jaket",
+          "phonetic": "/ˈdʒækɪt/",
+          "example_en": "You should wear a jacket.",
+          "example_id": "Kamu sebaiknya pakai jaket."
+        },
+        {
+          "en": "hat",
+          "id": "topi",
+          "phonetic": "/hæt/",
+          "example_en": "Wear a hat in the sun.",
+          "example_id": "Pakai topi di matahari."
+        },
+        {
+          "en": "boots",
+          "id": "sepatu boot",
+          "phonetic": "/buːts/",
+          "example_en": "Wear boots in the snow.",
+          "example_id": "Pakai sepatu boot di salju."
+        },
+        {
+          "en": "should",
+          "id": "sebaiknya",
+          "phonetic": "/ʃʊd/",
+          "example_en": "You should rest.",
+          "example_id": "Kamu sebaiknya istirahat."
+        },
+        {
+          "en": "clothes",
+          "id": "pakaian",
+          "phonetic": "/kloʊðz/",
+          "example_en": "Wear warm clothes.",
+          "example_id": "Pakai pakaian hangat."
+        },
+        {
+          "en": "bring",
+          "id": "bawa",
+          "phonetic": "/brɪŋ/",
+          "example_en": "Bring your umbrella.",
+          "example_id": "Bawa payungmu."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill cuaca-saran**: Guru menyebut cuaca (rainy/sunny/cold/windy/snowy), siswa meneriakkan satu rekomendasi pakaian dengan cepat.\n2. **Pair work 'Fashion advisor'**: Siswa A mengatakan cuaca, siswa B memberi 2 rekomendasi pakaian dengan 'You should...' dan 'Wear...'.\n3. **Fill-in-the-blank**: Lengkapi — (a) You ___ wear a jacket. (b) ___ a hat today. (c) It is raining. You shouldn't ___ outside. (d) ___ warm clothes in winter.\n4. **Role play 'Mom's advice'**: Siswa A jadi anak yang mau keluar, B jadi ibu yang memberi saran pakaian berdasarkan cuaca — 4 rekomendasi.\n5. **Error correction**: Perbaiki — 'Wear you a jacket', 'You should to wear boots', 'You shouldn't to play outside', 'Wear hat'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning, Sinta. It is raining today.",
+          "id": "Selamat pagi, Sinta. Hari ini hujan."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, teacher. I see the rain outside.",
+          "id": "Ya, Bu. Saya lihat hujan di luar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You should bring an umbrella.",
+          "id": "Kamu sebaiknya bawa payung."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have one in my bag. Thank you, teacher.",
+          "id": "Saya punya di tas. Terima kasih, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And what should you wear today?",
+          "id": "Dan kamu sebaiknya pakai apa hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I should wear a raincoat and boots. The street is wet.",
+          "id": "Saya sebaiknya pakai jas hujan dan sepatu boot. Jalanan basah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it cold today?",
+          "id": "Dingin hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, a little. I should wear warm clothes under the raincoat.",
+          "id": "Ya, sedikit. Saya sebaiknya pakai baju hangat di bawah jas hujan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. What about tomorrow? It will be sunny and hot.",
+          "id": "Bagus. Kalau besok? Akan cerah dan panas."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Tomorrow I should wear a t-shirt and a hat.",
+          "id": "Besok saya sebaiknya pakai kaos dan topi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Should I wear sunscreen too?",
+          "id": "Saya sebaiknya pakai tabir surya juga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, you should. The sun is strong in the afternoon.",
+          "id": "Ya, sebaiknya. Matahari kuat di sore hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about my son? He wants to play outside.",
+          "id": "Kalau anak saya? Dia mau main di luar."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He should wear a hat and drink water. He shouldn't play too long.",
+          "id": "Dia sebaiknya pakai topi dan minum air. Tidak boleh main terlalu lama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about in winter? What should we wear?",
+          "id": "Kalau musim dingin? Kami sebaiknya pakai apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In winter, you should wear a thick jacket, gloves, and boots. Wear warm clothes.",
+          "id": "Di musim dingin, sebaiknya pakai jaket tebal, sarung tangan, dan sepatu boot. Pakai baju hangat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you for the advice, Sinta!",
+          "id": "Terima kasih atas sarannya, Sinta!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar frasa untuk memberi rekomendasi pakaian sesuai cuaca: *You should ___* dan *Wear ___*. Kita juga belajar bentuk negatif *You shouldn't ___*. Ingat, *should* langsung diikuti kata kerja tanpa *to*. Sebelum tutup, dua pertanyaan: apa yang harus kamu pakai kalau hujan? Bagaimana menyarankan teman memakai topi saat panas? Untuk pekerjaan rumah, tulislah 8 rekomendasi pakaian untuk 4 situasi cuaca berbeda — masing-masing 2 rekomendasi (1 dengan You should, 1 dengan Wear). Besok kita akan belajar cara menanyakan cuaca dengan lebih lengkap. Sampai jumpa!",
+      "instructions": "Rangkum frasa You should dan Wear di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 8 rekomendasi pakaian dan sampaikan topik besok."
+    }
+  ]
+}

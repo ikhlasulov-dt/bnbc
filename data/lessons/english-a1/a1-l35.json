@@ -1,0 +1,221 @@
+{
+  "id": "a1-l35",
+  "course_id": "english-a1",
+  "module_title": "Makanan dan Minuman",
+  "level": "A1",
+  "title": "Kosakata Minuman Utama",
+  "subtitle": "water, milk, tea, coffee, juice",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebut 5 kosakata minuman utama",
+    "Mengucapkan kata minuman dengan benar",
+    "Membuat kalimat sederhana tentang minuman"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar kosakata makanan. Hari ini kita akan belajar kosakata minuman utama. Pernahkah kalian di kafe dan bingung menyebut 'teh manis' atau 'kopi hitam' dalam Inggris? Itu yang akan kita selesaikan. Tujuan kita: kalian bisa menyebut minimal 10 minuman dalam bahasa Inggris dengan percaya diri. Kita mulai dari teori kosakata minuman, latihan, dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'What do you drink every morning?'. Tampilkan gambar 8 minuman di papan (water, milk, tea, coffee, juice, soda, hot chocolate, soup). Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Minuman Utama\n\nMinuman (drinks/beverages) punya kosakata sendiri dalam bahasa Inggris.\n\n### Minuman Pokok\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| water | air | I drink water every day. |\n| milk | susu | I drink milk every morning. |\n| tea | teh | She drinks tea. |\n| coffee | kopi | He drinks coffee. |\n\n### Jus dan Minuman Lain\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| juice | jus | Orange juice is fresh. |\n| orange juice | jus jeruk | I love orange juice. |\n| mango juice | jus mangga | Mango juice is sweet. |\n| soda | minuman bersoda | I don't drink soda. |\n| hot chocolate | cokelat panas | Hot chocolate is warm. |\n\n### Frasa Pendukung\n\n- *drink water/coffee/tea* — minum air/kopi/teh\n- *a glass of water/juice* — segelas air/jus\n- *a cup of tea/coffee* — secangkir teh/kopi\n- *a bottle of water* — sebotol air\n- *hot/cold drink* — minuman panas/dingin\n- *fresh juice* — jus segar\n- *black coffee* — kopi hitam (tanpa susu)\n- *white coffee* — kopi susu\n- *sweet tea* — teh manis\n- *plain water* — air putih\n\n### Contoh Kalimat\n\n- *I drink water every day.* — Saya minum air setiap hari.\n- *She drinks tea in the morning.* — Dia minum teh di pagi hari.\n- *I'd like a glass of orange juice, please.* — Saya ingin segelas jus jeruk, tolong.\n- *Black coffee, please.* — Kopi hitam, tolong.\n- *I don't drink soda.* — Saya tidak minum soda.\n- *Milk is good for you.* — Susu baik untukmu.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: What do you drink in the morning?\n- B: I drink milk or tea.\n- A: Do you like coffee?\n- B: No, I don't. I prefer tea.\n\n**Dialog 2 (di kafe):**\n- A: Can I have a cup of tea, please?\n- B: Sure, hot or cold?\n- A: Hot, please. And a glass of water.\n- B: Coming right up!\n\n> **Hindari:** Jangan menulis 'I drink bread' (bread makanan, harusnya *eat bread*). Jangan tertukar *a glass of* (untuk minuman dingin/jus) dan *a cup of* (untuk teh/kopi panas). Jangan bilang 'water' saja untuk 'air putih' di konteks formal — pakai *plain water* atau *mineral water*.\n\n### Cara Mengucapkan\n\n- **water** /ˈwɔːtər/ — tekanan di WA.\n- **milk** /mɪlk/\n- **tea** /tiː/\n- **coffee** /ˈkɒfi/\n- **juice** /dʒuːs/\n- **soda** /ˈsoʊdə/\n\n### Tips\n\n1. Hafalkan 10 minuman utama.\n2. *a glass of* untuk minuman dingin/jus, *a cup of* untuk teh/kopi.\n3. *drink* untuk minuman, *eat* untuk makanan.",
+      "key_points": [
+        "Minuman pokok: water (air), milk (susu), tea (teh), coffee (kopi)",
+        "Jus: juice, orange juice, mango juice",
+        "Lainnya: soda, hot chocolate",
+        "drink = minum, eat = makan (jangan tertukar)",
+        "a glass of water/juice = segelas air/jus",
+        "a cup of tea/coffee = secangkir teh/kopi",
+        "a bottle of water = sebotol air",
+        "black coffee = kopi hitam, white coffee = kopi susu"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "water",
+          "id": "air",
+          "phonetic": "/ˈwɔːtər/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        },
+        {
+          "en": "milk",
+          "id": "susu",
+          "phonetic": "/mɪlk/",
+          "example_en": "I drink milk in the morning.",
+          "example_id": "Saya minum susu di pagi hari."
+        },
+        {
+          "en": "tea",
+          "id": "teh",
+          "phonetic": "/tiː/",
+          "example_en": "Would you like some tea?",
+          "example_id": "Mau teh?"
+        },
+        {
+          "en": "coffee",
+          "id": "kopi",
+          "phonetic": "/ˈkɒfi/",
+          "example_en": "My father drinks coffee.",
+          "example_id": "Ayah saya minum kopi."
+        },
+        {
+          "en": "juice",
+          "id": "jus",
+          "phonetic": "/dʒuːs/",
+          "example_en": "I like orange juice.",
+          "example_id": "Saya suka jus jeruk."
+        },
+        {
+          "en": "fruit",
+          "id": "buah",
+          "phonetic": "/fruːt/",
+          "example_en": "Fruit is healthy.",
+          "example_id": "Buah itu sehat."
+        },
+        {
+          "en": "vegetable",
+          "id": "sayur",
+          "phonetic": "/ˈvedʒtəbl/",
+          "example_en": "I eat vegetables every day.",
+          "example_id": "Saya makan sayur setiap hari."
+        },
+        {
+          "en": "breakfast",
+          "id": "sarapan",
+          "phonetic": "/ˈbrekfəst/",
+          "example_en": "I have breakfast at seven.",
+          "example_id": "Saya sarapan jam tujuh."
+        },
+        {
+          "en": "lunch",
+          "id": "makan siang",
+          "phonetic": "/lʌntʃ/",
+          "example_en": "We eat lunch at noon.",
+          "example_id": "Kami makan siang di siang hari."
+        },
+        {
+          "en": "dinner",
+          "id": "makan malam",
+          "phonetic": "/ˈdɪnər/",
+          "example_en": "We have dinner at seven.",
+          "example_id": "Kami makan malam jam tujuh."
+        },
+        {
+          "en": "delicious",
+          "id": "enak",
+          "phonetic": "/dɪˈlɪʃəs/",
+          "example_en": "The fried rice is delicious.",
+          "example_id": "Nasi gorengnya enak."
+        },
+        {
+          "en": "rice",
+          "id": "nasi",
+          "phonetic": "/raɪs/",
+          "example_en": "I eat rice every day.",
+          "example_id": "Saya makan nasi setiap hari."
+        },
+        {
+          "en": "bread",
+          "id": "roti",
+          "phonetic": "/bred/",
+          "example_en": "I have bread for breakfast.",
+          "example_id": "Saya makan roti untuk sarapan."
+        },
+        {
+          "en": "egg",
+          "id": "telur",
+          "phonetic": "/eɡ/",
+          "example_en": "I eat two eggs.",
+          "example_id": "Saya makan dua telur."
+        },
+        {
+          "en": "soda",
+          "id": "minuman bersoda",
+          "phonetic": "/ˈsoʊdə/",
+          "example_en": "I don't drink soda.",
+          "example_id": "Saya tidak minum soda."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 10 minuman 2x setelah guru. (2) **Tebak gambar:** guru menunjuk gambar minuman, murid menyebut dalam Inggris. (3) **Isian:** 'I drink ___ (air) every day. I have a ___ of coffee. She drinks ___ (teh) in the morning.' (4) **Role play kafe:** dua murid berlatih memesan minuman di kafe ('Can I have a cup of tea, please?'). (5) **Koreksi:** tulis di papan 'I drink bread. A cup of juice.' (salah), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What do you drink in the morning?",
+          "id": "Apa yang kamu minum di pagi hari?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I drink milk or tea.",
+          "id": "Saya minum susu atau teh."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like coffee?",
+          "id": "Apa kamu suka kopi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I don't. I prefer tea.",
+          "id": "Tidak. Saya lebih suka teh."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Can I have a cup of tea, please?",
+          "id": "Bisa minta secangkir teh?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sure, hot or cold?",
+          "id": "Tentu, panas atau dingin?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hot, please. And a glass of water.",
+          "id": "Panas. Dan segelas air."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Coming right up!",
+          "id": "Segera!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you have orange juice?",
+          "id": "Ada jus jeruk?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, fresh orange juice. One glass?",
+          "id": "Ada, jus jeruk segar. Satu gelas?"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar kosakata minuman: water, milk, tea, coffee, juice, soda, dan hot chocolate. Yang paling penting: drink untuk minuman, eat untuk makanan, dan pakai a glass of untuk minuman dingin/jus, a cup of untuk teh/kopi. Pertanyaan untuk kalian: apa 5 minuman dalam Inggris? Dan beda a glass of dengan a cup of? Untuk PR, tulis 8 kalimat tentang minuman yang kamu suka/tidak suka. Besok kita akan belajar kata sifat untuk mendeskripsikan rasa. Sampai jumpa!",
+      "instructions": "Rangkum kosakata minuman. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

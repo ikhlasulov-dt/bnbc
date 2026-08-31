@@ -1,0 +1,207 @@
+{
+  "id": "a1-l06",
+  "course_id": "english-a1",
+  "module_title": "Data Diri",
+  "level": "A1",
+  "title": "Pertanyaan Inti tentang Data Diri",
+  "subtitle": "What, How, Where untuk menanyakan data diri",
+  "duration_minutes": 60,
+  "objectives": [
+    "Mengucapkan 5 pertanyaan inti tentang data diri",
+    "Mengenal kata tanya what, how, where",
+    "Memahami struktur pertanyaan: kata tanya + to be/kata kerja"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Selamat datang di modul baru: Data Diri. Modul sebelumnya kita belajar sapaan dan perkenalan singkat. Hari ini kita akan belajar pertanyaan inti untuk menanyakan informasi pribadi seseorang: name (nama), age (umur), address (alamat), phone number (nomor telepon), dan beberapa lainnya. Pernahkah kalian harus mengisi formulir dalam bahasa Inggris dan bingung arti kolomnya? Hari ini kita akan menyelesaikan itu. Tujuan kita: kalian bisa memahami pertanyaan data diri yang paling umum dan siap menjawabnya. Kita mulai dengan teori pertanyaan, kosakata, lalu latihan dialog. Siap? Mari mulai!",
+      "instructions": "Sapa murid dan tampilkan formulir kosong di papan (atau gambar). Tanyakan: 'What information is on this form?'. Perkenalkan 6 pertanyaan inti: What's your name? How old are you? Where do you live? What's your phone number? When's your birthday? What's your nationality?"
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pertanyaan Inti tentang Data Diri\n\nDalam situasi formal seperti mengisi formulir, mendaftar sekolah, atau pergi ke klinik, ada beberapa pertanyaan standar tentang data diri yang sering muncul.\n\n### Enam Pertanyaan Inti\n\n| Pertanyaan | Arti | Topik |\n|---|---|---|\n| What's your name? | Siapa namamu? | name |\n| How old are you? | Berapa umurmu? | age |\n| Where do you live? | Di mana kamu tinggal? | address |\n| What's your phone number? | Berapa nomor teleponmu? | phone number |\n| When's your birthday? | Kapan ulang tahunmu? | birthday |\n| What's your nationality? | Kewarganegaraanmu apa? | nationality |\n\n### Pola Pertanyaan dengan To Be\n\nPertanyaan dengan **to be** (am, is, are) membalik urutan subjek dan to be:\n\n- *What* **is** *your name?* (bukan *What your name is?*)\n- *How old* **are** *you?* (bukan *How old you are?*)\n- *What* **is** *your phone number?*\n\n### Pertanyaan dengan Do\n\nPertanyaan dengan kata kerja biasa memakai bantu *do*:\n\n- *Where* **do** *you live?* (kata kerja: live)\n- *What* **do** *you do?* = apa pekerjaanmu?\n\n### Pertanyaan dengan Wh- Words\n\nSebagian besar pertanyaan data diri dimulai dengan *wh-* word:\n- **What** — apa (nama, nomor, pekerjaan)\n- **Where** — di mana (alamat, asal)\n- **When** — kapan (ulang tahun)\n- **How** — bagaimana/berapa (umur)\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (mendaftar sekolah):**\n- A: What's your name?\n- B: Andi Wijaya.\n- A: How old are you?\n- B: I'm twelve years old.\n- A: Where do you live?\n- B: I live in Jakarta.\n\n**Dialog 2 (di klinik):**\n- A: What's your phone number?\n- B: 0812-3456-7890.\n- A: When's your birthday?\n- B: March 5th.\n- A: What's your nationality?\n- B: Indonesian.\n\n> **Hindari:** Jangan menjawab dengan kalimat penuh kalau tidak perlu. Untuk nama, cukup sebut namanya saja (mis. 'Andi Wijaya'), tidak perlu 'My name is Andi Wijaya' dalam form singkat. Jangan tertukar antara *How old are you?* (umur) dengan *How are you?* (kabar).\n\n### Cara Mengucapkan\n\n- **What's your name?** /wɒts jɔːr neɪm/ — intonasi naik.\n- **How old are you?** /haʊ oʊld ɑːr juː/ — intonasi naik.\n- **Where do you live?** /wer duː juː lɪv/ — intonasi naik.\n\n### Tips\n\n1. Hafalkan 6 pertanyaan inti; ini akan sering muncul seumur hidup.\n2. Untuk form singkat, jawab cukup dengan informasi tanpa kalimat penuh.\n3. Bedakan *How are you?* (kabar) dan *How old are you?* (umur).",
+      "key_points": [
+        "6 pertanyaan inti: name, age, address, phone, birthday, nationality",
+        "Pertanyaan dengan to be membalik urutan: What IS your name?",
+        "Pertanyaan dengan kata kerja biasa pakai do: Where DO you live?",
+        "What = apa, Where = di mana, When = kapan, How = bagaimana/berapa",
+        "How old are you? = umur, BUKAN How are you? = kabar",
+        "Untuk form singkat, jawab cukup dengan informasi saja",
+        "What do you do? = apa pekerjaanmu",
+        "Phone number sering diawali What's (contraction dari What is)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "name",
+          "id": "nama",
+          "phonetic": "/neɪm/",
+          "example_en": "What is your name?",
+          "example_id": "Siapa namamu?"
+        },
+        {
+          "en": "age",
+          "id": "umur",
+          "phonetic": "/eɪdʒ/",
+          "example_en": "What is your age?",
+          "example_id": "Berapa umurmu?"
+        },
+        {
+          "en": "address",
+          "id": "alamat",
+          "phonetic": "/əˈdres/",
+          "example_en": "My address is Jl. Merbau 17.",
+          "example_id": "Alamat saya Jl. Merbau 17."
+        },
+        {
+          "en": "phone number",
+          "id": "nomor telepon",
+          "phonetic": "/foʊn ˈnʌmbər/",
+          "example_en": "What's your phone number?",
+          "example_id": "Berapa nomor teleponmu?"
+        },
+        {
+          "en": "birthday",
+          "id": "tanggal lahir",
+          "phonetic": "/ˈbɜːrθdeɪ/",
+          "example_en": "My birthday is in August.",
+          "example_id": "Ulang tahun saya di bulan Agustus."
+        },
+        {
+          "en": "nationality",
+          "id": "kewarganegaraan",
+          "phonetic": "/ˌnæʃəˈnæləti/",
+          "example_en": "I am Indonesian.",
+          "example_id": "Saya orang Indonesia."
+        },
+        {
+          "en": "occupation",
+          "id": "pekerjaan",
+          "phonetic": "/ˌɒkjuˈpeɪʃn/",
+          "example_en": "My occupation is student.",
+          "example_id": "Pekerjaan saya pelajar."
+        },
+        {
+          "en": "student",
+          "id": "pelajar",
+          "phonetic": "/ˈstuːdnt/",
+          "example_en": "I am a student.",
+          "example_id": "Saya seorang pelajar."
+        },
+        {
+          "en": "teacher",
+          "id": "guru",
+          "phonetic": "/ˈtiːtʃər/",
+          "example_en": "She is my teacher.",
+          "example_id": "Dia guru saya."
+        },
+        {
+          "en": "live",
+          "id": "tinggal",
+          "phonetic": "/lɪv/",
+          "example_en": "I live in Mariana.",
+          "example_id": "Saya tinggal di Mariana."
+        },
+        {
+          "en": "from",
+          "id": "dari",
+          "phonetic": "/frɒm/",
+          "example_en": "I am from Banyuasin.",
+          "example_id": "Saya dari Banyuasin."
+        },
+        {
+          "en": "how old",
+          "id": "berapa umur",
+          "phonetic": "/haʊ oʊld/",
+          "example_en": "How old are you?",
+          "example_id": "Berapa umurmu?"
+        },
+        {
+          "en": "where",
+          "id": "di mana",
+          "phonetic": "/wer/",
+          "example_en": "Where do you live?",
+          "example_id": "Di mana kamu tinggal?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 4 latihan berurutan. (1) **Drill:** murid mengulang 6 pertanyaan inti 2x setelah guru dengan intonasi naik. (2) **Pasangan Q-A:** murid A menanyakan 6 pertanyaan, murid B menjawab; giliran. (3) **Isian:** lengkapi 'What's ___ name? ___ old are you? Where ___ you live?' dengan kata yang benar. (4) **Role play:** satu murid jadi resepsionis klinik, satu jadi pasien; tanyakan 5 pertanyaan data diri dalam dialog 10 baris. (5) **Koreksi:** tulis di papan 'How are you? I'm 12 years old.' dan minta murid memperbaiki pertanyaannya menjadi 'How old are you?'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Welcome! What's your name?",
+          "id": "Selamat datang! Siapa namamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My name is Andi Wijaya.",
+          "id": "Nama saya Andi Wijaya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How old are you, Andi?",
+          "id": "Berapa umurmu, Andi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm twelve years old.",
+          "id": "Saya berumur dua belas tahun."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you live?",
+          "id": "Di mana kamu tinggal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I live in Jakarta.",
+          "id": "Saya tinggal di Jakarta."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your phone number?",
+          "id": "Berapa nomor teleponmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "0812-3456-7890.",
+          "id": "0812-3456-7890."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When's your birthday?",
+          "id": "Kapan ulang tahunmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "March 5th. I'm Indonesian.",
+          "id": "5 Maret. Saya warga Indonesia."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar enam pertanyaan inti untuk data diri: name, age, address, phone number, birthday, dan nationality. Kita juga belajar pola pertanyaan dengan to be (What is) dan dengan do (Where do you live). Yang paling penting: jangan tertukar antara How are you dan How old are you. Pertanyaan untuk kalian: apa enam pertanyaan yang sering muncul saat mengisi formulir? Dan apa beda How are you dengan How old are you? Untuk PR, isi formulir data diri (akan dibagikan) dalam bahasa Inggris. Besok kita akan belajar pola jawaban standar untuk pertanyaan-pertanyaan tadi. Sampai jumpa besok!",
+      "instructions": "Rangkum 6 pertanyaan inti. Tanyakan 2 pertanyaan pemahaman. Bagikan formulir kosong untuk PR. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

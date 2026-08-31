@@ -1,0 +1,278 @@
+{
+  "id": "a1-l40",
+  "course_id": "english-a1",
+  "module_title": "Makanan dan Minuman",
+  "level": "A1",
+  "title": "Frasa Pemesanan di Restoran",
+  "subtitle": "Can I have...? I'd like... How much is it?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Memesan makanan dengan frasa sopan (I'd like, Can I have)",
+    "Merespons pertanyaan pelayan (Are you ready to order?)",
+    "Meminta bill dan bertanya harga"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Sudah siap belajar? Mari kita ingat pelajaran kemarin tentang like, love, hate, dan prefer. Coba, siapa yang bisa kasih contoh kalimat dengan 'I love'? Bagus sekali. Hari ini kita akan masuk ke situasi yang sering kita alami: makan di restoran. Pernahkah kalian pergi ke restoran? Apa yang kalian katakan ketika memesan makanan? Dalam bahasa Indonesia mudah: 'Mau pesan nasi goreng.' Tapi dalam bahasa Inggris? Hari ini kita akan belajar frasa-frasa penting: *Can I have...?*, *I'd like...*, dan *How much is it?*. Rencana: kita pelajari frasa pemesanan, frasa bertanya harga, dan frasa pelengkap seperti 'please' dan 'thank you'. Ayo mulai!",
+      "instructions": "Tulis di papan tiga frasa: 'Can I have ___?', 'I'd like ___', 'How much is it?'. Minta siswa membaca bersama-sama dua kali, lalu tanyakan apakah pernah mendengar di film atau tempat lain."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Frasa Pemesanan di Restoran\n\nAda dua frasa utama untuk memesan makanan dengan sopan:\n\n| Frasa | Arti | Tingkat |\n|---|---|---|\n| Can I have ___, please? | Boleh saya ___? | sangat sopan |\n| I'd like ___, please. | Saya ingin ___. | sopan |\n\n**I'd like** adalah kependekan dari **I would like**.\n\n## Contoh Penggunaan\n\n- Can I have **a glass of water**, please?\n- I'd like **fried rice and chicken**, please.\n- Can I have **the menu**, please?\n- I'd like **a cup of tea**, please.\n\n## Bertanya Harga\n\nSetelah memesan, kita biasanya bertanya harga:\n\n- **How much is it?** (untuk satu item) → Berapa harganya?\n- **How much is that?** (untuk pesanan yang sudah disebut)\n- **How much are they?** (untuk beberapa item, jamak)\n\n## Frasa Pelengkap\n\n- *Excuse me* — permisi (memanggil pelayan)\n- *Please* — tolong (untuk sopan)\n- *Thank you* — terima kasih\n- *You're welcome* — sama-sama\n- *Here you are* — ini (ketika memberikan sesuatu)\n- *That's all, thank you* — itu saja, terima kasih\n- *Enjoy your meal* — selamat makan\n- *Anything else?* — ada yang lain?\n- *Would you like...?* — apakah Anda mau ___? (penawaran)\n\n## Pertanyaan Penawaran dari Pelayan\n\nPelayan biasanya memulai dengan pertanyaan ramah:\n\n- **Can I help you?** → Bisa saya bantu?\n- **What would you like?** → Anda mau apa?\n- **Would you like something to drink?** → Mau minum sesuatu?\n- **Anything else?** → Ada yang lain?\n- **Are you ready to order?** → Siap memesan?\n\n## Mini-Dialog Lengkap di Restoran\n\n**Waiter:** Good afternoon. Can I help you?\n\n**Customer:** Yes, I'd like fried rice, please.\n\n**Waiter:** Sure. Anything to drink?\n\n**Customer:** Can I have a glass of iced tea, please?\n\n**Waiter:** Of course. Here you are.\n\n**Customer:** How much is it?\n\n**Waiter:** It's twenty-five thousand rupiah.\n\n**Customer:** Here you are. Thank you.\n\n**Waiter:** You're welcome. Enjoy your meal!\n\n> **Hindari:** memesan dengan kalimat pendek 'I want rice' — terdengar kurang sopan. Pakailah *Can I have* atau *I'd like* + *please*. Jangan lupa bilang *thank you* ketika menerima makanan.",
+      "key_points": [
+        "Can I have ___, please? = Boleh saya ___? (sopan)",
+        "I'd like ___, please = Saya ingin ___ (sopan)",
+        "I'd like = kependekan dari I would like",
+        "How much is it? = Berapa harganya? (tunggal)",
+        "How much are they? = Berapa harganya? (jamak)",
+        "Excuse me = permisi (memanggil pelayan)",
+        "Here you are = ini (saat memberi sesuatu)",
+        "Tutup pesanan dengan: That's all, thank you"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "rice",
+          "id": "nasi",
+          "phonetic": "/raɪs/",
+          "example_en": "I eat rice every day.",
+          "example_id": "Saya makan nasi setiap hari."
+        },
+        {
+          "en": "chicken",
+          "id": "ayam",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "example_en": "The chicken is delicious.",
+          "example_id": "Ayamnya enak."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "I like grilled fish.",
+          "example_id": "Saya suka ikan bakar."
+        },
+        {
+          "en": "water",
+          "id": "air",
+          "phonetic": "/ˈwɔːtər/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        },
+        {
+          "en": "milk",
+          "id": "susu",
+          "phonetic": "/mɪlk/",
+          "example_en": "I drink milk in the morning.",
+          "example_id": "Saya minum susu di pagi hari."
+        },
+        {
+          "en": "tea",
+          "id": "teh",
+          "phonetic": "/tiː/",
+          "example_en": "Would you like some tea?",
+          "example_id": "Mau teh?"
+        },
+        {
+          "en": "coffee",
+          "id": "kopi",
+          "phonetic": "/ˈkɒfi/",
+          "example_en": "My father drinks coffee.",
+          "example_id": "Ayah saya minum kopi."
+        },
+        {
+          "en": "juice",
+          "id": "jus",
+          "phonetic": "/dʒuːs/",
+          "example_en": "I like orange juice.",
+          "example_id": "Saya suka jus jeruk."
+        },
+        {
+          "en": "fruit",
+          "id": "buah",
+          "phonetic": "/fruːt/",
+          "example_en": "Fruit is healthy.",
+          "example_id": "Buah itu sehat."
+        },
+        {
+          "en": "bread",
+          "id": "roti",
+          "phonetic": "/bred/",
+          "example_en": "I have bread for breakfast.",
+          "example_id": "Saya makan roti untuk sarapan."
+        },
+        {
+          "en": "egg",
+          "id": "telur",
+          "phonetic": "/eɡ/",
+          "example_en": "I eat two eggs.",
+          "example_id": "Saya makan dua telur."
+        },
+        {
+          "en": "delicious",
+          "id": "enak",
+          "phonetic": "/dɪˈlɪʃəs/",
+          "example_en": "The fried rice is delicious.",
+          "example_id": "Nasi gorengnya enak."
+        },
+        {
+          "en": "menu",
+          "id": "daftar menu",
+          "phonetic": "/ˈmenjuː/",
+          "example_en": "Can I have the menu, please?",
+          "example_id": "Boleh saya minta daftar menu?"
+        },
+        {
+          "en": "waiter",
+          "id": "pelayan (lk)",
+          "phonetic": "/ˈweɪtər/",
+          "example_en": "The waiter is friendly.",
+          "example_id": "Pelayannya ramah."
+        },
+        {
+          "en": "order",
+          "id": "pesan",
+          "phonetic": "/ˈɔːrdər/",
+          "example_en": "I want to order food.",
+          "example_id": "Saya ingin memesan makanan."
+        },
+        {
+          "en": "bill",
+          "id": "nota",
+          "phonetic": "/bɪl/",
+          "example_en": "Can I have the bill, please?",
+          "example_id": "Boleh saya minta nota?"
+        },
+        {
+          "en": "please",
+          "id": "tolong",
+          "phonetic": "/pliːz/",
+          "example_en": "A glass of water, please.",
+          "example_id": "Segelas air, tolong."
+        },
+        {
+          "en": "ice",
+          "id": "es",
+          "phonetic": "/aɪs/",
+          "example_en": "I'd like iced tea.",
+          "example_id": "Saya ingin teh es."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill frasa**: Guru menyebut makanan, siswa merespons dengan 'Can I have ___, please?' lengkap dengan makanan tersebut.\n2. **Pair work**: Satu siswa jadi waiter, satu jadi customer. Lakukan pemesanan untuk 3 item makanan dan 2 minuman.\n3. **Fill-in-the-blank**: Lengkapi — (a) Can I ___ a glass of water, please? (b) I'd ___ fried rice. (c) How ___ is it? (d) ___ you are.\n4. **Role play restoran**: Dalam kelompok 3, mainkan skenario lengkap — duduk, panggil pelayan, pesan, tanya harga, bayar.\n5. **Error correction**: Perbaiki — 'I want rice', 'How much they are?', 'I'd like a teas', 'Give me menu'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good afternoon! Welcome to our restaurant. Can I help you?",
+          "id": "Selamat sore! Selamat datang di restoran kami. Bisa saya bantu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Good afternoon. Yes, I'd like fried rice and chicken, please.",
+          "id": "Selamat sore. Ya, saya ingin nasi goreng dan ayam."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Sure. Would you like something to drink?",
+          "id": "Tentu. Mau minum sesuatu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Can I have a glass of iced tea, please?",
+          "id": "Boleh saya minta segelas teh es?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Of course. Anything else?",
+          "id": "Tentu. Ada yang lain?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, can I have a piece of fruit? A banana, please.",
+          "id": "Ya, boleh saya minta sepotong buah? Pisang, tolong."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good choice. So, fried rice, chicken, iced tea, and a banana.",
+          "id": "Pilihan bagus. Jadi, nasi goreng, ayam, teh es, dan pisang."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's all, thank you.",
+          "id": "Itu saja, terima kasih."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Here is your food. Enjoy your meal!",
+          "id": "Ini makanannya. Selamat makan!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you. Excuse me, how much is it?",
+          "id": "Terima kasih. Permisi, berapa harganya?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It's thirty thousand rupiah.",
+          "id": "Tiga puluh ribu rupiah."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Here you are. Thirty thousand.",
+          "id": "Ini. Tiga puluh ribu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you. Here is your receipt.",
+          "id": "Terima kasih. Ini struknya."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You're welcome. The food is delicious!",
+          "id": "Sama-sama. Makanannya enak!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I'm glad you like it. Please come again!",
+          "id": "Senang Anda menyukainya. Silakan datang lagi!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will. Goodbye!",
+          "id": "Pasti. Selamat tinggal!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar frasa penting untuk memesan di restoran: Can I have ___, I'd like ___, dan How much is it?. Kita juga belajar frasa pelengkap seperti excuse me, please, here you are, dan that's all, thank you. Ingat, selalu pakai 'please' supaya sopan. Sebelum tutup, dua pertanyaan: apa yang kamu katakan untuk memesan segelas air dengan sopan? Bagaimana cara menanyakan harga? Untuk pekerjaan rumah, buatlah dialog lengkap di restoran minimal 10 baris — ada waiter dan customer, memesan minimal 3 item dan menanyakan harga. Besok kita akan belajar cara menanyakan bahan makanan dan rasa, seperti 'What is in this soup?' dan 'Is it spicy?'. Sampai jumpa!",
+      "instructions": "Rangkum tiga frasa pemesanan di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR dialog 10 baris dan sampaikan topik besok tentang bahan dan rasa."
+    }
+  ]
+}

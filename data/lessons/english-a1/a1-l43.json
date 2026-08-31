@@ -1,0 +1,290 @@
+{
+  "id": "a1-l43",
+  "course_id": "english-a1",
+  "module_title": "Sekolah",
+  "level": "A1",
+  "title": "Preposisi Tempat",
+  "subtitle": "in, on, under, behind, next to, in front of",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan enam preposisi tempat dengan benar",
+    "Membentuk kalimat lokasi dengan pola Subject + to be + preposition + object",
+    "Menanyakan dan menjawab lokasi benda di kelas"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar? Mari kita ingat pelajaran kemarin tentang benda di ruang kelas. Coba, siapa yang masih ingat, 'pensil' bahasa Inggrisnya apa? Bagus, pencil. Dan 'penghapus'? Betul, eraser. Hari ini kita akan lanjut ke topik yang sangat berguna: preposisi tempat — kata-kata yang menunjukkan di mana sesuatu berada. Coba lihat meja kalian sekarang. Di mana buku kalian? Di atas meja? Di dalam tas? Di bawah kursi? Dalam bahasa Inggris, kita pakai kata like *on, in, under, behind, next to, in front of*. Rencana hari ini: kita pelajari enam preposisi ini dengan contoh konkret, latih dengan benda di kelas, dan pakai dalam kalimat tanya. Ayo mulai!",
+      "instructions": "Letakkan satu buku di berbagai posisi (di atas meja, di dalam tas, di bawah kursi) dan tanyakan kepada siswa posisinya. Tulis enam preposisi di papan dengan ilustrasi sederhana."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Enam Preposisi Tempat\n\nPreposisi tempat menunjukkan lokasi sesuatu. Hafalkan enam preposisi berikut:\n\n| Preposisi | Arti | Contoh |\n|---|---|---|\n| on | di atas (menempel) | The book is on the desk. |\n| in | di dalam | The pen is in the bag. |\n| under | di bawah | The bag is under the chair. |\n| behind | di belakang | The broom is behind the door. |\n| next to | di sebelah | The library is next to the class. |\n| in front of | di depan | The teacher is in front of the class. |\n\n## Pola Kalimat\n\n**Positif:**\n- The book is **on** the desk.\n- My bag is **under** the chair.\n- She is **in front of** me.\n\n**Pertanyaan:**\n- **Where is** the book? → Di mana bukunya?\n- **Where are** the pencils? → Di mana pensil-pensilnya?\n\n**Jawaban:**\n- It is on the desk.\n- They are in the bag.\n\n## Perbedaan 'on' dan 'above'\n\n- **on** = menempel di atas: *The book is on the desk.* (buku menyentuh meja)\n- **above** = di atas (tidak menempel): *The picture is above the desk.* (gambar di dinding, di atas meja)\n\n## Preposisi Tambahan\n\n| Preposisi | Arti | Contoh |\n|---|---|---|\n| between | di antara | The book is between two bags. |\n| near | dekat | The shop is near the school. |\n| far from | jauh dari | The airport is far from here. |\n| inside | di dalam | The cat is inside the box. |\n| outside | di luar | The children play outside. |\n\n## Pertanyaan dengan Where\n\n- **Where is** the book? → Di mana bukunya? (tunggal)\n- **Where are** the pencils? → Di mana pensil-pensilnya? (jamak)\n- **Where do you live?** → Di mana kamu tinggal?\n- **Where is the library?** → Di mana perpustakaan?\n\n## Negatif\n\n- The book is **not on** the desk.\n- It isn't **in** the bag.\n- They aren't **under** the chair.\n\n## Contoh Paragraf Pendek\n\nMy classroom is big. The teacher's desk is in front of the class. My desk is next to the window. My bag is under my chair. My pencil case is on my desk, between my books. The blackboard is behind the teacher. The library is next to our classroom, and the canteen is in front of the library.\n\n## Mini-Dialog\n\n**A:** Where is your eraser?\n\n**B:** It's in my pencil case.\n\n**A:** Where is the pencil case?\n\n**B:** It's next to my book, on the desk.\n\n**A:** And your bag?\n\n**B:** It's under my chair.\n\n**A:** Where is the library?\n\n**B:** It's next to our classroom.\n\n> **Hindari:** mengatakan 'The book on the desk' (tanpa *is*). Yang benar *The book **is** on the desk*. Hindari juga *The book is at the desk* — gunakan *on* untuk di atas meja.",
+      "key_points": [
+        "on = di atas (menempel): on the desk",
+        "in = di dalam: in the bag",
+        "under = di bawah: under the chair",
+        "behind = di belakang: behind the door",
+        "next to = di sebelah: next to my book",
+        "in front of = di depan: in front of the class",
+        "Where is ___? = Di mana ___? (tunggal)",
+        "Where are ___? = Di mana ___? (jamak)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "desk",
+          "id": "meja belajar",
+          "phonetic": "/desk/",
+          "example_en": "My desk is near the window.",
+          "example_id": "Meja saya dekat jendela."
+        },
+        {
+          "en": "chair",
+          "id": "kursi",
+          "phonetic": "/tʃer/",
+          "example_en": "Please sit on the chair.",
+          "example_id": "Tolong duduk di kursi."
+        },
+        {
+          "en": "book",
+          "id": "buku",
+          "phonetic": "/bʊk/",
+          "example_en": "Open your book, please.",
+          "example_id": "Buka bukumu, tolong."
+        },
+        {
+          "en": "pencil",
+          "id": "pensil",
+          "phonetic": "/ˈpensl/",
+          "example_en": "I write with a pencil.",
+          "example_id": "Saya menulis dengan pensil."
+        },
+        {
+          "en": "pen",
+          "id": "pulpen",
+          "phonetic": "/pen/",
+          "example_en": "This pen is blue.",
+          "example_id": "Pulpen ini biru."
+        },
+        {
+          "en": "eraser",
+          "id": "penghapus",
+          "phonetic": "/ɪˈreɪsər/",
+          "example_en": "I need an eraser.",
+          "example_id": "Saya butuh penghapus."
+        },
+        {
+          "en": "ruler",
+          "id": "penggaris",
+          "phonetic": "/ˈruːlər/",
+          "example_en": "The ruler is on the desk.",
+          "example_id": "Penggarisnya di atas meja."
+        },
+        {
+          "en": "bag",
+          "id": "tas",
+          "phonetic": "/bæɡ/",
+          "example_en": "My bag is under the chair.",
+          "example_id": "Tas saya di bawah kursi."
+        },
+        {
+          "en": "blackboard",
+          "id": "papan tulis",
+          "phonetic": "/ˈblækbɔːrd/",
+          "example_en": "The teacher writes on the blackboard.",
+          "example_id": "Guru menulis di papan tulis."
+        },
+        {
+          "en": "classroom",
+          "id": "ruang kelas",
+          "phonetic": "/ˈklæsruːm/",
+          "example_en": "Our classroom is big.",
+          "example_id": "Ruang kelas kami besar."
+        },
+        {
+          "en": "library",
+          "id": "perpustakaan",
+          "phonetic": "/ˈlaɪbreri/",
+          "example_en": "The library is next to the class.",
+          "example_id": "Perpustakaan di sebelah kelas."
+        },
+        {
+          "en": "canteen",
+          "id": "kantin",
+          "phonetic": "/kænˈtiːn/",
+          "example_en": "We eat at the canteen.",
+          "example_id": "Kami makan di kantin."
+        },
+        {
+          "en": "on",
+          "id": "di atas (menempel)",
+          "phonetic": "/ɒn/",
+          "example_en": "The book is on the desk.",
+          "example_id": "Bukunya di atas meja."
+        },
+        {
+          "en": "in",
+          "id": "di dalam",
+          "phonetic": "/ɪn/",
+          "example_en": "The pen is in the bag.",
+          "example_id": "Pulpennya di dalam tas."
+        },
+        {
+          "en": "under",
+          "id": "di bawah",
+          "phonetic": "/ˈʌndər/",
+          "example_en": "The bag is under the chair.",
+          "example_id": "Tasnya di bawah kursi."
+        },
+        {
+          "en": "behind",
+          "id": "di belakang",
+          "phonetic": "/bɪˈhaɪnd/",
+          "example_en": "The broom is behind the door.",
+          "example_id": "Sapunya di belakang pintu."
+        },
+        {
+          "en": "next to",
+          "id": "di sebelah",
+          "phonetic": "/nekst tuː/",
+          "example_en": "She sits next to me.",
+          "example_id": "Dia duduk di sebelah saya."
+        },
+        {
+          "en": "in front of",
+          "id": "di depan",
+          "phonetic": "/ɪn frʌnt əv/",
+          "example_en": "The teacher is in front of us.",
+          "example_id": "Guru di depan kami."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill TPR (Total Physical Response)**: Guru memerintahkan 'Put your book on the desk / under the chair / in your bag' — siswa melakukan aksi dengan benda mereka.\n2. **Pair work 'Find the object'**: Siswa A menyembunyikan benda, siswa B bertanya 'Where is my ___?'. A menjawab dengan preposisi yang benar.\n3. **Fill-in-the-blank**: Lengkapi — (a) The book is ___ the desk. (b) Where ___ my pen? (c) She is ___ front ___ me. (d) The library is ___ to the class.\n4. **Role play**: Gambar peta kelas sederhana, lalu deskripsikan posisi 5 benda dengan preposisi yang benar.\n5. **Error correction**: Perbaiki — 'The book on the desk', 'Where my bag?', 'The pen is at the desk', 'She is front of me'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. Where is your English book?",
+          "id": "Hai, Andi. Di mana buku bahasa Inggrismu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's on my desk, teacher.",
+          "id": "Di meja saya, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where is your pencil?",
+          "id": "Di mana pensilmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My pencil is in my bag.",
+          "id": "Pensil saya di tas saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And where is your bag?",
+          "id": "Lalu tasmu di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My bag is under my chair.",
+          "id": "Tas saya di bawah kursi saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where is your eraser?",
+          "id": "Di mana penghapusmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's next to my book, on the desk.",
+          "id": "Di sebelah buku saya, di atas meja."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where is the ruler?",
+          "id": "Di mana penggarismu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's behind my pencil case.",
+          "id": "Di belakang kotak pensil saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do we sit? Are you in front of me?",
+          "id": "Di mana kita duduk? Kamu di depan saya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, teacher. I'm behind Sinta. Sinta is in front of me.",
+          "id": "Tidak, Bu. Saya di belakang Sinta. Sinta di depan saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where is the library?",
+          "id": "Di mana perpustakaan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The library is next to our classroom.",
+          "id": "Perpustakaan di sebelah ruang kelas kami."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And the canteen?",
+          "id": "Dan kantin?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The canteen is in front of the library.",
+          "id": "Kantin di depan perpustakaan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect! You know your school well.",
+          "id": "Sempurna! Kamu tahu sekolahmu dengan baik."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Thank you, teacher!",
+          "id": "Terima kasih, Bu!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar enam preposisi tempat: on, in, under, behind, next to, dan in front of. Kita tahu sekarang cara menyatakan lokasi benda dan bertanya 'Where is ___?'. Ingat, selalu pakai *is* atau *are* — jangan 'The book on the desk', tapi 'The book is on the desk'. Sebelum tutup, dua pertanyaan: di mana tasmu sekarang? Bagaimana mengatakan 'Guru di depan kelas' dalam bahasa Inggris? Untuk pekerjaan rumah, gambar kamar tidurmu, lalu tulis 8 kalimat tentang posisi 8 benda menggunakan preposisi yang kita pelajari. Besok kita akan belajar kosakata mata pelajaran dan cara menyatakan mata pelajaran favorit. Sampai jumpa!",
+      "instructions": "Rangkum enam preposisi di papan dengan ilustrasi. Tanyakan dua pertanyaan pemahaman. Berikan PR gambar kamar + 8 kalimat dan sampaikan topik besok tentang mata pelajaran."
+    }
+  ]
+}

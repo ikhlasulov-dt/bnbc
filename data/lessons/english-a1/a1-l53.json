@@ -1,0 +1,283 @@
+{
+  "id": "a1-l53",
+  "course_id": "english-a1",
+  "module_title": "Cuaca",
+  "level": "A1",
+  "title": "Pola It is vs There is",
+  "subtitle": "Perbedaan menyatakan keadaan dan keberadaan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan pola It is dan There is/are",
+    "Menggunakan It is untuk cuaca, waktu, jarak",
+    "Menggunakan There is/are untuk menyatakan keberadaan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang musim. Coba, siapa yang bisa kasih nama 4 musim di negara beriklim sedang? Bagus, spring, summer, autumn, winter. Hari ini kita akan fokus ke perbedaan dua pola yang sering tertukar: *It is* dan *There is*. Coba perhatikan dua kalimat ini: 'It is sunny' dan 'There is a cloud in the sky'. Apa bedanya? Itulah yang akan kita pelajari hari ini. Memahami perbedaan ini penting karena banyak siswa A1 sering salah pakai. Rencana: kita pelajari kapan pakai *It is* dan kapan pakai *There is/are*, contoh konkret, dan latih dengan kalimat cuaca. Ayo mulai!",
+      "instructions": "Tulis di papan dua kalimat: 'It is sunny.' dan 'There is a cloud.' Tanyakan bedanya. Perkenalkan aturan: It is untuk keadaan, There is untuk keberadaan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Perbedaan It is dan There is\n\n| Pola | Fungsi | Contoh |\n|---|---|---|\n| **It is + adjective** | menyatakan keadaan cuaca/keadaan | It is sunny. |\n| **There is + noun** | menyatakan keberadaan sesuatu | There is a cloud in the sky. |\n\n## Pola It is\n\n*It is* dipakai untuk menyatakan **keadaan**, terutama cuaca, waktu, jarak:\n\n- **It is sunny.** (cuaca cerah)\n- **It is hot.** (cuaca panas)\n- **It is 7 o'clock.** (waktu)\n- **It is Monday.** (hari)\n- **It is far.** (jarak)\n\n*It* di sini tidak menerjemah langsung ke 'dia' atau 'itu'. *It* adalah subjek dummy untuk keadaan.\n\n## Pola There is / There are\n\n*There is / There are* dipakai untuk menyatakan **keberadaan** sesuatu:\n\n- **There is** + kata benda tunggal → *There is a cloud in the sky.*\n- **There are** + kata benda jamak → *There are many clouds.*\n\n## Contoh tentang Cuaca\n\n- **It is rainy.** → Cuacanya hujan. (keadaan)\n- **There is a rainbow.** → Ada pelangi. (keberadaan)\n- **It is windy.** → Berangin. (keadaan)\n- **There is a strong wind.** → Ada angin kencang. (keberadaan)\n- **It is cold.** → Dingin. (keadaan)\n- **There is snow on the ground.** → Ada salju di tanah. (keberadaan)\n\n## Bentuk Negatif dan Pertanyaan\n\n**It is:**\n- Negatif: *It is not (isn't) sunny.*\n- Pertanyaan: *Is it sunny?*\n\n**There is:**\n- Negatif: *There is not (isn't) a cloud.*\n- Pertanyaan: *Is there a cloud?*\n\n## Mini-Dialog\n\n**A:** How is the weather?\n\n**B:** It is cloudy. There are many clouds in the sky.\n\n**A:** Is it going to rain?\n\n**B:** Yes, there is a dark cloud over there.\n\n**A:** Is it cold?\n\n**B:** No, it isn't cold. It is warm today.\n\n> **Hindari:** mengatakan 'There is sunny' (salah, sunny adalah kata sifat). Yang benar: *It is sunny*. Hindari 'It is a cloud' (kalau maksudnya ada awan) — yang benar *There is a cloud*.",
+      "key_points": [
+        "It is + adjective = menyatakan keadaan (It is sunny)",
+        "There is + noun = menyatakan keberadaan (There is a cloud)",
+        "There are + noun (jamak) = ada benda jamak (There are clouds)",
+        "It is + waktu/hari: It is 7 o'clock, It is Monday",
+        "Negatif: It isn't sunny / There isn't a cloud",
+        "Pertanyaan: Is it sunny? / Is there a cloud?",
+        "Jangan 'There is sunny' — sunny adalah sifat, pakai It is",
+        "Jangan 'It is a cloud' — pakai There is a cloud"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "weather",
+          "id": "cuaca",
+          "phonetic": "/ˈweðər/",
+          "example_en": "How is the weather today?",
+          "example_id": "Bagaimana cuaca hari ini?"
+        },
+        {
+          "en": "sunny",
+          "id": "cerah",
+          "phonetic": "/ˈsʌni/",
+          "example_en": "It is sunny today.",
+          "example_id": "Hari ini cerah."
+        },
+        {
+          "en": "rainy",
+          "id": "hujan",
+          "phonetic": "/ˈreɪni/",
+          "example_en": "It is rainy in Bogor.",
+          "example_id": "Di Bogor sedang hujan."
+        },
+        {
+          "en": "cloudy",
+          "id": "berawan",
+          "phonetic": "/ˈklaʊdi/",
+          "example_en": "It is cloudy this morning.",
+          "example_id": "Pagi ini berawan."
+        },
+        {
+          "en": "windy",
+          "id": "berangin",
+          "phonetic": "/ˈwɪndi/",
+          "example_en": "It is windy at the beach.",
+          "example_id": "Di pantai berangin."
+        },
+        {
+          "en": "hot",
+          "id": "panas",
+          "phonetic": "/hɒt/",
+          "example_en": "It is hot at noon.",
+          "example_id": "Siang hari panas."
+        },
+        {
+          "en": "cold",
+          "id": "dingin",
+          "phonetic": "/koʊld/",
+          "example_en": "It is cold in winter.",
+          "example_id": "Pada musim dingin cuaca dingin."
+        },
+        {
+          "en": "warm",
+          "id": "hangat",
+          "phonetic": "/wɔːrm/",
+          "example_en": "It is warm inside the house.",
+          "example_id": "Di dalam rumah terasa hangat."
+        },
+        {
+          "en": "sun",
+          "id": "matahari",
+          "phonetic": "/sʌn/",
+          "example_en": "The sun is bright today.",
+          "example_id": "Matahari terang hari ini."
+        },
+        {
+          "en": "rain",
+          "id": "hujan",
+          "phonetic": "/reɪn/",
+          "example_en": "The rain is heavy.",
+          "example_id": "Hujannya deras."
+        },
+        {
+          "en": "snow",
+          "id": "salju",
+          "phonetic": "/snoʊ/",
+          "example_en": "The snow is white.",
+          "example_id": "Saljunya putih."
+        },
+        {
+          "en": "cloud",
+          "id": "awan",
+          "phonetic": "/klaʊd/",
+          "example_en": "There is a cloud in the sky.",
+          "example_id": "Ada awan di langit."
+        },
+        {
+          "en": "sky",
+          "id": "langit",
+          "phonetic": "/skaɪ/",
+          "example_en": "The sky is blue today.",
+          "example_id": "Langit biru hari ini."
+        },
+        {
+          "en": "rainbow",
+          "id": "pelangi",
+          "phonetic": "/ˈreɪnboʊ/",
+          "example_en": "There is a rainbow after the rain.",
+          "example_id": "Ada pelangi setelah hujan."
+        },
+        {
+          "en": "wind",
+          "id": "angin",
+          "phonetic": "/wɪnd/",
+          "example_en": "The wind is strong today.",
+          "example_id": "Anginnya kencang hari ini."
+        },
+        {
+          "en": "storm",
+          "id": "badai",
+          "phonetic": "/stɔːrm/",
+          "example_en": "There is a storm coming.",
+          "example_id": "Ada badai datang."
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "It is sunny today.",
+          "example_id": "Hari ini cerah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill pilih-pola**: Guru menyebut situasi (keadaan cuaca/ada awan/ada salju), siswa memilih 'It is ___' atau 'There is ___'.\n2. **Pair work**: Siswa A menyebut cuaca, siswa B membuat dua kalimat — satu dengan It is, satu dengan There is.\n3. **Fill-in-the-blank**: Lengkapi — (a) ___ sunny today. (b) ___ a cloud in the sky. (c) ___ many stars at night. (d) ___ hot at noon.\n4. **Role play 'Sky watcher'**: Siswa A jadi pengamat cuaca, B jadi pendengar — deskripsikan langit dan cuaca dengan It is dan There is/are.\n5. **Error correction**: Perbaiki — 'There is sunny', 'It is a cloud', 'There are sunny', 'It is rain'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning. How is the weather today?",
+          "id": "Selamat pagi. Bagaimana cuaca hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is cloudy today, teacher. There are many clouds in the sky.",
+          "id": "Hari ini berawan, Bu. Ada banyak awan di langit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it going to rain?",
+          "id": "Akan hujan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I think so. There is a dark cloud over there.",
+          "id": "Ya, saya rasa iya. Ada awan gelap di sana."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it cold outside?",
+          "id": "Dingin di luar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, it isn't cold. It is warm today. About 28 degrees.",
+          "id": "Tidak dingin. Hangat hari ini. Sekitar 28 derajat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Look! There is a rainbow in the sky!",
+          "id": "Lihat! Ada pelangi di langit!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Wow, beautiful! There is a rainbow after the rain.",
+          "id": "Wah, indah! Ada pelangi setelah hujan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "It is sunny now. The sun is bright again.",
+          "id": "Sekarang cerah. Matahari terang lagi."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it is. There are still some clouds, but the sun is shining.",
+          "id": "Ya. Masih ada awan, tapi matahari bersinar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is there wind today?",
+          "id": "Ada angin hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, there is a little wind. It is not windy, just breezy.",
+          "id": "Ya, ada sedikit angin. Tidak berangin, hanya berangin sepoi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How is the weather in the mountain?",
+          "id": "Bagaimana cuaca di gunung?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is usually cool and cold at night. There is often fog in the morning.",
+          "id": "Biasanya sejuk dan dingin malam. Sering ada kabut pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is there snow on the mountain?",
+          "id": "Ada salju di gunung?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, there isn't snow in Indonesia. But in other countries, yes.",
+          "id": "Tidak ada salju di Indonesia. Tapi di negara lain, ya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "You're right. What's the weather like in your city?",
+          "id": "Benar. Bagaimana cuaca di kotamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is often rainy in the afternoon and sunny in the morning.",
+          "id": "Sering hujan sore dan cerah pagi."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar perbedaan *It is* dan *There is*. Kita tahu sekarang: *It is + kata sifat* untuk keadaan (It is sunny), dan *There is + kata benda* untuk keberadaan (There is a cloud). Sebelum tutup, dua pertanyaan: bagaimana mengatakan 'Cerah hari ini'? Bagaimana mengatakan 'Ada awan di langit'? Untuk pekerjaan rumah, tulislah 10 kalimat tentang cuaca — 5 dengan *It is* dan 5 dengan *There is/are*. Gunakan kata sifat dan kata benda yang berbeda-beda. Besok kita akan belajar memberi rekomendasi pakaian sesuai cuaca dengan *You should...* dan *Wear...*. Sampai jumpa!",
+      "instructions": "Rangkum perbedaan It is vs There is di papan dengan tabel. Tanyakan dua pertanyaan pemahaman. Berikan PR 10 kalimat (5+5) dan sampaikan topik besok."
+    }
+  ]
+}

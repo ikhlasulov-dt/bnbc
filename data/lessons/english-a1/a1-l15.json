@@ -1,0 +1,214 @@
+{
+  "id": "a1-l15",
+  "course_id": "english-a1",
+  "module_title": "Keluarga",
+  "level": "A1",
+  "title": "Menyatakan Jumlah Saudara dengan have/has",
+  "subtitle": "have untuk I/you/we/they, has untuk he/she/it",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan have untuk subjek I, you, we, they",
+    "Menggunakan has untuk subjek he, she, it",
+    "Menanyakan jumlah saudara dengan Do you have...?"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar posesif: dua pola utama. Hari ini kita akan belajar menyatakan jumlah saudara menggunakan have/has. Pernahkah kalian ingin bercerita 'saya punya dua saudara' dalam bahasa Inggris tapi bingung pakai have atau has? Itu yang akan kita selesaikan. Tujuan kita: kalian bisa menyatakan jumlah saudara dan anggota keluarga dengan have/has yang tepat. Kita mulai dari teori have/has, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'How many brothers do you have?'. Tulis 'I have ___' dan 'She has ___' di papan. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Menyatakan Jumlah Saudara dengan have/has\n\nUntuk menyatakan kepemilikan (termasuk jumlah saudara), bahasa Inggris memakai kata kerja **have** atau **has**.\n\n### Tabel Have vs Has\n\n| Subjek | Kata kerja | Contoh |\n|---|---|---|\n| I | have | I have two brothers. |\n| You | have | You have a sister. |\n| We | have | We have a big family. |\n| They | have | They have three children. |\n| He | has | He has one brother. |\n| She | has | She has two sisters. |\n| It | has | It has a long tail. |\n\n### Aturan\n\n- **have** untuk I, you, we, they\n- **has** untuk he, she, it\n- Ini sama seperti pola to be (am/is/are), tapi untuk menyatakan **milik**.\n\n### Pola Kalimat\n\n**Positif:**\n- *I have two brothers.* — Saya punya dua saudara laki-laki.\n- *She has one sister.* — Dia punya satu saudara perempuan.\n\n**Negatif (don't have / doesn't have):**\n- *I don't have any brothers.* — Saya tidak punya saudara laki-laki.\n- *He doesn't have a sister.* — Dia tidak punya saudara perempuan.\n\n**Tanya (Do/Does + have):**\n- *Do you have any siblings?* — Apa kamu punya saudara?\n- *Does she have a brother?* — Apa dia punya saudara laki-laki?\n\n### Perhatikan\n\n1. Setelah have/has, **benda bisa dihitung (countable) atau tidak (uncountable)**.\n   - *I have two brothers.* (countable, jamak)\n   - *I have a sister.* (countable, tunggal)\n2. Untuk kalimat **negatif dengan countable jamak**, pakai **any**:\n   - *I don't have any brothers.* (bukan 'I don't have brothers')\n3. Untuk kalimat **tanya**, pakai **any**:\n   - *Do you have any sisters?*\n4. Untuk **tunggal**, pakai **a/an**:\n   - *I have a brother.* / *Do you have a sister?*\n\n### Contoh Lengkap\n\n- *I have two brothers and one sister.* — Saya punya dua saudara laki-laki dan satu saudara perempuan.\n- *My father has three siblings.* — Ayah saya punya tiga saudara.\n- *We don't have any children.* — Kami tidak punya anak.\n- *Does she have a big family?* — Apa dia punya keluarga besar?\n- *How many cousins do you have?* — Berapa banyak sepupu yang kamu punya?\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: How many brothers do you have?\n- B: I have two brothers.\n- A: And sisters?\n- B: I have one sister.\n\n**Dialog 2:**\n- A: Does she have any siblings?\n- B: Yes, she has one older brother.\n- A: How about him?\n- B: He doesn't have any siblings. He's an only child.\n\n> **Hindari:** Jangan menulis 'She have a brother' (harusnya *She has*). Jangan menulis 'I has two sisters' (harusnya *I have*). Jangan lupa *any* dalam negatif/jamak: *I don't have any brothers* (bukan *I don't have brothers*).\n\n### Cara Mengucapkan\n\n- **have** /hæv/\n- **has** /hæz/\n- **don't have** /doʊnt hæv/\n- **doesn't have** /ˈdʌznt hæv/\n\n### Tips\n\n1. Hafalkan: have untuk I/you/we/they, has untuk he/she/it.\n2. Untuk negatif/tanya jamak, pakai *any*: *I don't have any brothers*.\n3. Untuk tunggal, pakai *a/an*: *I have a sister*.",
+      "key_points": [
+        "have untuk I, you, we, they",
+        "has untuk he, she, it",
+        "I have two brothers = saya punya dua saudara laki-laki",
+        "She has one sister = dia punya satu saudara perempuan",
+        "Negatif: don't have / doesn't have",
+        "Tanya: Do you have...? / Does she have...?",
+        "Untuk negatif/tanya jamak, pakai any (I don't have any brothers)",
+        "Untuk tunggal, pakai a/an (I have a sister)"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "family",
+          "id": "keluarga",
+          "phonetic": "/ˈfæməli/",
+          "example_en": "This is my family.",
+          "example_id": "Ini keluarga saya."
+        },
+        {
+          "en": "father",
+          "id": "ayah",
+          "phonetic": "/ˈfɑːðər/",
+          "example_en": "My father is a doctor.",
+          "example_id": "Ayah saya seorang dokter."
+        },
+        {
+          "en": "mother",
+          "id": "ibu",
+          "phonetic": "/ˈmʌðər/",
+          "example_en": "My mother is a teacher.",
+          "example_id": "Ibu saya seorang guru."
+        },
+        {
+          "en": "brother",
+          "id": "saudara laki-laki",
+          "phonetic": "/ˈbrʌðər/",
+          "example_en": "I have one brother.",
+          "example_id": "Saya punya satu saudara laki-laki."
+        },
+        {
+          "en": "sister",
+          "id": "saudara perempuan",
+          "phonetic": "/ˈsɪstər/",
+          "example_en": "My sister is younger.",
+          "example_id": "Kakak perempuan saya lebih muda."
+        },
+        {
+          "en": "parents",
+          "id": "orang tua",
+          "phonetic": "/ˈperənts/",
+          "example_en": "My parents are kind.",
+          "example_id": "Orang tua saya baik."
+        },
+        {
+          "en": "son",
+          "id": "putra",
+          "phonetic": "/sʌn/",
+          "example_en": "He is my son.",
+          "example_id": "Dia putra saya."
+        },
+        {
+          "en": "daughter",
+          "id": "putri",
+          "phonetic": "/ˈdɔːtər/",
+          "example_en": "She is my daughter.",
+          "example_id": "Dia putri saya."
+        },
+        {
+          "en": "child",
+          "id": "anak",
+          "phonetic": "/tʃaɪld/",
+          "example_en": "They have two children.",
+          "example_id": "Mereka punya dua anak."
+        },
+        {
+          "en": "uncle",
+          "id": "paman",
+          "phonetic": "/ˈʌŋkl/",
+          "example_en": "My uncle lives in Jakarta.",
+          "example_id": "Paman saya tinggal di Jakarta."
+        },
+        {
+          "en": "aunt",
+          "id": "bibi",
+          "phonetic": "/ænt/",
+          "example_en": "My aunt is funny.",
+          "example_id": "Bibi saya lucu."
+        },
+        {
+          "en": "cousin",
+          "id": "sepupu",
+          "phonetic": "/ˈkʌzn/",
+          "example_en": "My cousin is my age.",
+          "example_id": "Sepupu saya sebaya dengan saya."
+        },
+        {
+          "en": "siblings",
+          "id": "saudara",
+          "phonetic": "/ˈsɪblɪŋz/",
+          "example_en": "I have two siblings.",
+          "example_id": "Saya punya dua saudara."
+        },
+        {
+          "en": "married",
+          "id": "menikah",
+          "phonetic": "/ˈmærid/",
+          "example_en": "They are married.",
+          "example_id": "Mereka sudah menikah."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill cepat:** guru menyebut subjek (I, you, he, she, we, they), murid menjawab have/has. (2) **Isian:** 'I ___ two brothers. She ___ one sister. He ___ any siblings? (negatif)'. (3) **Pasangan Q-A:** A menanyakan 'How many brothers do you have?', B menjawab dengan have. (4) **Role play:** dua murid saling mewawancarai tentang keluarga menggunakan have/has. (5) **Koreksi:** tulis di papan 'She have a brother. I has two sisters. He don't have any sister.' dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How many brothers do you have?",
+          "id": "Berapa banyak saudara laki-laki yang kamu punya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have two brothers.",
+          "id": "Saya punya dua saudara laki-laki."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And sisters?",
+          "id": "Dan saudara perempuan?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have one sister.",
+          "id": "Saya punya satu saudara perempuan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does she have any siblings?",
+          "id": "Apa dia punya saudara?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, she has one older brother.",
+          "id": "Ya, dia punya satu kakak laki-laki."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How about him?",
+          "id": "Bagaimana dengannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He doesn't have any siblings. He's an only child.",
+          "id": "Dia tidak punya saudara. Dia anak tunggal."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How many cousins do you have?",
+          "id": "Berapa sepupu yang kamu punya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have five cousins. We have a big family!",
+          "id": "Saya punya lima sepupu. Kami keluarga besar!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus! Hari ini kita belajar menyatakan jumlah saudara dengan have/has. Have untuk I/you/we/they, has untuk he/she/it. Kita juga belajar pola negatif (don't have/doesn't have) dan tanya (Do/Does...have?). Yang paling penting: pakai any untuk negatif/tanya jamak. Pertanyaan untuk kalian: pakai have atau has untuk 'She'? Dan bagaimana menyatakan 'saya tidak punya saudara laki-laki'? Untuk PR, tulis 8 kalimat tentang keluargamu menggunakan have/has. Besok kita akan belajar menanyakan identitas dengan Who. Sampai jumpa!",
+      "instructions": "Rangkum have/has. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

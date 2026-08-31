@@ -1,0 +1,317 @@
+{
+  "id": "a1-l58",
+  "course_id": "english-a1",
+  "module_title": "Pakaian",
+  "level": "A1",
+  "title": "Urutan Kata Sifat",
+  "subtitle": "ukuran + warna + kata benda",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan urutan kata sifat: ukuran + warna + kata benda",
+    "Membentuk frasa dengan dua kata sifat dengan benar",
+    "Menghindari kesalahan urutan kata sifat"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang kosakata warna. Coba, siapa yang bisa kasih nama 5 warna? Bagus, red, blue, green, yellow, black. Hari ini kita akan belajar aturan yang menarik: urutan kata sifat dalam bahasa Inggris, khususnya ukuran + warna + kata benda. Coba perhatikan: kalau kita mau bilang 'saya punya kemeja biru besar', dalam bahasa Inggris bagaimana? *I have a big blue shirt.* Kenapa 'big' sebelum 'blue'? Itulah aturan urutan kata sifat yang akan kita pelajari. Rencana: kita pelajari urutan ukuran + warna + kata benda, latih dengan contoh konkret, dan berlatih membuat kalimat. Ayo mulai!",
+      "instructions": "Tulis di papan dua urutan: 'a big red car' dan 'a small blue bag'. Tanyakan pola yang terlihat. Perkenalkan urutan: ukuran + warna + kata benda."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Urutan Kata Sifat: Ukuran + Warna + Kata Benda\n\nDalam bahasa Inggris, ketika kita punya dua kata sifat sebelum kata benda, urutannya mengikuti aturan tertentu. Untuk A1, kita fokus ke urutan yang paling umum:\n\n**Ukuran + Warna + Kata Benda**\n\n| Contoh | Arti |\n|---|---|\n| a big red car | mobil merah besar |\n| a small blue bag | tas biru kecil |\n| a long black dress | gaun hitam panjang |\n| a short white skirt | rok putih pendek |\n| a new green shirt | kemeja hijau baru |\n\n## Kata Sifat Ukuran\n\n| Inggris | Indonesia |\n|---|---|\n| big | besar |\n| small | kecil |\n| long | panjang |\n| short | pendek |\n| tall | tinggi (untuk orang/pohon) |\n| new | baru |\n| old | tua/lama |\n\n## Pola Lengkap\n\n**[article] + [ukuran] + [warna] + [kata benda]**\n\n- a **big red** car\n- a **small blue** bag\n- a **long black** dress\n- a **new green** shirt\n- my **old white** shoes\n\n## Contoh Lengkap\n\n- I have a **big blue** bag.\n- She wears a **small red** dress.\n- He has a **new black** jacket.\n- We bought a **small yellow** hat.\n- My brother has a **big brown** dog.\n\n## Pertanyaan\n\n- **What kind of bag do you have?** → Tas seperti apa yang kamu punya?\n  - I have a big blue bag.\n- **What does she wear?** → Dia pakai apa?\n  - She wears a long red dress.\n\n## Mini-Dialog\n\n**A:** What kind of shirt do you have?\n\n**B:** I have a big white shirt.\n\n**A:** And your bag?\n\n**B:** I have a small blue bag.\n\n**A:** What about your shoes?\n\n**B:** I have new black shoes.\n\n> **Hindari:** mengatakan 'a red big car' (urutan salah). Yang benar *a big red car*. Hindari juga 'a shirt big red' — kata benda selalu di akhir.",
+      "key_points": [
+        "Urutan: ukuran + warna + kata benda",
+        "a big red car = mobil merah besar",
+        "a small blue bag = tas biru kecil",
+        "Kata sifat ukuran: big, small, long, short, tall, new, old",
+        "Article (a/an/the) di paling depan",
+        "Kata benda selalu di akhir setelah sifat",
+        "Jangan 'a red big car' — pakai 'a big red car'",
+        "Pertanyaan: What kind of ___ do you have?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "clothes",
+          "id": "pakaian",
+          "phonetic": "/kloʊðz/",
+          "example_en": "I buy new clothes.",
+          "example_id": "Saya membeli pakaian baru."
+        },
+        {
+          "en": "shirt",
+          "id": "kemeja",
+          "phonetic": "/ʃɜːrt/",
+          "example_en": "He is wearing a blue shirt.",
+          "example_id": "Dia memakai kemeja biru."
+        },
+        {
+          "en": "t-shirt",
+          "id": "kaos",
+          "phonetic": "/ˈtiːʃɜːrt/",
+          "example_en": "My t-shirt is white.",
+          "example_id": "Kaos saya berwarna putih."
+        },
+        {
+          "en": "pants",
+          "id": "celana panjang",
+          "phonetic": "/pænts/",
+          "example_en": "These pants are black.",
+          "example_id": "Celana ini hitam."
+        },
+        {
+          "en": "dress",
+          "id": "gaun",
+          "phonetic": "/dres/",
+          "example_en": "She has a red dress.",
+          "example_id": "Dia punya gaun merah."
+        },
+        {
+          "en": "skirt",
+          "id": "rok",
+          "phonetic": "/skɜːrt/",
+          "example_en": "Her skirt is long.",
+          "example_id": "Roknya panjang."
+        },
+        {
+          "en": "shoes",
+          "id": "sepatu",
+          "phonetic": "/ʃuːz/",
+          "example_en": "My shoes are new.",
+          "example_id": "Sepatu saya baru."
+        },
+        {
+          "en": "hat",
+          "id": "topi",
+          "phonetic": "/hæt/",
+          "example_en": "He wears a black hat.",
+          "example_id": "Dia memakai topi hitam."
+        },
+        {
+          "en": "jacket",
+          "id": "jaket",
+          "phonetic": "/ˈdʒækɪt/",
+          "example_en": "It is cold. Wear a jacket.",
+          "example_id": "Dingin. Pakai jaket."
+        },
+        {
+          "en": "red",
+          "id": "merah",
+          "phonetic": "/red/",
+          "example_en": "I like the red bag.",
+          "example_id": "Saya suka tas merah."
+        },
+        {
+          "en": "blue",
+          "id": "biru",
+          "phonetic": "/bluː/",
+          "example_en": "The sky is blue.",
+          "example_id": "Langitnya biru."
+        },
+        {
+          "en": "green",
+          "id": "hijau",
+          "phonetic": "/ɡriːn/",
+          "example_en": "Her shirt is green.",
+          "example_id": "Kemejanya hijau."
+        },
+        {
+          "en": "yellow",
+          "id": "kuning",
+          "phonetic": "/ˈjeloʊ/",
+          "example_en": "I have a yellow pencil.",
+          "example_id": "Saya punya pensil kuning."
+        },
+        {
+          "en": "black",
+          "id": "hitam",
+          "phonetic": "/blæk/",
+          "example_en": "My shoes are black.",
+          "example_id": "Sepatu saya hitam."
+        },
+        {
+          "en": "white",
+          "id": "putih",
+          "phonetic": "/waɪt/",
+          "example_en": "She wears a white dress.",
+          "example_id": "Dia memakai gaun putih."
+        },
+        {
+          "en": "big",
+          "id": "besar",
+          "phonetic": "/bɪɡ/",
+          "example_en": "I have a big bag.",
+          "example_id": "Saya punya tas besar."
+        },
+        {
+          "en": "small",
+          "id": "kecil",
+          "phonetic": "/smɔːl/",
+          "example_en": "She has a small cat.",
+          "example_id": "Dia punya kucing kecil."
+        },
+        {
+          "en": "long",
+          "id": "panjang",
+          "phonetic": "/lɒŋ/",
+          "example_en": "He has a long ruler.",
+          "example_id": "Dia punya penggaris panjang."
+        },
+        {
+          "en": "short",
+          "id": "pendek",
+          "phonetic": "/ʃɔːrt/",
+          "example_en": "My pencil is short.",
+          "example_id": "Pensil saya pendek."
+        },
+        {
+          "en": "new",
+          "id": "baru",
+          "phonetic": "/nuː/",
+          "example_en": "This is a new book.",
+          "example_id": "Ini buku baru."
+        },
+        {
+          "en": "old",
+          "id": "tua/lama",
+          "phonetic": "/oʊld/",
+          "example_en": "My bag is old.",
+          "example_id": "Tas saya sudah lama."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill urutan**: Guru menyebut ukuran + warna + benda (besar-merah-mobil), siswa membuat kalimat 'a big red car'. Lakukan 10 putaran.\n2. **Pair work 'Describe it'**: Siswa A menyebut benda miliknya, siswa B menambahkan ukuran dan warna — buat kalimat lengkap.\n3. **Fill-in-the-blank**: Lengkapi — (a) a ___ red car (besar). (b) a small ___ bag (biru). (c) I have a ___ black shoes (baru). (d) a long ___ dress (putih).\n4. **Role play 'Describe your friend'**: Siswa A mendeskripsikan pakaian teman dengan urutan ukuran + warna + benda — 5 kalimat.\n5. **Error correction**: Perbaiki — 'a red big car', 'a shirt blue long', 'a small bag blue', 'a new jacket black big'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. What kind of shirt do you have?",
+          "id": "Hai, Andi. Kemeja seperti apa yang kamu punya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have a big white shirt, teacher.",
+          "id": "Saya punya kemeja putih besar, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your bag? What kind?",
+          "id": "Dan tasmu? Yang seperti apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have a small blue bag. It's from my mother.",
+          "id": "Saya punya tas biru kecil. Dari ibu saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about your shoes?",
+          "id": "Kalau sepatumu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have new black shoes. I bought them last week.",
+          "id": "Saya punya sepatu hitam baru. Beli minggu lalu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What kind of jacket does your sister have?",
+          "id": "Jaket kakak perempuanmu seperti apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She has a long red jacket. She loves it.",
+          "id": "Dia punya jaket merah panjang. Dia menyukainya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What kind of dress does your mother have?",
+          "id": "Gaun ibumu seperti apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My mother has a beautiful long black dress for parties.",
+          "id": "Ibu saya punya gaun hitam panjang yang indah untuk pesta."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your brother? What kind of pants does he wear?",
+          "id": "Lalu kakakmu? Celana seperti apa yang dia pakai?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "He wears big blue jeans. They are very comfortable.",
+          "id": "Dia pakai jeans biru besar. Sangat nyaman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What kind of hat do you have?",
+          "id": "Topimu seperti apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I have a small yellow hat for the beach.",
+          "id": "Saya punya topi kuning kecil untuk pantai."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What kind of skirt does Sinta wear?",
+          "id": "Rok Sinta seperti apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She wears a short white skirt today.",
+          "id": "Dia pakai rok putih pendek hari ini."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What kind of t-shirt does Budi have?",
+          "id": "Kaos Budi seperti apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Budi has a big green t-shirt. He likes green.",
+          "id": "Budi punya kaos hijau besar. Dia suka hijau."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! You understand the order well.",
+          "id": "Bagus! Kamu paham urutannya dengan baik."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar urutan kata sifat dalam bahasa Inggris: ukuran + warna + kata benda. Kita tahu sekarang cara mengatakan *a big red car*, bukan *a red big car*. Kata benda selalu di akhir setelah sifat. Sebelum tutup, dua pertanyaan: bagaimana mengatakan 'tas biru kecil'? Bagaimana 'gaun hitam panjang'? Untuk pekerjaan rumah, gambar 8 benda dengan ukuran dan warna berbeda, lalu tulis kalimat lengkap dengan urutan yang benar. Contoh: 'I have a big red bag.' Besok kita akan belajar mendeskripsikan pakaian seseorang dengan pola *She is wearing a blue dress*. Sampai jumpa!",
+      "instructions": "Rangkum urutan ukuran + warna + kata benda di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR gambar 8 benda + kalimat dan sampaikan topik besok."
+    }
+  ]
+}

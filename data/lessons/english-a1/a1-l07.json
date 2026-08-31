@@ -1,0 +1,214 @@
+{
+  "id": "a1-l07",
+  "course_id": "english-a1",
+  "module_title": "Data Diri",
+  "level": "A1",
+  "title": "Pola Jawaban Standar",
+  "subtitle": "Menjawab pertanyaan data diri dengan kalimat lengkap",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menjawab pertanyaan data diri dengan kalimat lengkap",
+    "Menggunakan to be (am/is/are) dalam jawaban",
+    "Memahami bahwa setiap kalimat bahasa Inggris wajib memiliki kata kerja"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar enam pertanyaan inti tentang data diri. Siapa yang masih ingat pertanyaan untuk menanyakan umur? Hari ini kita akan belajar pola jawaban standar untuk pertanyaan-pertanyaan itu. Kalau kemarin kita tahu apa yang ditanyakan, hari ini kita belajar cara menjawabnya dengan kalimat lengkap yang sopan dan benar. Tujuan kita: kalian bisa menjawab 6 pertanyaan data diri dalam kalimat penuh yang gramatikal. Kita mulai dari teori pola jawaban, kosakata, latihan dialog, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanyakan satu pertanyaan data diri (What's your name?) lalu minta jawaban dengan kalimat penuh. Tulis pola jawaban 'My name is ___, I'm ___ years old, I live in ___' di papan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pola Jawaban Standar\n\nUntuk setiap pertanyaan data diri, ada pola jawaban standar yang bisa dihafal. Pola ini aman dipakai dalam situasi formal maupun santai.\n\n### Enam Pola Jawaban\n\n| Pertanyaan | Pola Jawaban | Contoh |\n|---|---|---|\n| What's your name? | My name is ___. / I'm ___. | My name is Andi. |\n| How old are you? | I'm ___ years old. | I'm twelve years old. |\n| Where do you live? | I live in ___. | I live in Jakarta. |\n| What's your phone number? | It's ___. / My number is ___. | It's 0812-3456-7890. |\n| When's your birthday? | It's on ___. | It's on March 5th. |\n| What's your nationality? | I'm ___. (kependekan dari I'm Indonesian) | I'm Indonesian. |\n\n### Detail Setiap Pola\n\n**1. Nama**\n- Formal: *My name is Andi Wijaya.*\n- Santai: *I'm Andi.*\n\n**2. Umur**\n- *I'm twelve years old.*\n- Versi pendek: *I'm twelve.*\n- Bisa juga: *I am twelve years old.* (tanpa contraction)\n\n> **Hindari:** Jangan bilang 'I'm twelve years' (tanpa 'old'). Jangan bilang 'My age is twelve' — kaku, tidak alami.\n\n**3. Alamat**\n- *I live in Jakarta.*\n- *I live in Bandung, Indonesia.* (kota + negara)\n- Jangan pakai *I live at* untuk kota/negara; *at* hanya untuk alamat lengkap (I live at Jl. Merdeka 10).\n\n**4. Nomor Telepon**\n- *It's 0812-3456-7890.*\n- *My number is 0812-3456-7890.*\n- Sebut angka satu per satu: zero-eight-one-two...\n\n**5. Ulang Tahun**\n- *It's on March 5th.*\n- *My birthday is on March 5th.*\n- Selalu pakai *on* sebelum tanggal.\n\n**6. Kewarganegaraan**\n- *I'm Indonesian.*\n- Bisa juga: *I'm from Indonesia.* (asal negara)\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (formal):**\n- A: What's your name?\n- B: My name is Andi Wijaya.\n- A: How old are you?\n- B: I'm twelve years old.\n- A: Where do you live?\n- B: I live in Jakarta, Indonesia.\n\n**Dialog 2 (santai):**\n- A: Hi! I'm Sarah. You?\n- B: I'm Andi. I'm twelve. You?\n- A: I'm thirteen. Where do you live?\n- B: I live in Bandung.\n\n### Cara Mengucapkan\n\n- **My name is** /maɪ neɪm ɪz/\n- **I'm twelve years old** /aɪm twelv jɪrz oʊld/ — tekanan di TWELVE.\n- **I live in** /aɪ lɪv ɪn/ — tekanan di LIVE dan IN.\n- **It's on March 5th** /ɪts ɒn mɑːrtʃ fɪfθ/ — tekanan di MARCH dan FIFTH.\n\n### Tips\n\n1. Hafalkan pola jawaban standar; ini akan dipakai bertahun-tahun.\n2. Untuk nomor telepon, sebut angka satu per satu.\n3. Untuk ulang tahun, selalu pakai *on* sebelum tanggal.",
+      "key_points": [
+        "My name is ___ / I'm ___ = pola jawaban nama",
+        "I'm ___ years old = pola jawaban umur (jangan lupa 'old')",
+        "I live in ___ = pola jawaban alamat (kota/negara)",
+        "It's ___ / My number is ___ = pola jawaban nomor telepon",
+        "It's on ___ = pola jawaban ulang tahun (pakai 'on')",
+        "I'm ___ (kependekan dari I'm Indonesian) = kewarganegaraan",
+        "Sebut nomor telepon angka per angka",
+        "Jangan pakai 'I live at' untuk kota; pakai 'in'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "name",
+          "id": "nama",
+          "phonetic": "/neɪm/",
+          "example_en": "What is your name?",
+          "example_id": "Siapa namamu?"
+        },
+        {
+          "en": "age",
+          "id": "umur",
+          "phonetic": "/eɪdʒ/",
+          "example_en": "What is your age?",
+          "example_id": "Berapa umurmu?"
+        },
+        {
+          "en": "address",
+          "id": "alamat",
+          "phonetic": "/əˈdres/",
+          "example_en": "My address is Jl. Merbau 17.",
+          "example_id": "Alamat saya Jl. Merbau 17."
+        },
+        {
+          "en": "phone number",
+          "id": "nomor telepon",
+          "phonetic": "/foʊn ˈnʌmbər/",
+          "example_en": "What's your phone number?",
+          "example_id": "Berapa nomor teleponmu?"
+        },
+        {
+          "en": "birthday",
+          "id": "tanggal lahir",
+          "phonetic": "/ˈbɜːrθdeɪ/",
+          "example_en": "My birthday is in August.",
+          "example_id": "Ulang tahun saya di bulan Agustus."
+        },
+        {
+          "en": "nationality",
+          "id": "kewarganegaraan",
+          "phonetic": "/ˌnæʃəˈnæləti/",
+          "example_en": "I am Indonesian.",
+          "example_id": "Saya orang Indonesia."
+        },
+        {
+          "en": "live",
+          "id": "tinggal",
+          "phonetic": "/lɪv/",
+          "example_en": "I live in Mariana.",
+          "example_id": "Saya tinggal di Mariana."
+        },
+        {
+          "en": "from",
+          "id": "dari",
+          "phonetic": "/frɒm/",
+          "example_en": "I am from Banyuasin.",
+          "example_id": "Saya dari Banyuasin."
+        },
+        {
+          "en": "old",
+          "id": "tahun (umur)",
+          "phonetic": "/oʊld/",
+          "example_en": "I am 10 years old.",
+          "example_id": "Saya berumur 10 tahun."
+        },
+        {
+          "en": "year",
+          "id": "tahun",
+          "phonetic": "/jɪr/",
+          "example_en": "I am ten years old.",
+          "example_id": "Saya berumur sepuluh tahun."
+        },
+        {
+          "en": "occupation",
+          "id": "pekerjaan",
+          "phonetic": "/ˌɒkjuˈpeɪʃn/",
+          "example_en": "My occupation is student.",
+          "example_id": "Pekerjaan saya pelajar."
+        },
+        {
+          "en": "student",
+          "id": "pelajar",
+          "phonetic": "/ˈstuːdnt/",
+          "example_en": "I am a student.",
+          "example_id": "Saya seorang pelajar."
+        },
+        {
+          "en": "how old",
+          "id": "berapa umur",
+          "phonetic": "/haʊ oʊld/",
+          "example_en": "How old are you?",
+          "example_id": "Berapa umurmu?"
+        },
+        {
+          "en": "where",
+          "id": "di mana",
+          "phonetic": "/wer/",
+          "example_en": "Where do you live?",
+          "example_id": "Di mana kamu tinggal?"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 4 latihan berurutan. (1) **Drill:** murid mengulang 6 pola jawaban setelah guru 2x. (2) **Pasangan Q-A:** A menanyakan 6 pertanyaan, B menjawab dengan kalimat penuh; giliran. (3) **Isian:** lengkapi 'I ___ twelve years ___. I ___ in Jakarta. My birthday is ___ March 5th.' (4) **Role play:** satu murid jadi petugas imigrasi, satu jadi penumpang; tanyakan dan jawab 5 pertanyaan data diri. (5) **Koreksi:** tulis di papan 'I twelve years. I live at Jakarta.' dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your name?",
+          "id": "Siapa namamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My name is Andi Wijaya.",
+          "id": "Nama saya Andi Wijaya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How old are you?",
+          "id": "Berapa umurmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm twelve years old.",
+          "id": "Saya berumur dua belas tahun."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you live?",
+          "id": "Di mana kamu tinggal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I live in Jakarta, Indonesia.",
+          "id": "Saya tinggal di Jakarta, Indonesia."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's your phone number?",
+          "id": "Berapa nomor teleponmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's 0812-3456-7890.",
+          "id": "0812-3456-7890."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When's your birthday?",
+          "id": "Kapan ulang tahunmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's on March 5th. I'm Indonesian.",
+          "id": "5 Maret. Saya warga Indonesia."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap! Hari ini kita belajar enam pola jawaban standar untuk pertanyaan data diri. Yang paling penting diingat: I'm ___ years old (jangan lupa old), I live in (bukan at) untuk kota, dan It's on (bukan in atau at) untuk tanggal ulang tahun. Pertanyaan untuk kalian: bagaimana kamu menjawab 'How old are you?' dan 'When's your birthday?' dengan kalimat lengkap? Untuk PR, tulis perkenalan diri lengkap 6 kalimat menggunakan semua pola jawaban tadi. Besok kita akan dalami kata kerja to be: am, is, are yang menjadi dasar semua kalimat tadi. Sampai jumpa!",
+      "instructions": "Rangkum 6 pola jawaban. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

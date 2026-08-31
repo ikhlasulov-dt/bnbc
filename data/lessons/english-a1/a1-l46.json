@@ -1,0 +1,283 @@
+{
+  "id": "a1-l46",
+  "course_id": "english-a1",
+  "module_title": "Hobi",
+  "level": "A1",
+  "title": "Daftar Hobi dan Olahraga",
+  "subtitle": "Kosakata hobi dan olahraga dalam -ing",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan nama hobi dan olahraga dalam bahasa Inggris",
+    "Mengenal bentuk gerund (-ing) untuk aktivitas",
+    "Membedakan hobi individu dan olahraga"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Hari ini kita memulai modul baru yang seru: Hobi dan Olahraga. Sebelum masuk, mari kita ingat modul kemarin tentang Sekolah. Siapa yang masih ingat, 'papan tulis' bahasa Inggrisnya apa? Bagus, blackboard. Sekarang coba angkat tangan, siapa yang punya hobi? Apa hobimu? Membaca? Berenang? Bermain sepak bola? Menari? Dalam bahasa Inggris, semua hobi itu punya nama. Dan ada satu hal menarik: banyak hobi dalam bahasa Inggris pakai akhiran *-ing*: reading, swimming, dancing, cooking. Hari ini kita akan belajar 12-15 kosakata hobi dan olahraga, dan mengapa banyak yang berakhiran *-ing*. Rencana: kita kenal kosakata hobi, pelajari pola -ing, dan pakai dalam kalimat. Ayo mulai!",
+      "instructions": "Tulis daftar hobi di papan: membaca, berenang, menggambar, memasak. Minta siswa menebak bahasa Inggrisnya. Perkenalkan pola -ing untuk aktivitas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Hobi dengan Akhiran -ing\n\nBanyak hobi dalam bahasa Inggris dibentuk dari kata kerja + *-ing*. Ini menunjukkan aktivitas yang sedang atau rutin dilakukan sebagai hobi.\n\n| Kata kerja | Hobi (-ing) | Indonesia |\n|---|---|---|\n| read | reading | membaca |\n| swim | swimming | berenang |\n| draw | drawing | menggambar |\n| sing | singing | bernyanyi |\n| dance | dancing | menari |\n| cook | cooking | memasak |\n| run | running | berlari |\n| cycle | cycling | bersepeda |\n| play | playing | bermain |\n| write | writing | menulis |\n| fish | fishing | memancing |\n| garden | gardening | berkebun |\n\n## Olahraga\n\nBeberapa olahraga adalah kata benda biasa (tanpa -ing):\n\n| Inggris | Indonesia |\n|---|---|\n| football | sepak bola |\n| basketball | bola basket |\n| badminton | bulu tangkis |\n| volleyball | bola voli |\n| tennis | tenis |\n| swimming | renang |\n| running | lari |\n\n## Pola Kalimat\n\n- **My hobby is ___ing.** → Hobiku ___.\n  - My hobby is reading.\n  - My hobby is swimming.\n- **I like ___ing.** → Saya suka ___.\n  - I like drawing.\n  - I like cooking.\n- **I play ___.** → Saya bermain ___.\n  - I play football.\n  - I play badminton.\n\n## Catatan Penting\n\n- Untuk olahraga dengan bola, pakai *play*: play football, play basketball.\n- Untuk aktivitas *-ing*, tidak pakai *play*: 'I like swimming' (BUKAN 'I like play swimming').\n- *Do sports* / *do exercise* = berolahraga (umum).\n\n## Mini-Dialog\n\n**A:** What is your hobby?\n\n**B:** My hobby is reading. I love story books.\n\n**A:** Do you like swimming?\n\n**B:** Yes, I swim every Sunday. And you?\n\n**A:** I like playing football with my friends.\n\n> **Hindari:** mengatakan 'I like play football' — pilih salah satu: *I like playing football* atau *I play football*. Jangan campur *like play*.",
+      "key_points": [
+        "Banyak hobi pakai -ing: reading, swimming, cooking, drawing",
+        "My hobby is ___ing = Hobiku ___",
+        "I like ___ing = Saya suka ___",
+        "Pakai play + olahraga bola: play football, play basketball",
+        "Tidak pakai play untuk -ing: 'I like swimming' (bukan 'play swimming')",
+        "do sports / do exercise = berolahraga umum",
+        "football = sepak bola, badminton = bulu tangkis",
+        "Jangan campur 'like play': pakai 'like playing' atau 'play'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "hobby",
+          "id": "hobi",
+          "phonetic": "/ˈhɒbi/",
+          "example_en": "My hobby is reading.",
+          "example_id": "Hobi saya membaca."
+        },
+        {
+          "en": "reading",
+          "id": "membaca",
+          "phonetic": "/ˈriːdɪŋ/",
+          "example_en": "I love reading story books.",
+          "example_id": "Saya suka membaca buku cerita."
+        },
+        {
+          "en": "swimming",
+          "id": "berenang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is fun.",
+          "example_id": "Berenang itu menyenangkan."
+        },
+        {
+          "en": "drawing",
+          "id": "menggambar",
+          "phonetic": "/ˈdrɔːɪŋ/",
+          "example_en": "She likes drawing flowers.",
+          "example_id": "Dia suka menggambar bunga."
+        },
+        {
+          "en": "singing",
+          "id": "bernyanyi",
+          "phonetic": "/ˈsɪŋɪŋ/",
+          "example_en": "Singing makes me happy.",
+          "example_id": "Bernyanyi membuat saya bahagia."
+        },
+        {
+          "en": "dancing",
+          "id": "menari",
+          "phonetic": "/ˈdænsɪŋ/",
+          "example_en": "They are dancing together.",
+          "example_id": "Mereka menari bersama."
+        },
+        {
+          "en": "cooking",
+          "id": "memasak",
+          "phonetic": "/ˈkʊkɪŋ/",
+          "example_en": "Cooking is my hobby.",
+          "example_id": "Memasak adalah hobi saya."
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "We play football on Sunday.",
+          "example_id": "Kami bermain sepak bola pada hari Minggu."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He likes basketball.",
+          "example_id": "Dia suka bola basket."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular here.",
+          "example_id": "Bulu tangkis populer di sini."
+        },
+        {
+          "en": "cycling",
+          "id": "bersepeda",
+          "phonetic": "/ˈsaɪklɪŋ/",
+          "example_en": "Cycling is good exercise.",
+          "example_id": "Bersepeda adalah olahraga yang baik."
+        },
+        {
+          "en": "running",
+          "id": "berlari",
+          "phonetic": "/ˈrʌnɪŋ/",
+          "example_en": "Running is tiring for me.",
+          "example_id": "Berlari melelahkan bagi saya."
+        },
+        {
+          "en": "music",
+          "id": "musik",
+          "phonetic": "/ˈmjuːzɪk/",
+          "example_en": "I listen to music every day.",
+          "example_id": "Saya mendengarkan musik setiap hari."
+        },
+        {
+          "en": "game",
+          "id": "permainan",
+          "phonetic": "/ɡeɪm/",
+          "example_en": "We play a game together.",
+          "example_id": "Kami bermain permainan bersama."
+        },
+        {
+          "en": "writing",
+          "id": "menulis",
+          "phonetic": "/ˈraɪtɪŋ/",
+          "example_en": "Writing is fun.",
+          "example_id": "Menulis itu menyenangkan."
+        },
+        {
+          "en": "fishing",
+          "id": "memancing",
+          "phonetic": "/ˈfɪʃɪŋ/",
+          "example_en": "My father likes fishing.",
+          "example_id": "Ayah saya suka memancing."
+        },
+        {
+          "en": "to play",
+          "id": "bermain",
+          "phonetic": "/tuː pleɪ/",
+          "example_en": "I play football on Sunday.",
+          "example_id": "Saya bermain sepak bola hari Minggu."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill -ing**: Guru menyebut kata kerja (read, swim, draw, sing, dance, cook), siswa menambahkan -ing dan meneriakkan hasilnya.\n2. **Pair work**: Tanyakan ke pasangan 'What is your hobby?' — catat jawaban 3 teman.\n3. **Fill-in-the-blank**: Lengkapi — (a) My hobby is ___. (b) I like ___ football. (c) She likes ___ (swim). (d) We play ___ every Sunday.\n4. **Role play 'Hobby club'**: Siswa A mewawancarai siswa B untuk ikut klub hobi — tanyakan hobi, jadwal, dan alasan.\n5. **Error correction**: Perbaiki — 'I like play swimming', 'My hobby is read', 'She likes play badminton', 'I play cooking'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. What is your hobby?",
+          "id": "Hai, Andi. Apa hobimu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My hobby is reading. I love story books.",
+          "id": "Hobi saya membaca. Saya suka buku cerita."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What kind of books do you read?",
+          "id": "Buku apa yang kamu baca?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I read adventure books and comic books.",
+          "id": "Saya baca buku petualangan dan komik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's interesting. Do you like sports?",
+          "id": "Menarik. Kamu suka olahraga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I like playing football with my friends.",
+          "id": "Ya, saya suka bermain sepak bola dengan teman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When do you play football?",
+          "id": "Kapan kamu bermain sepak bola?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I play football every Sunday afternoon.",
+          "id": "Saya main sepak bola setiap Minggu sore."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like swimming too?",
+          "id": "Kamu suka berenang juga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love swimming. I swim on Saturday morning.",
+          "id": "Ya, saya suka berenang. Saya berenang Sabtu pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about your sister? What's her hobby?",
+          "id": "Kalau kakakmu? Apa hobinya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Her hobby is drawing. She draws beautiful flowers.",
+          "id": "Hobinya menggambar. Dia menggambar bunga indah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does she like singing?",
+          "id": "Dia suka bernyanyi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, she loves singing and dancing too.",
+          "id": "Ya, dia suka bernyanyi dan menari juga."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And your brother? Does he like cooking?",
+          "id": "Lalu kakakmu? Suka memasak?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, he doesn't. He likes cycling and running.",
+          "id": "Tidak. Dia suka bersepeda dan berlari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Wow, your family is active!",
+          "id": "Wah, keluargamu aktif!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, we love sports and hobbies together.",
+          "id": "Ya, kami suka olahraga dan hobi bersama."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar kosakata hobi dan olahraga: reading, swimming, drawing, singing, dancing, cooking, football, badminton, dan lainnya. Kita tahu sekarang bahwa banyak hobi pakai akhiran *-ing*, dan ada pola *My hobby is ___ing* serta *I like ___ing*. Ingat, jangan campur *like play* — pakai *like playing* atau *play*. Sebelum tutup, dua pertanyaan: apa hobimu? Bagaimana mengatakan 'Saya suka bermain sepak bola' dalam bahasa Inggris? Untuk pekerjaan rumah, tulislah 8 kalimat tentang hobi kamu dan 3 anggota keluarga. Pakai pola *My hobby is ___ing* dan *I like playing ___*. Besok kita akan belajar lebih dalam pola like, love, prefer + gerund. Sampai jumpa!",
+      "instructions": "Rangkum kosakata hobi di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 8 kalimat hobi keluarga dan sampaikan topik besok."
+    }
+  ]
+}

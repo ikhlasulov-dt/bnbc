@@ -1,0 +1,338 @@
+{
+  "id": "a1-l72",
+  "course_id": "english-a1",
+  "module_title": "Transportasi",
+  "level": "A1",
+  "title": "Memilih Moda Transportasi",
+  "subtitle": "I go to school by bus",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyatakan pilihan transportasi dengan pola I go to + tempat + by + transportasi",
+    "Menanyakan moda transportasi orang lain",
+    "Merangkum seluruh modul Transportasi"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Ini pelajaran terakhir modul Transportasi, dan juga pelajaran terakhir dari 36 pelajaran A1 ini. Mari kita rangkai semua yang telah kita pelajari. Selama modul ini, kita belajar kosakata transportasi, preposisi by, kosakata arah, dan percakapan meminta arah. Hari ini kita akan fokus ke cara memilih moda transportasi yang tepat. Coba, kalau kamu ingin pergi ke sekolah, kamu pilih apa? Bus? Sepeda? Jalan kaki? Mengapa? Itulah yang akan kita pelajari — bagaimana membicarakan pilihan transportasi kita dengan kalimat seperti *I go to school by bus because it's cheap*. Rencana: kita pelajari cara memilih transportasi dengan alasan, dan berlatih percakapan lengkap. Ayo mulai!",
+      "instructions": "Tulis di papan: 'I go to ___ by ___ because ___.' Beri contoh: 'I go to school by bus because it's cheap.' Minta siswa menyebut alasan mereka memilih moda transportasi tertentu."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Memilih Moda Transportasi\n\nSaat memilih moda transportasi, kita biasanya mempertimbangkan beberapa hal:\n\n| Pertimbangan | Inggris |\n|---|---|\n| cepat | fast |\n| murah | cheap |\n| mahal | expensive |\n| nyaman | comfortable |\n| dekat | near |\n| jauh | far |\n| aman | safe |\n| mudah | easy |\n\n## Pola Kalimat\n\n**I go to ___ by ___ because ___.**\n\n- I go to school **by bus** because **it's cheap**.\n- I go to Bali **by plane** because **it's fast**.\n- I go to the market **on foot** because **it's near**.\n- My father goes to work **by car** because **it's comfortable**.\n\n## Pertanyaan tentang Pilihan Transportasi\n\n- **How do you go to ___?** → Kamu ke ___ naik apa?\n- **Why do you go by ___?** → Kenapa kamu naik ___?\n- **Which is faster, ___ or ___?** → Mana yang lebih cepat, ___ atau ___?\n- **Is ___ cheap or expensive?** → ___ murah atau mahal?\n\n## Membandingkan Moda Transportasi\n\n- A plane is **faster than** a train.\n- A bicycle is **cheaper than** a car.\n- A bus is **slower than** a plane.\n- Walking is **the cheapest** way.\n\n## Contoh Percakapan\n\n**A:** How do you go to school?\n\n**B:** I go to school by bus.\n\n**A:** Why don't you go by car?\n\n**B:** Because the bus is cheaper. And my father needs the car for work.\n\n**A:** Is the bus comfortable?\n\n**B:** Yes, but it can be crowded in the morning.\n\n**A:** How long does it take?\n\n**B:** About 30 minutes.\n\n**A:** I go on foot. It's only 10 minutes for me.\n\n**B:** Lucky you! Walking is good exercise.\n\n## Tips\n\n- Pilih transportasi yang sesuai kebutuhan: cepat, murah, atau nyaman.\n- Pikirkan jarak: dekat bisa jalan kaki atau sepeda.\n- Pikirkan biaya: bus lebih murah daripada taksi.\n\n> **Hindari:** mengatakan 'I go with bus because is cheap' — yang benar *I go by bus because it's cheap*. Jangan lupa subjek *it* sebelum *is*.",
+      "key_points": [
+        "I go to ___ by ___ because ___ = Saya ke ___ naik ___ karena ___",
+        "Alasan: cheap, fast, comfortable, near, far, safe",
+        "Why do you go by ___? = Kenapa kamu naik ___?",
+        "Which is faster, ___ or ___? = Mana lebih cepat, ___ atau ___?",
+        "A plane is faster than a train = Pesawat lebih cepat dari kereta",
+        "Walking is the cheapest way = Jalan kaki paling murah",
+        "Pertimbangan: jarak, biaya, waktu, kenyamanan",
+        "Jangan 'because is cheap' — pakai 'because it's cheap'"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "transportation",
+          "id": "transportasi",
+          "phonetic": "/ˌtrænspərˈteɪʃn/",
+          "example_en": "Public transportation is cheap.",
+          "example_id": "Transportasi umum murah."
+        },
+        {
+          "en": "car",
+          "id": "mobil",
+          "phonetic": "/kɑːr/",
+          "example_en": "My father has a car.",
+          "example_id": "Ayah saya punya mobil."
+        },
+        {
+          "en": "bus",
+          "id": "bus",
+          "phonetic": "/bʌs/",
+          "example_en": "I go to school by bus.",
+          "example_id": "Saya ke sekolah naik bus."
+        },
+        {
+          "en": "train",
+          "id": "kereta",
+          "phonetic": "/treɪn/",
+          "example_en": "The train is fast.",
+          "example_id": "Keretanya cepat."
+        },
+        {
+          "en": "bicycle",
+          "id": "sepeda",
+          "phonetic": "/ˈbaɪsɪkl/",
+          "example_en": "I ride a bicycle to the park.",
+          "example_id": "Saya naik sepeda ke taman."
+        },
+        {
+          "en": "motorcycle",
+          "id": "sepeda motor",
+          "phonetic": "/ˈmoʊtərsaɪkl/",
+          "example_en": "He rides a motorcycle.",
+          "example_id": "Dia naik sepeda motor."
+        },
+        {
+          "en": "taxi",
+          "id": "taksi",
+          "phonetic": "/ˈtæksi/",
+          "example_en": "We take a taxi to the airport.",
+          "example_id": "Kami naik taksi ke bandara."
+        },
+        {
+          "en": "plane",
+          "id": "pesawat",
+          "phonetic": "/pleɪn/",
+          "example_en": "The plane flies to Bali.",
+          "example_id": "Pesawat terbang ke Bali."
+        },
+        {
+          "en": "ship",
+          "id": "kapal",
+          "phonetic": "/ʃɪp/",
+          "example_en": "The ship is big.",
+          "example_id": "Kapalnya besar."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is near here.",
+          "example_id": "Stasiun dekat dari sini."
+        },
+        {
+          "en": "street",
+          "id": "jalan",
+          "phonetic": "/striːt/",
+          "example_en": "This street is busy.",
+          "example_id": "Jalan ini ramai."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "left",
+          "id": "kiri",
+          "phonetic": "/left/",
+          "example_en": "Turn left at the corner.",
+          "example_id": "Belok kiri di pojok."
+        },
+        {
+          "en": "right",
+          "id": "kanan",
+          "phonetic": "/raɪt/",
+          "example_en": "The bank is on your right.",
+          "example_id": "Bank ada di sebelah kanan Anda."
+        },
+        {
+          "en": "straight",
+          "id": "lurus",
+          "phonetic": "/streɪt/",
+          "example_en": "Go straight ahead.",
+          "example_id": "Lurus terus ke depan."
+        },
+        {
+          "en": "turn",
+          "id": "belok",
+          "phonetic": "/tɜːrn/",
+          "example_en": "Turn right at the light.",
+          "example_id": "Belok kanan di lampu."
+        },
+        {
+          "en": "because",
+          "id": "karena",
+          "phonetic": "/bɪˈkɒz/",
+          "example_en": "I go by bus because it's cheap.",
+          "example_id": "Saya naik bus karena murah."
+        },
+        {
+          "en": "fast",
+          "id": "cepat",
+          "phonetic": "/fæst/",
+          "example_en": "The plane is fast.",
+          "example_id": "Pesawat cepat."
+        },
+        {
+          "en": "comfortable",
+          "id": "nyaman",
+          "phonetic": "/ˈkʌmftəbl/",
+          "example_en": "The car is comfortable.",
+          "example_id": "Mobilnya nyaman."
+        },
+        {
+          "en": "crowded",
+          "id": "ramai/padat",
+          "phonetic": "/ˈkraʊdɪd/",
+          "example_en": "The bus is crowded.",
+          "example_id": "Busnya padat."
+        },
+        {
+          "en": "safe",
+          "id": "aman",
+          "phonetic": "/seɪf/",
+          "example_en": "Walking is safe here.",
+          "example_id": "Jalan kaki aman di sini."
+        },
+        {
+          "en": "easy",
+          "id": "mudah",
+          "phonetic": "/ˈiːzi/",
+          "example_en": "It's easy to take a taxi.",
+          "example_id": "Mudah naik taksi."
+        },
+        {
+          "en": "exercise",
+          "id": "olahraga",
+          "phonetic": "/ˈeksərsaɪz/",
+          "example_en": "Walking is good exercise.",
+          "example_id": "Jalan kaki olahraga bagus."
+        },
+        {
+          "en": "lucky",
+          "id": "beruntung",
+          "phonetic": "/ˈlʌki/",
+          "example_en": "You are lucky!",
+          "example_id": "Kamu beruntung!"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill pilihan + alasan**: Guru menyebut tujuan + moda (sekolah/bus, Bali/plane, pasar/on foot), siswa membuat kalimat 'I go to ___ by ___ because ___'.\n2. **Pair work 'Why do you choose?'**: Siswa A bertanya 'Why do you go by ___?' untuk 5 moda, siswa B menjawab dengan alasan.\n3. **Fill-in-the-blank**: Lengkapi — (a) I go to school ___ bus ___ it's cheap. (b) ___ do you go by plane? ___ it's fast. (c) A plane is ___ than a train. (d) Walking is the ___ way.\n4. **Role play 'Compare transport'**: Dalam kelompok, bandingkan 4 moda transportasi untuk pergi ke 1 destinasi — bahas cepat, murah, dan nyaman.\n5. **Error correction**: Perbaiki — 'I go with bus because is cheap', 'Plane is faster as train', 'Why you go by car?', 'Walking is more cheap than bus'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. How do you go to school?",
+          "id": "Hai, Andi. Kamu ke sekolah naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I go to school by bus, teacher.",
+          "id": "Saya ke sekolah naik bus, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you go by bus?",
+          "id": "Kenapa naik bus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because it's cheap. The bus is only 3,000 rupiah.",
+          "id": "Karena murah. Busnya hanya 3,000 rupiah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why don't you go by car?",
+          "id": "Kenapa tidak naik mobil?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because my father needs the car for work. And the bus is fine.",
+          "id": "Karena ayah saya butuh mobil untuk kerja. Dan busnya biasa saja."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is the bus comfortable?",
+          "id": "Busnya nyaman?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, but it can be crowded in the morning. Many students take it.",
+          "id": "Ya, tapi pagi bisa padat. Banyak murid naik."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How long does it take?",
+          "id": "Berapa lama perjalanannya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "About 30 minutes by bus. Not too long.",
+          "id": "Sekitar 30 menit naik bus. Tidak terlalu lama."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How does your sister go to campus?",
+          "id": "Kakakmu ke kampus naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She goes by train. The train is fast and comfortable.",
+          "id": "Naik kereta. Cepat dan nyaman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why doesn't she go by motorcycle?",
+          "id": "Kenapa tidak naik motor?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Because the train is safer. The streets are busy in the morning.",
+          "id": "Karena kereta lebih aman. Jalan ramai pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do you go to Bali for holiday?",
+          "id": "Kalau liburan ke Bali naik apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We go by plane because it's fast. Only 2 hours!",
+          "id": "Kami naik pesawat karena cepat. Hanya 2 jam!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is the plane expensive?",
+          "id": "Pesawatnya mahal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, a bit expensive. But it's worth it for the time.",
+          "id": "Ya, agak mahal. Tapi sebanding dengan waktu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good reasoning! You think carefully about transport.",
+          "id": "Penalaran bagus! Kamu berpikir hati-hati soal transportasi."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar memilih moda transportasi dengan alasan: *I go to ___ by ___ because ___*. Kita juga belajar membandingkan: *A plane is faster than a train*, *Walking is the cheapest way*. Ingat, selalu sertakan alasan dengan *because*. Sebelum tutup, dua pertanyaan: bagaimana kamu pergi ke sekolah dan kenapa? Moda transportasi apa yang paling murah? Untuk pekerjaan rumah, tulislah 8 kalimat tentang pilihan transportasi kamu dan keluarga ke berbagai tempat — sertakan alasan dengan *because*. Selamat! Ini pelajaran terakhir dari 36 pelajaran A1. Kalian sudah menyelesaikan level A1 dengan baik. Tingkatkan terus bahasa Inggris kalian. Sampai jumpa di level A2!",
+      "instructions": "Rangkum pola 'I go to ___ by ___ because ___' di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 8 kalimat pilihan transportasi. Rayakan penyelesaian level A1 dan sampaikan transisi ke A2."
+    }
+  ]
+}

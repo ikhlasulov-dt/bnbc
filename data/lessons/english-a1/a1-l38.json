@@ -1,0 +1,264 @@
+{
+  "id": "a1-l38",
+  "course_id": "english-a1",
+  "module_title": "Makanan dan Minuman",
+  "level": "A1",
+  "title": "Countable dan Uncountable Nouns",
+  "subtitle": "a/an, some/many, dan measure words",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membedakan countable dan uncountable nouns",
+    "Menggunakan a/an untuk countable tunggal",
+    "Menggunakan measure word untuk uncountable (a glass of water)"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar hari ini? Mari kita ingat pelajaran kemarin tentang waktu makan: breakfast, lunch, dinner, snack. Coba, siapa yang bisa kasih contoh kalimat 'I have breakfast at 6'? Bagus. Hari ini kita akan masuk ke topik yang sangat penting dalam bahasa Inggris: *countable* dan *uncountable nouns* — benda yang bisa dihitung dan yang tidak bisa dihitung. Pernahkah kalian memperhatikan kenapa kita bilang 'an apple' tetapi 'some water'? Kenapa 'two eggs' tetapi tidak 'two rices'? Nah, itu yang akan kita pelajari. Rencana hari ini: kita akan kenal perbedaan dua jenis kata benda ini, belajar artikel a/an, kata some, many, much, dan measure words seperti a glass of, a piece of. Siap? Ayo mulai!",
+      "instructions": "Gambar dua kolom di papan: COUNTABLE (apple, egg) dan UNCOUNTABLE (water, rice). Minta siswa menyebut makanan yang mereka tahu dan tempelkan ke kolom yang benar bersama-sama."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Countable vs Uncountable Nouns\n\nDalam bahasa Inggris, kata benda dibagi menjadi dua jenis:\n\n| Jenis | Arti | Ciri | Contoh |\n|---|---|---|---|\n| Countable | bisa dihitung | ada bentuk jamak (-s) | apple → apples, egg → eggs |\n| Uncountable | tidak bisa dihitung | tidak ada bentuk jamak | water, rice, milk, sugar |\n\n## Artikel a / an\n\nArtikel *a* dan *an* hanya untuk **countable singular** (tunggal):\n\n- **a** + kata diawali bunyi konsonan: *a book, a car, a pencil*\n- **an** + kata diawali bunyi vokal: *an apple, an egg, an orange*\n\nPerhatikan: yang menentukan adalah **bunyi**, bukan huruf. Kita bilang *an hour* (karena 'h' tidak dibaca) tetapi *a university* (karena dibaca /yuː/).\n\n## Kata some, many, much\n\n- **some** → untuk countable (jamak) dan uncountable: *some apples, some water*\n- **many** → hanya untuk countable (jamak): *many eggs, many books*\n- **much** → hanya untuk uncountable: *much water, much rice*\n\n## Measure Words untuk Uncountable\n\nKarena uncountable tidak bisa dihitung langsung, kita pakai ukuran:\n\n| Pola | Contoh |\n|---|---|\n| a glass of | a glass of water |\n| a cup of | a cup of tea |\n| a piece of | a piece of bread |\n| a bowl of | a bowl of rice |\n| a bottle of | a bottle of milk |\n\n## Mini-Dialog\n\n**A:** Can I have an apple, please?\n\n**B:** Sorry, I only have some bananas.\n\n**A:** That's fine. Can I also have a glass of water?\n\n**B:** Sure, here you are.\n\n> **Hindari:** mengatakan 'a water', 'two rices', 'much eggs'. Pakailah *a glass of water*, *two bowls of rice*, *many eggs*.",
+      "key_points": [
+        "Countable = bisa dihitung, ada bentuk jamak: apple → apples",
+        "Uncountable = tidak bisa dihitung, tidak ada bentuk jamak: water, rice",
+        "Artikel *a* dipakai sebelum bunyi konsonan: a book, a car",
+        "Artikel *an* dipakai sebelum bunyi vokal: an apple, an egg",
+        "*some* bisa untuk countable (jamak) dan uncountable",
+        "*many* hanya untuk countable jamak: many eggs",
+        "*much* hanya untuk uncountable: much water, much rice",
+        "Measure words: a glass of, a cup of, a piece of, a bowl of"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "rice",
+          "id": "nasi",
+          "phonetic": "/raɪs/",
+          "example_en": "I eat rice every day.",
+          "example_id": "Saya makan nasi setiap hari."
+        },
+        {
+          "en": "bread",
+          "id": "roti",
+          "phonetic": "/bred/",
+          "example_en": "I have bread for breakfast.",
+          "example_id": "Saya makan roti untuk sarapan."
+        },
+        {
+          "en": "egg",
+          "id": "telur",
+          "phonetic": "/eɡ/",
+          "example_en": "I eat two eggs.",
+          "example_id": "Saya makan dua telur."
+        },
+        {
+          "en": "chicken",
+          "id": "ayam",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "example_en": "The chicken is delicious.",
+          "example_id": "Ayamnya enak."
+        },
+        {
+          "en": "fish",
+          "id": "ikan",
+          "phonetic": "/fɪʃ/",
+          "example_en": "I like grilled fish.",
+          "example_id": "Saya suka ikan bakar."
+        },
+        {
+          "en": "water",
+          "id": "air",
+          "phonetic": "/ˈwɔːtər/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        },
+        {
+          "en": "milk",
+          "id": "susu",
+          "phonetic": "/mɪlk/",
+          "example_en": "I drink milk in the morning.",
+          "example_id": "Saya minum susu di pagi hari."
+        },
+        {
+          "en": "tea",
+          "id": "teh",
+          "phonetic": "/tiː/",
+          "example_en": "Would you like some tea?",
+          "example_id": "Mau teh?"
+        },
+        {
+          "en": "coffee",
+          "id": "kopi",
+          "phonetic": "/ˈkɒfi/",
+          "example_en": "My father drinks coffee.",
+          "example_id": "Ayah saya minum kopi."
+        },
+        {
+          "en": "juice",
+          "id": "jus",
+          "phonetic": "/dʒuːs/",
+          "example_en": "I like orange juice.",
+          "example_id": "Saya suka jus jeruk."
+        },
+        {
+          "en": "fruit",
+          "id": "buah",
+          "phonetic": "/fruːt/",
+          "example_en": "Fruit is healthy.",
+          "example_id": "Buah itu sehat."
+        },
+        {
+          "en": "vegetable",
+          "id": "sayur",
+          "phonetic": "/ˈvedʒtəbl/",
+          "example_en": "I eat vegetables every day.",
+          "example_id": "Saya makan sayur setiap hari."
+        },
+        {
+          "en": "apple",
+          "id": "apel",
+          "phonetic": "/ˈæpl/",
+          "example_en": "I eat an apple every day.",
+          "example_id": "Saya makan sebutir apel setiap hari."
+        },
+        {
+          "en": "sugar",
+          "id": "gula",
+          "phonetic": "/ˈʃʊɡər/",
+          "example_en": "I put sugar in my tea.",
+          "example_id": "Saya menaruh gula di teh saya."
+        },
+        {
+          "en": "a piece of",
+          "id": "sepotong",
+          "phonetic": "/ə piːs əv/",
+          "example_en": "Can I have a piece of cake?",
+          "example_id": "Boleh saya minta sepotong kue?"
+        },
+        {
+          "en": "a glass of",
+          "id": "segelas",
+          "phonetic": "/ə ɡlæs əv/",
+          "example_en": "I drink a glass of water.",
+          "example_id": "Saya minum segelas air."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill klasifikasi**: Guru menyebut kata (apple, water, rice, egg, milk), siswa meneriakkan 'countable' atau 'uncountable'. Lakukan 10 kata.\n2. **Pair work**: Siswa A menyebut makanan, siswa B memberi artikel yang benar (a/an) atau kata 'some' bila uncountable. Tukar peran setelah 5 kata.\n3. **Fill-in-the-blank**: Lengkapi — (a) I have ___ apple. (b) She drinks ___ milk. (c) There are ___ eggs. (d) Can I have ___ glass of water?\n4. **Role play**: Berlatih memesan di kantin: 'Can I have an egg and a glass of milk, please?'\n5. **Error correction**: Perbaiki — 'two rices', 'a water', 'much eggs', 'an book', 'some apple'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Let's practice. Is 'apple' countable or uncountable?",
+          "id": "Mari berlatih. 'Apple' itu countable atau uncountable?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Apple is countable. We can say 'an apple' and 'two apples'.",
+          "id": "Apple itu countable. Bisa bilang 'an apple' dan 'two apples'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good. How about 'water'?",
+          "id": "Bagus. Bagaimana dengan 'water'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Water is uncountable. We say 'some water' or 'a glass of water'.",
+          "id": "Water itu uncountable. Kita bilang 'some water' atau 'a glass of water'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excellent. Can I say 'two waters'?",
+          "id": "Hebat. Bolehkah saya bilang 'two waters'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, that's wrong. We say 'two glasses of water'.",
+          "id": "Tidak, itu salah. Kita bilang 'two glasses of water'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Perfect. Now, what about 'rice'? Countable or uncountable?",
+          "id": "Sempurna. Lalu 'rice' bagaimana? Countable atau uncountable?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Rice is uncountable. We say 'a bowl of rice'.",
+          "id": "Rice itu uncountable. Kita bilang 'a bowl of rice'."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great. Can you give me a sentence with 'many'?",
+          "id": "Bagus. Coba beri kalimat dengan 'many'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes. I have many eggs in the kitchen.",
+          "id": "Ya. Saya punya banyak telur di dapur."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And one sentence with 'much'?",
+          "id": "Dan satu kalimat dengan 'much'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I don't drink much coffee. It's not healthy.",
+          "id": "Saya tidak minum banyak kopi. Tidak sehat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Nice work! What article do we use before 'egg'?",
+          "id": "Kerja bagus! Artikel apa sebelum 'egg'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We use 'an' because it starts with a vowel sound.",
+          "id": "Kita pakai 'an' karena diawali bunyi vokal."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And before 'banana'?",
+          "id": "Dan sebelum 'banana'?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "We use 'a' — a banana.",
+          "id": "Kita pakai 'a' — a banana."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar perbedaan countable dan uncountable nouns. Kita tahu sekarang bahwa *apple* dan *egg* bisa dihitung, tetapi *water* dan *rice* tidak bisa. Kita juga belajar artikel a/an, kata some, many, much, dan measure words seperti a glass of dan a bowl of. Sebelum tutup, ada dua pertanyaan: 'water' itu countable atau uncountable? Bagaimana kita menghitung 'bread' dalam bahasa Inggris? Untuk pekerjaan rumah, buatlah 8 kalimat: 4 dengan countable nouns (gunakan a/an/many) dan 4 dengan uncountable nouns (gunakan some/much/measure words). Besok kita akan belajar cara menyatakan kesukaan tentang makanan dengan kata like, love, hate, dan prefer. Sampai jumpa!",
+      "instructions": "Rangkum tabel countable vs uncountable di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR tertulis 8 kalimat dan umumkan topik besok."
+    }
+  ]
+}

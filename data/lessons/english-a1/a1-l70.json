@@ -1,0 +1,264 @@
+{
+  "id": "a1-l70",
+  "course_id": "english-a1",
+  "module_title": "Transportasi",
+  "level": "A1",
+  "title": "Menanyakan dan Memberikan Arah",
+  "subtitle": "How do I get to...? Go straight ahead.",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan frasa How do I get to untuk menanyakan rute",
+    "Memberikan instruksi arah dengan benar",
+    "Menyatakan posisi dengan next to, between, opposite"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang kosakata arah. Coba, siapa yang bisa kasih contoh 'Turn left'? Bagus. Hari ini kita akan belajar menanyakan arah dan memberikan arah dengan lengkap. Coba, kalau kamu tersesat dan ingin tanya jalan, apa yang kamu katakan? Dalam bahasa Indonesia: 'Maaf, bagaimana cara ke pasar?' Dalam bahasa Inggris: *Excuse me, how do I get to the market?* Hari ini kita akan belajar frasa-frasa untuk menanyakan dan memberi arah dengan lengkap dan sopan. Rencana: kita pelajari pertanyaan arah, frasa untuk memberi arah, dan latih dengan peta. Ayo mulai!",
+      "instructions": "Tulis di papan: 'How do I get to ___?' dan 'Where is ___?'. Beri contoh dengan beberapa tempat. Latih pelafalan pertanyaan lengkap bersama-sama."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pertanyaan untuk Menanyakan Arah\n\n| Pertanyaan | Arti | Nuansa |\n|---|---|---|\n| Excuse me, how do I get to ___? | Permisi, bagaimana saya ke ___? | paling umum, sopan |\n| Where is ___? | Di mana ___? | langsung |\n| Can you tell me the way to ___? | Bisa kasih tahu jalan ke ___? | formal |\n| Is there a ___ near here? | Ada ___ di dekat sini? | tanya keberadaan |\n\n## Contoh Penggunaan\n\n- Excuse me, **how do I get to the hospital**?\n- **Where is the nearest bus stop**?\n- Can you tell me **the way to the airport**?\n- **Is there a restaurant** near here?\n\n## Frasa untuk Memberi Arah\n\n| Frasa | Arti |\n|---|---|\n| Go straight ahead. | Lurus terus. |\n| Turn left. | Belok kiri. |\n| Turn right at the corner. | Belok kanan di sudut. |\n| Walk for 5 minutes. | Jalan 5 menit. |\n| It's on your left. | Ada di kirimu. |\n| It's on your right. | Ada di kananmu. |\n| It's next to ___. | Ada di sebelah ___. |\n| It's between ___ and ___. | Ada di antara ___ dan ___. |\n| You can't miss it. | Tidak akan terlewat. |\n\n## Contoh Dialog Memberi Arah\n\n**A:** Excuse me, how do I get to the post office?\n\n**B:** Sure. Go straight ahead for about 100 meters.\n\n**A:** OK, straight ahead.\n\n**B:** Then turn right at the traffic light.\n\n**A:** Right at the traffic light.\n\n**B:** The post office is on your left, next to the bank. You can't miss it.\n\n**A:** Thank you very much!\n\n**B:** You're welcome.\n\n## Frasa Tambahan\n\n- **Sorry, I don't know.** → Maaf, saya tidak tahu.\n- **I'm not from here.** → Saya bukan dari sini.\n- **Let me check the map.** → Saya cek peta dulu.\n- **It's about 10 minutes by bus.** → Sekitar 10 menit naik bus.\n\n> **Hindari:** mengatakan 'Where I go to market?' (struktur salah). Yang benar *How do I get to the market?* atau *Where is the market?*. Hindari juga lupa *Excuse me* — selalu pakai di awal agar sopan.",
+      "key_points": [
+        "How do I get to ___? = Bagaimana saya ke ___?",
+        "Where is ___? = Di mana ___?",
+        "Can you tell me the way to ___? = Bisa kasih tahu jalan ke ___?",
+        "Is there a ___ near here? = Ada ___ di dekat sini?",
+        "Go straight ahead = Lurus terus",
+        "Turn left/right at the corner = Belok kiri/kanan di sudut",
+        "It's on your left/right = Ada di kiri/kananmu",
+        "You can't miss it = Tidak akan terlewat"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "transportation",
+          "id": "transportasi",
+          "phonetic": "/ˌtrænspərˈteɪʃn/",
+          "example_en": "Public transportation is cheap.",
+          "example_id": "Transportasi umum murah."
+        },
+        {
+          "en": "street",
+          "id": "jalan",
+          "phonetic": "/striːt/",
+          "example_en": "This street is busy.",
+          "example_id": "Jalan ini ramai."
+        },
+        {
+          "en": "map",
+          "id": "peta",
+          "phonetic": "/mæp/",
+          "example_en": "Let's check the map.",
+          "example_id": "Mari kita periksa peta."
+        },
+        {
+          "en": "left",
+          "id": "kiri",
+          "phonetic": "/left/",
+          "example_en": "Turn left at the corner.",
+          "example_id": "Belok kiri di pojok."
+        },
+        {
+          "en": "right",
+          "id": "kanan",
+          "phonetic": "/raɪt/",
+          "example_en": "The bank is on your right.",
+          "example_id": "Bank ada di sebelah kanan Anda."
+        },
+        {
+          "en": "straight",
+          "id": "lurus",
+          "phonetic": "/streɪt/",
+          "example_en": "Go straight ahead.",
+          "example_id": "Lurus terus ke depan."
+        },
+        {
+          "en": "turn",
+          "id": "belok",
+          "phonetic": "/tɜːrn/",
+          "example_en": "Turn right at the light.",
+          "example_id": "Belok kanan di lampu."
+        },
+        {
+          "en": "station",
+          "id": "stasiun",
+          "phonetic": "/ˈsteɪʃn/",
+          "example_en": "The station is near here.",
+          "example_id": "Stasiun dekat dari sini."
+        },
+        {
+          "en": "to get to",
+          "id": "sampai ke",
+          "phonetic": "/tuː ɡet tuː/",
+          "example_en": "How do I get to the bank?",
+          "example_id": "Bagaimana saya ke bank?"
+        },
+        {
+          "en": "the way",
+          "id": "jalan",
+          "phonetic": "/ðə weɪ/",
+          "example_en": "Can you tell me the way?",
+          "example_id": "Bisa kasih tahu jalannya?"
+        },
+        {
+          "en": "near here",
+          "id": "dekat sini",
+          "phonetic": "/nɪr hɪr/",
+          "example_en": "Is there a shop near here?",
+          "example_id": "Ada toko dekat sini?"
+        },
+        {
+          "en": "minute",
+          "id": "menit",
+          "phonetic": "/ˈmɪnɪt/",
+          "example_en": "Walk for 5 minutes.",
+          "example_id": "Jalan 5 menit."
+        },
+        {
+          "en": "meter",
+          "id": "meter",
+          "phonetic": "/ˈmiːtər/",
+          "example_en": "Go 100 meters straight.",
+          "example_id": "Lurus 100 meter."
+        },
+        {
+          "en": "excuse me",
+          "id": "permisi",
+          "phonetic": "/ɪkˈskjuːz miː/",
+          "example_en": "Excuse me, where is the bank?",
+          "example_id": "Permisi, di mana bank?"
+        },
+        {
+          "en": "sorry",
+          "id": "maaf",
+          "phonetic": "/ˈsɒri/",
+          "example_en": "Sorry, I don't know.",
+          "example_id": "Maaf, saya tidak tahu."
+        },
+        {
+          "en": "can't miss",
+          "id": "tidak akan terlewat",
+          "phonetic": "/kænt mɪs/",
+          "example_en": "You can't miss it.",
+          "example_id": "Tidak akan terlewat."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill pertanyaan**: Guru menyebut situasi (mencari rumah sakit, mencari halte, tersesat), siswa memilih pertanyaan yang tepat.\n2. **Pair work 'Tourist and local'**: Siswa A jadi turis yang bertanya arah ke 4 tempat, siswa B memberi arah lengkap. Tukar peran.\n3. **Fill-in-the-blank**: Lengkapi — (a) How do I ___ to the bank? (b) Where ___ the post office? (c) Turn ___ at the corner. (d) It's on your ___.\n4. **Role play 'Street directions'**: Skenario di jalan — tanyakan arah ke 3 tempat dengan minimal 12 baris dialog.\n5. **Error correction**: Perbaiki — 'Where I go to market?', 'Where is bank?', 'Turn at left', 'It's in your right'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Excuse me, can you help me? I'm looking for the post office.",
+          "id": "Permisi, bisa bantu? Saya cari kantor pos."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Of course! Go straight ahead for about 100 meters.",
+          "id": "Tentu! Lurus terus sekitar 100 meter."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "OK, straight for 100 meters.",
+          "id": "Baik, lurus 100 meter."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Then turn right at the traffic light.",
+          "id": "Lalu belok kanan di lampu lalu lintas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Right at the traffic light. And then?",
+          "id": "Kanan di lampu. Terus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Then walk for about 5 minutes. The post office is on your left.",
+          "id": "Lalu jalan sekitar 5 menit. Kantor pos di kiri Anda."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it next to anything?",
+          "id": "Ada di sebelah apa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it's next to the bank. You can't miss it.",
+          "id": "Ya, di sebelah bank. Tidak akan terlewat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you! And do you know where the nearest hospital is?",
+          "id": "Terima kasih! Dan tahu di mana rumah sakit terdekat?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The hospital is far from here. Take a bus or a taxi.",
+          "id": "Rumah sakit jauh dari sini. Naik bus atau taksi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How do I get to the bus stop?",
+          "id": "Bagaimana ke halte bus?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Turn left outside the post office. The bus stop is on the corner.",
+          "id": "Belok kiri di luar kantor pos. Halte di sudut."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Which bus goes to the hospital?",
+          "id": "Bus mana yang ke rumah sakit?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Bus number 5. It goes every 15 minutes.",
+          "id": "Bus nomor 5. Berangkat setiap 15 menit."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Thank you so much for your help!",
+          "id": "Terima kasih banyak atas bantuannya!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You're welcome. Good luck!",
+          "id": "Sama-sama. Semoga berhasil!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar menanyakan dan memberi arah dengan lengkap. Kita tahu sekarang pertanyaan *How do I get to ___?*, *Where is ___?*, dan frasa memberi arah seperti *Go straight ahead*, *Turn left at the corner*, *It's on your left*. Sebelum tutup, dua pertanyaan: bagaimana menanyakan jalan ke rumah sakit? Bagaimana memberi tahu seseorang bahwa tempat itu ada di kirinya? Untuk pekerjaan rumah, buatlah dialog minimal 12 baris — kamu menanyakan arah ke 3 tempat berbeda dan seseorang memberi arah lengkap. Besok kita akan berlatih percakapan lengkap meminta arah. Sampai jumpa!",
+      "instructions": "Rangkum pertanyaan dan frasa arah di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR dialog 12 baris dan sampaikan topik besok."
+    }
+  ]
+}

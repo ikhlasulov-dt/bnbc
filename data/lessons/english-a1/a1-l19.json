@@ -1,0 +1,228 @@
+{
+  "id": "a1-l19",
+  "course_id": "english-a1",
+  "module_title": "Angka dan Waktu",
+  "level": "A1",
+  "title": "Bilangan Bertingkat (Ordinal Numbers)",
+  "subtitle": "first, second, third, ... twentieth",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk bilangan bertingkat dari bilangan pokok",
+    "Menghafal bentuk tidak beraturan (first, second, third, fifth)",
+    "Menggunakan ordinal untuk tanggal, lantai, urutan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar bilangan pokok (cardinal numbers) 0-100. Hari ini kita akan belajar bilangan bertingkat (ordinal numbers): first, second, third, dan seterusnya. Pernahkah kalian bingung cara menyebut 'tanggal 5' dalam Inggris — apakah 'five' atau 'fifth'? Itu yang akan kita selesaikan. Tujuan kita: kalian bisa menyebut dan menulis ordinal numbers 1st-31st untuk tanggal. Kita mulai dari teori pola ordinal, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tanya: 'When's your birthday?'. Tulis 'March 5th' di papan dan tekankan -th. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Bilangan Bertingkat (Ordinal Numbers)\n\nBilangan bertingkat (ordinal numbers) menunjukkan urutan: pertama, kedua, ketiga. Dipakai untuk tanggal, peringkat, dan urutan.\n\n### Ordinal 1st-12th (Harus Dihafal)\n\n| Angka | Ordinal | Singkatan | Arti |\n|---|---|---|---|\n| 1 | first | 1st | pertama |\n| 2 | second | 2nd | kedua |\n| 3 | third | 3rd | ketiga |\n| 4 | fourth | 4th | keempat |\n| 5 | fifth | 5th | kelima |\n| 6 | sixth | 6th | keenam |\n| 7 | seventh | 7th | ketujuh |\n| 8 | eighth | 8th | kedelapan |\n| 9 | ninth | 9th | kesembilan |\n| 10 | tenth | 10th | kesepuluh |\n| 11 | eleventh | 11th | kesebelas |\n| 12 | twelfth | 12th | kedua belas |\n\n### Pengecualian Penting\n\n- **first** (1st) — bukan 'oneth'\n- **second** (2nd) — bukan 'twoth'\n- **third** (3rd) — bukan 'threeth'\n- **fifth** (5th) — bukan 'fiveth' (hapus 'e')\n- **eighth** (8th) — hanya satu 't' (bukan eightth)\n- **ninth** (9th) — bukan 'nineth' (hapus 'e')\n- **twelfth** (12th) — bukan 'twelveth' (ubah 'v' menjadi 'f')\n\n### Pola 13th-19th\n\nTambahkan **-th** ke cardinal:\n- 13 → thirteenth\n- 14 → fourteenth\n- 15 → fifteenth\n- 19 → nineteenth\n\n### Pola 20th, 30th, dst.\n\nTambahkan **-th** ke puluhan:\n- 20 → twentieth (ubah 'y' menjadi 'ie')\n- 30 → thirtieth\n- 21 → twenty-first (bukan twenty-oneth)\n- 22 → twenty-second\n- 23 → twenty-third\n- 31 → thirty-first\n\n### Penggunaan Utama: Tanggal\n\nOrdinal numbers paling sering dipakai untuk tanggal:\n\n- *March 5th* — 5 Maret\n- *July 4th* — 4 Juli\n- *December 25th* — 25 Desember\n- *October 10th, 2024* — 10 Oktober 2024\n\nBisa juga ditulis: *the 5th of March*.\n\n### Cara Mengucapkan\n\n- **first** /fɜːrst/\n- **second** /ˈsekənd/\n- **third** /θɜːrd/\n- **fifth** /fɪfθ/\n- **twelfth** /twelfθ/\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: When's your birthday?\n- B: It's on March 5th.\n- A: What year?\n- B: I was born in 2012.\n\n**Dialog 2:**\n- A: What's today's date?\n- B: Today is October 10th.\n- A: And tomorrow?\n- B: October 11th.\n\n> **Hindari:** Jangan menulis 'fiveth' (harusnya *fifth*). Jangan menulis 'twenty-oneth' (harusnya *twenty-first*). Jangan lupa *-th* di akhir ordinal. Jangan tertukar cardinal (one, two, three) dan ordinal (first, second, third).\n\n### Tips\n\n1. Hafalkan 1st-12th — ini yang paling sering dipakai.\n2. Untuk tanggal, pakai ordinal: *March 5th* (bukan *March five*).\n3. Untuk 21st, 22nd, 23rd, pakai akhiran yang sama dengan 1st, 2nd, 3rd.",
+      "key_points": [
+        "Ordinal menunjukkan urutan: first, second, third, fourth, fifth, dst.",
+        "1st = first, 2nd = second, 3rd = third (pengecualian, harus dihafal)",
+        "Pola umum: cardinal + -th (four-fourth, six-sixth, ten-tenth)",
+        "Pengecualian: fifth (bukan fiveth), eighth (satu t), ninth (bukan nineth), twelfth (bukan twelveth)",
+        "20th = twentieth (y jadi ie + th), 30th = thirtieth",
+        "21st = twenty-first (bukan twenty-oneth), 22nd = twenty-second",
+        "Ordinal dipakai untuk tanggal: March 5th, July 4th, December 25th",
+        "Cardinal = jumlah, Ordinal = urutan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "first",
+          "id": "pertama",
+          "phonetic": "/fɜːrst/",
+          "example_en": "January first.",
+          "example_id": "Satu Januari."
+        },
+        {
+          "en": "second",
+          "id": "kedua",
+          "phonetic": "/ˈsekənd/",
+          "example_en": "February second.",
+          "example_id": "Dua Februari."
+        },
+        {
+          "en": "third",
+          "id": "ketiga",
+          "phonetic": "/θɜːrd/",
+          "example_en": "March third.",
+          "example_id": "Tiga Maret."
+        },
+        {
+          "en": "fourth",
+          "id": "keempat",
+          "phonetic": "/fɔːrθ/",
+          "example_en": "July fourth.",
+          "example_id": "Empat Juli."
+        },
+        {
+          "en": "fifth",
+          "id": "kelima",
+          "phonetic": "/fɪfθ/",
+          "example_en": "May fifth.",
+          "example_id": "Lima Mei."
+        },
+        {
+          "en": "sixth",
+          "id": "keenam",
+          "phonetic": "/sɪksθ/",
+          "example_en": "June sixth.",
+          "example_id": "Enam Juni."
+        },
+        {
+          "en": "tenth",
+          "id": "kesepuluh",
+          "phonetic": "/tenθ/",
+          "example_en": "October tenth.",
+          "example_id": "Sepuluh Oktober."
+        },
+        {
+          "en": "twelfth",
+          "id": "kedua belas",
+          "phonetic": "/twelfθ/",
+          "example_en": "December twelfth.",
+          "example_id": "Dua belas Desember."
+        },
+        {
+          "en": "one",
+          "id": "satu",
+          "phonetic": "/wʌn/",
+          "example_en": "I have one book.",
+          "example_id": "Saya punya satu buku."
+        },
+        {
+          "en": "two",
+          "id": "dua",
+          "phonetic": "/tuː/",
+          "example_en": "Two cats are playing.",
+          "example_id": "Dua kucing sedang bermain."
+        },
+        {
+          "en": "three",
+          "id": "tiga",
+          "phonetic": "/θriː/",
+          "example_en": "Three apples, please.",
+          "example_id": "Tiga apel, tolong."
+        },
+        {
+          "en": "ten",
+          "id": "sepuluh",
+          "phonetic": "/ten/",
+          "example_en": "I am ten years old.",
+          "example_id": "Saya berumur sepuluh tahun."
+        },
+        {
+          "en": "twelve",
+          "id": "dua belas",
+          "phonetic": "/twelv/",
+          "example_en": "Twelve months a year.",
+          "example_id": "Dua belas bulan setahun."
+        },
+        {
+          "en": "day",
+          "id": "hari",
+          "phonetic": "/deɪ/",
+          "example_en": "What day is today?",
+          "example_id": "Hari apa hari ini?"
+        },
+        {
+          "en": "month",
+          "id": "bulan",
+          "phonetic": "/mʌnθ/",
+          "example_en": "January is the first month.",
+          "example_id": "Januari adalah bulan pertama."
+        },
+        {
+          "en": "year",
+          "id": "tahun",
+          "phonetic": "/jɪr/",
+          "example_en": "I'm twelve years old.",
+          "example_id": "Saya berumur dua belas tahun."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang 1st-12th 2x setelah guru. (2) **Konversi cardinal ke ordinal:** guru menyebut '5', murid menjawab 'fifth'. (3) **Isian:** tulis ordinal untuk 1, 2, 3, 5, 8, 9, 12. (4) **Role play tanggal:** dua murid saling bertanya 'When's your birthday?' dan jawab dengan tanggal (March 5th). (5) **Koreksi:** tulis di papan 'fiveth', 'twenty-oneth', 'March five' dan minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "When's your birthday?",
+          "id": "Kapan ulang tahunmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's on March 5th.",
+          "id": "5 Maret."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What year were you born?",
+          "id": "Kamu lahir tahun berapa?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I was born in 2012.",
+          "id": "Saya lahir tahun 2012."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's today's date?",
+          "id": "Tanggal berapa hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Today is October 10th.",
+          "id": "Hari ini 10 Oktober."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And tomorrow?",
+          "id": "Dan besok?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "October 11th.",
+          "id": "11 Oktober."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's the ordinal of 21?",
+          "id": "Apa ordinal dari 21?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Twenty-first.",
+          "id": "Twenty-first."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Hebat! Hari ini kita belajar ordinal numbers: first, second, third, fourth, fifth, dan seterusnya. Yang paling penting diingat: 1st-3rd harus dihafal karena pengecualian, dan ada beberapa pengecualian seperti fifth, eighth, ninth, twelfth. Ordinal dipakai untuk tanggal. Pertanyaan untuk kalian: bagaimana menulis '5 Maret' dalam Inggris? Dan apa ordinal dari 12? Untuk PR, tulis ordinal 1st-31st. Besok kita akan belajar menyatakan pukul (telling time). Sampai jumpa!",
+      "instructions": "Rangkum ordinal numbers. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

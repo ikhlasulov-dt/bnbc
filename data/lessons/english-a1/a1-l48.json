@@ -1,0 +1,309 @@
+{
+  "id": "a1-l48",
+  "course_id": "english-a1",
+  "module_title": "Hobi",
+  "level": "A1",
+  "title": "Bentuk Negatif dan Pertanyaan",
+  "subtitle": "Don't like, Do you like...?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Membentuk kalimat negatif dengan don't/doesn't like",
+    "Membentuk pertanyaan dengan Do/Does",
+    "Memberikan jawaban singkat Yes, I do / No, I don't"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Mari kita ingat pelajaran kemarin tentang pola like + gerund. Coba, siapa yang bisa kasih contoh 'I like ___ing'? Bagus, *I like swimming*. Hari ini kita akan fokus ke bentuk negatif dan bentuk pertanyaan. Coba, kalau kamu TIDAK suka berenang, bagaimana mengatakannya? Dalam bahasa Inggris: *I don't like swimming*. Dan kalau kamu ingin tanya ke teman, 'Kamu suka berenang?', bagaimana? *Do you like swimming?* Itulah yang akan kita pelajari. Rencana: kita pelajari bentuk negatif don't like / doesn't like, bentuk pertanyaan Do you like...? / Does she like...?, dan jawabannya. Ayo mulai!",
+      "instructions": "Tulis di papan dua pola: 'I don't like ___ing' dan 'Do you like ___ing?'. Beri contoh dengan hobi populer. Minta siswa menyebut satu hobi yang TIDAK mereka sukai."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Bentuk Negatif: don't / doesn't like\n\nUntuk mengatakan TIDAK suka, kita pakai *don't* atau *doesn't*:\n\n| Subjek | Negatif |\n|---|---|\n| I | don't like |\n| You | don't like |\n| We | don't like |\n| They | don't like |\n| He / She / It | doesn't like |\n\n**Contoh:**\n- I **don't like** running.\n- We **don't like** fishing.\n- She **doesn't like** cooking.\n- He **doesn't like** dancing.\n\n*don't* = do not, *doesn't* = does not (bentuk formal).\n\n## Bentuk Pertanyaan: Do / Does + like\n\n| Subjek | Pertanyaan |\n|---|---|\n| I / you / we / they | **Do** you like ___ing? |\n| he / she / it | **Does** she like ___ing? |\n\n**Contoh:**\n- **Do** you like swimming?\n- **Do** they like playing football?\n- **Does** she like dancing?\n- **Does** he like cooking?\n\n## Jawaban Singkat\n\n- Yes, I do. / No, I don't.\n- Yes, she does. / No, she doesn't.\n- Yes, they do. / No, they don't.\n\n## Bentuk Negatif Pertanyaan\n\n- **Don't** you like swimming? → Kamu tidak suka berenang?\n- **Doesn't** she like dancing? → Dia tidak suka menari?\n\n## Kata Kerja Lain yang Seri (love, hate)\n\nPola yang sama berlaku untuk *love* dan *hate*:\n- I don't love running.\n- She doesn't hate cooking.\n- Do you love swimming?\n- Does he hate fishing?\n\n## Mini-Dialog\n\n**A:** Do you like playing badminton?\n\n**B:** Yes, I do. I play every weekend.\n\n**A:** Does your sister like it too?\n\n**B:** No, she doesn't. She likes cycling.\n\n**A:** Don't you like cycling?\n\n**B:** I like it, but I prefer badminton.\n\n> **Hindari:** mengatakan 'She don't like' — yang benar *She doesn't like*. Hindari 'You like swimming?' tanpa *Do* — yang benar *Do you like swimming?*",
+      "key_points": [
+        "don't like = tidak suka (I, you, we, they)",
+        "doesn't like = tidak suka (he, she, it)",
+        "Do you like ___ing? = Apa kamu suka ___?",
+        "Does she like ___ing? = Apa dia suka ___?",
+        "Jawaban: Yes, I do / No, I don't",
+        "Jawaban: Yes, she does / No, she doesn't",
+        "don't = do not, doesn't = does not",
+        "Pola yang sama untuk love, hate: don't love, doesn't hate"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "hobby",
+          "id": "hobi",
+          "phonetic": "/ˈhɒbi/",
+          "example_en": "My hobby is reading.",
+          "example_id": "Hobi saya membaca."
+        },
+        {
+          "en": "reading",
+          "id": "membaca",
+          "phonetic": "/ˈriːdɪŋ/",
+          "example_en": "I love reading story books.",
+          "example_id": "Saya suka membaca buku cerita."
+        },
+        {
+          "en": "swimming",
+          "id": "berenang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is fun.",
+          "example_id": "Berenang itu menyenangkan."
+        },
+        {
+          "en": "drawing",
+          "id": "menggambar",
+          "phonetic": "/ˈdrɔːɪŋ/",
+          "example_en": "She likes drawing flowers.",
+          "example_id": "Dia suka menggambar bunga."
+        },
+        {
+          "en": "singing",
+          "id": "bernyanyi",
+          "phonetic": "/ˈsɪŋɪŋ/",
+          "example_en": "Singing makes me happy.",
+          "example_id": "Bernyanyi membuat saya bahagia."
+        },
+        {
+          "en": "dancing",
+          "id": "menari",
+          "phonetic": "/ˈdænsɪŋ/",
+          "example_en": "They are dancing together.",
+          "example_id": "Mereka menari bersama."
+        },
+        {
+          "en": "cooking",
+          "id": "memasak",
+          "phonetic": "/ˈkʊkɪŋ/",
+          "example_en": "Cooking is my hobby.",
+          "example_id": "Memasak adalah hobi saya."
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "We play football on Sunday.",
+          "example_id": "Kami bermain sepak bola pada hari Minggu."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He likes basketball.",
+          "example_id": "Dia suka bola basket."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular here.",
+          "example_id": "Bulu tangkis populer di sini."
+        },
+        {
+          "en": "cycling",
+          "id": "bersepeda",
+          "phonetic": "/ˈsaɪklɪŋ/",
+          "example_en": "Cycling is good exercise.",
+          "example_id": "Bersepeda adalah olahraga yang baik."
+        },
+        {
+          "en": "running",
+          "id": "berlari",
+          "phonetic": "/ˈrʌnɪŋ/",
+          "example_en": "Running is tiring for me.",
+          "example_id": "Berlari melelahkan bagi saya."
+        },
+        {
+          "en": "to like",
+          "id": "menyukai",
+          "phonetic": "/tuː laɪk/",
+          "example_en": "I like swimming.",
+          "example_id": "Saya suka berenang."
+        },
+        {
+          "en": "to love",
+          "id": "sangat menyukai",
+          "phonetic": "/tuː lʌv/",
+          "example_en": "I love playing football.",
+          "example_id": "Saya sangat suka bermain sepak bola."
+        },
+        {
+          "en": "to hate",
+          "id": "benci",
+          "phonetic": "/tuː heɪt/",
+          "example_en": "I hate running in the morning.",
+          "example_id": "Saya benci berlari pagi."
+        },
+        {
+          "en": "don't",
+          "id": "tidak",
+          "phonetic": "/doʊnt/",
+          "example_en": "I don't like spicy food.",
+          "example_id": "Saya tidak suka makanan pedas."
+        },
+        {
+          "en": "doesn't",
+          "id": "tidak",
+          "phonetic": "/ˈdʌznt/",
+          "example_en": "She doesn't like football.",
+          "example_id": "Dia tidak suka sepak bola."
+        },
+        {
+          "en": "yes",
+          "id": "ya",
+          "phonetic": "/jes/",
+          "example_en": "Yes, I do.",
+          "example_id": "Ya, saya suka."
+        },
+        {
+          "en": "no",
+          "id": "tidak",
+          "phonetic": "/noʊ/",
+          "example_en": "No, I don't.",
+          "example_id": "Tidak, saya tidak suka."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill positif/negatif**: Guru menyebut subjek + hobi (she/swim, they/dance, we/cook), siswa membuat kalimat negatif 'doesn't/don't like ___ing'.\n2. **Pair work 'Yes/No game'**: Siswa A bertanya 'Do you like ___ing?', siswa B menjawab 'Yes, I do / No, I don't'. Lakukan 8 putaran dengan hobi berbeda.\n3. **Fill-in-the-blank**: Lengkapi — (a) She ___ like running. (b) ___ you like dancing? (c) Yes, I ___. (d) ___ he like cooking? No, he ___.\n4. **Role play 'Find a partner'**: Siswa mencari teman dengan hobi yang sama dengan bertanya 'Do you like ___ing?' — temukan 2 orang dengan hobi sama.\n5. **Error correction**: Perbaiki — 'She don't like swim', 'You like dancing?', 'Does they like football?', 'Yes, she do'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. Do you like playing football?",
+          "id": "Hai, Andi. Kamu suka bermain sepak bola?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I do. I play every Sunday with friends.",
+          "id": "Ya. Saya main setiap Minggu dengan teman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your brother like football too?",
+          "id": "Kakakmu juga suka sepak bola?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, he doesn't. He likes basketball more.",
+          "id": "Tidak. Dia lebih suka basket."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Don't you like basketball?",
+          "id": "Kamu tidak suka basket?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I like it, but I prefer football. Basketball is too fast for me.",
+          "id": "Saya suka, tapi lebih suka sepak bola. Basket terlalu cepat untuk saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about cycling? Do you like it?",
+          "id": "Kalau bersepeda? Kamu suka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love cycling. I cycle to school every day.",
+          "id": "Ya, saya suka bersepeda. Saya bersepeda ke sekolah setiap hari."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your sister like cycling?",
+          "id": "Kakak perempuanmu suka bersepeda?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, she doesn't. She prefers running in the morning.",
+          "id": "Tidak. Dia lebih suka berlari pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Don't you like running?",
+          "id": "Kamu tidak suka berlari?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I don't. Running makes me very tired.",
+          "id": "Tidak. Berlari membuat saya sangat lelah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do your parents like sports?",
+          "id": "Orang tuamu suka olahraga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, they do. My father likes fishing, my mother likes cooking.",
+          "id": "Ya. Ayah saya suka memancing, ibu saya suka memasak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Don't they like watching TV?",
+          "id": "Mereka tidak suka nonton TV?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "They do, but only in the evening after work.",
+          "id": "Suka, tapi hanya malam setelah kerja."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about your friends? Do they like drawing?",
+          "id": "Kalau teman-temanmu? Suka menggambar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Some do, some don't. Sinta loves drawing, but Budi doesn't.",
+          "id": "Ada yang suka, ada yang tidak. Sinta suka, Budi tidak."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's interesting. We all have different hobbies!",
+          "id": "Menarik. Kita semua punya hobi berbeda!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, that makes life fun, teacher!",
+          "id": "Ya, itu membuat hidup menyenangkan, Bu!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar bentuk negatif dan pertanyaan untuk like/love/hate. Kita tahu sekarang: *I don't like* untuk I/you/we/they, dan *She doesn't like* untuk he/she/it. Untuk pertanyaan: *Do you like ___?* dan *Does she like ___?*. Sebelum tutup, dua pertanyaan: bagaimana mengatakan 'Dia tidak suka berenang'? Bagaimana menanyakan 'Kamu suka menari?' dalam bahasa Inggris? Untuk pekerjaan rumah, buatlah 8 kalimat: 4 negatif (don't/doesn't like) dan 4 pertanyaan (Do/Does ___ like ___ing?) lengkap dengan jawaban. Besok kita akan belajar kata keterangan frekuensi: always, usually, often, sometimes, never. Sampai jumpa!",
+      "instructions": "Rangkum pola negatif dan pertanyaan di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 8 kalimat dan sampaikan topik besok tentang kata keterangan frekuensi."
+    }
+  ]
+}

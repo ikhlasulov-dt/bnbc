@@ -1,0 +1,201 @@
+{
+  "id": "a1-l04",
+  "course_id": "english-a1",
+  "module_title": "Sapaan dan Perkenalan",
+  "level": "A1",
+  "title": "Perkenalan Diri",
+  "subtitle": "My name is, I'm, Nice to meet you",
+  "duration_minutes": 60,
+  "objectives": [
+    "Memperkenalkan diri dengan My name is dan I'm",
+    "Menanyakan nama orang lain dengan What's your name?",
+    "Mengucapkan Nice to meet you saat baru berkenalan",
+    "Menyebutkan asal dengan I'm from"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar menanyakan kabar dengan How are you? dan menjawab dengan I'm fine, thank you. Siapa yang masih ingat apa yang harus dikatakan setelah seseorang memperkenalkan diri? Hari ini kita akan fokus pada perkenalan diri: bagaimana cara memberitahu nama, asal, dan menanyakan nama orang lain. Kita akan belajar tiga pola utama: 'My name is...', 'What's your name?', dan 'I'm from...'. Tujuan hari ini: di akhir kelas, kalian bisa memperkenalkan diri lengkap dalam 3-4 kalimat bahasa Inggris tanpa ragu. Pernahkah kalian malu saat harus perkenalan diri di depan kelas? Hari ini kita latih sampai percaya diri. Mari kita mulai!",
+      "instructions": "Sapa dengan 'Good morning, what's your name?' ke beberapa murid secara bergiliran. Tulis 'My name is ___' dan 'I'm from ___' di papan. Perkenalkan tujuan dan 5 tahap kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Perkenalan Diri\n\nPerkenalan diri adalah keterampilan dasar yang sangat penting. Dalam bahasa Inggris, ada beberapa pola kalimat yang harus dihafal untuk perkenalan singkat.\n\n### Tiga Pola Utama\n\n| Pola | Fungsi | Contoh |\n|---|---|---|\n| My name is ___. | Menyebut nama | My name is Andi. |\n| I'm from ___. | Menyebut asal | I'm from Indonesia. |\n| What's your name? | Menanyakan nama | What's your name? |\n\n### Cara Menyebut Nama\n\nAda dua pola yang setara:\n\n- **My name is Andi.** (lebih formal)\n- **I'm Andi.** (lebih santai, contractions dari *I am*)\n\nKeduanya benar. Pakai *My name is* untuk situasi formal (wawancara, presentasi), dan *I'm* untuk situasi santai.\n\n### Cara Menanyakan Nama\n\n| Pertanyaan | Tingkat formal | Kapan dipakai |\n|---|---|---|\n| What's your name? | Netral | Umum, ke orang baru |\n| May I have your name? | Sangat formal | Pelayanan, resepsionis |\n| And you are...? | Santai | Sudah berkenalan sebagian |\n\n### Cara Menyebut Asal\n\n- **I'm from Indonesia.** — Saya dari Indonesia.\n- **I'm from Jakarta.** — Saya dari Jakarta.\n- **I come from Bali.** — Saya berasal dari Bali. (lebih formal)\n\nUntuk kota/negara, selalu pakai *from* (bukan *in* atau *at*).\n\n### Pola Lengkap Perkenalan Singkat\n\nUrutan ideal perkenalan:\n1. Sapaan: *Hello!* atau *Hi!*\n2. Nama: *My name is Andi.* atau *I'm Andi.*\n3. Asal: *I'm from Indonesia.*\n4. Salam akhir: *Nice to meet you!*\n\n### Mini-Dialog Contoh\n\n**Dialog 1 (santai):**\n- A: Hi! I'm Sarah. What's your name?\n- B: I'm Andi. Nice to meet you!\n- A: Nice to meet you too. I'm from Jakarta. Where are you from?\n- B: I'm from Bandung.\n\n**Dialog 2 (formal):**\n- A: Good morning. My name is Andi Wijaya. I'm from Indonesia.\n- B: Hello, Mr. Wijaya. I'm Sarah. Nice to meet you.\n- A: Nice to meet you too.\n\n> **Hindari:** Jangan mengatakan 'My name Andi' (tanpa *is*). Jangan pakai 'I from Indonesia' (harusnya *I'm from* atau *I come from*). Jangan menanyakan 'What your name?' (harusnya *What's your name?*).\n\n### Cara Mengucapkan\n\n- **My name is** /maɪ neɪm ɪz/ — tekanan di NAME.\n- **What's your name?** /wɒts jɔːr neɪm/ — intonasi naik di akhir.\n- **I'm from** /aɪm frɒm/ — tekanan di FROM.\n\n### Tips\n\n1. Sebut nama dengan jelas dan tidak terlalu cepat.\n2. Selalu sertakan asal (kota atau negara) dalam perkenalan formal.\n3. Tutup perkenalan dengan *Nice to meet you* agar sopan.",
+      "key_points": [
+        "My name is ___ = menyebut nama (formal)",
+        "I'm ___ = menyebut nama (santai, contraction dari I am)",
+        "What's your name? = menanyakan nama",
+        "I'm from ___ = menyebut asal (kota/negara)",
+        "I come from ___ = alternatif formal untuk asal",
+        "Selalu pakai 'from' untuk menyebut asal, bukan 'in' atau 'at'",
+        "Urutan ideal: sapaan → nama → asal → Nice to meet you",
+        "Nice to meet you menutup perkenalan dengan sopan"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "My name is",
+          "id": "Nama saya",
+          "phonetic": "/maɪ neɪm ɪz/",
+          "example_en": "My name is Budi.",
+          "example_id": "Nama saya Budi."
+        },
+        {
+          "en": "What's your name?",
+          "id": "Siapa namamu?",
+          "phonetic": "/wɒts jɔːr neɪm/",
+          "example_en": "Hi! What's your name?",
+          "example_id": "Hai! Siapa namamu?"
+        },
+        {
+          "en": "I'm from",
+          "id": "Saya dari",
+          "phonetic": "/aɪm frɒm/",
+          "example_en": "I'm from Indonesia.",
+          "example_id": "Saya dari Indonesia."
+        },
+        {
+          "en": "Nice to meet you",
+          "id": "Senang bertemu denganmu",
+          "phonetic": "/naɪs tuː miːt juː/",
+          "example_en": "Nice to meet you, John.",
+          "example_id": "Senang bertemu denganmu, John."
+        },
+        {
+          "en": "Hello",
+          "id": "Halo",
+          "phonetic": "/həˈloʊ/",
+          "example_en": "Hello, how are you?",
+          "example_id": "Halo, apa kabar?"
+        },
+        {
+          "en": "Hi",
+          "id": "Hai",
+          "phonetic": "/haɪ/",
+          "example_en": "Hi, I'm Sarah.",
+          "example_id": "Hai, saya Sarah."
+        },
+        {
+          "en": "How are you?",
+          "id": "Apa kabar?",
+          "phonetic": "/haʊ ɑːr juː/",
+          "example_en": "Hello! How are you?",
+          "example_id": "Halo! Apa kabar?"
+        },
+        {
+          "en": "I'm fine, thank you",
+          "id": "Saya baik-baik saja, terima kasih",
+          "phonetic": "/aɪm faɪn θæŋk juː/",
+          "example_en": "I'm fine, thank you. And you?",
+          "example_id": "Saya baik, terima kasih. Dan Anda?"
+        },
+        {
+          "en": "Goodbye",
+          "id": "Selamat tinggal",
+          "phonetic": "/ɡʊdˈbaɪ/",
+          "example_en": "Goodbye! Have a nice day.",
+          "example_id": "Selamat tinggal! Semoga harimu menyenangkan."
+        },
+        {
+          "en": "See you later",
+          "id": "Sampai jumpa lagi",
+          "phonetic": "/siː juː ˈleɪtər/",
+          "example_en": "See you later, bye!",
+          "example_id": "Sampai jumpa lagi, dah!"
+        },
+        {
+          "en": "Thank you",
+          "id": "Terima kasih",
+          "phonetic": "/ˈθæŋk juː/",
+          "example_en": "Thank you very much!",
+          "example_id": "Terima kasih banyak!"
+        },
+        {
+          "en": "You're welcome",
+          "id": "Sama-sama",
+          "phonetic": "/jʊər ˈwelkəm/",
+          "example_en": "You're welcome!",
+          "example_id": "Sama-sama!"
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 4 latihan berurutan. (1) **Drill pelafalan:** murid mengulang My name is ___, What's your name?, I'm from ___ 3x setelah guru. (2) **Round-robin:** setiap murid berdiri dan memperkenalkan diri (nama + asal) dalam 2 kalimat. (3) **Isian:** lengkapi 'My ___ Andi. I'm ___ Indonesia.' dengan kata yang benar. (4) **Role play pasangan:** dua murid saling memperkenalkan diri lengkap (sapaan, nama, asal, Nice to meet you) dalam 6 baris. (5) **Koreksi:** tulis di papan 'My name Andi. I from Jakarta.' dan minta murid memperbaikinya menjadi 'My name is Andi. I'm from Jakarta.'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hello! What's your name?",
+          "id": "Halo! Siapa namamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My name is Andi. I'm from Indonesia.",
+          "id": "Nama saya Andi. Saya dari Indonesia."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Nice to meet you, Andi. Where in Indonesia?",
+          "id": "Senang bertemu, Andi. Dari mana di Indonesia?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm from Jakarta. And you?",
+          "id": "Saya dari Jakarta. Dan Anda?"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "I'm Ms. Sarah. I'm from Bandung.",
+          "id": "Saya Bu Sarah. Saya dari Bandung."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Nice to meet you, Ms. Sarah!",
+          "id": "Senang bertemu, Bu Sarah!"
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Now, introduce yourself to your partner.",
+          "id": "Sekarang, perkenalkan diri ke pasanganmu."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Hi! I'm Rina. I'm from Surabaya. What's your name?",
+          "id": "Hai! Saya Rina. Saya dari Surabaya. Siapa namamu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I'm Budi. I'm from Malang. Nice to meet you!",
+          "id": "Saya Budi. Saya dari Malang. Senang bertemu!"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Nice to meet you too!",
+          "id": "Senang bertemu juga!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, semuanya sudah berani memperkenalkan diri! Hari ini kita belajar tiga pola utama: My name is untuk menyebut nama, What's your name untuk menanyakan nama, dan I'm from untuk menyebut asal. Kita juga ingat bahwa urutan ideal perkenalan adalah sapaan, nama, asal, dan Nice to meet you. Pertanyaan untuk kalian: bagaimana kamu memperkenalkan diri ke teman baru, dan bagaimana ke guru baru? Apa bedanya? Untuk PR, tulis perkenalan diri kamu dalam 4 kalimat lengkap dan berlatih di depan cermin sampai lancar. Besok kita akan belajar menutup percakapan dengan baik: See you later, Goodbye, dan beberapa ungkapan pamit lainnya. Sampai jumpa besok!",
+      "instructions": "Pujian singkat. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'Goodbye, see you tomorrow!'"
+    }
+  ]
+}

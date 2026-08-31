@@ -1,0 +1,276 @@
+{
+  "id": "a1-l44",
+  "course_id": "english-a1",
+  "module_title": "Sekolah",
+  "level": "A1",
+  "title": "Mata Pelajaran",
+  "subtitle": "Menyebutkan mata pelajaran dan menyatakan kesukaan",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan nama mata pelajaran umum dalam bahasa Inggris",
+    "Menyatakan mata pelajaran kesukaan dengan pola My favorite subject is ...",
+    "Memberikan alasan singkat dengan because"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Siap belajar? Mari kita ingat pelajaran kemarin tentang preposisi tempat. Coba, siapa yang bisa kasih contoh kalimat dengan 'on'? Bagus, *The book is on the desk*. Hari ini kita akan belajar kosakata mata pelajaran dalam bahasa Inggris dan cara menyatakan mata pelajaran favorit. Coba angkat tangan, siapa yang suka matematika? Siapa yang suka bahasa Inggris? Siapa yang suka olahraga? Nah, dalam bahasa Inggris, semua mata pelajaran itu punya nama: math, English, PE (Physical Education), science, dan lainnya. Hari ini kita akan belajar 10-12 mata pelajaran umum dan cara mengatakannya. Rencana: kita kenal kosakata mata pelajaran, belajar menyatakan favorit dengan 'My favorite subject is ___', dan tanya-jawab 'What's your favorite subject?'. Ayo mulai!",
+      "instructions": "Tulis daftar mata pelajaran hari ini di papan dalam bahasa Indonesia, minta siswa menebak bahasa Inggrisnya. Lalu perkenalkan kata-kata baru pelan-pelan dengan pelafalan."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Mata Pelajaran\n\n| Inggris | Indonesia | Catatan |\n|---|---|---|\n| Math | Matematika | juga 'mathematics' (formal) |\n| English | Bahasa Inggris | selalu huruf kapital |\n| Science | IPA | sains umum |\n| History | Sejarah | |\n| Geography | Geografi | |\n| Art | Seni | menggambar, kerajinan |\n| Music | Musik | |\n| PE (Physical Education) | Penjaskes | olahraga di sekolah |\n| Indonesian | Bahasa Indonesia | |\n| Religion | Agama | |\n| Civics | PPKn | kewarganegaraan |\n| ICT | TIK | komputer |\n\n## Menyatakan Mata Pelajaran Favorit\n\n**Pola:** *My favorite subject is ___.*\n\n- My favorite subject is **Math**.\n- Her favorite subject is **Music**.\n- Our favorite subject is **PE**.\n\n## Bertanya tentang Mata Pelajaran Favorit\n\n- **What is your favorite subject?** → Apa mata pelajaran favoritmu?\n- **What's your favorite subject?** (singkat)\n\n## Alasan Suka / Tidak Suka\n\nKita bisa menambahkan alasan:\n- I like Math **because** it's fun.\n- I love English **because** the teacher is kind.\n- I don't like History **because** it's hard.\n\n## Kata Sifat untuk Mendeskripsikan Mata Pelajaran\n\n| Kata sifat | Indonesia |\n|---|---|\n| fun | menyenangkan |\n| interesting | menarik |\n| boring | membosankan |\n| hard / difficult | sulit |\n| easy | mudah |\n| relaxing | santai |\n| exciting | seru |\n\nContoh:\n- Math is **interesting** but hard.\n- Art is **relaxing**.\n- History is **boring** for some students.\n- PE is **exciting** and **fun**.\n\n## Bertanya tentang Jadwal\n\n- **What subjects do you have today?** → Mata pelajaran apa yang kamu pelajari hari ini?\n- **What subject do you have first?** → Mata pelajaran apa yang pertama?\n- **When do you have Math?** → Kapan kamu pelajari Matematika?\n- **Do you have English today?** → Ada bahasa Inggris hari ini?\n\n## Contoh Paragraf Pendek\n\nToday is Monday. I have English, Math, Science, and PE. My favorite subject is Math because it's interesting. I also love PE because it's fun. My friend Sinta loves Art because it's relaxing. Budi likes English because the teacher is kind. We all learn together every day.\n\n## Mini-Dialog\n\n**A:** What's your favorite subject?\n\n**B:** My favorite subject is Art. I love drawing.\n\n**A:** Why do you like it?\n\n**B:** Because it's relaxing. And you?\n\n**A:** I love PE. I like running.\n\n**B:** What subjects do you have today?\n\n**A:** I have English, Math, and PE today.\n\n> **Hindari:** menulis 'math' atau 'english' tanpa konteks kapital. *English* dan *Indonesian* selalu kapital karena nama bahasa. Tapi *math*, *science*, *history* ditulis huruf kecil di tengah kalimat.",
+      "key_points": [
+        "Math = Matematika, English = Bahasa Inggris",
+        "Science = IPA, History = Sejarah, Geography = Geografi",
+        "Art = Seni, Music = Musik, PE = Penjaskes",
+        "Indonesian = Bahasa Indonesia (selalu kapital)",
+        "My favorite subject is ___ = Mata pelajaran favoritku ___",
+        "What's your favorite subject? = Apa mata pelajaran favoritmu?",
+        "I like ___ because ___ = Saya suka ___ karena ___",
+        "Nama bahasa selalu kapital: English, Indonesian, Arabic"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "subject",
+          "id": "mata pelajaran",
+          "phonetic": "/ˈsʌbdʒɪkt/",
+          "example_en": "Math is my favorite subject.",
+          "example_id": "Matematika mata pelajaran kesukaan saya."
+        },
+        {
+          "en": "math",
+          "id": "matematika",
+          "phonetic": "/mæθ/",
+          "example_en": "We study math today.",
+          "example_id": "Kami belajar matematika hari ini."
+        },
+        {
+          "en": "English",
+          "id": "bahasa Inggris",
+          "phonetic": "/ˈɪŋɡlɪʃ/",
+          "example_en": "I like English class.",
+          "example_id": "Saya suka pelajaran bahasa Inggris."
+        },
+        {
+          "en": "school",
+          "id": "sekolah",
+          "phonetic": "/skuːl/",
+          "example_en": "I go to school every day.",
+          "example_id": "Saya pergi ke sekolah setiap hari."
+        },
+        {
+          "en": "book",
+          "id": "buku",
+          "phonetic": "/bʊk/",
+          "example_en": "Open your book, please.",
+          "example_id": "Buka bukumu, tolong."
+        },
+        {
+          "en": "classroom",
+          "id": "ruang kelas",
+          "phonetic": "/ˈklæsruːm/",
+          "example_en": "Our classroom is big.",
+          "example_id": "Ruang kelas kami besar."
+        },
+        {
+          "en": "science",
+          "id": "IPA",
+          "phonetic": "/ˈsaɪəns/",
+          "example_en": "Science is interesting.",
+          "example_id": "IPA itu menarik."
+        },
+        {
+          "en": "history",
+          "id": "sejarah",
+          "phonetic": "/ˈhɪstəri/",
+          "example_en": "We study history on Monday.",
+          "example_id": "Kami belajar sejarah hari Senin."
+        },
+        {
+          "en": "geography",
+          "id": "geografi",
+          "phonetic": "/dʒiˈɒɡrəfi/",
+          "example_en": "Geography is about countries.",
+          "example_id": "Geografi tentang negara."
+        },
+        {
+          "en": "art",
+          "id": "seni",
+          "phonetic": "/ɑːrt/",
+          "example_en": "I love art class.",
+          "example_id": "Saya suka pelajaran seni."
+        },
+        {
+          "en": "music",
+          "id": "musik",
+          "phonetic": "/ˈmjuːzɪk/",
+          "example_en": "We sing in music class.",
+          "example_id": "Kami bernyanyi di pelajaran musik."
+        },
+        {
+          "en": "PE",
+          "id": "penjaskes",
+          "phonetic": "/ˌpiː ˈiː/",
+          "example_en": "PE is my favorite subject.",
+          "example_id": "Penjaskes mata pelajaran favorit saya."
+        },
+        {
+          "en": "Indonesian",
+          "id": "Bahasa Indonesia",
+          "phonetic": "/ˌɪndəˈniːʒn/",
+          "example_en": "Indonesian is our language.",
+          "example_id": "Bahasa Indonesia bahasa kami."
+        },
+        {
+          "en": "favorite",
+          "id": "favorit",
+          "phonetic": "/ˈfeɪvərɪt/",
+          "example_en": "My favorite color is blue.",
+          "example_id": "Warna favorit saya biru."
+        },
+        {
+          "en": "because",
+          "id": "karena",
+          "phonetic": "/bɪˈkɒz/",
+          "example_en": "I like math because it's fun.",
+          "example_id": "Saya suka matematika karena menyenangkan."
+        },
+        {
+          "en": "interesting",
+          "id": "menarik",
+          "phonetic": "/ˈɪntrəstɪŋ/",
+          "example_en": "This book is interesting.",
+          "example_id": "Buku ini menarik."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill mata pelajaran**: Guru menyebut bahasa Indonesianya (matematika, sejarah, seni), siswa menjawab bahasa Inggrisnya dengan cepat. Lakukan 12 putaran.\n2. **Pair work survey**: Wawancarai 3 teman, tanyakan 'What's your favorite subject? Why?' — catat jawabannya dalam tabel.\n3. **Fill-in-the-blank**: Lengkapi — (a) My favorite ___ is Math. (b) ___ is your favorite subject? (c) I like PE ___ it's fun. (d) ___ is about countries.\n4. **Role play**: Dua siswa saling mewawancarai seperti reporter — tanyakan 5 hal: mata pelajaran favorit, alasan, mata pelajaran yang tidak disukai, jadwal hari Senin, guru favorit.\n5. **Error correction**: Perbaiki — 'My favorite subject are math', 'I like math because is fun', 'english is my favorite', 'What your favorite subject?'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Budi. What's your favorite subject?",
+          "id": "Hai, Budi. Apa mata pelajaran favoritmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My favorite subject is Math, teacher.",
+          "id": "Mata pelajaran favorit saya Matematika, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Why do you like Math?",
+          "id": "Kenapa kamu suka Matematika?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I like Math because it's interesting and fun.",
+          "id": "Saya suka Matematika karena menarik dan menyenangkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about Science? Do you like it?",
+          "id": "Kalau IPA? Kamu suka?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love Science too. We do experiments.",
+          "id": "Ya, saya suka IPA juga. Kami bereksperimen."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like History?",
+          "id": "Kamu suka Sejarah?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I don't like History. It's hard for me.",
+          "id": "Tidak, saya tidak suka Sejarah. Sulit untuk saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And Art? Music? PE?",
+          "id": "Kalau Seni? Musik? Penjaskes?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I like Art and PE. Music is OK, but I can't sing well.",
+          "id": "Saya suka Seni dan Penjaskes. Musik biasa saja, tapi saya tidak bisa bernyanyi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What subject do you have today?",
+          "id": "Mata pelajaran apa yang kamu pelajari hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Today I have English, Math, Science, and PE.",
+          "id": "Hari ini saya ada Bahasa Inggris, Matematika, IPA, dan Penjaskes."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Which subject do you have first?",
+          "id": "Mata pelajaran mana yang pertama?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "English is first, at 7:30.",
+          "id": "Bahasa Inggris pertama, jam 7:30."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you like English?",
+          "id": "Kamu suka Bahasa Inggris?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I love English! It's my second favorite subject.",
+          "id": "Ya, saya suka sekali! Itu favorit kedua saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's great. Practice every day, OK?",
+          "id": "Bagus. Latihan setiap hari, ya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I will, teacher. Thank you!",
+          "id": "Akan saya lakukan, Bu. Terima kasih!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar kosakata mata pelajaran: Math, English, Science, History, Geography, Art, Music, PE, Indonesian, dan lain-lain. Kita juga belajar pola *My favorite subject is ___* dan tanya-jawab *What's your favorite subject?*. Ingat, nama bahasa seperti English dan Indonesian selalu ditulis kapital. Sebelum tutup, dua pertanyaan: apa mata pelajaran favoritmu? Kenapa kamu suka mata pelajaran itu? Untuk pekerjaan rumah, wawancarai 5 anggota keluarga atau teman — tanyakan mata pelajaran favorit dan alasannya. Tulis hasilnya dalam bahasa Inggris, 5 baris. Besok kita akan belajar kalimat imperatif — kalimat perintah dan larangan yang sering dipakai di kelas, seperti 'Open your book!' atau 'Don't be late!'. Sampai jumpa!",
+      "instructions": "Rangkum 10 mata pelajaran di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR wawancara 5 orang dan sampaikan topik besok tentang kalimat imperatif."
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "a1-l55",
+  "course_id": "english-a1",
+  "module_title": "Cuaca",
+  "level": "A1",
+  "title": "Menanyakan Cuaca",
+  "subtitle": "How is the weather? Is it cold outside?",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan pola pertanyaan untuk menanyakan cuaca",
+    "Merespons pertanyaan cuaca dengan jawaban singkat",
+    "Melakukan percakapan singkat tentang cuaca"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Ini pelajaran terakhir modul Cuaca. Mari kita ingat pelajaran kemarin tentang rekomendasi pakaian. Coba, siapa yang bisa kasih contoh 'You should ___'? Bagus, *You should wear a jacket*. Hari ini kita akan fokus ke cara menanyakan cuaca dengan lengkap dan sopan. Kita sudah pernah belajar *How is the weather?*, tapi sebenarnya ada banyak cara bertanya tentang cuaca: *Is it cold outside?*, *What's the weather like?*, *Will it rain today?* Bayangkan kamu mau pergi piknik, tapi ingin tahu dulu cuacanya. Bagaimana cara bertanyanya? Itulah yang akan kita pelajari. Rencana: kita pelajari 5-6 pertanyaan cuaca, jawabannya, dan pakai dalam dialog. Ayo mulai!",
+      "instructions": "Tulis di papan tiga pertanyaan: 'How is the weather?', 'Is it cold outside?', 'Will it rain today?'. Minta siswa memilih pertanyaan yang paling sering mereka dengar."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Pertanyaan Umum tentang Cuaca\n\n| Pertanyaan | Arti | Kapan dipakai |\n|---|---|---|\n| How is the weather? | Bagaimana cuacanya? | umum, netral |\n| What's the weather like? | Bagaimana cuacanya? | alternatif formal |\n| Is it cold outside? | Apa dingin di luar? | tanya keadaan spesifik |\n| Is it raining? | Apa sedang hujan? | tanya kejadian sekarang |\n| Will it rain today? | Apa akan hujan hari ini? | tanya ramalan |\n| What's the temperature? | Berapa suhunya? | tanya suhu |\n\n## Cara Menjawab\n\n**Untuk How is the weather? / What's the weather like?:**\n- It is sunny.\n- It is rainy and windy.\n- It's hot today.\n\n**Untuk Is it ___?:**\n- Yes, it is. / No, it isn't.\n- Yes, it's very cold.\n- No, it isn't raining now.\n\n**Untuk Will it ___?:**\n- Yes, it will. / No, it won't.\n- I think it will rain in the afternoon.\n\n**Untuk What's the temperature?:**\n- It is 28 degrees.\n- It's about 30 degrees Celsius.\n\n## Pertanyaan Lanjutan\n\n- **Does it rain a lot here?** → Apa sering hujan di sini?\n- **Is it usually hot in summer?** → Apa biasanya panas di musim panas?\n- **What's the weather like in your country?** → Bagaimana cuaca di negaramu?\n\n## Mini-Dialog Lengkap\n\n**A:** Good morning! How is the weather today?\n\n**B:** It is cloudy and a little windy.\n\n**A:** Is it cold outside?\n\n**B:** No, it isn't cold. It's about 25 degrees.\n\n**A:** Will it rain today?\n\n**B:** Yes, I think it will rain in the afternoon.\n\n**A:** Should I bring an umbrella?\n\n**B:** Yes, you should. The rain can be heavy.\n\n**A:** What's the weather like tomorrow?\n\n**B:** Tomorrow will be sunny and warm.\n\n> **Hindari:** mengatakan 'How weather?' atau 'What weather?' tanpa struktur lengkap. Yang benar: *How is the weather?* atau *What's the weather like?*",
+      "key_points": [
+        "How is the weather? = Bagaimana cuacanya?",
+        "What's the weather like? = Bagaimana cuacanya? (alternatif)",
+        "Is it cold outside? = Apa dingin di luar?",
+        "Is it raining? = Apa sedang hujan?",
+        "Will it rain today? = Apa akan hujan hari ini?",
+        "What's the temperature? = Berapa suhunya?",
+        "Jawaban: It is ___ / Yes, it is / No, it isn't",
+        "Does it rain a lot here? = Apa sering hujan di sini?"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "weather",
+          "id": "cuaca",
+          "phonetic": "/ˈweðər/",
+          "example_en": "How is the weather today?",
+          "example_id": "Bagaimana cuaca hari ini?"
+        },
+        {
+          "en": "sunny",
+          "id": "cerah",
+          "phonetic": "/ˈsʌni/",
+          "example_en": "It is sunny today.",
+          "example_id": "Hari ini cerah."
+        },
+        {
+          "en": "rainy",
+          "id": "hujan",
+          "phonetic": "/ˈreɪni/",
+          "example_en": "It is rainy in Bogor.",
+          "example_id": "Di Bogor sedang hujan."
+        },
+        {
+          "en": "cloudy",
+          "id": "berawan",
+          "phonetic": "/ˈklaʊdi/",
+          "example_en": "It is cloudy this morning.",
+          "example_id": "Pagi ini berawan."
+        },
+        {
+          "en": "windy",
+          "id": "berangin",
+          "phonetic": "/ˈwɪndi/",
+          "example_en": "It is windy at the beach.",
+          "example_id": "Di pantai berangin."
+        },
+        {
+          "en": "hot",
+          "id": "panas",
+          "phonetic": "/hɒt/",
+          "example_en": "It is hot at noon.",
+          "example_id": "Siang hari panas."
+        },
+        {
+          "en": "cold",
+          "id": "dingin",
+          "phonetic": "/koʊld/",
+          "example_en": "It is cold in winter.",
+          "example_id": "Pada musim dingin cuaca dingin."
+        },
+        {
+          "en": "warm",
+          "id": "hangat",
+          "phonetic": "/wɔːrm/",
+          "example_en": "It is warm inside the house.",
+          "example_id": "Di dalam rumah terasa hangat."
+        },
+        {
+          "en": "sun",
+          "id": "matahari",
+          "phonetic": "/sʌn/",
+          "example_en": "The sun is bright today.",
+          "example_id": "Matahari terang hari ini."
+        },
+        {
+          "en": "rain",
+          "id": "hujan",
+          "phonetic": "/reɪn/",
+          "example_en": "The rain is heavy.",
+          "example_id": "Hujannya deras."
+        },
+        {
+          "en": "snow",
+          "id": "salju",
+          "phonetic": "/snoʊ/",
+          "example_en": "The snow is white.",
+          "example_id": "Saljunya putih."
+        },
+        {
+          "en": "season",
+          "id": "musim",
+          "phonetic": "/ˈsiːzn/",
+          "example_en": "What is your favorite season?",
+          "example_id": "Apa musim kesukaanmu?"
+        },
+        {
+          "en": "temperature",
+          "id": "suhu",
+          "phonetic": "/ˈtemprətʃər/",
+          "example_en": "What's the temperature today?",
+          "example_id": "Berapa suhu hari ini?"
+        },
+        {
+          "en": "degree",
+          "id": "derajat",
+          "phonetic": "/dɪˈɡriː/",
+          "example_en": "It is 30 degrees.",
+          "example_id": "Suhu 30 derajat."
+        },
+        {
+          "en": "outside",
+          "id": "di luar",
+          "phonetic": "/ˌaʊtˈsaɪd/",
+          "example_en": "Is it cold outside?",
+          "example_id": "Dingin di luar?"
+        },
+        {
+          "en": "today",
+          "id": "hari ini",
+          "phonetic": "/təˈdeɪ/",
+          "example_en": "Today is sunny.",
+          "example_id": "Hari ini cerah."
+        },
+        {
+          "en": "tomorrow",
+          "id": "besok",
+          "phonetic": "/təˈmɒroʊ/",
+          "example_en": "Will it rain tomorrow?",
+          "example_id": "Akan hujan besok?"
+        },
+        {
+          "en": "will",
+          "id": "akan",
+          "phonetic": "/wɪl/",
+          "example_en": "It will rain in the afternoon.",
+          "example_id": "Akan hujan di sore hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill pertanyaan**: Guru menyebut situasi (pagi hari/mau keluar/mau piknik), siswa memilih pertanyaan cuaca yang tepat.\n2. **Pair work**: Siswa A bertanya 4 pertanyaan cuaca, siswa B menjawab. Tukar peran setelah selesai.\n3. **Fill-in-the-blank**: Lengkapi — (a) How is the ___ today? (b) ___ it cold outside? (c) ___ it rain today? (d) What's the ___ like?\n4. **Role play 'Travel planner'**: Siswa A merencanakan liburan, siswa B jadi agen cuaca — tanyakan 5 hal tentang cuaca di destinasi.\n5. **Error correction**: Perbaiki — 'How weather?', 'What weather like?', 'Is rain today?', 'What temperature?'",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Good morning, Sinta. How is the weather today?",
+          "id": "Selamat pagi, Sinta. Bagaimana cuaca hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is cloudy and windy today, teacher.",
+          "id": "Hari ini berawan dan berangin, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is it cold outside?",
+          "id": "Dingin di luar?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, it isn't cold. It's about 26 degrees.",
+          "id": "Tidak dingin. Sekitar 26 derajat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Will it rain today?",
+          "id": "Akan hujan hari ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I think it will rain in the afternoon. There are dark clouds.",
+          "id": "Ya, saya rasa akan hujan sore. Ada awan gelap."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Should I bring an umbrella?",
+          "id": "Saya sebaiknya bawa payung?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, you should. The rain can be heavy.",
+          "id": "Ya, sebaiknya. Hujannya bisa deras."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's the weather like in your hometown?",
+          "id": "Bagaimana cuaca di kampung halamanmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In my hometown, it is usually sunny in the morning and rainy in the afternoon.",
+          "id": "Di kampung saya, biasanya cerah pagi dan hujan sore."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does it rain a lot there?",
+          "id": "Sering hujan di sana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, it rains almost every day during the rainy season.",
+          "id": "Ya, hujan hampir setiap hari di musim hujan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What's the temperature in summer here?",
+          "id": "Berapa suhu di musim panas di sini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In summer, it is about 32 to 35 degrees. Very hot.",
+          "id": "Di musim panas, sekitar 32 sampai 35 derajat. Sangat panas."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And in winter? What's the temperature?",
+          "id": "Dan di musim dingin? Berapa suhunya?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In Indonesia, we don't have winter. But at night, it can be 22 degrees.",
+          "id": "Di Indonesia, tidak ada musim dingin. Tapi malam, bisa 22 derajat."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's right. What's the weather like in Japan?",
+          "id": "Betul. Bagaimana cuaca di Jepang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "In Japan, winter is very cold. It snows. The temperature is below zero.",
+          "id": "Di Jepang, musim dingin sangat dingin. Turun salju. Suhu di bawah nol."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Wow, very interesting. Thank you, Sinta!",
+          "id": "Wah, menarik. Terima kasih, Sinta!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar berbagai cara menanyakan cuaca: *How is the weather?*, *Is it cold outside?*, *Will it rain today?*, dan *What's the temperature?*. Kita tahu sekarang banyak pertanyaan yang bisa dipakai sesuai konteks. Ingat, jangan bilang 'How weather?' — yang benar *How is the weather?*. Sebelum tutup, dua pertanyaan: bagaimana menanyakan cuaca hari ini? Bagaimana menanyakan apakah akan hujan? Untuk pekerjaan rumah, buatlah dialog pendek (8-10 baris) antara kamu dan teman yang membicarakan cuaca, lengkap dengan pertanyaan dan jawaban. Ini pelajaran terakhir modul Cuaca. Minggu depan kita mulai modul baru: Pakaian dan Warna. Sampai jumpa!",
+      "instructions": "Rangkum 6 pertanyaan cuaca di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR dialog 8-10 baris dan umumkan modul baru minggu depan."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "a1-l14",
+  "course_id": "english-a1",
+  "module_title": "Keluarga",
+  "level": "A1",
+  "title": "Posesif: Dua Pola Utama",
+  "subtitle": "Kata ganti milik dan apostrof-S ('s)",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menggunakan kata ganti milik (my, your, his, her) untuk keluarga",
+    "Membentuk posesif dengan apostrof-S ('s) untuk nama orang",
+    "Memahami bahwa apostrof menempel pada pemilik, bukan benda"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi! Kemarin kita belajar kosakata keluarga extended. Hari ini kita akan belajar posesif: dua pola utama untuk menyatakan milik dalam bahasa Inggris. Pernahkah kalian bingung, harusnya 'my father's car' atau 'the car of my father'? Itu yang akan kita selesaikan. Tujuan kita: kalian bisa menyatakan milik dengan dua pola yang benar. Kita mulai dari teori dua pola posesif, kosakata, latihan, lalu rangkuman. Siap? Mari mulai!",
+      "instructions": "Sapa dan tunjukkan benda kelas (buku, pulpen) lalu tanya: 'Whose book is this?'. Tulis dua pola di papan: 'my father's car' dan 'the car of my father'. Perkenalkan tujuan kelas."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Posesif: Dua Pola Utama\n\nBahasa Inggris punya dua pola utama untuk menyatakan milik (posesif): pola **'s** (apostrophe-s) dan pola **of**.\n\n### Pola 1: 's (apostrophe-s) — untuk orang/hewan\n\nPola ini dipakai untuk menyatakan milik **orang atau hewan**.\n\n**Struktur:** pemilik + 's + benda\n\n| Contoh | Arti |\n|---|---|\n| my father's car | mobil ayah saya |\n| my mother's bag | tas ibu saya |\n| Andi's book | buku Andi |\n| the cat's tail | ekor kucing |\n| John's sister | saudara perempuan John |\n\n**Aturan 's:**\n- Tambahkan **'s** setelah nama orang atau kata benda yang berakhir huruf biasa.\n  - *Sarah + 's = Sarah's*\n- Untuk nama yang berakhir **s**, tetap tambahkan **'s** (Sarah James's book) atau cukup **'** (James' book) — keduanya benar.\n- Untuk **jamak** yang sudah berakhir s (the boys), tambahkan hanya **'** (the boys' books).\n\n### Pola 2: of — untuk benda/konsep abstrak\n\nPola ini lebih sering dipakai untuk menyatakan milik **benda atau konsep abstrak**.\n\n**Struktur:** the + benda + of + pemilik\n\n| Contoh | Arti |\n|---|---|\n| the door of the car | pintu mobil itu |\n| the title of the book | judul buku itu |\n| the end of the movie | akhir film itu |\n| the color of the sky | warna langit |\n\n### Kapan Pakai Pola Mana?\n\n- **Pola 's** untuk **manusia/hewan**: *my father's car*, *Andi's book*.\n- **Pola of** untuk **benda/konsep abstrak**: *the title of the book*, *the end of the day*.\n- Kadang kedua pola bisa dipakai untuk manusia, tetapi **'s lebih natural**: *my father's car* lebih natural daripada *the car of my father*.\n\n### Contoh Lengkap\n\n- *This is my sister's bag.* — Ini tas kakak perempuan saya.\n- *That is the teacher's book.* — Itu buku guru.\n- *The roof of the house is red.* — Atap rumah itu merah.\n- *Andi's brother is tall.* — Saudara laki-laki Andi tinggi.\n\n### Mini-Dialog Contoh\n\n**Dialog 1:**\n- A: Whose book is this?\n- B: It's Andi's book.\n- A: And this bag?\n- B: That's Sarah's bag.\n\n**Dialog 2:**\n- A: What color is your father's car?\n- B: It's blue.\n- A: And your mother's car?\n- B: She doesn't have a car. She has a motorbike.\n\n> **Hindari:** Jangan menulis 'my fathers car' (tanpa apostrof) — harusnya *my father's car*. Jangan pakai *of* untuk manusia: *the car of my father* tidak salah tapi kaku — pakai *my father's car*. Jangan tertukar posisi: 'father's my car' salah — harusnya *my father's car*.\n\n### Cara Mengucapkan\n\n- **'s** dibaca /ɪz/ setelah huruf s, z, sh, ch: *Chris's* /krɪsɪz/, *boss's* /bɒsɪz/\n- **'s** dibaca /z/ setelah huruf bersuara: *John's* /dʒɒnz/, *Sarah's* /ˈserəz/\n- **'s** dibaca /s/ setelah huruf tak bersuara: *Mark's* /mɑːrks/\n\n### Tips\n\n1. Untuk manusia/hewan, pakai pola 's: *my father's car*.\n2. Untuk benda/konsep abstrak, pakai pola of: *the title of the book*.\n3. Jangan lupa apostrof (') — itu pembeda 'milik' dari 'jamak'.",
+      "key_points": [
+        "Pola 1: pemilik + 's + benda (untuk manusia/hewan)",
+        "Pola 2: the + benda + of + pemilik (untuk benda/konsep)",
+        "my father's car = mobil ayah saya (pola 's)",
+        "the title of the book = judul buku itu (pola of)",
+        "Untuk nama berakhir s, tambahkan 's atau ' (James's/James')",
+        "Untuk jamak berakhir s, tambahkan hanya ' (the boys' books)",
+        "Jangan lupa apostrof — pembeda 'milik' dari 'jamak'",
+        "Pola 's lebih natural untuk manusia daripada pola of"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "family",
+          "id": "keluarga",
+          "phonetic": "/ˈfæməli/",
+          "example_en": "This is my family.",
+          "example_id": "Ini keluarga saya."
+        },
+        {
+          "en": "father",
+          "id": "ayah",
+          "phonetic": "/ˈfɑːðər/",
+          "example_en": "My father is a doctor.",
+          "example_id": "Ayah saya seorang dokter."
+        },
+        {
+          "en": "mother",
+          "id": "ibu",
+          "phonetic": "/ˈmʌðər/",
+          "example_en": "My mother is a teacher.",
+          "example_id": "Ibu saya seorang guru."
+        },
+        {
+          "en": "brother",
+          "id": "saudara laki-laki",
+          "phonetic": "/ˈbrʌðər/",
+          "example_en": "I have one brother.",
+          "example_id": "Saya punya satu saudara laki-laki."
+        },
+        {
+          "en": "sister",
+          "id": "saudara perempuan",
+          "phonetic": "/ˈsɪstər/",
+          "example_en": "My sister is younger.",
+          "example_id": "Kakak perempuan saya lebih muda."
+        },
+        {
+          "en": "parents",
+          "id": "orang tua",
+          "phonetic": "/ˈperənts/",
+          "example_en": "My parents are kind.",
+          "example_id": "Orang tua saya baik."
+        },
+        {
+          "en": "uncle",
+          "id": "paman",
+          "phonetic": "/ˈʌŋkl/",
+          "example_en": "My uncle lives in Jakarta.",
+          "example_id": "Paman saya tinggal di Jakarta."
+        },
+        {
+          "en": "aunt",
+          "id": "bibi",
+          "phonetic": "/ænt/",
+          "example_en": "My aunt is funny.",
+          "example_id": "Bibi saya lucu."
+        },
+        {
+          "en": "grandfather",
+          "id": "kakek",
+          "phonetic": "/ˈɡrænfɑːðər/",
+          "example_en": "My grandfather is 70.",
+          "example_id": "Kakek saya berumur 70 tahun."
+        },
+        {
+          "en": "grandmother",
+          "id": "nenek",
+          "phonetic": "/ˈɡrænmʌðər/",
+          "example_en": "My grandmother cooks well.",
+          "example_id": "Nenek saya masak enak."
+        },
+        {
+          "en": "cousin",
+          "id": "sepupu",
+          "phonetic": "/ˈkʌzn/",
+          "example_en": "My cousin is my age.",
+          "example_id": "Sepupu saya sebaya dengan saya."
+        },
+        {
+          "en": "son",
+          "id": "putra",
+          "phonetic": "/sʌn/",
+          "example_en": "He is my son.",
+          "example_id": "Dia putra saya."
+        },
+        {
+          "en": "daughter",
+          "id": "putri",
+          "phonetic": "/ˈdɔːtər/",
+          "example_en": "She is my daughter.",
+          "example_id": "Dia putri saya."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "Lakukan 5 latihan berurutan. (1) **Drill:** murid mengulang pola 's dengan beberapa contoh (Sarah's book, my father's car) 2x. (2) **Konversi pola:** guru menyebut 'mobil ayah saya', murid membuat dua versi (my father's car / the car of my father). (3) **Isian:** 'This is ___ book. (Andi) That is the title ___ the book.' (4) **Role play:** dua murid saling bertanya tentang milik keluarga ('Whose bag is this? It's my mother's bag.'). (5) **Koreksi:** tulis di papan 'my fathers car' (tanpa apostrof) dan 'the book of Andi' (kurang natural), minta murid memperbaiki.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Whose book is this?",
+          "id": "Buku siapa ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It's Andi's book.",
+          "id": "Itu buku Andi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "And this bag?",
+          "id": "Dan tas ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "That's Sarah's bag.",
+          "id": "Itu tas Sarah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What color is your father's car?",
+          "id": "Warni apa mobil ayahmu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "My father's car is blue.",
+          "id": "Mobil ayah saya biru."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about your mother's car?",
+          "id": "Bagaimana dengan mobil ibumu?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "She doesn't have a car. It's my uncle's motorbike.",
+          "id": "Dia tidak punya mobil. Itu motor paman saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What is the title of this book?",
+          "id": "Apa judul buku ini?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "The title of the book is 'Family Stories'.",
+          "id": "Judul buku ini 'Family Stories'."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Mantap! Hari ini kita belajar dua pola posesif: 's untuk manusia/hewan (my father's car) dan of untuk benda/konsep (the title of the book). Yang paling penting: jangan lupa apostrof, dan untuk manusia pola 's lebih natural daripada of. Pertanyaan untuk kalian: bagaimana menyatakan 'mobil ayah saya' dengan dua pola? Dan kapan memakai of? Untuk PR, tulis 10 kalimat menyatakan milik menggunakan kedua pola. Besok kita akan belajar menyatakan jumlah saudara dengan have/has. Sampai jumpa!",
+      "instructions": "Rangkum dua pola posesif. Tanyakan 2 pertanyaan pemahaman. Tulis PR di papan. Tutup dengan 'See you tomorrow!'"
+    }
+  ]
+}

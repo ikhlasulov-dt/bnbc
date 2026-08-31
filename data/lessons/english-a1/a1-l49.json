@@ -1,0 +1,309 @@
+{
+  "id": "a1-l49",
+  "course_id": "english-a1",
+  "module_title": "Hobi",
+  "level": "A1",
+  "title": "Kata Keterangan Frekuensi",
+  "subtitle": "always, usually, often, sometimes, never",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan enam kata keterangan frekuensi",
+    "Menempatkan kata keterangan sebelum kata kerja utama",
+    "Menjelaskan seberapa sering suatu hobi dilakukan"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Apa kabar? Mari kita ingat pelajaran kemarin tentang bentuk negatif dan pertanyaan. Coba, siapa yang bisa kasih contoh 'Do you like ___ing?' Bagus. Hari ini kita akan belajar kata keterangan frekuensi — kata yang menunjukkan seberapa sering kita melakukan sesuatu. Coba pikirkan: seberapa sering kalian bermain sepak bola? Setiap hari? Kadang-kadang? Tidak pernah? Dalam bahasa Inggris, ada lima kata keterangan frekuensi yang penting: *always* (selalu), *usually* (biasanya), *often* (sering), *sometimes* (kadang-kadang), *never* (tidak pernah). Rencana: kita pelajari urutan frekuensi, posisi kata di kalimat, dan pakai untuk membicarakan kebiasaan kita. Ayo mulai!",
+      "instructions": "Gambar garis di papan dari 0% sampai 100%. Letakkan lima kata: never (0%), sometimes, often, usually, always (100%). Minta siswa menempatkan kegiatan mereka sendiri di garis itu."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Lima Kata Keterangan Frekuensi\n\n| Inggris | Indonesia | Persentase |\n|---|---|---|\n| always | selalu | 100% |\n| usually | biasanya | 80-90% |\n| often | sering | 60-70% |\n| sometimes | kadang-kadang | 30-50% |\n| never | tidak pernah | 0% |\n\n## Posisi dalam Kalimat\n\nKata keterangan frekuensi diletakkan **sebelum kata kerja utama**:\n\n- I **always** play football.\n- She **usually** reads books.\n- We **often** swim on Sunday.\n- They **sometimes** cook dinner.\n- He **never** runs in the morning.\n\n## Pengecualian: kata kerja 'be'\n\nUntuk kata kerja *be* (am, is, are), keterangan frekuensi diletakkan **setelah**:\n\n- I am **always** happy.\n- She is **usually** kind.\n- They are **often** late.\n- He is **never** sad.\n\n## Pertanyaan dan Negatif\n\nDalam pertanyaan dan negatif, keterangan tetap **sebelum kata kerja utama**:\n\n- Do you **always** play football?\n- She doesn't **usually** read books.\n- Do they **often** swim?\n- He doesn't **never** (salah!) — pakai *He never* (positif).\n\n## Contoh Lengkap tentang Hobi\n\n- I **always** read before sleeping.\n- My brother **usually** plays badminton on Saturday.\n- We **often** dance at parties.\n- My sister **sometimes** sings in the shower.\n- My father **never** cooks. He hates cooking.\n\n## Mini-Dialog\n\n**A:** Do you always play football?\n\n**B:** No, I usually play on Sunday.\n\n**A:** Does your sister often dance?\n\n**B:** Yes, she always dances on Saturday.\n\n**A:** Do you never swim?\n\n**B:** I sometimes swim in the summer.\n\n> **Hindari:** meletakkan keterangan di akhir kalimat seperti 'I play football always'. Yang benar: *I always play football*. Hindari 'He doesn't never' — gunakan satu kata: *He never*.",
+      "key_points": [
+        "always = selalu (100%), usually = biasanya (80-90%)",
+        "often = sering (60-70%), sometimes = kadang-kadang (30-50%)",
+        "never = tidak pernah (0%)",
+        "Posisi: SEBELUM kata kerja utama (I always play)",
+        "Pengecualian: SETELAH kata kerja be (I am always happy)",
+        "Pertanyaan: Do you always ___? Yes, I do / No, I don't",
+        "Jangan pakai 'doesn't never' — pakai 'never' saja",
+        "Urutan frekuensi: always > usually > often > sometimes > never"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "hobby",
+          "id": "hobi",
+          "phonetic": "/ˈhɒbi/",
+          "example_en": "My hobby is reading.",
+          "example_id": "Hobi saya membaca."
+        },
+        {
+          "en": "reading",
+          "id": "membaca",
+          "phonetic": "/ˈriːdɪŋ/",
+          "example_en": "I love reading story books.",
+          "example_id": "Saya suka membaca buku cerita."
+        },
+        {
+          "en": "swimming",
+          "id": "berenang",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "example_en": "Swimming is fun.",
+          "example_id": "Berenang itu menyenangkan."
+        },
+        {
+          "en": "drawing",
+          "id": "menggambar",
+          "phonetic": "/ˈdrɔːɪŋ/",
+          "example_en": "She likes drawing flowers.",
+          "example_id": "Dia suka menggambar bunga."
+        },
+        {
+          "en": "singing",
+          "id": "bernyanyi",
+          "phonetic": "/ˈsɪŋɪŋ/",
+          "example_en": "Singing makes me happy.",
+          "example_id": "Bernyanyi membuat saya bahagia."
+        },
+        {
+          "en": "dancing",
+          "id": "menari",
+          "phonetic": "/ˈdænsɪŋ/",
+          "example_en": "They are dancing together.",
+          "example_id": "Mereka menari bersama."
+        },
+        {
+          "en": "cooking",
+          "id": "memasak",
+          "phonetic": "/ˈkʊkɪŋ/",
+          "example_en": "Cooking is my hobby.",
+          "example_id": "Memasak adalah hobi saya."
+        },
+        {
+          "en": "football",
+          "id": "sepak bola",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "example_en": "We play football on Sunday.",
+          "example_id": "Kami bermain sepak bola pada hari Minggu."
+        },
+        {
+          "en": "basketball",
+          "id": "bola basket",
+          "phonetic": "/ˈbæskɪtbɔːl/",
+          "example_en": "He likes basketball.",
+          "example_id": "Dia suka bola basket."
+        },
+        {
+          "en": "badminton",
+          "id": "bulu tangkis",
+          "phonetic": "/ˈbædmɪntən/",
+          "example_en": "Badminton is popular here.",
+          "example_id": "Bulu tangkis populer di sini."
+        },
+        {
+          "en": "cycling",
+          "id": "bersepeda",
+          "phonetic": "/ˈsaɪklɪŋ/",
+          "example_en": "Cycling is good exercise.",
+          "example_id": "Bersepeda adalah olahraga yang baik."
+        },
+        {
+          "en": "running",
+          "id": "berlari",
+          "phonetic": "/ˈrʌnɪŋ/",
+          "example_en": "Running is tiring for me.",
+          "example_id": "Berlari melelahkan bagi saya."
+        },
+        {
+          "en": "music",
+          "id": "musik",
+          "phonetic": "/ˈmjuːzɪk/",
+          "example_en": "I listen to music every day.",
+          "example_id": "Saya mendengarkan musik setiap hari."
+        },
+        {
+          "en": "always",
+          "id": "selalu",
+          "phonetic": "/ˈɔːlweɪz/",
+          "example_en": "I always brush my teeth.",
+          "example_id": "Saya selalu gosok gigi."
+        },
+        {
+          "en": "usually",
+          "id": "biasanya",
+          "phonetic": "/ˈjuːʒuəli/",
+          "example_en": "I usually wake up at 6.",
+          "example_id": "Saya biasanya bangun jam 6."
+        },
+        {
+          "en": "often",
+          "id": "sering",
+          "phonetic": "/ˈɒfn/",
+          "example_en": "We often play together.",
+          "example_id": "Kami sering bermain bersama."
+        },
+        {
+          "en": "sometimes",
+          "id": "kadang-kadang",
+          "phonetic": "/ˈsʌmtaɪmz/",
+          "example_en": "I sometimes read at night.",
+          "example_id": "Saya kadang baca malam."
+        },
+        {
+          "en": "never",
+          "id": "tidak pernah",
+          "phonetic": "/ˈnevər/",
+          "example_en": "I never eat late.",
+          "example_id": "Saya tidak pernah makan larut."
+        },
+        {
+          "en": "every day",
+          "id": "setiap hari",
+          "phonetic": "/ˈevri deɪ/",
+          "example_en": "I study every day.",
+          "example_id": "Saya belajar setiap hari."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill urutan**: Guru menyebut persentase (50%, 100%, 0%, 70%), siswa menjawab kata keterangan yang sesuai.\n2. **Pair work survey**: Tanyakan ke pasangan 'How often do you ___?' untuk 5 hobi — minta jawaban dengan keterangan frekuensi.\n3. **Fill-in-the-blank**: Lengkapi — (a) I ___ play football on Sunday (selalu). (b) She ___ reads at night (kadang). (c) He is ___ late (sering). (d) We ___ cook dinner (biasanya).\n4. **Role play 'My routine'**: Siswa bercerita tentang rutinitas hobi mereka dengan menggunakan 5 kata keterangan dalam 5 kalimat.\n5. **Error correction**: Perbaiki — 'I play always football', 'She doesn't never swim', 'He is always late every day', 'I swim never'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Andi. Do you always play football?",
+          "id": "Hai, Andi. Kamu selalu bermain sepak bola?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I usually play on Sunday morning.",
+          "id": "Tidak, saya biasanya main Minggu pagi."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "How often do you swim?",
+          "id": "Seberapa sering kamu berenang?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I sometimes swim on Saturday with my family.",
+          "id": "Saya kadang berenang Sabtu dengan keluarga."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you often read books?",
+          "id": "Kamu sering baca buku?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I always read before sleeping. I love reading.",
+          "id": "Ya, saya selalu baca sebelum tidur. Saya suka membaca."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your sister often dance?",
+          "id": "Kakakmu sering menari?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, she always dances on Saturday evening with friends.",
+          "id": "Ya, dia selalu menari Sabtu malam dengan teman."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you never run in the morning?",
+          "id": "Kamu tidak pernah berlari pagi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, I never run. I hate running. It's too tiring.",
+          "id": "Tidak pernah. Saya benci berlari. Terlalu melelahkan."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Does your brother usually cook?",
+          "id": "Kakakmu biasanya memasak?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "No, he never cooks. My mother always cooks for us.",
+          "id": "Tidak, tidak pernah. Ibu saya selalu masak untuk kami."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do your parents often play sports?",
+          "id": "Orang tuamu sering berolahraga?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sometimes. They usually walk in the park on Sunday.",
+          "id": "Kadang. Mereka biasanya jalan di taman hari Minggu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about cycling? Do you usually cycle?",
+          "id": "Kalau bersepeda? Kamu biasanya bersepeda?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I often cycle to school. It's good exercise.",
+          "id": "Ya, saya sering bersepeda ke sekolah. Olahraga bagus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you always sing in the shower?",
+          "id": "Kamu selalu bernyanyi di kamar mandi?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Sometimes! But not always. My voice is not good.",
+          "id": "Kadang! Tapi tidak selalu. Suara saya tidak bagus."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "That's OK. Singing is fun, not a competition.",
+          "id": "Tidak apa-apa. Bernyanyi itu menyenangkan, bukan lomba."
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "You're right, teacher. I will sing more often!",
+          "id": "Benar, Bu. Saya akan bernyanyi lebih sering!"
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar lima kata keterangan frekuensi: always, usually, often, sometimes, dan never. Kita tahu sekarang posisinya: SEBELUM kata kerja utama, tetapi SETELAH kata kerja *be*. Contoh: *I always play football* dan *I am always happy*. Sebelum tutup, dua pertanyaan: seberapa sering kamu bermain sepak bola? Bagaimana mengatakan 'Saya tidak pernah berlari' dalam bahasa Inggris? Untuk pekerjaan rumah, tulislah 10 kalimat tentang hobi kamu dan keluarga dengan menggunakan kelima kata keterangan frekuensi (masing-masing 2 kalimat). Besok kita akan belajar cara menanyakan hobi orang lain: *What is your hobby?* dan *What do you do in your free time?*. Sampai jumpa!",
+      "instructions": "Rangkum lima kata keterangan di papan dengan garis persentase. Tanyakan dua pertanyaan pemahaman. Berikan PR 10 kalimat dan sampaikan topik besok."
+    }
+  ]
+}

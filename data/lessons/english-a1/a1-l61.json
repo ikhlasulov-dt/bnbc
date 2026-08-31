@@ -1,0 +1,289 @@
+{
+  "id": "a1-l61",
+  "course_id": "english-a1",
+  "module_title": "Belanja",
+  "level": "A1",
+  "title": "Kosakata Toko dan Uang",
+  "subtitle": "shop, price, money, cheap, expensive",
+  "duration_minutes": 60,
+  "objectives": [
+    "Menyebutkan kosakata toko dan uang dalam bahasa Inggris",
+    "Membedakan cheap dan expensive",
+    "Mengenal kata kerja buy dan pay"
+  ],
+  "stages": [
+    {
+      "name": "Pembuka",
+      "minutes": 5,
+      "teacher_script": "Selamat pagi, anak-anak! Hari ini kita mulai modul baru: Belanja. Sebelum masuk, mari kita ingat modul kemarin tentang Pakaian. Siapa yang masih ingat, 'kemeja' bahasa Inggrisnya apa? Bagus, shirt. Sekarang coba, siapa yang pernah ikut orang tua ke pasar atau ke minimarket? Apa yang kalian lihat? Ada toko, ada harga, ada uang, ada kasir. Semua itu punya nama dalam bahasa Inggris. Hari ini kita akan belajar kosakata toko dan uang: shop, price, money, cheap, expensive, dan lainnya. Rencana: kita kenal 12-15 kosakata belanja, pakai dalam kalimat sederhana, dan latih pelafalan. Ayo mulai!",
+      "instructions": "Tulis di papan: shop, price, money, cheap, expensive. Beri ilustrasi sederhana. Minta siswa menyebut satu hal yang mereka lihat di toko atau pasar."
+    },
+    {
+      "name": "Teori",
+      "minutes": 20,
+      "content": "## Kosakata Toko dan Uang\n\n| Inggris | Indonesia | Contoh |\n|---|---|---|\n| shop | toko | I go to the shop. |\n| market | pasar | We buy fish at the market. |\n| supermarket | pasar swalayan | The supermarket is big. |\n| mall | pusat perbelanjaan | We walk in the mall. |\n| price | harga | The price is high. |\n| money | uang | I have some money. |\n| dollar | dolar | One dollar is about 15,000 rupiah. |\n| rupiah | rupiah | I pay with rupiah. |\n| cheap | murah | The shirt is cheap. |\n| expensive | mahal | The car is expensive. |\n| buy | membeli | I buy a book. |\n| sell | menjual | They sell fruit. |\n| pay | membayar | I pay at the cashier. |\n| change | kembalian | Here is your change. |\n| receipt | struk | Keep your receipt. |\n| cashier | kasir | The cashier is friendly. |\n\n## Pola Kalimat\n\n- **I buy ___ at the ___.** → Saya membeli ___ di ___.\n  - I buy bread at the supermarket.\n- **The price is ___.** → Harganya ___.\n  - The price is 20,000 rupiah.\n- **It is cheap / expensive.** → Ini murah / mahal.\n  - This bag is cheap. That one is expensive.\n\n## Toko Khusus\n\n| Inggris | Indonesia |\n|---|---|\n| bookshop | toko buku |\n| bakery | toko roti |\n| shoe shop | toko sepatu |\n| clothes shop | toko pakaian |\n| grocery store | toko sembako |\n\n## Mini-Dialog\n\n**A:** Where do you buy bread?\n\n**B:** I buy bread at the bakery near my house.\n\n**A:** Is it cheap?\n\n**B:** Yes, it's cheap. Only 10,000 rupiah.\n\n**A:** Where do you pay?\n\n**B:** I pay at the cashier. She gives me a receipt.\n\n> **Hindari:** mengatakan 'the price is cheap' — yang benar *it is cheap* (harganya murah = the item is cheap). Hindari juga 'I buy in the shop' (lebih natural: *at the shop*).",
+      "key_points": [
+        "shop = toko, market = pasar, supermarket = pasar swalayan",
+        "price = harga, money = uang",
+        "cheap = murah, expensive = mahal",
+        "buy = membeli, sell = menjual, pay = membayar",
+        "change = kembalian, receipt = struk, cashier = kasir",
+        "I buy ___ at the ___ = Saya membeli ___ di ___",
+        "The price is ___ = Harganya ___",
+        "It is cheap/expensive (bukan 'the price is cheap')"
+      ]
+    },
+    {
+      "name": "Kosakata",
+      "minutes": 10,
+      "vocabulary": [
+        {
+          "en": "shop",
+          "id": "toko",
+          "phonetic": "/ʃɒp/",
+          "example_en": "The shop is open today.",
+          "example_id": "Toko buka hari ini."
+        },
+        {
+          "en": "market",
+          "id": "pasar",
+          "phonetic": "/ˈmɑːrkɪt/",
+          "example_en": "We go to the market.",
+          "example_id": "Kami pergi ke pasar."
+        },
+        {
+          "en": "price",
+          "id": "harga",
+          "phonetic": "/praɪs/",
+          "example_en": "What is the price?",
+          "example_id": "Berapa harganya?"
+        },
+        {
+          "en": "money",
+          "id": "uang",
+          "phonetic": "/ˈmʌni/",
+          "example_en": "I have some money.",
+          "example_id": "Saya punya uang."
+        },
+        {
+          "en": "dollar",
+          "id": "dolar",
+          "phonetic": "/ˈdɒlər/",
+          "example_en": "It costs five dollars.",
+          "example_id": "Harganya lima dolar."
+        },
+        {
+          "en": "cheap",
+          "id": "murah",
+          "phonetic": "/tʃiːp/",
+          "example_en": "This bag is cheap.",
+          "example_id": "Tas ini murah."
+        },
+        {
+          "en": "expensive",
+          "id": "mahal",
+          "phonetic": "/ɪkˈspensɪv/",
+          "example_en": "The watch is expensive.",
+          "example_id": "Jam itu mahal."
+        },
+        {
+          "en": "buy",
+          "id": "membeli",
+          "phonetic": "/baɪ/",
+          "example_en": "I buy apples at the market.",
+          "example_id": "Saya membeli apel di pasar."
+        },
+        {
+          "en": "sell",
+          "id": "menjual",
+          "phonetic": "/sel/",
+          "example_en": "They sell fresh fruit.",
+          "example_id": "Mereka menjual buah segar."
+        },
+        {
+          "en": "pay",
+          "id": "membayar",
+          "phonetic": "/peɪ/",
+          "example_en": "I pay at the cashier.",
+          "example_id": "Saya membayar di kasir."
+        },
+        {
+          "en": "change",
+          "id": "kembalian",
+          "phonetic": "/tʃeɪndʒ/",
+          "example_en": "Here is your change.",
+          "example_id": "Ini kembalian Anda."
+        },
+        {
+          "en": "receipt",
+          "id": "struk",
+          "phonetic": "/rɪˈsiːt/",
+          "example_en": "Can I have the receipt?",
+          "example_id": "Boleh saya minta struknya?"
+        },
+        {
+          "en": "cashier",
+          "id": "kasir",
+          "phonetic": "/kæˈʃɪr/",
+          "example_en": "The cashier is friendly.",
+          "example_id": "Kasirnya ramah."
+        },
+        {
+          "en": "supermarket",
+          "id": "pasar swalayan",
+          "phonetic": "/ˈsuːpərmɑːrkɪt/",
+          "example_en": "I shop at the supermarket.",
+          "example_id": "Saya belanja di pasar swalayan."
+        },
+        {
+          "en": "mall",
+          "id": "pusat perbelanjaan",
+          "phonetic": "/mɔːl/",
+          "example_en": "We walk at the mall on Sunday.",
+          "example_id": "Kami jalan-jalan di mal hari Minggu."
+        },
+        {
+          "en": "rupiah",
+          "id": "rupiah",
+          "phonetic": "/ˈruːpiɑː/",
+          "example_en": "I pay with rupiah.",
+          "example_id": "Saya membayar dengan rupiah."
+        },
+        {
+          "en": "bakery",
+          "id": "toko roti",
+          "phonetic": "/ˈbeɪkəri/",
+          "example_en": "The bread at the bakery is fresh.",
+          "example_id": "Roti di toko roti segar."
+        }
+      ]
+    },
+    {
+      "name": "Latihan",
+      "minutes": 20,
+      "instructions": "1. **Drill tunjuk-gambar**: Guru menunjuk gambar toko (toko buku, pasar, minimarket), siswa menyebut nama Inggrisnya. Lakukan 12 putaran.\n2. **Pair work 'Where do you buy ___?'**: Tanyakan ke pasangan 8 item (roti, buku, sepatu, dll) — pasangan menjawab dengan jenis toko.\n3. **Fill-in-the-blank**: Lengkapi — (a) I buy bread ___ the bakery. (b) The ___ is 20,000 rupiah. (c) This bag is ___. (d) I ___ at the cashier.\n4. **Role play 'Shop owner'**: Siswa A jadi pemilik toko, B jadi pelanggan — diskusikan 5 item dengan harga murah atau mahal.\n5. **Error correction**: Perbaiki — 'I buy in shop', 'the price is cheap', 'I pay on the cashier', 'The change is 5 dollar'.",
+      "dialogue": [
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Hi, Sinta. Where do you buy bread?",
+          "id": "Hai, Sinta. Kamu beli roti di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I buy bread at the bakery near my house, teacher.",
+          "id": "Saya beli roti di toko roti dekat rumah, Bu."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is the bread cheap or expensive?",
+          "id": "Rotinya murah atau mahal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "It is cheap. Only 10,000 rupiah for one loaf.",
+          "id": "Murah. Hanya 10,000 rupiah untuk satu roti."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you buy vegetables?",
+          "id": "Kamu beli sayur di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I buy vegetables at the market with my mother.",
+          "id": "Saya beli sayur di pasar dengan ibu saya."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Is the market cheaper than the supermarket?",
+          "id": "Pasar lebih murah dari supermarket?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, the market is usually cheaper. The prices are lower.",
+          "id": "Ya, pasar biasanya lebih murah. Harganya lebih rendah."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you buy your shoes?",
+          "id": "Kamu beli sepatu di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I buy shoes at the shoe shop in the mall.",
+          "id": "Saya beli sepatu di toko sepatu di mal."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Are they expensive?",
+          "id": "Mahal?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Some are expensive, but some are cheap. I always look at the price.",
+          "id": "Ada yang mahal, ada yang murah. Saya selalu lihat harga."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Where do you pay?",
+          "id": "Kamu bayar di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I pay at the cashier. The cashier gives me a receipt.",
+          "id": "Saya bayar di kasir. Kasir memberi struk."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Do you get change sometimes?",
+          "id": "Kadang dapat kembalian?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "Yes, I get change when I pay with bigger money.",
+          "id": "Ya, saya dapat kembalian kalau bayar dengan uang lebih besar."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "What about books? Where do you buy them?",
+          "id": "Kalau buku? Beli di mana?"
+        },
+        {
+          "speaker": "Student",
+          "speaker_color": "#d97706",
+          "en": "I buy books at the bookshop. They sell many story books.",
+          "id": "Saya beli buku di toko buku. Mereka jual banyak buku cerita."
+        },
+        {
+          "speaker": "Teacher",
+          "speaker_color": "#2D4A6F",
+          "en": "Great! You know a lot about shopping.",
+          "id": "Bagus! Kamu tahu banyak tentang belanja."
+        }
+      ]
+    },
+    {
+      "name": "Penutup",
+      "minutes": 5,
+      "teacher_script": "Bagus sekali, anak-anak! Hari ini kita belajar kosakata toko dan uang: shop, market, price, money, cheap, expensive, buy, sell, pay, change, receipt, dan cashier. Kita tahu sekarang cara membicarakan tempat belanja dan harga. Ingat, *It is cheap* (bukan *the price is cheap*). Sebelum tutup, dua pertanyaan: di mana kamu biasanya beli roti? Bagaimana mengatakan 'Harganya murah' dalam bahasa Inggris? Untuk pekerjaan rumah, tulislah 8 kalimat tentang tempat belanja yang kamu kunjungi — sebutkan item yang dibeli dan apakah murah atau mahal. Besok kita akan belajar menyebutkan harga dalam bahasa Inggris. Sampai jumpa!",
+      "instructions": "Rangkum kosakata toko di papan. Tanyakan dua pertanyaan pemahaman. Berikan PR 8 kalimat tempat belanja dan sampaikan topik besok."
+    }
+  ]
+}
